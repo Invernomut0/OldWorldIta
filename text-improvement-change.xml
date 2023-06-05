@@ -383,62 +383,62 @@
   <Entry>
     <zType>TEXT_IMPROVEMENT_MONASTERY_ZOROASTRIANISM</zType>
     <en-US>icon(RELIGION_ZOROASTRIANISM)Zoroastrian Monastery~a icon(RELIGION_ZOROASTRIANISM)Zoroastrian Monastery~icon(RELIGION_ZOROASTRIANISM)Zoroastrian Monasteries</en-US>
-    <it-IT>icon(RELIGION_ZOROASTRIANISM)Monastero zoroastriano~un'icona(RELIGION_ZOROASTRIANISM)Monastero zoroastriano~icon(RELIGION_ZOROASTRIANISM)Monasteri zoroastriani</it-IT>
+    <it-IT>icon(RELIGION_ZOROASTRIANISM)Monastero zoroastriano~un'icon(RELIGION_ZOROASTRIANISM)Monastero zoroastriano~icon(RELIGION_ZOROASTRIANISM)Monasteri zoroastriani</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_MONASTERY_JUDAISM</zType>
     <en-US>icon(RELIGION_JUDAISM)Jewish Monastery~a icon(RELIGION_JUDAISM)Jewish Monastery~icon(RELIGION_JUDAISM)Jewish Monasteries</en-US>
-    <it-IT>icon(RELIGION_JUDAISM)Monastero ebraico~un'icona(RELIGION_JUDAISM)Monastero ebraico~icon(RELIGION_JUDAISM)Monasteri ebraici</it-IT>
+    <it-IT>icon(RELIGION_JUDAISM)Monastero ebraico~un'icon(RELIGION_JUDAISM)Monastero ebraico~icon(RELIGION_JUDAISM)Monasteri ebraici</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_MONASTERY_CHRISTIANITY</zType>
     <en-US>icon(RELIGION_CHRISTIANITY)Christian Monastery~a icon(RELIGION_CHRISTIANITY)Christian Monastery~icon(RELIGION_CHRISTIANITY)Christian Monasteries</en-US>
-    <it-IT>icon(RELIGION_CHRISTIANITY)Monastero cristiano~un'icona(RELIGION_CHRISTIANITY)Monastero cristiano~icon(RELIGION_CHRISTIANITY)Monasteri cristiani</it-IT>
+    <it-IT>icon(RELIGION_CHRISTIANITY)Monastero cristiano~un'icon(RELIGION_CHRISTIANITY)Monastero cristiano~icon(RELIGION_CHRISTIANITY)Monasteri cristiani</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_MONASTERY_MANICHAEISM</zType>
     <en-US>icon(RELIGION_MANICHAEISM)Manichaean Monastery~a icon(RELIGION_MANICHAEISM)Manichaean Monastery~icon(RELIGION_MANICHAEISM)Manichaean Monasteries</en-US>
-    <it-IT>icon(RELIGION_MANICHAEISM)Monastero manicheo~un'icona(RELIGION_MANICHAEISM)Monastero manicheo~icon(RELIGION_MANICHAEISM)Monasteri manichei</it-IT>
+    <it-IT>icon(RELIGION_MANICHAEISM)Monastero manicheo~un'icon(RELIGION_MANICHAEISM)Monastero manicheo~icon(RELIGION_MANICHAEISM)Monasteri manichei</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_TEMPLE_ZOROASTRIANISM</zType>
     <en-US>icon(RELIGION_ZOROASTRIANISM)Zoroastrian Temple~a icon(RELIGION_ZOROASTRIANISM)Zoroastrian Temple~icon(RELIGION_ZOROASTRIANISM)Zoroastrian Temples</en-US>
-    <it-IT>icon(RELIGION_ZOROASTRIANISM)Tempio zoroastriano~un'icona(RELIGION_ZOROASTRIANISM)Tempio zoroastriano~icon(RELIGION_ZOROASTRIANISM)Templi zoroastriani</it-IT>
+    <it-IT>icon(RELIGION_ZOROASTRIANISM)Tempio zoroastriano~un'icon(RELIGION_ZOROASTRIANISM)Tempio zoroastriano~icon(RELIGION_ZOROASTRIANISM)Templi zoroastriani</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_TEMPLE_JUDAISM</zType>
     <en-US>icon(RELIGION_JUDAISM)Jewish Temple~a icon(RELIGION_JUDAISM)Jewish Temple~icon(RELIGION_JUDAISM)Jewish Temples</en-US>
-    <it-IT>icon(RELIGION_JUDAISM)Tempio ebraico~un'icona(RELIGION_JUDAISM) Tempio ebraico~icon(RELIGION_JUDAISM)Templi ebraici</it-IT>
+    <it-IT>icon(RELIGION_JUDAISM)Tempio ebraico~un'icon(RELIGION_JUDAISM) Tempio ebraico~icon(RELIGION_JUDAISM)Templi ebraici</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_TEMPLE_CHRISTIANITY</zType>
     <en-US>icon(RELIGION_CHRISTIANITY)Christian Temple~a icon(RELIGION_CHRISTIANITY)Christian Temple~icon(RELIGION_CHRISTIANITY)Christian Temples</en-US>
-    <it-IT>icon(RELIGION_CHRISTIANITY)Tempio cristiano~un'icona(RELIGION_CHRISTIANITY)Tempio cristiano~icon(RELIGION_CHRISTIANITY)Templi cristiani</it-IT>
+    <it-IT>icon(RELIGION_CHRISTIANITY)Tempio cristiano~un'icon(RELIGION_CHRISTIANITY)Tempio cristiano~icon(RELIGION_CHRISTIANITY)Templi cristiani</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_TEMPLE_MANICHAEISM</zType>
     <en-US>icon(RELIGION_MANICHAEISM)Manichaean Temple~a icon(RELIGION_MANICHAEISM)Manichaean Temple~icon(RELIGION_MANICHAEISM)Manichaean Temples</en-US>
-    <it-IT>icon(RELIGION_MANICHAEISM)Tempio manicheo~un'icona(RELIGION_MANICHAEISM)Tempio manicheo~icon(RELIGION_MANICHAEISM)Templi manichei</it-IT>
+    <it-IT>icon(RELIGION_MANICHAEISM)Tempio manicheo~un'icon(RELIGION_MANICHAEISM)Tempio manicheo~icon(RELIGION_MANICHAEISM)Templi manichei</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_CATHEDRAL_ZOROASTRIANISM</zType>
     <en-US>icon(RELIGION_ZOROASTRIANISM)Zoroastrian Cathedral~a icon(RELIGION_ZOROASTRIANISM)Zoroastrian Cathedral~icon(RELIGION_ZOROASTRIANISM)Zoroastrian Cathedrals</en-US>
-    <it-IT>icon(RELIGION_ZOROASTRIANISM)Cattedrale zoroastriana~icona(RELIGION_ZOROASTRIANISM)Cattedrale zoroastriana~icon(RELIGION_ZOROASTRIANISM)Cattedrali zoroastriane</it-IT>
+    <it-IT>icon(RELIGION_ZOROASTRIANISM)Cattedrale zoroastriana~icon(RELIGION_ZOROASTRIANISM)Cattedrale zoroastriana~icon(RELIGION_ZOROASTRIANISM)Cattedrali zoroastriane</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_CATHEDRAL_JUDAISM</zType>
     <en-US>icon(RELIGION_JUDAISM)Jewish Cathedral~a icon(RELIGION_JUDAISM)Jewish Cathedral~icon(RELIGION_JUDAISM)Jewish Cathedrals</en-US>
-    <it-IT>icon(RELIGION_JUDAISM)Cattedrale ebraica~un'icona(RELIGION_JUDAISM)Cattedrale ebraica~icon(RELIGION_JUDAISM)Cattedrali ebraiche</it-IT>
+    <it-IT>icon(RELIGION_JUDAISM)Cattedrale ebraica~un'icon(RELIGION_JUDAISM)Cattedrale ebraica~icon(RELIGION_JUDAISM)Cattedrali ebraiche</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_CATHEDRAL_CHRISTIANITY</zType>
     <en-US>icon(RELIGION_CHRISTIANITY)Christian Cathedral~a icon(RELIGION_CHRISTIANITY)Christian Cathedral~icon(RELIGION_CHRISTIANITY)Christian Cathedrals</en-US>
-    <it-IT>icon(RELIGION_CHRISTIANITY)Cattedrale cristiana~un'icona(RELIGION_CHRISTIANITY)Cattedrale cristiana~icon(RELIGION_CHRISTIANITY)Cattedrali cristiane</it-IT>
+    <it-IT>icon(RELIGION_CHRISTIANITY)Cattedrale cristiana~un'icon(RELIGION_CHRISTIANITY)Cattedrale cristiana~icon(RELIGION_CHRISTIANITY)Cattedrali cristiane</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_CATHEDRAL_MANICHAEISM</zType>
     <en-US>icon(RELIGION_MANICHAEISM)Manichaean Cathedral~a icon(RELIGION_MANICHAEISM)Manichaean Cathedral~icon(RELIGION_MANICHAEISM)Manichaean Cathedrals</en-US>
-    <it-IT>icon(RELIGION_MANICHAEISM)Cattedrale manichea~un'icona(RELIGION_MANICHAEISM)Cattedrale manichea~icon(RELIGION_MANICHAEISM)Cattedrali manichee</it-IT>
+    <it-IT>icon(RELIGION_MANICHAEISM)Cattedrale manichea~un'icon(RELIGION_MANICHAEISM)Cattedrale manichea~icon(RELIGION_MANICHAEISM)Cattedrali manichee</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>

@@ -258,7 +258,7 @@
   <Entry>
     <zType>TEXT_HINT_52</zType>
     <en-US>If your Leader is not able to complete an link(CONCEPT_AMBITION) before death, it becomes a link(CONCEPT_LEGACY). Legacies count towards an link(VICTORY_AMBITION,2) but are worth less  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</en-US>
-    <it-IT>Se il Leader non è in grado di completare un link(CONCEPT_AMBITION) prima della morte, questo diventa un link(CONCEPT_LEGACY). I lasciti contano per un link(VICTORY_AMBITION,2), ma valgono meno icona(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</it-IT>
+    <it-IT>Se il Leader non è in grado di completare un link(CONCEPT_AMBITION) prima della morte, questo diventa un link(CONCEPT_LEGACY). I lasciti contano per un link(VICTORY_AMBITION,2), ma valgono meno icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_53</zType>
@@ -358,7 +358,7 @@
   <Entry>
     <zType>TEXT_HINT_72</zType>
     <en-US>icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) is obtained by achieving link(CONCEPT_AMBITION,2) and acquiring better link(CONCEPT_COGNOMEN,2) (such as link(COGNOMEN_GREAT)). Higher link(CONCEPT_LEGITIMACY) improves link(CONCEPT_OPINION_FAMILY,2) and produces more link(YIELD_ORDERS,1) per turn.</en-US>
-    <it-IT>icona(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) si ottiene raggiungendo link(CONCEPT_AMBITION,2) e acquisendo una migliore link(CONCEPT_COGNOMEN,2) (such as link(COGNOMEN_GREAT)). Un link(CONCEPT_LEGITIMACY) più alto migliora il link(CONCEPT_OPINION_FAMILY,2) e produce più link(YIELD_ORDERS,1) per turno.</it-IT>
+    <it-IT>icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) si ottiene raggiungendo link(CONCEPT_AMBITION,2) e acquisendo una migliore link(CONCEPT_COGNOMEN,2) (such as link(COGNOMEN_GREAT)). Un link(CONCEPT_LEGITIMACY) più alto migliora il link(CONCEPT_OPINION_FAMILY,2) e produce più link(YIELD_ORDERS,1) per turno.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_73</zType>
@@ -403,12 +403,12 @@
   <Entry>
     <zType>TEXT_HINT_81</zType>
     <en-US>You can check the link(CONCEPT_TRADE_NETWORK) overlay with the icon(MAP_OVERLAY_NETWORK) button beside the mini-map or by holding the hotkey(HOTKEY_SHOW_TRADE_NETWORK) key.</en-US>
-    <it-IT>È possibile controllare la sovrapposizione link(CONCEPT_TRADE_NETWORK) con il tasto icona(MAP_OVERLAY_NETWORK) accanto alla mini-mappa o tenendo premuto il tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK).</it-IT>
+    <it-IT>È possibile controllare la sovrapposizione link(CONCEPT_TRADE_NETWORK) con il tasto icon(MAP_OVERLAY_NETWORK) accanto alla mini-mappa o tenendo premuto il tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_82</zType>
     <en-US>You can verify that a City is connected to your link(CONCEPT_TRADE_NETWORK) by checking that the icon(CONNECTED) icon is displayed under its City banner.</en-US>
-    <it-IT>Si può verificare che una città sia collegata al proprio link(CONCEPT_TRADE_NETWORK) controllando che l'icona(CONNECTED) sia visualizzata sotto il banner della città.</it-IT>
+    <it-IT>Si può verificare che una città sia collegata al proprio link(CONCEPT_TRADE_NETWORK) controllando che icon(CONNECTED) sia visualizzata sotto il banner della città.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_83</zType>

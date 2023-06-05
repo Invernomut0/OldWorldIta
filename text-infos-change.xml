@@ -8890,7 +8890,7 @@ VICTORY
 icon(bullet) To win, eliminate the Barbarian Horde.</en-US>
     <it-IT>Lotta per sopravvivere come unica nazione civilizzata in un mondo pieno di tribù invidiose e diffidenti.
 SETUP (click "Show Options" above)
-icona(bullet) Scegliere la Nazione e la Mappa.
+icon(bullet) Scegliere la Nazione e la Mappa.
 icon(bullet) Scegliere l'Organizzazione Tribale e il Tempo della Rivolta.
 icon(bullet) I livelli di difficoltà e di aggressività tribale più elevati aumentano le dimensioni dell'orda.
 REGOLE DELLO SCENARIO
@@ -8902,7 +8902,7 @@ icon(bullet) Le unità non link(TRIBE_RAIDERS,1) Le unità tribali non vengono a
 icon(bullet) Durante la rivolta, i link(TRIBE_RAIDERS) guadagnano un livello extra di link(CONCEPT_FATIGUE).
 CAMBIAMENTI RISPETTO AL GIOCO PREDEFINITO
 icon(bullet) I link(CONCEPT_TRIBE,2) diventano sempre più ostili con l'avanzare del gioco.
-icona(bullet) Le unità tribali possono attaccare dalle tessere acqua adiacenti al loro bersaglio.
+icon(bullet) Le unità tribali possono attaccare dalle tessere acqua adiacenti al loro bersaglio.
 icon(bullet) Il ruolo di link(COUNCIL_AMBASSADOR) è stato rimosso e link(DIPLOMACY_TRUCE), link(DIPLOMACY_PEACE) e link(CONCEPT_ALLIANCE_TRIBE) non possono essere negoziati con link(CONCEPT_TRIBE,2). Gli eventi correlati sono stati disabilitati.
 icon(bullet) Alcuni bonus famiglia sono stati modificati:
    icon(bullet) Invece di link(UNIT_CARAVAN,2), il seggio link(FAMILYCLASS_TRADERS,1) riceve link(YIELD_ORDERS) extra; allo stesso modo, i link(FAMILYCLASS_TRADERS) ricevono link(YIELD_ORDERS) invece di link(YIELD_MONEY) dalle frazioni.

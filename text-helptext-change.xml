@@ -253,7 +253,7 @@
   <Entry>
     <zType>TEXT_HELPTEXT_INDENTED_BULLET_LIST_BUILDER</zType>
     <en-US>{0}{br}   icon(bullet){1}</en-US>
-    <it-IT>{0}{br} icona(bullet){1}</it-IT>
+    <it-IT>{0}{br} icon(bullet){1}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER_FIRST</zType>
@@ -588,7 +588,7 @@
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_LEGITIMACY</zType>
     <en-US>icon(YIELD_LEGITIMACY){true_0::link(CONCEPT_LEGITIMACY)}</en-US>
-    <it-IT>icona(YIELD_LEGITIMACY){true_0::link(CONCEPT_LEGITIMACY)}</it-IT>
+    <it-IT>icon(YIELD_LEGITIMACY){true_0::link(CONCEPT_LEGITIMACY)}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_COURTIER</zType>
@@ -603,12 +603,12 @@
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_PILLAGED_ICON</zType>
     <en-US>icon(PILLAGED_WORLD){0_turns}</en-US>
-    <it-IT>icona(PILLAGED_WORLD){0_turns}</it-IT>
+    <it-IT>icon(PILLAGED_WORLD){0_turns}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_UPGRADE_ICON</zType>
     <en-US>icon(UPGRADE_IMPROVEMENT){0_turns}</en-US>
-    <it-IT>icona(UPGRADE_IMPROVEMENT){0_turns}</it-IT>
+    <it-IT>icon(UPGRADE_IMPROVEMENT){0_turns}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_LAUNCH_OFFENSIVE</zType>
@@ -928,27 +928,27 @@
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_GT_LT</zType>
     <en-US>{0} {true_3:is:are} icon(GreaterThan) {1} and icon(LessThan) {2}</en-US>
-    <it-IT>{0} {true_3:is:are} icona{2} {1} e icona(LessThan) {2}</it-IT>
+    <it-IT>{0} {true_3:is:are} icona{2} {1} e icon(LessThan) {2}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_GT</zType>
     <en-US>{0} {true_2:is:are} icon(GreaterThan) {1}</en-US>
-    <it-IT>{0} {true_2:is:are} icona(GreaterThan) {1}</it-IT>
+    <it-IT>{0} {true_2:is:are} icon(GreaterThan) {1}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_LT</zType>
     <en-US>{0} {true_2:is:are} icon(LessThan) {1}</en-US>
-    <it-IT>{0} {true_2:is:are} icona(LessThan) {1}</it-IT>
+    <it-IT>{0} {true_2:is:are} icon(LessThan) {1}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_GT_TWO</zType>
     <en-US>{0_character} {true_3:is:are} icon(GreaterThan) {1_value} {2_ratingType}</en-US>
-    <it-IT>{0_character} {true_3:is:are} icona(GreaterThan) {1_value} {2_ratingType}</it-IT>
+    <it-IT>{0_character} {true_3:is:are} icon(GreaterThan) {1_value} {2_ratingType}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_LT_TWO</zType>
     <en-US>{0_character} {true_3:is:are} icon(LessThan) {1_value} {2_ratingType}</en-US>
-    <it-IT>{0_character} {true_3:is:are} icona(LessThan) {1_value} {2_ratingType}</it-IT>
+    <it-IT>{0_character} {true_3:is:are} icon(LessThan) {1_value} {2_ratingType}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_OF_STATE_RELIGION</zType>
@@ -963,7 +963,7 @@
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_AGE_RANGE</zType>
     <en-US>{0_character} is Age icon(GreaterThan) {1_minAge} and icon(LessThan) {2_maxAge}</en-US>
-    <it-IT>{0_character} è l'icona Age(GreaterThan) {1_minAge} e icona(LessThan) {2_maxAge}</it-IT>
+    <it-IT>{0_character} è l'icona Age(GreaterThan) {1_minAge} e icon(LessThan) {2_maxAge}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_AGE_GT</zType>
@@ -998,12 +998,12 @@
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MIN_CULTURE</zType>
     <en-US>{0_city} has icon(GreaterThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</en-US>
-    <it-IT>{0_city} ha l'icona(GreaterThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</it-IT>
+    <it-IT>{0_city} ha icon(GreaterThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MAX_CULTURE</zType>
     <en-US>{0_city} has icon(LessThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</en-US>
-    <it-IT>{0_city} ha l'icona(LessThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</it-IT>
+    <it-IT>{0_city} ha icon(LessThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_PROJECT</zType>
@@ -2706,12 +2706,12 @@
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE</zType>
     <en-US>Removes the  icon(COOLDOWN_ATTACK)Attack Cooldown of Adjacent Units and gives {0_yield} for each one</en-US>
-    <it-IT>Rimuove l'icona(COOLDOWN_ATTACK)Attacco Cooldown delle Unità adiacenti e dà {0_yield} per ciascuna di esse.</it-IT>
+    <it-IT>Rimuove icon(COOLDOWN_ATTACK)Attacco Cooldown delle Unità adiacenti e dà {0_yield} per ciascuna di esse.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE_CONCEPT</zType>
     <en-US>Removes the  icon(COOLDOWN_ATTACK)Attack Cooldown of Adjacent Units and gives link(YIELD_ORDERS,1) for each</en-US>
-    <it-IT>Rimuove l'icona(COOLDOWN_ATTACK)Attacco Cooldown delle unità adiacenti e dà link(YIELD_ORDERS,1) per ogni unità che si trova in una zona di conflitto.</it-IT>
+    <it-IT>Rimuove icon(COOLDOWN_ATTACK)Attacco Cooldown delle unità adiacenti e dà link(YIELD_ORDERS,1) per ogni unità che si trova in una zona di conflitto.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE_NOT_YOUR_TURN</zType>
@@ -3128,8 +3128,8 @@ Se si muore senza un erede, la partita finisce!</it-IT>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_LEGITIMACY</zType>
     <en-US>Higher  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) grants you additional link(YIELD_ORDERS,1) and improves your standing with your link(CONCEPT_FAMILY,2). Keeping your  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) high is important for controlling a large Nation!
 icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) comes from achieving link(CONCEPT_AMBITION,2) and acquiring better link(CONCEPT_COGNOMEN,2) (such as link(COGNOMEN_GREAT)). There are also Events that can raise your  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</en-US>
-    <it-IT>Un'icona(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) più alta vi garantisce ulteriori link(YIELD_ORDERS,1) e migliora la vostra posizione con i vostri link(CONCEPT_FAMILY,2). Mantenere alta l'icona(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) è importante per controllare una grande Nazione!
-L'icona(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) deriva dal raggiungimento di link(CONCEPT_AMBITION,2) e dall'acquisizione di link(CONCEPT_COGNOMEN,2) migliori. (such as link(COGNOMEN_GREAT)). Ci sono anche eventi che possono aumentare la vostra icona(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</it-IT>
+    <it-IT>Un'icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) più alta vi garantisce ulteriori link(YIELD_ORDERS,1) e migliora la vostra posizione con i vostri link(CONCEPT_FAMILY,2). Mantenere alta icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) è importante per controllare una grande Nazione!
+icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) deriva dal raggiungimento di link(CONCEPT_AMBITION,2) e dall'acquisizione di link(CONCEPT_COGNOMEN,2) migliori. (such as link(COGNOMEN_GREAT)). Ci sono anche eventi che possono aumentare la vostra icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_INHERITANCE_LAWS</zType>
@@ -3151,7 +3151,7 @@ I primi quattro Eredi nella link(CONCEPT_SUCCESSION) sono membri della vostra li
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_AMBITION</zType>
     <en-US>link(CONCEPT_AMBITION,2) are goals that your link(CONCEPT_FAMILY,2) would like for you to pursue, and completing them will grant you, and all of your descendants, a permanent boost to  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).
 Completing an link(CONCEPT_AMBITION) unlocks a new one and completing ten is one way to win via link(VICTORY_AMBITION,1), so always do your best to fulfill your current link(CONCEPT_AMBITION,2).</en-US>
-    <it-IT>I link(CONCEPT_AMBITION,2) sono obiettivi che il vostro link(CONCEPT_FAMILY,2) vorrebbe che perseguiste, e completarli garantirà a voi, e a tutti i vostri discendenti, una spinta permanente all'icona(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).
+    <it-IT>I link(CONCEPT_AMBITION,2) sono obiettivi che il vostro link(CONCEPT_FAMILY,2) vorrebbe che perseguiste, e completarli garantirà a voi, e a tutti i vostri discendenti, una spinta permanente alicon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).
 Completare un link(CONCEPT_AMBITION) ne sblocca uno nuovo e completarne dieci è un modo per vincere un link(VICTORY_AMBITION,1), quindi fate sempre del vostro meglio per portare a termine il vostro link(CONCEPT_AMBITION,2) attuale.</it-IT>
   </Entry>
   <Entry>
@@ -3159,9 +3159,9 @@ Completare un link(CONCEPT_AMBITION) ne sblocca uno nuovo e completarne dieci è
     <en-US>Any Nation with an link(TRAIT_ORATOR_ARCHETYPE) Leader may recruit link(CONCEPT_MERCENARY,2) from link(CONCEPT_TRIBE,2) at the cost of some  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY). As link(NATION_CARTHAGE), you can hire link(CONCEPT_MERCENARY,2) in exchange for {YIELD_MONEY}link(YIELD_MONEY) instead. You may not hire link(TRIBE_RAIDERS).
 link(CONCEPT_MERCENARY,2) have no associated link(CONCEPT_FAMILY) and int(CONSUMPTION_MERCENARY_MODIFIER)% higher consumption costs. They cannot receive link(CONCEPT_PROMOTION,2), but they can be link(CONCEPT_UPGRADE,3). They may only be led by a link(CONCEPT_GENERAL) from their own Ethnicity.
 To recruit a link(CONCEPT_MERCENARY) Unit, simply select a Tribal Unit that is not garrisoning a Tribal Site, and click the Recruit link(CONCEPT_MERCENARY)  icon(RECRUIT_MERCENARY) button, or the Hire link(CONCEPT_MERCENARY)icon(HIRE_MERCENARY) button as link(NATION_CARTHAGE), in the Unit Panel on the left.</en-US>
-    <it-IT>Ogni Nazione con un link(TRAIT_ORATOR_ARCHETYPE) Il Leader può reclutare link(CONCEPT_MERCENARY,2) da link(CONCEPT_TRIBE,2) al costo di qualche icona(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY). Come link(NATION_CARTHAGE), può assumere link(CONCEPT_MERCENARY,2) in cambio di {YIELD_MONEY}link(YIELD_MONEY). Non si può assumere link(TRIBE_RAIDERS).
+    <it-IT>Ogni Nazione con un link(TRAIT_ORATOR_ARCHETYPE) Il Leader può reclutare link(CONCEPT_MERCENARY,2) da link(CONCEPT_TRIBE,2) al costo di qualche icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY). Come link(NATION_CARTHAGE), può assumere link(CONCEPT_MERCENARY,2) in cambio di {YIELD_MONEY}link(YIELD_MONEY). Non si può assumere link(TRIBE_RAIDERS).
 I link(CONCEPT_MERCENARY,2) non hanno link(CONCEPT_FAMILY) associati e hanno costi di consumo int(CONSUMPTION_MERCENARY_MODIFIER)% più alti. Non possono ricevere link(CONCEPT_PROMOTION,2), ma possono essere link(CONCEPT_UPGRADE,3). Possono essere guidati solo da un link(CONCEPT_GENERAL) della propria Etnia.
-Per reclutare un'unità link(CONCEPT_MERCENARY) è sufficiente selezionare un'unità tribale che non sta presidiando un sito tribale e fare clic sul pulsante Recluta link(CONCEPT_MERCENARY) icona(RECRUIT_MERCENARY), o sul pulsante Assumi link(CONCEPT_MERCENARY) icona(HIRE_MERCENARY) come link(NATION_CARTHAGE), nel pannello delle unità a sinistra.</it-IT>
+Per reclutare un'unità link(CONCEPT_MERCENARY) è sufficiente selezionare un'unità tribale che non sta presidiando un sito tribale e fare clic sul pulsante Recluta link(CONCEPT_MERCENARY) icon(RECRUIT_MERCENARY), o sul pulsante Assumi link(CONCEPT_MERCENARY) icon(HIRE_MERCENARY) come link(NATION_CARTHAGE), nel pannello delle unità a sinistra.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_TRAINING_IMPROVEMENT</zType>
@@ -3175,7 +3175,7 @@ Le unità link(CONCEPT_PROMOTION,2) sono più economiche per le unità con più 
     <en-US>A link(CONCEPT_SPECIALIST) can be recruited from the City Screen by clicking the  icon(specialist_border) Button on an link(CONCEPT_IMPROVEMENT) so long as you have an available link(CONCEPT_CITIZEN). Although link(CONCEPT_IMPROVEMENT,2) are already productive on their own, a link(CONCEPT_SPECIALIST) can boost their yields.
 link(CONCEPT_LUXURY) are special resources that you acquire by adding a Rural link(CONCEPT_SPECIALIST) to an link(CONCEPT_IMPROVEMENT) on the correct Tile. For example, you access link(RESOURCE_GEM) by adding a link(SPECIALIST_MINER) link(CONCEPT_SPECIALIST) to a link(IMPROVEMENT_MINE) link(CONCEPT_IMPROVEMENT) on a link(RESOURCE_GEM) Tile.
 Urban link(CONCEPT_SPECIALIST,2), like link(SPECIALISTCLASS_ACOLYTE,1) and link(SPECIALISTCLASS_OFFICER,1), can be trained to higher levels for further yield boosts.</en-US>
-    <it-IT>Un link(CONCEPT_SPECIALIST) può essere reclutato dalla Schermata della Città cliccando il pulsante icona(specialist_border) su un link(CONCEPT_IMPROVEMENT), purché si abbia un link(CONCEPT_CITIZEN) disponibile. Anche se i link(CONCEPT_IMPROVEMENT,2) sono già produttivi di per sé, un link(CONCEPT_SPECIALIST) può aumentarne la resa.
+    <it-IT>Un link(CONCEPT_SPECIALIST) può essere reclutato dalla Schermata della Città cliccando il pulsante icon(specialist_border) su un link(CONCEPT_IMPROVEMENT), purché si abbia un link(CONCEPT_CITIZEN) disponibile. Anche se i link(CONCEPT_IMPROVEMENT,2) sono già produttivi di per sé, un link(CONCEPT_SPECIALIST) può aumentarne la resa.
 Le link(CONCEPT_LUXURY) sono risorse speciali che si acquisiscono aggiungendo un link(CONCEPT_SPECIALIST) rurale a un link(CONCEPT_IMPROVEMENT) sulla tessera corretta. Ad esempio, si accede a link(RESOURCE_GEM) aggiungendo un link(SPECIALIST_MINER) link(CONCEPT_SPECIALIST) a un link(IMPROVEMENT_MINE) link(CONCEPT_IMPROVEMENT) su una tessera link(RESOURCE_GEM). su una tessera link(RESOURCE_GEM).
 I link(CONCEPT_SPECIALIST,2) urbani, come i link(SPECIALISTCLASS_ACOLYTE,1) e i link(SPECIALISTCLASS_OFFICER,1), possono essere addestrati a livelli più alti per ottenere ulteriori incrementi di rendimento.</it-IT>
   </Entry>
@@ -3250,7 +3250,7 @@ Le carte Unità gratuite e Bonus non vengono mai riciclate e vengono invece scar
 Once cut down, link(VEGETATION_TREES) take some time to regrow. If you build an link(CONCEPT_IMPROVEMENT) on a link(VEGETATION_TREES) Tile, the link(YIELD_WOOD) is automatically harvested as the land is Cleared, all at the cost of three link(YIELD_ORDERS).
 Eventually, you can research the link(TECH_FORESTRY) Tech to enable the construction of link(IMPROVEMENT_LUMBERMILL,2), which are a more regular and sustainable source of link(YIELD_WOOD). However, they must be built on a link(VEGETATION_TREES) Tile, so don't Cut down all of your forests!
 You can also spend link(YIELD_MONEY,1) to purchase link(YIELD_WOOD,1) directly from the top bar where it shows your current stockpile totals.</en-US>
-    <it-IT>link(UNIT_WORKER,2) può spendere un link(YIELD_ORDERS,3) per abbattere link(VEGETATION_TREES) con il pulsante icona(REMOVE_TREES) nel pannello Azioni a sinistra, e altri due link(YIELD_ORDERS) per ripulire ulteriormente il terreno. Queste azioni raccolgono link(YIELD_WOOD,1) e lo aggiungono alla propria scorta. Non è necessario che la tessera in questione si trovi nel vostro territorio per poter tagliare il link(VEGETATION_TREES) con l'icona(REMOVE_TREES).
+    <it-IT>link(UNIT_WORKER,2) può spendere un link(YIELD_ORDERS,3) per abbattere link(VEGETATION_TREES) con il pulsante icon(REMOVE_TREES) nel pannello Azioni a sinistra, e altri due link(YIELD_ORDERS) per ripulire ulteriormente il terreno. Queste azioni raccolgono link(YIELD_WOOD,1) e lo aggiungono alla propria scorta. Non è necessario che la tessera in questione si trovi nel vostro territorio per poter tagliare il link(VEGETATION_TREES) con icon(REMOVE_TREES).
 Una volta abbattuti, i link(VEGETATION_TREES) impiegano un po' di tempo per ricrescere. Se si costruisce un link(CONCEPT_IMPROVEMENT) su una tessera link(VEGETATION_TREES) il link(YIELD_WOOD) viene automaticamente raccolto quando il terreno viene ripulito, il tutto al costo di tre link(YIELD_ORDERS).
 Alla fine, si può ricercare la link(TECH_FORESTRY) per consentire la costruzione di link(IMPROVEMENT_LUMBERMILL,2), che sono una fonte più regolare e sostenibile di link(YIELD_WOOD). Tuttavia, devono essere costruiti su una tessera link(VEGETATION_TREES) quindi non abbattete tutte le vostre foreste!
 È anche possibile spendere link(YIELD_MONEY,1) per acquistare link(YIELD_WOOD,1) direttamente dalla barra in alto che mostra il totale delle scorte attuali.</it-IT>
@@ -3262,7 +3262,7 @@ link(CONCEPT_ANCHORED,2) comes at the cost of one link(YIELD_ORDERS,3), and puts
 The link(CONCEPT_ANCHORED) status of a link(UNITTRAIT_SHIP) persists until it is moved. link(CONCEPT_ANCHORED,1) a link(UNITTRAIT_SHIP) by pressing the  icon(ANCHOR) button in it's action panel on the left side of the screen while the link(UNITTRAIT_SHIP) Unit is selected.</en-US>
     <it-IT>link(UNITTRAIT_SHIP) Le unità, come le link(UNIT_BIREME), link(UNIT_TRIREME) e link(UNIT_DROMON), possono link(CONCEPT_ANCHORED,1) per consentire alle unità di terra di muoversi sulle tessere acqua. Senza l'aiuto di un link(CONCEPT_ANCHORED) link(UNITTRAIT_SHIP), le Unità di terra possono muoversi solo attraverso le tessere acqua all'interno del territorio della loro Nazione.
 Il link(CONCEPT_ANCHORED,2) ha il costo di un link(YIELD_ORDERS,3) e mette in Cooldown l'unità link(UNITTRAIT_SHIP). e mette l'unità link(UNITTRAIT_SHIP) in Cooldown. Le Unità di terra possono muoversi sull'acqua entro il raggio di movimento dell'Unità link(CONCEPT_ANCHORED) link(UNITTRAIT_SHIP) a partire dal turno successivo a quello in cui il link(UNITTRAIT_SHIP) in questione ha link(CONCEPT_ANCHORED). 
-Lo stato di link(CONCEPT_ANCHORED) di un link(UNITTRAIT_SHIP) persiste finché non viene spostato. {Per spostare un'unità link(CONCEPT_ANCHORED,1), premere il pulsante icona(ANCHOR) nel suo pannello delle azioni sul lato sinistro dello schermo mentre l'unità link(UNITTRAIT_SHIP) è selezionata.} mentre l'unità link(UNITTRAIT_SHIP) è selezionata.</it-IT>
+Lo stato di link(CONCEPT_ANCHORED) di un link(UNITTRAIT_SHIP) persiste finché non viene spostato. {Per spostare un'unità link(CONCEPT_ANCHORED,1), premere il pulsante icon(ANCHOR) nel suo pannello delle azioni sul lato sinistro dello schermo mentre l'unità link(UNITTRAIT_SHIP) è selezionata.} mentre l'unità link(UNITTRAIT_SHIP) è selezionata.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_SECOND_CITY</zType>
@@ -3283,7 +3283,7 @@ Il Paganesimo può essere adottato come link(CONCEPT_STATE_RELIGION) se si appli
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_RALLY_TROOPS</zType>
     <en-US>You can conduct a link(MISSION_RALLY_TROOPS) Mission by clicking the  icon(MISSION_RALLY_TROOPS)  button in the action panel on the left while your Leader is selected. link(MISSION_RALLY_TROOPS) Missions give you the chance to gain some link(YIELD_TRAINING,1), at the cost of a few link(YIELD_ORDERS,1) and some link(YIELD_CIVICS,1). They may also lead to follow up events.</en-US>
-    <it-IT>È possibile condurre una link(MISSION_RALLY_TROOPS) Cliccando sul pulsante con l'icona(MISSION_RALLY_TROOPS) nel pannello delle azioni a sinistra, mentre il Leader è selezionato. link(MISSION_RALLY_TROOPS) Le missioni danno la possibilità di guadagnare qualche link(YIELD_TRAINING,1), al costo di qualche link(YIELD_ORDERS,1) e qualche link(YIELD_CIVICS,1). Possono anche portare a eventi successivi.</it-IT>
+    <it-IT>È possibile condurre una link(MISSION_RALLY_TROOPS) Cliccando sul pulsante con icon(MISSION_RALLY_TROOPS) nel pannello delle azioni a sinistra, mentre il Leader è selezionato. link(MISSION_RALLY_TROOPS) Le missioni danno la possibilità di guadagnare qualche link(YIELD_TRAINING,1), al costo di qualche link(YIELD_ORDERS,1) e qualche link(YIELD_CIVICS,1). Possono anche portare a eventi successivi.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_HOLD_COURT</zType>
@@ -3352,7 +3352,7 @@ The link(TECH_FORESTRY) Tech enables the construction of link(IMPROVEMENT_LUMBER
 La fonte principale di link(YIELD_FOOD) è costituita dalle link(IMPROVEMENT_FARM,2), che sono più fruttuose accanto alle link(CONCEPT_FRESH_WATER) e sui link(TERRAIN_LUSH) terreni. Terreno. Il link(YIELD_FOOD) è necessario per alimentare il link(CONCEPT_POPULATION) e per produrre nuovo link(UNIT_SETTLER,2).
 La fonte primaria di link(YIELD_IRON) è costituita dai link(IMPROVEMENT_MINE,2), che sono più produttivi su link(RESOURCE_ORE) e link(HEIGHT_HILL,2). Il link(YIELD_IRON) è necessario per produrre molti tipi di Unità militari, tra cui il link(UNIT_WARRIOR,2) e il link(UNIT_AXEMAN,2).
 La fonte primaria di link(YIELD_STONE) è link(IMPROVEMENT_QUARRY,2), che sono più produttivi su link(RESOURCE_MARBLE), su link(TERRAIN_ARID) e quando sono adiacenti a link(HEIGHT_MOUNTAIN,2). Il link(YIELD_STONE) è necessario principalmente per costruire link(CONCEPT_IMPROVEMENT,2) come link(IMPROVEMENTCLASS_SHRINE,2) e Città link(CONCEPT_PROJECT,2) come link(PROJECT_WALLS).
-La tecnologia link(TECH_FORESTRY) permette di costruire link(IMPROVEMENT_LUMBERMILL,2) su link(VEGETATION_TREES) per produrre link(YIELD_WOOD). Il link(UNIT_WORKER,2) può anche ridurre il link(VEGETATION_TREES) con l'icona(REMOVE_TREES) nel pannello Azioni. link(YIELD_WOOD) è necessario per costruire Città link(CONCEPT_IMPROVEMENT,2) come link(IMPROVEMENT_BARRACKS), Unità militari come link(UNIT_ARCHER,2) e Unità link(UNITTRAIT_SHIP) come link(UNIT_BIREME,2). Unità come link(UNIT_BIREME,2).</it-IT>
+La tecnologia link(TECH_FORESTRY) permette di costruire link(IMPROVEMENT_LUMBERMILL,2) su link(VEGETATION_TREES) per produrre link(YIELD_WOOD). Il link(UNIT_WORKER,2) può anche ridurre il link(VEGETATION_TREES) con icon(REMOVE_TREES) nel pannello Azioni. link(YIELD_WOOD) è necessario per costruire Città link(CONCEPT_IMPROVEMENT,2) come link(IMPROVEMENT_BARRACKS), Unità militari come link(UNIT_ARCHER,2) e Unità link(UNITTRAIT_SHIP) come link(UNIT_BIREME,2). Unità come link(UNIT_BIREME,2).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_URBAN_YIELDS</zType>
@@ -3444,7 +3444,7 @@ You can conduct an link(MISSION_IMPRISON) Mission by clicking the prison bars  i
     <en-US>A link(IMPROVEMENT_HAMLET) and its upgrades, link(IMPROVEMENT_VILLAGE) and link(IMPROVEMENT_TOWN), will produce extra {YIELD_MONEY}link(YIELD_MONEY) if brought into your link(CONCEPT_TRADE_NETWORK)! Bringing a City into your link(CONCEPT_TRADE_NETWORK) will reduce {YIELD_DISCONTENT}link(YIELD_DISCONTENT) there.
 The link(CONCEPT_TRADE_NETWORK) consists of all Tiles connected to your link(CONCEPT_CAPITAL) City. Cities and link(IMPROVEMENT_HAMLET,2) can be connected with one another via link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) Tiles, and even open water. You can connect a City to its link(IMPROVEMENT_HARBOR) with a link(CONCEPT_ROAD). You can check the link(CONCEPT_TRADE_NETWORK) overlay with the icon(MAP_OVERLAY_NETWORK) button below the mini-map, or the hotkey(HOTKEY_SHOW_TRADE_NETWORK) key, and verify that a City is link(EFFECTCITY_CONNECTED) to the link(CONCEPT_TRADE_NETWORK) by checking that the  icon(CONNECTED) icon is displayed under its City banner.</en-US>
     <it-IT>Un link(IMPROVEMENT_HAMLET) e i suoi potenziamenti, link(IMPROVEMENT_VILLAGE) e link(IMPROVEMENT_TOWN), produrranno {YIELD_MONEY}link(YIELD_MONEY) extra se portati nel vostro link(CONCEPT_TRADE_NETWORK)! Portare una Città nella propria link(CONCEPT_TRADE_NETWORK) ridurrà i {YIELD_DISCONTENT}link(YIELD_DISCONTENT) presenti.
-La link(CONCEPT_TRADE_NETWORK) consiste in tutte le tessere collegate alla vostra link(CONCEPT_CAPITAL) Città. Le città e le link(IMPROVEMENT_HAMLET,2) possono essere collegate tra loro tramite le Tessere link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) e persino le acque libere. È possibile collegare una città al suo link(IMPROVEMENT_HARBOR) con un link(CONCEPT_ROAD). È possibile controllare la sovrapposizione del link(CONCEPT_TRADE_NETWORK) con il pulsante icona(MAP_OVERLAY_NETWORK) sotto la mini-mappa o con il tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK) e verificare che una città sia link(EFFECTCITY_CONNECTED) al link(CONCEPT_TRADE_NETWORK) controllando che l'icona(CONNECTED) sia visualizzata sotto il banner della città.</it-IT>
+La link(CONCEPT_TRADE_NETWORK) consiste in tutte le tessere collegate alla vostra link(CONCEPT_CAPITAL) Città. Le città e le link(IMPROVEMENT_HAMLET,2) possono essere collegate tra loro tramite le Tessere link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) e persino le acque libere. È possibile collegare una città al suo link(IMPROVEMENT_HARBOR) con un link(CONCEPT_ROAD). È possibile controllare la sovrapposizione del link(CONCEPT_TRADE_NETWORK) con il pulsante icon(MAP_OVERLAY_NETWORK) sotto la mini-mappa o con il tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK) e verificare che una città sia link(EFFECTCITY_CONNECTED) al link(CONCEPT_TRADE_NETWORK) controllando che icon(CONNECTED) sia visualizzata sotto il banner della città.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_HARVEST_RESOURCE</zType>
@@ -4056,7 +4056,7 @@ Higher Legitimacy improves link(CONCEPT_OPINION_FAMILY,1) and produces more link
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_COGNOMEN</zType>
     <en-US>A Cognomen is an acquired title that increases the  icon(YIELD_LEGITIMACY)Legitimacy of the Leader, such as link(COGNOMEN_INVINCIBLE), link(COGNOMEN_WISE), and link(COGNOMEN_GREAT). New Cognomens are acquired when the specific stats associated with that Cognomen cross the necessary threshold. For example, one becomes link(COGNOMEN_WISE) by discovering a great number of Technologies. (The threshold increases for each subsequent Leader of a link(CONCEPT_NATION).)</en-US>
-    <it-IT>Un Cognomen è un titolo acquisito che aumenta l'icona(YIELD_LEGITIMACY)Legittimità del Leader, come link(COGNOMEN_INVINCIBLE), link(COGNOMEN_WISE) e link(COGNOMEN_GREAT). I nuovi Cognomen vengono acquisiti quando le statistiche specifiche associate a quel Cognomen superano la soglia necessaria. Ad esempio, si diventa link(COGNOMEN_WISE) scoprendo un gran numero di Tecnologie. (The threshold increases for each subsequent Leader of a link(CONCEPT_NATION).)</it-IT>
+    <it-IT>Un Cognomen è un titolo acquisito che aumenta icon(YIELD_LEGITIMACY)Legittimità del Leader, come link(COGNOMEN_INVINCIBLE), link(COGNOMEN_WISE) e link(COGNOMEN_GREAT). I nuovi Cognomen vengono acquisiti quando le statistiche specifiche associate a quel Cognomen superano la soglia necessaria. Ad esempio, si diventa link(COGNOMEN_WISE) scoprendo un gran numero di Tecnologie. (The threshold increases for each subsequent Leader of a link(CONCEPT_NATION).)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_COMMUNITY_SHORTHAND</zType>
@@ -4238,7 +4238,7 @@ Mercenaries have int(CONSUMPTION_MERCENARY_MODIFIER)% higher consumption costs a
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_OPINION_FAMILY</zType>
     <en-US>link(CONCEPT_FAMILY) Opinion modifies the icon(ATTACKDEFENSE)Strength of their Units and the link(YIELD_CIVICS,1), link(YIELD_TRAINING,1), and link(YIELD_MAINTENANCE,1) of their Cities. Further, a negative Opinion can lead to link(TRIBE_REBELS) spawning near the link(CONCEPT_FAMILY) Cities.</en-US>
-    <it-IT>link(CONCEPT_FAMILY) L'Opinione modifica l'icona(ATTACKDEFENSE)Forza delle loro Unità e le link(YIELD_CIVICS,1), link(YIELD_TRAINING,1) e link(YIELD_MAINTENANCE,1) delle loro Città. Inoltre, un'opinione negativa può portare alla deposizione di link(TRIBE_REBELS) vicino alle città di link(CONCEPT_FAMILY). Città.</it-IT>
+    <it-IT>link(CONCEPT_FAMILY) L'Opinione modifica icon(ATTACKDEFENSE)Forza delle loro Unità e le link(YIELD_CIVICS,1), link(YIELD_TRAINING,1) e link(YIELD_MAINTENANCE,1) delle loro Città. Inoltre, un'opinione negativa può portare alla deposizione di link(TRIBE_REBELS) vicino alle città di link(CONCEPT_FAMILY). Città.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_OPINION_CHARACTER</zType>
@@ -5400,17 +5400,17 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_MOVEMENT</zType>
     <en-US>Movement: {0_value} icon(MOVEMENT)</en-US>
-    <it-IT>Movimento: {0_value} icona(MOVEMENT)</it-IT>
+    <it-IT>Movimento: {0_value} icon(MOVEMENT)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_RANGE</zType>
     <en-US>Range: {0_value} icon(RANGE)</en-US>
-    <it-IT>Intervallo: {0_value} icona(RANGE)</it-IT>
+    <it-IT>Intervallo: {0_value} icon(RANGE)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_RANGE_MIN_MAX</zType>
     <en-US>Range: {0_minRange}-{1_maxRange} icon(RANGE)</en-US>
-    <it-IT>Intervallo: {0_minRange}-{1_maxRange} icona(RANGE)</it-IT>
+    <it-IT>Intervallo: {0_minRange}-{1_maxRange} icon(RANGE)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_BASE_STAT</zType>
@@ -5425,22 +5425,22 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_STRENGTH</zType>
     <en-US>Attack/Defense: {0_value} icon(ATTACKDEFENSE)</en-US>
-    <it-IT>Attacco/Difesa: {0_value} icona(ATTACKDEFENSE)</it-IT>
+    <it-IT>Attacco/Difesa: {0_value} icon(ATTACKDEFENSE)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_ATTACK</zType>
     <en-US>Attack: {0_attackValue} icon(ATTACK)</en-US>
-    <it-IT>Attacco: {0_attackValue} icona(ATTACK)</it-IT>
+    <it-IT>Attacco: {0_attackValue} icon(ATTACK)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_DEFENSE</zType>
     <en-US>Defense: {0_defenseValue} icon(DEFENSE)</en-US>
-    <it-IT>Difesa: {0_defenseValue} icona(DEFENSE)</it-IT>
+    <it-IT>Difesa: {0_defenseValue} icon(DEFENSE)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_CRITICAL</zType>
     <en-US>Critical: {0_criticalPercent} icon(CRITICAL_STRIKE)</en-US>
-    <it-IT>Critico: {0_criticalPercent} icona(CRITICAL_STRIKE)</it-IT>
+    <it-IT>Critico: {0_criticalPercent} icon(CRITICAL_STRIKE)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_FATIGUED</zType>
@@ -5555,7 +5555,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ROAD_MOVEMENT</zType>
     <en-US><![CDATA[<true_1>link(CONCEPT_ROAD) icon(MOVEMENT) Cost: {0_value}<false>{0_value} link(CONCEPT_ROAD) icon(MOVEMENT) Cost<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>link(CONCEPT_ROAD) icona(MOVEMENT) Costo: {0_value}<false>{0_value} link(CONCEPT_ROAD) icona(MOVEMENT) Costo<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>link(CONCEPT_ROAD) icon(MOVEMENT) Costo: {0_value}<false>{0_value} link(CONCEPT_ROAD) icon(MOVEMENT) Costo<finito>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_PILLAGE_YIELD</zType>
@@ -6205,7 +6205,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_LEGITIMACY</zType>
     <en-US>{0_value}  icon(YIELD_LEGITIMACY)Legitimacy</en-US>
-    <it-IT>{0_value} icona(YIELD_LEGITIMACY)Legittimità</it-IT>
+    <it-IT>{0_value} icon(YIELD_LEGITIMACY)Legittimità</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_OPINION_RELIGION</zType>
@@ -6755,7 +6755,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILYCLASS_FAMILY_SEAT_BULLET_LINE_START</zType>
     <en-US>icon(bullet)[link(CONCEPT_FAMILY_SEAT)] {0_cityEffect}</en-US>
-    <it-IT>icona(bullet)[link(CONCEPT_FAMILY_SEAT)] {0_cityEffect}</it-IT>
+    <it-IT>icon(bullet)[link(CONCEPT_FAMILY_SEAT)] {0_cityEffect}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILYCLASS_ON_CITY_FOUNDED_BULLET_LINE_START</zType>
@@ -10040,7 +10040,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_LEGITIMACY</zType>
     <en-US>Requires {0_num}  icon(YIELD_LEGITIMACY)Legitimacy</en-US>
-    <it-IT>Richiede {0_num} icona(YIELD_LEGITIMACY)Legittimità</it-IT>
+    <it-IT>Richiede {0_num} icon(YIELD_LEGITIMACY)Legittimità</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_CITIES</zType>

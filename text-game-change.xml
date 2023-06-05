@@ -1013,7 +1013,7 @@
   <Entry>
     <zType>TEXT_GAME_UNIT_ATTACK_CRITICAL_CHANCE</zType>
     <en-US>icon(CRITICAL_STRIKE) {0_criticalPercent}</en-US>
-    <it-IT>icona(CRITICAL_STRIKE) {0_criticalPercent}</it-IT>
+    <it-IT>icon(CRITICAL_STRIKE) {0_criticalPercent}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_UNIT_ATTACK_DAMAGE</zType>

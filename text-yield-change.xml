@@ -84,7 +84,7 @@ Le famiglie che sono link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS) o lin
   <Entry>
     <zType>TEXT_YIELD_MONEY</zType>
     <en-US>Money~icon(YIELD_MONEY)Money</en-US>
-    <it-IT>Il denaro~icona(YIELD_MONEY)Soldi</it-IT>
+    <it-IT>Il denaro~icon(YIELD_MONEY)Soldi</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_MONEY_HELP</zType>
@@ -104,7 +104,7 @@ Le famiglie che sono link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS) o lin
   <Entry>
     <zType>TEXT_YIELD_ORDERS</zType>
     <en-US>Orders~icon(YIELD_ORDERS)Orders~Order~icon(YIELD_ORDERS)Order</en-US>
-    <it-IT>Ordini~icon(YIELD_ORDERS)Ordini~Ordine~icona(YIELD_ORDERS)Ordine</it-IT>
+    <it-IT>Ordini~icon(YIELD_ORDERS)Ordini~Ordine~icon(YIELD_ORDERS)Ordine</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_ORDERS_HELP</zType>
@@ -124,7 +124,7 @@ Le famiglie che sono link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS) o lin
   <Entry>
     <zType>TEXT_YIELD_IRON</zType>
     <en-US>Iron~icon(YIELD_IRON)Iron</en-US>
-    <it-IT>Ferro~icona(YIELD_IRON)Ferro</it-IT>
+    <it-IT>Ferro~icon(YIELD_IRON)Ferro</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_IRON_HELP</zType>
@@ -134,7 +134,7 @@ Le famiglie che sono link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS) o lin
   <Entry>
     <zType>TEXT_YIELD_STONE</zType>
     <en-US>Stone~icon(YIELD_STONE)Stone</en-US>
-    <it-IT>Pietra~icona(YIELD_STONE)Pietra</it-IT>
+    <it-IT>Pietra~icon(YIELD_STONE)Pietra</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_STONE_HELP</zType>

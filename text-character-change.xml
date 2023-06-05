@@ -448,7 +448,7 @@
   <Entry>
     <zType>TEXT_CHARACTER_DEAD</zType>
     <en-US>icon(DeathSkull) {0_name}</en-US>
-    <it-IT>icona(DeathSkull) {0_name}</it-IT>
+    <it-IT>icon(DeathSkull) {0_name}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_HAS_COGNOMEN</zType>
