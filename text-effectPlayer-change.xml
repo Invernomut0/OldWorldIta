@@ -23,7 +23,7 @@
   <Entry>
     <zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
     <en-US>The Able</en-US>
-    <it-IT>L'Able</it-IT>
+    <it-IT>L'Abile</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_DIFFICULTY_JUST</zType>
@@ -33,12 +33,12 @@
   <Entry>
     <zType>TEXT_EFFECTPLAYER_DIFFICULTY_GOOD</zType>
     <en-US>The Good</en-US>
-    <it-IT>Il bene</it-IT>
+    <it-IT>Il Bene</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_DIFFICULTY_STRONG</zType>
     <en-US>The Strong</en-US>
-    <it-IT>Il forte</it-IT>
+    <it-IT>Il Forte</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_DIFFICULTY_NOBLE</zType>
@@ -48,7 +48,7 @@
   <Entry>
     <zType>TEXT_EFFECTPLAYER_DIFFICULTY_GLORIOUS</zType>
     <en-US>The Glorious</en-US>
-    <it-IT>Il glorioso</it-IT>
+    <it-IT>Il Glorioso</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_DIFFICULTY_MAGNIFICENT</zType>

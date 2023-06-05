@@ -35,9 +35,9 @@ Alla fine, si può ricercare la link(TECH_FORESTRY) per consentire la costruzion
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_FINAL_FAVOR_PLAYER</zType>
     <en-US>At the funeral of {CHARACTER-0}, you are approached by the new {TITLE-1} {CHARACTER-SHORT-1} with tears in {G1:his:her} eyes and steel in {G1:his:her} posture.
-"I shall not beat around the bush. {CHARACTER-SHORT-0} told me that {G0:he:she} owed you a debt. I would see that debt repaid. Will you accept?"</en-US>
+"I shall not beat around the bush. {CHARACTER-SHORT-0} told me that {G0:lui:lei} owed you a debt. I would see that debt repaid. Will you accept?"</en-US>
     <it-IT>Al funerale di {CHARACTER-0}, vi si avvicina il nuovo {TITLE-1} {CHARACTER-SHORT-1} con le lacrime agli occhi e la postura d'acciaio di {G1:his:her}.
-"Non voglio menare il can per l'aia. {CHARACTER-SHORT-0} mi ha detto che {G0:he:she} ha un debito con te. Vorrei che quel debito fosse ripagato. Accetterai?"</it-IT>
+"Non voglio menare il can per l'aia. {CHARACTER-SHORT-0} mi ha detto che {G0:lui:lei} ha un debito con te. Vorrei che quel debito fosse ripagato. Accetterai?"</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_ANTICHRIST</zType>
@@ -55,9 +55,9 @@ Fortunatamente l'informatore è stato ucciso e {CHARACTER-SHORT-0} ha tenuto il 
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_PLAYER_TRUCE</zType>
-    <en-US>A group of riders approaches our front lines, led by an Envoy from {CHARACTER-0}. In respectful terms, {G0:he:she} extends an offer of truce.
+    <en-US>A group of riders approaches our front lines, led by an Envoy from {CHARACTER-0}. In respectful terms, {G0:lui:lei} extends an offer of truce.
 {PLAYER-0} is willing to end the fighting.</en-US>
-    <it-IT>Un gruppo di cavalieri si avvicina alle nostre linee del fronte, guidato da un inviato di {CHARACTER-0}. In termini rispettosi, {G0:he:she} propone una tregua.
+    <it-IT>Un gruppo di cavalieri si avvicina alle nostre linee del fronte, guidato da un inviato di {CHARACTER-0}. In termini rispettosi, {G0:lui:lei} propone una tregua.
 {PLAYER-0} è disposto a porre fine ai combattimenti.</it-IT>
   </Entry>
   <Entry>
@@ -78,8 +78,8 @@ Seguiamo il consiglio di {CHARACTER-1}?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISCIPLINARY_ACTION_OPTION_0</zType>
-    <en-US>{CHARACTER-0} must behave {G0:himself:herself} or be punished!</en-US>
-    <it-IT>{CHARACTER-0} deve comportarsi bene {G0:himself:herself} o essere punito!</it-IT>
+    <en-US>{CHARACTER-0} must behave {G0:se stesso:se stessa} or be punished!</en-US>
+    <it-IT>{CHARACTER-0} deve comportarsi bene {G0:se stesso:se stessa} o essere punito!</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_PROJECT_AUTO_REPAIR</zType>
@@ -394,7 +394,7 @@ link(YIELD_MONEY,1) e link(YIELD_SCIENCE,1) finiscono entrambi direttamente nell
     <en-US>You've built your first link(IMPROVEMENT_HAMLET)! A link(IMPROVEMENT_HAMLET) and its upgrades, link(IMPROVEMENT_VILLAGE) and link(IMPROVEMENT_TOWN), will produce extra link(YIELD_MONEY,1) if brought into your link(CONCEPT_TRADE_NETWORK)! Bringing a city into your link(CONCEPT_TRADE_NETWORK) will increase link(YIELD_HAPPINESS,1) there.
 The link(CONCEPT_TRADE_NETWORK) consists of all Tiles connected to your link(CONCEPT_CAPITAL) City. Cities and link(IMPROVEMENT_HAMLET,2) can be connected with one another via link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) Tiles, and even open water. You can connect a City to its link(IMPROVEMENT_HARBOR) with a link(CONCEPT_ROAD). You can check the link(CONCEPT_TRADE_NETWORK) overlay with the icon(MAP_OVERLAY_NETWORK) button on the left edge of the mini-map, or the hotkey(HOTKEY_SHOW_TRADE_NETWORK) key, and verify that a City is link(EFFECTCITY_CONNECTED) to the link(CONCEPT_TRADE_NETWORK) by checking that the  icon(CONNECTED) icon is displayed under its City Banner.</en-US>
     <it-IT>Hai costruito il tuo primo link(IMPROVEMENT_HAMLET)! Un link(IMPROVEMENT_HAMLET) e i suoi potenziamenti, link(IMPROVEMENT_VILLAGE) e link(IMPROVEMENT_TOWN), produrranno link(YIELD_MONEY,1) extra se portati nel tuo link(CONCEPT_TRADE_NETWORK)! Portare una città nella propria link(CONCEPT_TRADE_NETWORK) aumenterà le link(YIELD_HAPPINESS,1) presenti.
-La link(CONCEPT_TRADE_NETWORK) è costituita da tutte le tessere collegate alla vostra link(CONCEPT_CAPITAL) città. Città. Le città e le link(IMPROVEMENT_HAMLET,2) possono essere collegate tra loro tramite le tessere link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) e persino le acque libere. e persino le acque libere. È possibile collegare una città alla sua link(IMPROVEMENT_HARBOR) con una link(CONCEPT_ROAD). È possibile controllare la sovrapposizione del link(CONCEPT_TRADE_NETWORK) con il pulsante icon(MAP_OVERLAY_NETWORK) sul bordo sinistro della mini-mappa o con il tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK) e verificare che una città sia link(EFFECTCITY_CONNECTED) al link(CONCEPT_TRADE_NETWORK) controllando che l'icon(CONNECTED) sia visualizzata sotto lo striscione della città.</it-IT>
+La link(CONCEPT_TRADE_NETWORK) è costituita da tutte le tessere collegate alla vostra link(CONCEPT_CAPITAL) città. Città. Le città e le link(IMPROVEMENT_HAMLET,2) possono essere collegate tra loro tramite le tessere link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) e persino le acque libere. e persino le acque libere. È possibile collegare una città alla sua link(IMPROVEMENT_HARBOR) con una link(CONCEPT_ROAD). È possibile controllare la sovrapposizione del link(CONCEPT_TRADE_NETWORK) con il pulsante icon(MAP_OVERLAY_NETWORK) sul bordo sinistro della mini-mappa o con il hotkey(HOTKEY_SHOW_TRADE_NETWORK) e verificare che una città sia link(EFFECTCITY_CONNECTED) al link(CONCEPT_TRADE_NETWORK) controllando che l'icon(CONNECTED) sia visualizzata sotto lo striscione della città.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_TUTORIAL_PAGAN_SHRINE</zType>
@@ -830,50 +830,50 @@ Can be further improved by developing a link(SPECIALISTCLASS_FARMER).</it-IT>
     <zType>TEXT_EVENTSTORY_SUCCESSION_THEM_ABDICATED</zType>
     <en-US><![CDATA[News reaches you from abroad; in a surprising move, {CHARACTER-1} has stepped down as the leader of {PLAYER-0}.
 {CHARACTER-0} has ascended to rule {PLAYER-0} in {G1:his:her} place. <p.is_sub.S0=SUBJECT_PLAYER_ASSYRIA>{CHARACTER-SHORT-0} has been named {G0:King:Queen} in accordance with the succession contract made by {CHARACTER-SHORT-1} and {G1:his:her} vassals. Inscriptions of {CHARACTER-SHORT-0}’s might and power are soon being commissioned across {PLAYER-0}.
-<p=SUBJECT_PLAYER_BABYLONIA>{G0:He:She} has been appointed {G0:King:Queen} above all others, consecrated for rule by the priests of {CITY-0}. Inscriptions of {CHARACTER-SHORT-0}’s protection and piety are soon being raised across {PLAYER-0}.
-<p=SUBJECT_PLAYER_CARTHAGE>{G0:He:She} has been elected by the noble houses to serve as {G0:King:Queen} in {CHARACTER-SHORT-1}’s footsteps, leading the people and senate of {PLAYER-0} into a new age.
-<p=SUBJECT_PLAYER_EGYPT>{G0:He:She} immediately held the traditional feast appearing as Pharaoh for the first time, starting the year-long chain of rites and events that confirm {G0:his:her} role as the new Pharaoh of {PLAYER-0}.
-<p=SUBJECT_PLAYER_GREECE>{G0:He:She} was immediately proclaimed {G0:King:Queen} by the nobles and generals upon {CHARACTER-SHORT-1}’s abdication. With the throne secure, {CHARACTER-SHORT-0} is ready to lead the people of {PLAYER-0}.
-<p=SUBJECT_PLAYER_PERSIA>{G0:He:She} entered the temple of {CITY-0} and changed into the robes previously worn by {CHARACTER-SHORT-1}. After a ritual meal of figs and sour milk, {CHARACTER-SHORT-0} has assumed {G0:his:her} new title of {G0:King:Queen} of {PLAYER-0}.
-<p=SUBJECT_PLAYER_ROME>{G0:He:She} has been empowered to lead the mighty {PLAYER-0} and invested with the traditional retinue of twelve lictor bodyguards. They clear the way as {CHARACTER-SHORT-0} takes {G0:his:her} seat as the new leader.
-<p=SUBJECT_PLAYER_HITTITE>{G0:He:She} has been named {TITLE-0}, proclaiming {G0:his:her} rights to the ancestral lands of the {PLAYER-0,1}. Renowned as a child of their storm god, this new ruler could be a force to be wary of.
-<else>{G0:He:She} has been empowered to lead the mighty {PLAYER-0} into the new age.
+<p=SUBJECT_PLAYER_BABYLONIA>{G0:Lui:Lei} has been appointed {G0:King:Queen} above all others, consecrated for rule by the priests of {CITY-0}. Inscriptions of {CHARACTER-SHORT-0}’s protection and piety are soon being raised across {PLAYER-0}.
+<p=SUBJECT_PLAYER_CARTHAGE>{G0:Lui:Lei} has been elected by the noble houses to serve as {G0:King:Queen} in {CHARACTER-SHORT-1}’s footsteps, leading the people and senate of {PLAYER-0} into a new age.
+<p=SUBJECT_PLAYER_EGYPT>{G0:Lui:Lei} immediately held the traditional feast appearing as Pharaoh for the first time, starting the year-long chain of rites and events that confirm {G0:his:her} role as the new Pharaoh of {PLAYER-0}.
+<p=SUBJECT_PLAYER_GREECE>{G0:Lui:Lei} was immediately proclaimed {G0:King:Queen} by the nobles and generals upon {CHARACTER-SHORT-1}’s abdication. With the throne secure, {CHARACTER-SHORT-0} is ready to lead the people of {PLAYER-0}.
+<p=SUBJECT_PLAYER_PERSIA>{G0:Lui:Lei} entered the temple of {CITY-0} and changed into the robes previously worn by {CHARACTER-SHORT-1}. After a ritual meal of figs and sour milk, {CHARACTER-SHORT-0} has assumed {G0:his:her} new title of {G0:King:Queen} of {PLAYER-0}.
+<p=SUBJECT_PLAYER_ROME>{G0:Lui:Lei} has been empowered to lead the mighty {PLAYER-0} and invested with the traditional retinue of twelve lictor bodyguards. They clear the way as {CHARACTER-SHORT-0} takes {G0:his:her} seat as the new leader.
+<p=SUBJECT_PLAYER_HITTITE>{G0:Lui:Lei} has been named {TITLE-0}, proclaiming {G0:his:her} rights to the ancestral lands of the {PLAYER-0,1}. Renowned as a child of their storm god, this new ruler could be a force to be wary of.
+<else>{G0:Lui:Lei} has been empowered to lead the mighty {PLAYER-0} into the new age.
 <end>]]></en-US>
     <it-IT><![CDATA[News reaches you from abroad; in a surprising move, {CHARACTER-1} has stepped down as the leader of {PLAYER-0}.
 {CHARACTER-0} has ascended to rule {PLAYER-0} in {G1:his:her} place. <p.is_sub.S0=SUBJECT_PLAYER_ASSYRIA>{CHARACTER-SHORT-0} has been named {G0:King:Queen} in accordance with the succession contract made by {CHARACTER-SHORT-1} and {G1:his:her} vassals. Inscriptions of {CHARACTER-SHORT-0}’s might and power are soon being commissioned across {PLAYER-0}.
-<p=SUBJECT_PLAYER_BABYLONIA>{G0:He:She} has been appointed {G0:King:Queen} above all others, consecrated for rule by the priests of {CITY-0}. Inscriptions of {CHARACTER-SHORT-0}’s protection and piety are soon being raised across {PLAYER-0}.
-<p=SUBJECT_PLAYER_CARTHAGE>{G0:He:She} has been elected by the noble houses to serve as {G0:King:Queen} in {CHARACTER-SHORT-1}’s footsteps, leading the people and senate of {PLAYER-0} into a new age.
-<p=SUBJECT_PLAYER_EGYPT>{G0:He:She} immediately held the traditional feast appearing as Pharaoh for the first time, starting the year-long chain of rites and events that confirm {G0:his:her} role as the new Pharaoh of {PLAYER-0}.
-<p=SUBJECT_PLAYER_GREECE>{G0:He:She} was immediately proclaimed {G0:King:Queen} by the nobles and generals upon {CHARACTER-SHORT-1}’s abdication. With the throne secure, {CHARACTER-SHORT-0} is ready to lead the people of {PLAYER-0}.
-<p=SUBJECT_PLAYER_PERSIA>{G0:He:She} entered the temple of {CITY-0} and changed into the robes previously worn by {CHARACTER-SHORT-1}. After a ritual meal of figs and sour milk, {CHARACTER-SHORT-0} has assumed {G0:his:her} new title of {G0:King:Queen} of {PLAYER-0}.
-<p=SUBJECT_PLAYER_ROME>{G0:He:She} has been empowered to lead the mighty {PLAYER-0} and invested with the traditional retinue of twelve lictor bodyguards. They clear the way as {CHARACTER-SHORT-0} takes {G0:his:her} seat as the new leader.
-<p=SUBJECT_PLAYER_HITTITE>{G0:He:She} has been named {TITLE-0}, proclaiming {G0:his:her} rights to the ancestral lands of the {PLAYER-0,1}. Renowned as a child of their storm god, this new ruler could be a force to be wary of.
-<else>{G0:He:She} has been empowered to lead the mighty {PLAYER-0} into the new age.
+<p=SUBJECT_PLAYER_BABYLONIA>{G0:Lui:Lei} has been appointed {G0:King:Queen} above all others, consecrated for rule by the priests of {CITY-0}. Inscriptions of {CHARACTER-SHORT-0}’s protection and piety are soon being raised across {PLAYER-0}.
+<p=SUBJECT_PLAYER_CARTHAGE>{G0:Lui:Lei} has been elected by the noble houses to serve as {G0:King:Queen} in {CHARACTER-SHORT-1}’s footsteps, leading the people and senate of {PLAYER-0} into a new age.
+<p=SUBJECT_PLAYER_EGYPT>{G0:Lui:Lei} immediately held the traditional feast appearing as Pharaoh for the first time, starting the year-long chain of rites and events that confirm {G0:his:her} role as the new Pharaoh of {PLAYER-0}.
+<p=SUBJECT_PLAYER_GREECE>{G0:Lui:Lei} was immediately proclaimed {G0:King:Queen} by the nobles and generals upon {CHARACTER-SHORT-1}’s abdication. With the throne secure, {CHARACTER-SHORT-0} is ready to lead the people of {PLAYER-0}.
+<p=SUBJECT_PLAYER_PERSIA>{G0:Lui:Lei} entered the temple of {CITY-0} and changed into the robes previously worn by {CHARACTER-SHORT-1}. After a ritual meal of figs and sour milk, {CHARACTER-SHORT-0} has assumed {G0:his:her} new title of {G0:King:Queen} of {PLAYER-0}.
+<p=SUBJECT_PLAYER_ROME>{G0:Lui:Lei} has been empowered to lead the mighty {PLAYER-0} and invested with the traditional retinue of twelve lictor bodyguards. They clear the way as {CHARACTER-SHORT-0} takes {G0:his:her} seat as the new leader.
+<p=SUBJECT_PLAYER_HITTITE>{G0:Lui:Lei} has been named {TITLE-0}, proclaiming {G0:his:her} rights to the ancestral lands of the {PLAYER-0,1}. Renowned as a child of their storm god, this new ruler could be a force to be wary of.
+<else>{G0:Lui:Lei} has been empowered to lead the mighty {PLAYER-0} into the new age.
 <end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_SUCCESSION_THEM_ABDICATED_WAR</zType>
     <en-US><![CDATA[News reaches you from abroad; The cowardly {CHARACTER-1} has stepped down as the leader of {PLAYER-0}. {G1:He:She} was evidently unable to withstand the strain of link(DIPLOMACY_WAR) with us!
 {G1:His:Her} equally contemptible heir {CHARACTER-SHORT-0} has ascended to rule {PLAYER-0} in {G1:his:her} place. <p.is_sub.S0=SUBJECT_PLAYER_ASSYRIA>{CHARACTER-SHORT-0} has been named {G0:King:Queen} in accordance with the succession contract made by {CHARACTER-SHORT-1} and {G1:his:her} vassals. Inscriptions of {CHARACTER-SHORT-0}’s alleged might and power are soon commissioned across {PLAYER-0}.
-<p=SUBJECT_PLAYER_BABYLONIA>{G0:He:She} has been appointed {G0:King:Queen} above all others, consecrated for rule by the priests of {CITY-0}. Dubious inscriptions of {CHARACTER-SHORT-0}’s protection and piety are raised across {PLAYER-0}.
-<p=SUBJECT_PLAYER_CARTHAGE>{G0:He:She} has been elected by the noble houses to serve as {G0:King:Queen} in {CHARACTER-SHORT-1}’s footsteps, leading the people and senate of {PLAYER-0} in their futile contest against {PLAYER-2}.
+<p=SUBJECT_PLAYER_BABYLONIA>{G0:Lui:Lei} has been appointed {G0:King:Queen} above all others, consecrated for rule by the priests of {CITY-0}. Dubious inscriptions of {CHARACTER-SHORT-0}’s protection and piety are raised across {PLAYER-0}.
+<p=SUBJECT_PLAYER_CARTHAGE>{G0:Lui:Lei} has been elected by the noble houses to serve as {G0:King:Queen} in {CHARACTER-SHORT-1}’s footsteps, leading the people and senate of {PLAYER-0} in their futile contest against {PLAYER-2}.
 <p=SUBJECT_PLAYER_EGYPT>{CHARACTER-SHORT-0} immediately held the traditional feast appearing as Pharaoh for the first time, starting the year-long chain of rites and events that confirm {G0:his:her} role as the new Pharaoh of {PLAYER-0}. May {G0:his:her} reign be cut short by our glorious armies!
-<p=SUBJECT_PLAYER_GREECE>{G0:He:She} was immediately proclaimed {G0:King:Queen} by the nobles and generals upon {CHARACTER-SHORT-1}’s abdication. With the throne secure, {CHARACTER-SHORT-0} is ready to lead the people of {PLAYER-0} in arms against {PLAYER-2}.
+<p=SUBJECT_PLAYER_GREECE>{G0:Lui:Lei} was immediately proclaimed {G0:King:Queen} by the nobles and generals upon {CHARACTER-SHORT-1}’s abdication. With the throne secure, {CHARACTER-SHORT-0} is ready to lead the people of {PLAYER-0} in arms against {PLAYER-2}.
 <p=SUBJECT_PLAYER_PERSIA>{CHARACTER-SHORT-0} entered the temple of {CITY-0} and changed into the robes previously worn by {CHARACTER-SHORT-1}. After a ritual meal of figs and sour milk, {CHARACTER-SHORT-0} has assumed {G0:his:her} new title of {G0:King:Queen} of {PLAYER-0}. A worthy foe, or the lesser {G0:son:daughter} of greater sires?
-<p=SUBJECT_PLAYER_ROME>{CHARACTER-SHORT-0} has been empowered to lead {PLAYER-0} and is invested with the traditional retinue of twelve lictor bodyguards. They clear the way as {G0:he:she} takes {G0:his:her} seat as the new leader. Undoubtedly, this maniac will be as bloodthirsty as the last one.
-<p=SUBJECT_PLAYER_HITTITE>{G0:He:She} has been named {TITLE-0}, proclaiming {G0:his:her} rights to the ancestral lands of the {PLAYER-0,1}. Renowned as a child of their storm god, this new ruler could be a force to be wary of.
-<else>{G0:He:She} has been empowered to lead the mighty {PLAYER-0} into the new age.
+<p=SUBJECT_PLAYER_ROME>{CHARACTER-SHORT-0} has been empowered to lead {PLAYER-0} and is invested with the traditional retinue of twelve lictor bodyguards. They clear the way as {G0:lui:lei} takes {G0:his:her} seat as the new leader. Undoubtedly, this maniac will be as bloodthirsty as the last one.
+<p=SUBJECT_PLAYER_HITTITE>{G0:Lui:Lei} has been named {TITLE-0}, proclaiming {G0:his:her} rights to the ancestral lands of the {PLAYER-0,1}. Renowned as a child of their storm god, this new ruler could be a force to be wary of.
+<else>{G0:Lui:Lei} has been empowered to lead the mighty {PLAYER-0} into the new age.
 <end>]]></en-US>
     <it-IT><![CDATA[News reaches you from abroad; The cowardly {CHARACTER-1} has stepped down as the leader of {PLAYER-0}. {G1:He:She} was evidently unable to withstand the strain of link(DIPLOMACY_WAR) with us!
 {G1:His:Her} equally contemptible heir {CHARACTER-SHORT-0} has ascended to rule {PLAYER-0} in {G1:his:her} place. <p.is_sub.S0=SUBJECT_PLAYER_ASSYRIA>{CHARACTER-SHORT-0} has been named {G0:King:Queen} in accordance with the succession contract made by {CHARACTER-SHORT-1} and {G1:his:her} vassals. Inscriptions of {CHARACTER-SHORT-0}’s alleged might and power are soon commissioned across {PLAYER-0}.
-<p=SUBJECT_PLAYER_BABYLONIA>{G0:He:She} has been appointed {G0:King:Queen} above all others, consecrated for rule by the priests of {CITY-0}. Dubious inscriptions of {CHARACTER-SHORT-0}’s protection and piety are raised across {PLAYER-0}.
-<p=SUBJECT_PLAYER_CARTHAGE>{G0:He:She} has been elected by the noble houses to serve as {G0:King:Queen} in {CHARACTER-SHORT-1}’s footsteps, leading the people and senate of {PLAYER-0} in their futile contest against {PLAYER-2}.
+<p=SUBJECT_PLAYER_BABYLONIA>{G0:Lui:Lei} has been appointed {G0:King:Queen} above all others, consecrated for rule by the priests of {CITY-0}. Dubious inscriptions of {CHARACTER-SHORT-0}’s protection and piety are raised across {PLAYER-0}.
+<p=SUBJECT_PLAYER_CARTHAGE>{G0:Lui:Lei} has been elected by the noble houses to serve as {G0:King:Queen} in {CHARACTER-SHORT-1}’s footsteps, leading the people and senate of {PLAYER-0} in their futile contest against {PLAYER-2}.
 <p=SUBJECT_PLAYER_EGYPT>{CHARACTER-SHORT-0} immediately held the traditional feast appearing as Pharaoh for the first time, starting the year-long chain of rites and events that confirm {G0:his:her} role as the new Pharaoh of {PLAYER-0}. May {G0:his:her} reign be cut short by our glorious armies!
-<p=SUBJECT_PLAYER_GREECE>{G0:He:She} was immediately proclaimed {G0:King:Queen} by the nobles and generals upon {CHARACTER-SHORT-1}’s abdication. With the throne secure, {CHARACTER-SHORT-0} is ready to lead the people of {PLAYER-0} in arms against {PLAYER-2}.
+<p=SUBJECT_PLAYER_GREECE>{G0:Lui:Lei} was immediately proclaimed {G0:King:Queen} by the nobles and generals upon {CHARACTER-SHORT-1}’s abdication. With the throne secure, {CHARACTER-SHORT-0} is ready to lead the people of {PLAYER-0} in arms against {PLAYER-2}.
 <p=SUBJECT_PLAYER_PERSIA>{CHARACTER-SHORT-0} entered the temple of {CITY-0} and changed into the robes previously worn by {CHARACTER-SHORT-1}. After a ritual meal of figs and sour milk, {CHARACTER-SHORT-0} has assumed {G0:his:her} new title of {G0:King:Queen} of {PLAYER-0}. A worthy foe, or the lesser {G0:son:daughter} of greater sires?
-<p=SUBJECT_PLAYER_ROME>{CHARACTER-SHORT-0} has been empowered to lead {PLAYER-0} and is invested with the traditional retinue of twelve lictor bodyguards. They clear the way as {G0:he:she} takes {G0:his:her} seat as the new leader. Undoubtedly, this maniac will be as bloodthirsty as the last one.
-<p=SUBJECT_PLAYER_HITTITE>{G0:He:She} has been named {TITLE-0}, proclaiming {G0:his:her} rights to the ancestral lands of the {PLAYER-0,1}. Renowned as a child of their storm god, this new ruler could be a force to be wary of.
-<else>{G0:He:She} has been empowered to lead the mighty {PLAYER-0} into the new age.
+<p=SUBJECT_PLAYER_ROME>{CHARACTER-SHORT-0} has been empowered to lead {PLAYER-0} and is invested with the traditional retinue of twelve lictor bodyguards. They clear the way as {G0:lui:lei} takes {G0:his:her} seat as the new leader. Undoubtedly, this maniac will be as bloodthirsty as the last one.
+<p=SUBJECT_PLAYER_HITTITE>{G0:Lui:Lei} has been named {TITLE-0}, proclaiming {G0:his:her} rights to the ancestral lands of the {PLAYER-0,1}. Renowned as a child of their storm god, this new ruler could be a force to be wary of.
+<else>{G0:Lui:Lei} has been empowered to lead the mighty {PLAYER-0} into the new age.
 <end>]]></it-IT>
   </Entry>
   <Entry>

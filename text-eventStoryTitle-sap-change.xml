@@ -982,8 +982,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_MY_BROTHER_IN_CHRIST_TITLE</zType>
-    <en-US>My {G1:Brother:Sister} in {S0.GOD}</en-US>
-    <it-IT>Il mio {G1:Brother:Sister} in {S0.GOD}</it-IT>
+    <en-US>My {G1:Fratello:Sorella} in {S0.GOD}</en-US>
+    <it-IT>Il mio {G1:Fratello:Sorella} in {S0.GOD}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_PROTECT_THE_HOLY_LAND_US_TITLE</zType>

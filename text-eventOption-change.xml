@@ -477,22 +477,22 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PHILOSOPHY</zType>
-    <en-US>{G0:He:She} will study Philosophy.</en-US>
+    <en-US>{G0:Lui:Lei} will study Philosophy.</en-US>
     <it-IT>{G0:Lui:Lei} studierà Filosofia.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_POLITICS</zType>
-    <en-US>{G0:He:She} will study Politics.</en-US>
+    <en-US>{G0:Lui:Lei} will study Politics.</en-US>
     <it-IT>{G0:Lui:Lei} studierà la politica.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_TACTICS</zType>
-    <en-US>{G0:He:She} will study Tactics.</en-US>
+    <en-US>{G0:Lui:Lei} will study Tactics.</en-US>
     <it-IT>{G0:Lui:Lei} studierà la Tattica.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_COMMERCE</zType>
-    <en-US>{G0:He:She} will study Commerce.</en-US>
+    <en-US>{G0:Lui:Lei} will study Commerce.</en-US>
     <it-IT>{G0:Lui:Lei} studierà il commercio.</it-IT>
   </Entry>
   <Entry>
@@ -682,13 +682,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_0</zType>
-    <en-US>Encourage {G0:him:her} to focus on scholarship.</en-US>
-    <it-IT>Incoraggiare {G0:him:her} a concentrarsi sulla borsa di studio.</it-IT>
+    <en-US>Encourage {G0:lui:lei} to focus on scholarship.</en-US>
+    <it-IT>Incoraggiare {G0:lui:lei} a concentrarsi sulla borsa di studio.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_GOOD_NEWS_OPTION_1</zType>
-    <en-US>It is healthy for {G0:him:her} to seek friends and fellowship.</en-US>
-    <it-IT>È salutare per {G0:him:her} cercare amici e amicizia.</it-IT>
+    <en-US>It is healthy for {G0:lui:lei} to seek friends and fellowship.</en-US>
+    <it-IT>È salutare per {G0:lui:lei} cercare amici e amicizia.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_COMET_SIGHTED_OMEN</zType>
@@ -757,8 +757,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_MEASURED_VOICE_OPTION_1</zType>
-    <en-US>I must show resolve in the face of uncertainty, and {G0:he:she} must be punished.</en-US>
-    <it-IT>Devo mostrarmi risoluto di fronte all'incertezza e {G0:he:she} deve essere punito.</it-IT>
+    <en-US>I must show resolve in the face of uncertainty, and {G0:lui:lei} must be punished.</en-US>
+    <it-IT>Devo mostrarmi risoluto di fronte all'incertezza e {G0:lui:lei} deve essere punito.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_VIPER_IN_THE_NEST_OPTION_0</zType>
@@ -992,7 +992,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RIVER_REVELATION_2</zType>
-    <en-US>{CHARACTER-0} has been called. {G0:He:She} should be the new head of {RELIGION-2}.</en-US>
+    <en-US>{CHARACTER-0} has been called. {G0:Lui:Lei} should be the new head of {RELIGION-2}.</en-US>
     <it-IT>{CHARACTER-0} è stato chiamato. {G0:Lui:Lei} dovrebbe essere la nuova testa di {RELIGION-2}.</it-IT>
   </Entry>
   <Entry>
@@ -1117,12 +1117,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_FIRE_DEFILED_0</zType>
-    <en-US>Let Mithra judge {G0:him:her}.</en-US>
-    <it-IT>Che Mitra giudichi {G0:him:her}.</it-IT>
+    <en-US>Let Mithra judge {G0:lui:lei}.</en-US>
+    <it-IT>Che Mitra giudichi {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_FIRE_DEFILED_1</zType>
-    <en-US>{G0:He:She} is lost already. Further rituals will not help.</en-US>
+    <en-US>{G0:Lui:Lei} is lost already. Further rituals will not help.</en-US>
     <it-IT>{G0:Lui:Lei} è già perso. Ulteriori rituali non serviranno.</it-IT>
   </Entry>
   <Entry>
@@ -1977,18 +1977,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_OF_RELIGION_0</zType>
-    <en-US>Inspire {G0:him:her} with your fervor.</en-US>
-    <it-IT>Ispira {G0:him:her} con il tuo fervore.</it-IT>
+    <en-US>Inspire {G0:lui:lei} with your fervor.</en-US>
+    <it-IT>Ispira {G0:lui:lei} con il tuo fervore.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_OF_RELIGION_1</zType>
-    <en-US>Inspire {G0:him:her} with your piety.</en-US>
-    <it-IT>Ispira {G0:him:her} con la tua pietà.</it-IT>
+    <en-US>Inspire {G0:lui:lei} with your piety.</en-US>
+    <it-IT>Ispira {G0:lui:lei} con la tua pietà.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_OF_RELIGION_2</zType>
-    <en-US>Pressure {G0:him:her} into accepting {RELIGION-1}.</en-US>
-    <it-IT>Fare pressione su {G0:him:her} affinché accetti {RELIGION-1}.</it-IT>
+    <en-US>Pressure {G0:lui:lei} into accepting {RELIGION-1}.</en-US>
+    <it-IT>Fare pressione su {G0:lui:lei} affinché accetti {RELIGION-1}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGIOUS_INTRIGUE_THREAT_0</zType>
@@ -2082,8 +2082,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONVERT_SPREAD_1</zType>
-    <en-US>Thank {G0:him:her} for trying.</en-US>
-    <it-IT>Grazie {G0:him:her} per averci provato.</it-IT>
+    <en-US>Thank {G0:lui:lei} for trying.</en-US>
+    <it-IT>Grazie {G0:lui:lei} per averci provato.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONVERT_SPREAD_2</zType>
@@ -2142,8 +2142,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONVERT_REFUSED_0</zType>
-    <en-US>Pressure {G0:him:her} to convert. It is {G0:his:her} duty to {PLAYER-2}.</en-US>
-    <it-IT>Fare pressione su {G0:him:her} per convertirlo. È il dovere di {G0:his:her} verso {PLAYER-2}.</it-IT>
+    <en-US>Pressure {G0:lui:lei} to convert. It is {G0:his:her} duty to {PLAYER-2}.</en-US>
+    <it-IT>Fare pressione su {G0:lui:lei} per convertirlo. È il dovere di {G0:his:her} verso {PLAYER-2}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONVERT_REFUSED_1</zType>
@@ -2162,8 +2162,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONVERT_BAD_BLOOD_1</zType>
-    <en-US>Tell {G0:him:her} to get over it.</en-US>
-    <it-IT>Dite a {G0:him:her} di superarlo.</it-IT>
+    <en-US>Tell {G0:lui:lei} to get over it.</en-US>
+    <it-IT>Dite a {G0:lui:lei} di superarlo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONVERT_BAD_BLOOD_2</zType>
@@ -2502,7 +2502,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INTERCESSION_DEBATE_2</zType>
-    <en-US>{G0:He:She}’s right, you’ve shown yourself as a fool.</en-US>
+    <en-US>{G0:Lui:Lei}’s right, you’ve shown yourself as a fool.</en-US>
     <it-IT>{Hai ragione, ti sei dimostrato uno sciocco.</it-IT>
   </Entry>
   <Entry>
@@ -2527,8 +2527,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INTERCESSION_DONATION_1</zType>
-    <en-US>Ask for {G0:him:her} to fund a disciple.</en-US>
-    <it-IT>Chiedere {G0:him:her} per finanziare un discepolo.</it-IT>
+    <en-US>Ask for {G0:lui:lei} to fund a disciple.</en-US>
+    <it-IT>Chiedere {G0:lui:lei} per finanziare un discepolo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INTERCESSION_DONATION_2</zType>
@@ -2672,8 +2672,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WOUNDED_GENERAL_0</zType>
-    <en-US>Let {G0:him:her} rest.</en-US>
-    <it-IT>Che {G0:him:her} riposi.</it-IT>
+    <en-US>Let {G0:lui:lei} rest.</en-US>
+    <it-IT>Che {G0:lui:lei} riposi.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WOUNDED_GENERAL_1</zType>
@@ -2902,8 +2902,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_RIVALS_0</zType>
-    <en-US>Take time to personally train {G0:him:her}.</en-US>
-    <it-IT>Prendetevi del tempo per addestrare personalmente {G0:him:her}.</it-IT>
+    <en-US>Take time to personally train {G0:lui:lei}.</en-US>
+    <it-IT>Prendetevi del tempo per addestrare personalmente {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_RIVALS_1</zType>
@@ -2932,7 +2932,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LITTLE_LEADER_1</zType>
-    <en-US>{G0:He:She} will keep {CHARACTER-SHORT-1} in line.</en-US>
+    <en-US>{G0:Lui:Lei} will keep {CHARACTER-SHORT-1} in line.</en-US>
     <it-IT>{G0:Lui:Lei} terrà in riga {CHARACTER-SHORT-1}.</it-IT>
   </Entry>
   <Entry>
@@ -2957,13 +2957,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_YOUNG_HERO_0</zType>
-    <en-US>Thank {G0:him:her} for saving {PLAYER-2,2} life.</en-US>
-    <it-IT>Ringraziare {G0:him:her} per aver salvato la vita di {PLAYER-2,2}.</it-IT>
+    <en-US>Thank {G0:lui:lei} for saving {PLAYER-2,2} life.</en-US>
+    <it-IT>Ringraziare {G0:lui:lei} per aver salvato la vita di {PLAYER-2,2}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_YOUNG_HERO_1</zType>
-    <en-US>Scold {G0:him:her} for jumping into danger - you can't lead if you're dead.</en-US>
-    <it-IT>Rimprovera a {G0:him:her} di essersi buttato nel pericolo: non si può comandare se si è morti.</it-IT>
+    <en-US>Scold {G0:lui:lei} for jumping into danger - you can't lead if you're dead.</en-US>
+    <it-IT>Rimprovera a {G0:lui:lei} di essersi buttato nel pericolo: non si può comandare se si è morti.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_YOUNG_HERO_2</zType>
@@ -3212,8 +3212,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SMALL_SCRAPE</zType>
-    <en-US>Hopefully {G0:he:she} shall return to the fight soon.</en-US>
-    <it-IT>Speriamo che {G0:he:she} torni presto a combattere.</it-IT>
+    <en-US>Hopefully {G0:lui:lei} shall return to the fight soon.</en-US>
+    <it-IT>Speriamo che {G0:lui:lei} torni presto a combattere.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_OF_THE_DEAD_0</zType>
@@ -3407,8 +3407,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_EXILE_ARMY_0</zType>
-    <en-US>Have {CHARACTER-SHORT-1} send assassins for {G0:him:her}.</en-US>
-    <it-IT>Fate in modo che {CHARACTER-SHORT-1} invii degli assassini per {G0:him:her}.</it-IT>
+    <en-US>Have {CHARACTER-SHORT-1} send assassins for {G0:lui:lei}.</en-US>
+    <it-IT>Fate in modo che {CHARACTER-SHORT-1} invii degli assassini per {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_EXILE_ARMY_1</zType>
@@ -3422,8 +3422,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_EXILE_ARMY_3</zType>
-    <en-US>Leave {G0:him:her} be, for now.</en-US>
-    <it-IT>Lasciate stare {G0:him:her}, per ora.</it-IT>
+    <en-US>Leave {G0:lui:lei} be, for now.</en-US>
+    <it-IT>Lasciate stare {G0:lui:lei}, per ora.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_PRETENDER_0</zType>
@@ -3467,8 +3467,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WOUNDED_IN_THE_ATTEMPT</zType>
-    <en-US>Tend to {G0:him:her} the best we can.</en-US>
-    <it-IT>Tendere a {G0:him:her} il meglio possibile.</it-IT>
+    <en-US>Tend to {G0:lui:lei} the best we can.</en-US>
+    <it-IT>Tendere a {G0:lui:lei} il meglio possibile.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FREE_FOR_A_FAVOR_0</zType>
@@ -3497,8 +3497,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PROGRESSION_OF_LOVE_1</zType>
-    <en-US>Convince {G0:him:her} that {CHARACTER-SHORT-1}'s feelings aren't real.</en-US>
-    <it-IT>Convincere {G0:him:her} che i sentimenti di {CHARACTER-SHORT-1} non sono reali.</it-IT>
+    <en-US>Convince {G0:lui:lei} that {CHARACTER-SHORT-1}'s feelings aren't real.</en-US>
+    <it-IT>Convincere {G0:lui:lei} che i sentimenti di {CHARACTER-SHORT-1} non sono reali.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COVERT_MARRIAGE_0</zType>
@@ -4127,8 +4127,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_TIME_OF_WAR_1</zType>
-    <en-US>{CHARACTER-SHORT-0} will stay where {G0:he:she} is told.</en-US>
-    <it-IT>{CHARACTER-SHORT-0} rimarrà dove è stato detto a {G0:he:she}.</it-IT>
+    <en-US>{CHARACTER-SHORT-0} will stay where {G0:lui:lei} is told.</en-US>
+    <it-IT>{CHARACTER-SHORT-0} rimarrà dove è stato detto a {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISPUTING_TEACHERS_0</zType>
@@ -4852,8 +4852,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HOUSEHOLD_TROUBLES_2</zType>
-    <en-US>Refuse {CHARACTER-SHORT-0} and have {G0:him:her} focus on resting.</en-US>
-    <it-IT>Rifiutare {CHARACTER-SHORT-0} e far concentrare {G0:him:her} sul riposo.</it-IT>
+    <en-US>Refuse {CHARACTER-SHORT-0} and have {G0:lui:lei} focus on resting.</en-US>
+    <it-IT>Rifiutare {CHARACTER-SHORT-0} e far concentrare {G0:lui:lei} sul riposo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEATH_STALKS_0</zType>
@@ -5027,18 +5027,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_INFLICTED_0</zType>
-    <en-US>Fighting is the only language {G0:he:she} will understand.</en-US>
-    <it-IT>La lotta è l'unica lingua che {G0:he:she} capirà.</it-IT>
+    <en-US>Fighting is the only language {G0:lui:lei} will understand.</en-US>
+    <it-IT>La lotta è l'unica lingua che {G0:lui:lei} capirà.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_INFLICTED_1</zType>
-    <en-US>Guards, seize this {G0:man:woman} for attacking me!</en-US>
-    <it-IT>Guardie, sequestrate questo {G0:man:woman} per avermi attaccato!</it-IT>
+    <en-US>Guards, seize this {G0:uomo:donna} for attacking me!</en-US>
+    <it-IT>Guardie, sequestrate questo {G0:uomo:donna} per avermi attaccato!</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_INFLICTED_2</zType>
-    <en-US>If it’s a fight {G0:he:she} wants…</en-US>
-    <it-IT>Se è una lotta che {G0:he:she} vuole...</it-IT>
+    <en-US>If it’s a fight {G0:lui:lei} wants…</en-US>
+    <it-IT>Se è una lotta che {G0:lui:lei} vuole...</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PARTY_TIME_1_HELP</zType>
@@ -5392,8 +5392,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_UNLIKELY_SCENARIO_DISCIPLINE</zType>
-    <en-US>How strange, I didn’t see {G0:him:her} waiting.</en-US>
-    <it-IT>Che strano, non ho visto {G0:him:her} in attesa.</it-IT>
+    <en-US>How strange, I didn’t see {G0:lui:lei} waiting.</en-US>
+    <it-IT>Che strano, non ho visto {G0:lui:lei} in attesa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_UNLIKELY_SCENARIO_RICHES</zType>
@@ -5997,12 +5997,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_FAMILY_OR_MERCHANT_OPTION_2</zType>
-    <en-US>{G0:He:She} shall marry neither.</en-US>
+    <en-US>{G0:Lui:Lei} shall marry neither.</en-US>
     <it-IT>{G0:Lui:Lei} non sposerà nessuno dei due.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_TRIBE_PEACE_OPTION_2</zType>
-    <en-US>{G0:He:She} shall marry neither.</en-US>
+    <en-US>{G0:Lui:Lei} shall marry neither.</en-US>
     <it-IT>{G0:Lui:Lei} non sposerà nessuno dei due.</it-IT>
   </Entry>
   <Entry>
@@ -7827,8 +7827,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DRUIDS_OF_THE_FOREST_1</zType>
-    <en-US>I respect all pantheons. Let {CHARACTER-SHORT-0} stay and learn what {G0:he:she} can from these druids.</en-US>
-    <it-IT>Rispetto tutti i pantheon. Lasciamo che {CHARACTER-SHORT-0} rimanga e impari ciò che {G0:he:she} può da questi druidi.</it-IT>
+    <en-US>I respect all pantheons. Let {CHARACTER-SHORT-0} stay and learn what {G0:lui:lei} can from these druids.</en-US>
+    <it-IT>Rispetto tutti i pantheon. Lasciamo che {CHARACTER-SHORT-0} rimanga e impari ciò che {G0:lui:lei} può da questi druidi.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DRUIDS_OF_THE_FOREST_2</zType>
@@ -7842,8 +7842,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_EXPLORING_PILGRIMAGE_OPTION_1</zType>
-    <en-US>The wise {G0:man:woman} stays at home.</en-US>
-    <it-IT>Il saggio {G0:man:woman} rimane a casa.</it-IT>
+    <en-US>The wise {G0:uomo:donna} stays at home.</en-US>
+    <it-IT>Il saggio {G0:uomo:donna} rimane a casa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_EXPLORING_PILGRIMAGE_HOLY_CITY_OPTION_0</zType>
@@ -7852,8 +7852,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_EXPLORING_PILGRIMAGE_HOLY_CITY_OPTION_1</zType>
-    <en-US>The wise {G0:man:woman} stays at home.</en-US>
-    <it-IT>Il saggio {G0:man:woman} rimane a casa.</it-IT>
+    <en-US>The wise {G0:uomo:donna} stays at home.</en-US>
+    <it-IT>Il saggio {G0:uomo:donna} rimane a casa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_EXPLORING_WONDER_OPTION_0</zType>
@@ -7862,8 +7862,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_EXPLORING_WONDER_OPTION_1</zType>
-    <en-US>The wise {G0:man:woman} stays at home.</en-US>
-    <it-IT>Il saggio {G0:man:woman} rimane a casa.</it-IT>
+    <en-US>The wise {G0:uomo:donna} stays at home.</en-US>
+    <it-IT>Il saggio {G0:uomo:donna} rimane a casa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_EXPLORING_ARCHETYPE_OPTION_0</zType>
@@ -7872,8 +7872,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_EXPLORING_ARCHETYPE_OPTION_1</zType>
-    <en-US>The wise {G0:man:woman} stays at home.</en-US>
-    <it-IT>Il saggio {G0:man:woman} rimane a casa.</it-IT>
+    <en-US>The wise {G0:uomo:donna} stays at home.</en-US>
+    <it-IT>Il saggio {G0:uomo:donna} rimane a casa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_LAND_OF_ANT_GOLD_FOLLOWUP_OPTION_0</zType>
@@ -11742,8 +11742,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SHARING_THE_LOOT_OPTION_3</zType>
-    <en-US>Let {CHARACTER-SHORT-0} keep it all for {G0:himself:herself}.</en-US>
-    <it-IT>Che {CHARACTER-SHORT-0} conservi tutto per {G0:himself:herself}.</it-IT>
+    <en-US>Let {CHARACTER-SHORT-0} keep it all for {G0:se stesso:se stessa}.</en-US>
+    <it-IT>Che {CHARACTER-SHORT-0} conservi tutto per {G0:se stesso:se stessa}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNDER_NATION_OPTION_0</zType>
@@ -12017,8 +12017,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_ENEMY_TRAIT_ORATOR_CONVINCED</zType>
-    <en-US>I shall convince {CHARACTER-SHORT-0} that {G0:he:she} desires peace.</en-US>
-    <it-IT>Convincerò {CHARACTER-SHORT-0} che {G0:he:she} desidera la pace.</it-IT>
+    <en-US>I shall convince {CHARACTER-SHORT-0} that {G0:lui:lei} desires peace.</en-US>
+    <it-IT>Convincerò {CHARACTER-SHORT-0} che {G0:lui:lei} desidera la pace.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_ENEMY_TRAIT_JUDGE_TRIBUTE</zType>
@@ -12077,8 +12077,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_ENEMY_TRAIT_DIPLOMAT_WAR</zType>
-    <en-US>Attack now before {G0:he:she} can find allies!</en-US>
-    <it-IT>Attaccate subito prima che {G0:he:she} possa trovare alleati!</it-IT>
+    <en-US>Attack now before {G0:lui:lei} can find allies!</en-US>
+    <it-IT>Attaccate subito prima che {G0:lui:lei} possa trovare alleati!</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_ENEMY_TRAIT_DIPLOMAT_DEFIED</zType>
@@ -12327,8 +12327,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_CONTACT_TRUCE_ARCH_SAME</zType>
-    <en-US>I see you are a {G0:man:woman} of culture as well.</en-US>
-    <it-IT>Vedo che anche lei è un {G0:man:woman} di cultura.</it-IT>
+    <en-US>I see you are a {G0:uomo:donna} of culture as well.</en-US>
+    <it-IT>Vedo che anche lei è un {G0:uomo:donna} di cultura.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MAINTAIN_TRUCE_HELP_COPY_COPY</zType>
@@ -12772,8 +12772,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_INTRUDER_IN_THE_PALACE_OPTION_0</zType>
-    <en-US>{CHARACTER-SHORT-0} wants blood? We will give {G0:him:her} blood.</en-US>
-    <it-IT>{CHARACTER-SHORT-0} vuole il sangue? Daremo a {G0:him:her} del sangue.</it-IT>
+    <en-US>{CHARACTER-SHORT-0} wants blood? We will give {G0:lui:lei} blood.</en-US>
+    <it-IT>{CHARACTER-SHORT-0} vuole il sangue? Daremo a {G0:lui:lei} del sangue.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_INTRUDER_IN_THE_PALACE_OPTION_1</zType>
@@ -13062,8 +13062,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TECH_STOLEN_SCROLLS_1</zType>
-    <en-US>Tell {CHARACTER-0} that {G0:he:she} need only ask next time.</en-US>
-    <it-IT>Dite a {CHARACTER-0} che {G0:he:she} deve solo chiedere la prossima volta.</it-IT>
+    <en-US>Tell {CHARACTER-0} that {G0:lui:lei} need only ask next time.</en-US>
+    <it-IT>Dite a {CHARACTER-0} che {G0:lui:lei} deve solo chiedere la prossima volta.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TECH_STOLEN_SCROLLS_2</zType>
@@ -13237,12 +13237,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_TRIBE_PEACE_TRIBE_OFFER</zType>
-    <en-US>{G0:He:She} shall marry {CHARACTER-4}.</en-US>
+    <en-US>{G0:Lui:Lei} shall marry {CHARACTER-4}.</en-US>
     <it-IT>{G0:Lui:Lei} sposerà {CHARACTER-4}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_TRIBE_PEACE_FAMILY_OFFER</zType>
-    <en-US>{G0:He:She} shall marry {CHARACTER-5}.</en-US>
+    <en-US>{G0:Lui:Lei} shall marry {CHARACTER-5}.</en-US>
     <it-IT>{G0:Lui:Lei} sposerà {CHARACTER-5}.</it-IT>
   </Entry>
   <Entry>
@@ -13412,8 +13412,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_PEOPLES_GENERAL_OPTION_0</zType>
-    <en-US>We should keep an eye on {G0:him:her}.</en-US>
-    <it-IT>Dobbiamo tenere d'occhio {G0:him:her}.</it-IT>
+    <en-US>We should keep an eye on {G0:lui:lei}.</en-US>
+    <it-IT>Dobbiamo tenere d'occhio {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CAPTURED_GENERAL_OPTION_0</zType>
@@ -13452,8 +13452,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LOST_SIGHT_NO</zType>
-    <en-US>Let {G0:him:her} be an inspiration for our troops.</en-US>
-    <it-IT>Che {G0:him:her} sia di ispirazione per le nostre truppe.</it-IT>
+    <en-US>Let {G0:lui:lei} be an inspiration for our troops.</en-US>
+    <it-IT>Che {G0:lui:lei} sia di ispirazione per le nostre truppe.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_WEAPONS_OF_WAR_OPTION_0</zType>
@@ -13852,12 +13852,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BATTLEFIELD_STRAIN_OPTION_0</zType>
-    <en-US>Send {G0:him:her} to a temple for care.</en-US>
-    <it-IT>Inviare {G0:him:her} a un tempio per la cura.</it-IT>
+    <en-US>Send {G0:lui:lei} to a temple for care.</en-US>
+    <it-IT>Inviare {G0:lui:lei} a un tempio per la cura.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BATTLEFIELD_STRAIN_OPTION_1</zType>
-    <en-US>{G0:He:She} must lead {G0:his:her} troops.</en-US>
+    <en-US>{G0:Lui:Lei} must lead {G0:his:her} troops.</en-US>
     <it-IT>{G0:Lui:Lei} deve guidare le truppe di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
@@ -13967,7 +13967,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOLIA_OPIMA_CRIPPLED_OPTION_1_HELP</zType>
-    <en-US>{G0:He:She} has gone mad.... utterly stark raving mad.</en-US>
+    <en-US>{G0:Lui:Lei} has gone mad.... utterly stark raving mad.</en-US>
     <it-IT>{G0:Lui:Lei} è impazzito.... completamente impazzito.</it-IT>
   </Entry>
   <Entry>
@@ -14292,17 +14292,17 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEROIC_STAND_1</zType>
-    <en-US>Publicly swear to avenge {G0:him:her}.</en-US>
-    <it-IT>Giurare pubblicamente di vendicare {G0:him:her}.</it-IT>
+    <en-US>Publicly swear to avenge {G0:lui:lei}.</en-US>
+    <it-IT>Giurare pubblicamente di vendicare {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEROIC_STAND_2</zType>
-    <en-US>{G0:He:She} did a soldier’s duty, that is all.</en-US>
+    <en-US>{G0:Lui:Lei} did a soldier’s duty, that is all.</en-US>
     <it-IT>{Ha fatto il dovere di un soldato, tutto qui.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_OWN_SWORD_0</zType>
-    <en-US>{G0:He:She} should have lived to make amends.</en-US>
+    <en-US>{G0:Lui:Lei} should have lived to make amends.</en-US>
     <it-IT>{G0:Lui:Lei} avrebbe dovuto vivere per fare ammenda.</it-IT>
   </Entry>
   <Entry>
@@ -14357,8 +14357,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MUTINY_IN_THE_RANKS_0</zType>
-    <en-US>Warn {G0:him:her} to get things into shape.</en-US>
-    <it-IT>Avvertire {G0:him:her} per rimettere le cose a posto.</it-IT>
+    <en-US>Warn {G0:lui:lei} to get things into shape.</en-US>
+    <it-IT>Avvertire {G0:lui:lei} per rimettere le cose a posto.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MUTINY_IN_THE_RANKS_1</zType>
@@ -14367,7 +14367,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MUTINY_IN_THE_RANKS_2</zType>
-    <en-US>{G0:He:She} must face the consequences of {G0:his:her} actions.</en-US>
+    <en-US>{G0:Lui:Lei} must face the consequences of {G0:his:her} actions.</en-US>
     <it-IT>{G0:Lui:Lei} deve affrontare le conseguenze delle azioni di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
@@ -15097,8 +15097,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INTERCESSION_EXILE_0</zType>
-    <en-US>Get {G0:him:her} back. Now.</en-US>
-    <it-IT>Riportate indietro {G0:him:her}. Ora.</it-IT>
+    <en-US>Get {G0:lui:lei} back. Now.</en-US>
+    <it-IT>Riportate indietro {G0:lui:lei}. Ora.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INTERCESSION_EXILE_1</zType>
@@ -15197,8 +15197,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INTERCESSION_FEAST_0</zType>
-    <en-US>Have {G0:him:her} disciplined for {G0:his:her} words.</en-US>
-    <it-IT>Disciplinare {G0:him:her} per {G0:his:her} parole.</it-IT>
+    <en-US>Have {G0:lui:lei} disciplined for {G0:his:her} words.</en-US>
+    <it-IT>Disciplinare {G0:lui:lei} per {G0:his:her} parole.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INTERCESSION_FEAST_1</zType>
@@ -15217,8 +15217,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INTERCESSION_SACRIFICE_1</zType>
-    <en-US>Have your scribes write {G0:him:her} a treatise on {RELIGION-1}.</en-US>
-    <it-IT>Fai scrivere ai tuoi scribi {G0:him:her} un trattato su {RELIGION-1}.</it-IT>
+    <en-US>Have your scribes write {G0:lui:lei} a treatise on {RELIGION-1}.</en-US>
+    <it-IT>Fai scrivere ai tuoi scribi {G0:lui:lei} un trattato su {RELIGION-1}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INTERCESSION_SACRIFICE_2</zType>
@@ -15977,12 +15977,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_FAMILY_OR_MERCHANT_WEALTH</zType>
-    <en-US>{G0:He:She} shall marry {CHARACTER-4}</en-US>
+    <en-US>{G0:Lui:Lei} shall marry {CHARACTER-4}</en-US>
     <it-IT>{G0:Lui:Lei} sposerà {CHARACTER-4}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_FAMILY_OR_MERCHANT_CONNECTIONS</zType>
-    <en-US>{G0:He:She} shall marry {CHARACTER-5}</en-US>
+    <en-US>{G0:Lui:Lei} shall marry {CHARACTER-5}</en-US>
     <it-IT>{G0:Lui:Lei} sposerà {CHARACTER-5}</it-IT>
   </Entry>
   <Entry>
@@ -16497,7 +16497,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_TIME_FOR_REJOICING_OPTION_1</zType>
-    <en-US>{G0:He:She} should continue {G0:his:her} pursuit of knowledge.</en-US>
+    <en-US>{G0:Lui:Lei} should continue {G0:his:her} pursuit of knowledge.</en-US>
     <it-IT>{G0:Lui:Lei} dovrebbe continuare a perseguire la conoscenza di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
@@ -16522,23 +16522,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_EXCELLENT_STUDENT_OPTION_0</zType>
-    <en-US>{G0:He:She} should focus on battlefield leadership.</en-US>
+    <en-US>{G0:Lui:Lei} should focus on battlefield leadership.</en-US>
     <it-IT>{G0:Lui:Lei} dovrebbe concentrarsi sulla leadership sul campo di battaglia.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_EXCELLENT_STUDENT_OPTION_1</zType>
-    <en-US>{G0:He:She} should focus on unit tactics.</en-US>
+    <en-US>{G0:Lui:Lei} should focus on unit tactics.</en-US>
     <it-IT>{G0:Lui:Lei} dovrebbe concentrarsi sulle tattiche delle unità.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_WILDERNESS_SURVIVAL_OPTION_0</zType>
-    <en-US>Survival skills will serve {G0:him:her} well on the front lines.</en-US>
-    <it-IT>Le abilità di sopravvivenza saranno utili a {G0:him:her} in prima linea.</it-IT>
+    <en-US>Survival skills will serve {G0:lui:lei} well on the front lines.</en-US>
+    <it-IT>Le abilità di sopravvivenza saranno utili a {G0:lui:lei} in prima linea.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_WILDERNESS_SURVIVAL_OPTION_1</zType>
-    <en-US>It is good for {G0:him:her} to learn how to exploit weakness.</en-US>
-    <it-IT>È bene che {G0:him:her} impari a sfruttare le debolezze.</it-IT>
+    <en-US>It is good for {G0:lui:lei} to learn how to exploit weakness.</en-US>
+    <it-IT>È bene che {G0:lui:lei} impari a sfruttare le debolezze.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_MASTER_ORATION_OPTION_0</zType>
@@ -16557,8 +16557,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISCIPLINARY_ACTION_OPTION_0</zType>
-    <en-US>{CHARACTER-0} must obey {G0:himself:herself} or be punished!</en-US>
-    <it-IT>{CHARACTER-0} deve obbedire a {G0:himself:herself} o essere punito!</it-IT>
+    <en-US>{CHARACTER-0} must obey {G0:se stesso:se stessa} or be punished!</en-US>
+    <it-IT>{CHARACTER-0} deve obbedire a {G0:se stesso:se stessa} o essere punito!</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISCIPLINARY_ACTION_OPTION_1</zType>
@@ -16572,32 +16572,32 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_GOLDEN_VOICE_OPTION_0</zType>
-    <en-US>{G0:He:She} would excel as an ambassador.</en-US>
+    <en-US>{G0:Lui:Lei} would excel as an ambassador.</en-US>
     <it-IT>{G0:Lui:Lei} eccellerebbe come ambasciatore.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_GOLDEN_VOICE_OPTION_1</zType>
-    <en-US>{G0:He:She} is a natural educator.</en-US>
+    <en-US>{G0:Lui:Lei} is a natural educator.</en-US>
     <it-IT>{G0:Lui:Lei} è un educatore naturale.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_SPENDTHRIFT_OPTION_0</zType>
-    <en-US>{G0:He:She} must work harder at {G0:his:her} training.</en-US>
+    <en-US>{G0:Lui:Lei} must work harder at {G0:his:her} training.</en-US>
     <it-IT>{G0:Lui:Lei} deve impegnarsi di più nell'allenamento di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_SPENDTHRIFT_OPTION_1</zType>
-    <en-US>{G0:He:She} has the full support of the throne.</en-US>
+    <en-US>{G0:Lui:Lei} has the full support of the throne.</en-US>
     <it-IT>{G0:Lui:Lei} ha il pieno sostegno del trono.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_THE_MISEDUCATION_OF_OPTION_0</zType>
-    <en-US>Let {G0:him:her} finish, and then we will decide.</en-US>
-    <it-IT>Lasciamo che {G0:him:her} finisca e poi decideremo.</it-IT>
+    <en-US>Let {G0:lui:lei} finish, and then we will decide.</en-US>
+    <it-IT>Lasciamo che {G0:lui:lei} finisca e poi decideremo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_THE_MISEDUCATION_OF_OPTION_1</zType>
-    <en-US>{G0:He:She} must come home now.</en-US>
+    <en-US>{G0:Lui:Lei} must come home now.</en-US>
     <it-IT>{G0:Lui:Lei} deve tornare a casa adesso.</it-IT>
   </Entry>
   <Entry>
@@ -16642,8 +16642,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TACTICS_TO_PHILOSOPHY_NO</zType>
-    <en-US>Leave {G0:him:her}, but hire a better tutor.</en-US>
-    <it-IT>Lasciate {G0:him:her}, ma assumete un tutor migliore.</it-IT>
+    <en-US>Leave {G0:lui:lei}, but hire a better tutor.</en-US>
+    <it-IT>Lasciate {G0:lui:lei}, ma assumete un tutor migliore.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TACTICS_TO_PHILOSOPHY_YES</zType>
@@ -16652,8 +16652,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_REMARKABLE_YOUTH_NO</zType>
-    <en-US>Send {G0:him:her} away, I must remain loyal.</en-US>
-    <it-IT>Mandate via {G0:him:her}, devo rimanere fedele.</it-IT>
+    <en-US>Send {G0:lui:lei} away, I must remain loyal.</en-US>
+    <it-IT>Mandate via {G0:lui:lei}, devo rimanere fedele.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_REMARKABLE_YOUTH_YES</zType>
@@ -16697,13 +16697,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_FRIENDLY_VISIT_OPTION_0</zType>
-    <en-US>Send {G0:him:her} a gift of academic texts.</en-US>
-    <it-IT>Inviate a {G0:him:her} un regalo di testi accademici.</it-IT>
+    <en-US>Send {G0:lui:lei} a gift of academic texts.</en-US>
+    <it-IT>Inviate a {G0:lui:lei} un regalo di testi accademici.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_FRIENDLY_VISIT_OPTION_1</zType>
-    <en-US>Send {G0:him:her} wine for revels with friends.</en-US>
-    <it-IT>Inviate il vino {G0:him:her} per i bagordi con gli amici.</it-IT>
+    <en-US>Send {G0:lui:lei} wine for revels with friends.</en-US>
+    <it-IT>Inviate il vino {G0:lui:lei} per i bagordi con gli amici.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GRADUATE_A_FAMILIAR_FACE_OPTION_0</zType>
@@ -16712,8 +16712,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GRADUATE_A_FAMILIAR_FACE_OPTION_1</zType>
-    <en-US>No celebrations! Give {G0:him:her} the court's clerical work.</en-US>
-    <it-IT>Niente celebrazioni! Date a {G0:him:her} il lavoro d'ufficio del tribunale.</it-IT>
+    <en-US>No celebrations! Give {G0:lui:lei} the court's clerical work.</en-US>
+    <it-IT>Niente celebrazioni! Date a {G0:lui:lei} il lavoro d'ufficio del tribunale.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_0</zType>
@@ -16722,8 +16722,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_1</zType>
-    <en-US>Have {G0:him:her} study our current policies.</en-US>
-    <it-IT>Chiedere a {G0:him:her} di studiare le nostre politiche attuali.</it-IT>
+    <en-US>Have {G0:lui:lei} study our current policies.</en-US>
+    <it-IT>Chiedere a {G0:lui:lei} di studiare le nostre politiche attuali.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GRADUATION_A_CITY_CELEBRATES_OPTION_0</zType>
@@ -16742,8 +16742,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GRADUATION_HOMECOMING_OPTION_1</zType>
-    <en-US>Instil in {G0:him:her} a drive for understanding.</en-US>
-    <it-IT>Instillare in {G0:him:her} la voglia di capire.</it-IT>
+    <en-US>Instil in {G0:lui:lei} a drive for understanding.</en-US>
+    <it-IT>Instillare in {G0:lui:lei} la voglia di capire.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DISMISSAL_VASSALAGE</zType>
@@ -16762,18 +16762,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_SPECIAL_RECOGNITION_01_OPTION_0</zType>
-    <en-US>We have no choice but to yield to {G0:him:her}.</en-US>
-    <it-IT>Non abbiamo altra scelta che cedere a {G0:him:her}.</it-IT>
+    <en-US>We have no choice but to yield to {G0:lui:lei}.</en-US>
+    <it-IT>Non abbiamo altra scelta che cedere a {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_SPECIAL_RECOGNITION_01_OPTION_1</zType>
-    <en-US>Let {G0:him:her} make demands until {G0:he:she} is blue in the face.</en-US>
-    <it-IT>Lasciate che {G0:him:her} faccia richieste fino a quando {G0:he:she} non sarà diventato blu in faccia.</it-IT>
+    <en-US>Let {G0:lui:lei} make demands until {G0:lui:lei} is blue in the face.</en-US>
+    <it-IT>Lasciate che {G0:lui:lei} faccia richieste fino a quando {G0:lui:lei} non sarà diventato blu in faccia.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_SPECIAL_RECOGNITION_01_OPTION_2</zType>
-    <en-US>Only one title is good enough for {G0:him:her}: horse's ass.</en-US>
-    <it-IT>Solo un titolo è sufficiente per {G0:him:her}: culo di cavallo.</it-IT>
+    <en-US>Only one title is good enough for {G0:lui:lei}: horse's ass.</en-US>
+    <it-IT>Solo un titolo è sufficiente per {G0:lui:lei}: culo di cavallo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_SPECIAL_RECOGNITION_02_OPTION_0</zType>
@@ -16912,7 +16912,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_PREEMPTIVE_STRIKE_OPTION_0</zType>
-    <en-US>{G0:He:She} is correct. Now is the time.</en-US>
+    <en-US>{G0:Lui:Lei} is correct. Now is the time.</en-US>
     <it-IT>{G0:Lui:Lei} è corretto. È il momento giusto.</it-IT>
   </Entry>
   <Entry>
@@ -16942,8 +16942,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_WICKED_CHARGES_OPTION_0</zType>
-    <en-US>Pay {CHARACTER-0} to keep {G0:him:her} silent.</en-US>
-    <it-IT>Pagare {CHARACTER-0} per mantenere il silenzio di {G0:him:her}.</it-IT>
+    <en-US>Pay {CHARACTER-0} to keep {G0:lui:lei} silent.</en-US>
+    <it-IT>Pagare {CHARACTER-0} per mantenere il silenzio di {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_WICKED_CHARGES_OPTION_1</zType>
@@ -17007,8 +17007,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_STOP_THE_FIGHTING_OPTION_1</zType>
-    <en-US>Appoint {G0:him:her} head of a war council.</en-US>
-    <it-IT>Nominare {G0:him:her} capo di un consiglio di guerra.</it-IT>
+    <en-US>Appoint {G0:lui:lei} head of a war council.</en-US>
+    <it-IT>Nominare {G0:lui:lei} capo di un consiglio di guerra.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_STOP_THE_FIGHTING_OPTION_2</zType>
@@ -17057,7 +17057,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_RULER_FOR_LIFE_OPTION_2</zType>
-    <en-US>{G0:He:She} will be sorry for challenging me.</en-US>
+    <en-US>{G0:Lui:Lei} will be sorry for challenging me.</en-US>
     <it-IT>{G0:Lui:Lei} si pentirà di avermi sfidato.</it-IT>
   </Entry>
   <Entry>
@@ -17177,13 +17177,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_MONEY</zType>
-    <en-US>Task {G0:him:her} with monetizing {G0:his:her} discoveries.</en-US>
-    <it-IT>Compito di {G0:him:her} è monetizzare le scoperte di {G0:his:her}.</it-IT>
+    <en-US>Task {G0:lui:lei} with monetizing {G0:his:her} discoveries.</en-US>
+    <it-IT>Compito di {G0:lui:lei} è monetizzare le scoperte di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_SCIENCE</zType>
-    <en-US>{G0:He:She} will teach our greatest scientists what {G0:he:she} has learned.</en-US>
-    <it-IT>{G0:Lui:Lei} insegnerà ai nostri più grandi scienziati ciò che {G0:he:she} ha imparato.</it-IT>
+    <en-US>{G0:Lui:Lei} will teach our greatest scientists what {G0:lui:lei} has learned.</en-US>
+    <it-IT>{G0:Lui:Lei} insegnerà ai nostri più grandi scienziati ciò che {G0:lui:lei} ha imparato.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_LEGITIMACY</zType>
@@ -17192,23 +17192,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_ORDERS</zType>
-    <en-US>{G0:He:She} should help manage the court's affairs.</en-US>
+    <en-US>{G0:Lui:Lei} should help manage the court's affairs.</en-US>
     <it-IT>{G0:Lui:Lei} dovrebbe aiutare a gestire gli affari del tribunale.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_GREAT_SOLDIER</zType>
-    <en-US>{G0:He:She} is bringing back an esteemed soldier to our court.</en-US>
+    <en-US>{G0:Lui:Lei} is bringing back an esteemed soldier to our court.</en-US>
     <it-IT>{G0:Lui:Lei} sta riportando uno stimato soldato alla nostra corte.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_BRAVE</zType>
-    <en-US>Honor {G0:him:her} for {G0:his:her} bravery.</en-US>
-    <it-IT>Onore a {G0:him:her} per il coraggio di {G0:his:her}.</it-IT>
+    <en-US>Honor {G0:lui:lei} for {G0:his:her} bravery.</en-US>
+    <it-IT>Onore a {G0:lui:lei} per il coraggio di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_BLESSED</zType>
-    <en-US>Honor {G0:him:her} for {G0:his:her} good fortune.</en-US>
-    <it-IT>Onore a {G0:him:her} per la fortuna di {G0:his:her}.</it-IT>
+    <en-US>Honor {G0:lui:lei} for {G0:his:her} good fortune.</en-US>
+    <it-IT>Onore a {G0:lui:lei} per la fortuna di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_ZEALOT</zType>
@@ -17222,8 +17222,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_FOUND_RELIGION</zType>
-    <en-US>Allow {G0:him:her} to spread new, exotic beliefs.</en-US>
-    <it-IT>Permettere a {G0:him:her} di diffondere nuove credenze esotiche.</it-IT>
+    <en-US>Allow {G0:lui:lei} to spread new, exotic beliefs.</en-US>
+    <it-IT>Permettere a {G0:lui:lei} di diffondere nuove credenze esotiche.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_CONTINUES</zType>
@@ -17342,13 +17342,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_LOVESICK_OPTION_0</zType>
-    <en-US>Advise {G0:him:her} to focus on studies, not the opposite sex.</en-US>
-    <it-IT>Consiglia a {G0:him:her} di concentrarsi sugli studi, non sul sesso opposto.</it-IT>
+    <en-US>Advise {G0:lui:lei} to focus on studies, not the opposite sex.</en-US>
+    <it-IT>Consiglia a {G0:lui:lei} di concentrarsi sugli studi, non sul sesso opposto.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_LOVESICK_OPTION_1</zType>
-    <en-US>Congratulate {G0:him:her} on {G0:his:her} skills.</en-US>
-    <it-IT>Congratularsi con {G0:him:her} per le abilità di {G0:his:her}.</it-IT>
+    <en-US>Congratulate {G0:lui:lei} on {G0:his:her} skills.</en-US>
+    <it-IT>Congratularsi con {G0:lui:lei} per le abilità di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_LOVESICK_OPTION_2</zType>
@@ -17357,18 +17357,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_YOUTHFUL_ZEAL_OPTION_0</zType>
-    <en-US>Encourage rebellion. It will serve {G0:him:her} well.</en-US>
-    <it-IT>Incoraggiate la ribellione. Sarà utile a {G0:him:her}.</it-IT>
+    <en-US>Encourage rebellion. It will serve {G0:lui:lei} well.</en-US>
+    <it-IT>Incoraggiate la ribellione. Sarà utile a {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_YOUTHFUL_ZEAL_OPTION_1</zType>
-    <en-US>Remind {G0:him:her} of {G0:his:her} place, as a warning.</en-US>
-    <it-IT>Ricordare a {G0:him:her} il posto di {G0:his:her}, come avvertimento.</it-IT>
+    <en-US>Remind {G0:lui:lei} of {G0:his:her} place, as a warning.</en-US>
+    <it-IT>Ricordare a {G0:lui:lei} il posto di {G0:his:her}, come avvertimento.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_YOUTHFUL_ZEAL_OPTION_2</zType>
-    <en-US>Toss {G0:him:her} in the dungeon anyway.</en-US>
-    <it-IT>Gettate comunque {G0:him:her} nel dungeon.</it-IT>
+    <en-US>Toss {G0:lui:lei} in the dungeon anyway.</en-US>
+    <it-IT>Gettate comunque {G0:lui:lei} nel dungeon.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_EAGER_FOR_COMBAT_OPTION_0</zType>
@@ -17402,28 +17402,28 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_RETURNING_SOLDIER_OPTION_0</zType>
-    <en-US>Surround {G0:him:her} with family and friends.</en-US>
-    <it-IT>Circondate {G0:him:her} con la famiglia e gli amici.</it-IT>
+    <en-US>Surround {G0:lui:lei} with family and friends.</en-US>
+    <it-IT>Circondate {G0:lui:lei} con la famiglia e gli amici.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_RETURNING_SOLDIER_OPTION_1</zType>
-    <en-US>Parade {G0:him:her} through the capital with {G0:his:her} troops.</en-US>
-    <it-IT>Sfilare {G0:him:her} nella capitale con {G0:his:her} truppe.</it-IT>
+    <en-US>Parade {G0:lui:lei} through the capital with {G0:his:her} troops.</en-US>
+    <it-IT>Sfilare {G0:lui:lei} nella capitale con {G0:his:her} truppe.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_RETURNING_SOLDIER_OPTION_2</zType>
-    <en-US>Promote {G0:him:her} to the court.</en-US>
-    <it-IT>Promuovere {G0:him:her} alla corte.</it-IT>
+    <en-US>Promote {G0:lui:lei} to the court.</en-US>
+    <it-IT>Promuovere {G0:lui:lei} alla corte.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PHYSICAL_CONFRONTATION_OPTION_0</zType>
-    <en-US>This is the best place for {G0:him:her}.</en-US>
-    <it-IT>Questo è il posto migliore per {G0:him:her}.</it-IT>
+    <en-US>This is the best place for {G0:lui:lei}.</en-US>
+    <it-IT>Questo è il posto migliore per {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PHYSICAL_CONFRONTATION_OPTION_1</zType>
-    <en-US>It is time for {G0:him:her} to come home.</en-US>
-    <it-IT>È ora che {G0:him:her} torni a casa.</it-IT>
+    <en-US>It is time for {G0:lui:lei} to come home.</en-US>
+    <it-IT>È ora che {G0:lui:lei} torni a casa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_A_FUNNY_FEELING_OPTION_0</zType>
@@ -17457,7 +17457,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_COURT_MOURNS_OPTION_0</zType>
-    <en-US>{G0:He:She} served us well.</en-US>
+    <en-US>{G0:Lui:Lei} served us well.</en-US>
     <it-IT>{G0:Lui:Lei} ci ha servito bene.</it-IT>
   </Entry>
   <Entry>
@@ -17657,13 +17657,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLEA_FOR_LENIENCY_OPTION_2</zType>
-    <en-US>I will grant {G0:him:her} freedom for the love of {CHARACTER-SHORT-1}.</en-US>
-    <it-IT>Concederò a {G0:him:her} la libertà per amore di {CHARACTER-SHORT-1}.</it-IT>
+    <en-US>I will grant {G0:lui:lei} freedom for the love of {CHARACTER-SHORT-1}.</en-US>
+    <it-IT>Concederò a {G0:lui:lei} la libertà per amore di {CHARACTER-SHORT-1}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SURPRISE_BIRTH_OPTION_0</zType>
-    <en-US>Nothing has changed. Leave {G0:him:her} to rot.</en-US>
-    <it-IT>Non è cambiato nulla. Lasciare {G0:him:her} a marcire.</it-IT>
+    <en-US>Nothing has changed. Leave {G0:lui:lei} to rot.</en-US>
+    <it-IT>Non è cambiato nulla. Lasciare {G0:lui:lei} a marcire.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SURPRISE_BIRTH_OPTION_1</zType>
@@ -17732,8 +17732,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_A_CHILLY_RECEPTION_OPTION_1</zType>
-    <en-US>Keep {G0:him:her} entertained with various tutors and amusements.</en-US>
-    <it-IT>Intrattenere {G0:him:her} con vari tutor e divertimenti.</it-IT>
+    <en-US>Keep {G0:lui:lei} entertained with various tutors and amusements.</en-US>
+    <it-IT>Intrattenere {G0:lui:lei} con vari tutor e divertimenti.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_A_CHILLY_RECEPTION_OPTION_2</zType>
@@ -17792,17 +17792,17 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_THE_MONGREL_OPTION_0</zType>
-    <en-US>{G0:He:She} should treat the dog with affection and gentleness.</en-US>
+    <en-US>{G0:Lui:Lei} should treat the dog with affection and gentleness.</en-US>
     <it-IT>{G0:Lui:Lei} deve trattare il cane con affetto e gentilezza.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_THE_MONGREL_OPTION_1</zType>
-    <en-US>{G0:He:She} should use a strict system of rewards and punishments.</en-US>
+    <en-US>{G0:Lui:Lei} should use a strict system of rewards and punishments.</en-US>
     <it-IT>{G0:Lui:Lei} dovrebbe utilizzare un sistema rigoroso di premi e punizioni.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_THE_MONGREL_OPTION_2</zType>
-    <en-US>{G0:He:She} should beat and torment the creature for loyalty.</en-US>
+    <en-US>{G0:Lui:Lei} should beat and torment the creature for loyalty.</en-US>
     <it-IT>{G0:Lui:Lei} dovrebbe picchiare e tormentare la creatura in cambio di fedeltà.</it-IT>
   </Entry>
   <Entry>
@@ -17827,8 +17827,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_YOUNG_MASTER_OPTION_0</zType>
-    <en-US>Encourage {G0:him:her} to spread these teachings to the people.</en-US>
-    <it-IT>Incoraggiate {G0:him:her} a diffondere questi insegnamenti al popolo.</it-IT>
+    <en-US>Encourage {G0:lui:lei} to spread these teachings to the people.</en-US>
+    <it-IT>Incoraggiate {G0:lui:lei} a diffondere questi insegnamenti al popolo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_YOUNG_MASTER_OPTION_1</zType>
@@ -17837,12 +17837,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STREET_DEBATE_OPTION_0</zType>
-    <en-US>We will reward {G0:him:her} with luxuries and property.</en-US>
-    <it-IT>Premieremo {G0:him:her} con lussi e proprietà.</it-IT>
+    <en-US>We will reward {G0:lui:lei} with luxuries and property.</en-US>
+    <it-IT>Premieremo {G0:lui:lei} con lussi e proprietà.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STREET_DEBATE_OPTION_1</zType>
-    <en-US>{G0:He:She} performed {G0:his:her} service faithfully.</en-US>
+    <en-US>{G0:Lui:Lei} performed {G0:his:her} service faithfully.</en-US>
     <it-IT>{G0:Lui:Lei} ha svolto fedelmente il servizio di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
@@ -17867,13 +17867,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_MEDIATOR_OPTION_0</zType>
-    <en-US>{G0:He:She} should be focused on {G0:his:her} studies.</en-US>
+    <en-US>{G0:Lui:Lei} should be focused on {G0:his:her} studies.</en-US>
     <it-IT>{G0:Lui:Lei} dovrebbe concentrarsi sugli studi di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_MEDIATOR_OPTION_1</zType>
-    <en-US>Arrange for {G0:him:her} to teach a class of {G0:his:her} own.</en-US>
-    <it-IT>Organizzare l'insegnamento di {G0:him:her} in una classe di {G0:his:her}.</it-IT>
+    <en-US>Arrange for {G0:lui:lei} to teach a class of {G0:his:her} own.</en-US>
+    <it-IT>Organizzare l'insegnamento di {G0:lui:lei} in una classe di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_STUDENT_EMPORIUM_OPTION_0</zType>
@@ -17957,7 +17957,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_WORK_OF_ART_OPTION_0</zType>
-    <en-US>{G0:He:She} must remain focused on a formal education.</en-US>
+    <en-US>{G0:Lui:Lei} must remain focused on a formal education.</en-US>
     <it-IT>{G0:Lui:Lei} deve rimanere concentrato su un'educazione formale.</it-IT>
   </Entry>
   <Entry>
@@ -17967,13 +17967,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RESIDENT_ARTIST_OPTION_0</zType>
-    <en-US>Leave {G0:him:her} to follow {G0:his:her} own muse.</en-US>
-    <it-IT>Lasciare che {G0:him:her} segua la propria musa.</it-IT>
+    <en-US>Leave {G0:lui:lei} to follow {G0:his:her} own muse.</en-US>
+    <it-IT>Lasciare che {G0:lui:lei} segua la propria musa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RESIDENT_ARTIST_OPTION_1</zType>
-    <en-US>Place {G0:him:her} in charge of royal beautification efforts.</en-US>
-    <it-IT>Porre {G0:him:her} a capo delle iniziative di abbellimento della reggia.</it-IT>
+    <en-US>Place {G0:lui:lei} in charge of royal beautification efforts.</en-US>
+    <it-IT>Porre {G0:lui:lei} a capo delle iniziative di abbellimento della reggia.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PIRACY_POWERS_OPTION_0</zType>
@@ -18007,18 +18007,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_OVERBOARD_FAILURE_OPTION_0</zType>
-    <en-US>I should have suspected {G0:him:her} from the start.</en-US>
-    <it-IT>Avrei dovuto sospettare {G0:him:her} fin dall'inizio.</it-IT>
+    <en-US>I should have suspected {G0:lui:lei} from the start.</en-US>
+    <it-IT>Avrei dovuto sospettare {G0:lui:lei} fin dall'inizio.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_VOYAGE_RUSE_OPTION_0</zType>
-    <en-US>I will deal with {G0:him:her} eventually.</en-US>
-    <it-IT>Alla fine mi occuperò di {G0:him:her}.</it-IT>
+    <en-US>I will deal with {G0:lui:lei} eventually.</en-US>
+    <it-IT>Alla fine mi occuperò di {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_VOYAGE_RUSE_OPTION_1</zType>
-    <en-US>Give {G0:him:her} time to reflect on {G0:his:her} treachery.</en-US>
-    <it-IT>Dare a {G0:him:her} il tempo di riflettere sul tradimento di {G0:his:her}.</it-IT>
+    <en-US>Give {G0:lui:lei} time to reflect on {G0:his:her} treachery.</en-US>
+    <it-IT>Dare a {G0:lui:lei} il tempo di riflettere sul tradimento di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_VOYAGE_RUSE_OPTION_2</zType>
@@ -18172,18 +18172,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TENSE_MEETING_OPTION_0</zType>
-    <en-US>Convince {G0:him:her} that you can work together.</en-US>
-    <it-IT>Convincere {G0:him:her} che potete lavorare insieme.</it-IT>
+    <en-US>Convince {G0:lui:lei} that you can work together.</en-US>
+    <it-IT>Convincere {G0:lui:lei} che potete lavorare insieme.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TENSE_MEETING_OPTION_1</zType>
-    <en-US>Flatter {G0:him:her} with promises of royal influence.</en-US>
-    <it-IT>Lusinga {G0:him:her} con promesse di influenza reale.</it-IT>
+    <en-US>Flatter {G0:lui:lei} with promises of royal influence.</en-US>
+    <it-IT>Lusinga {G0:lui:lei} con promesse di influenza reale.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TENSE_MEETING_OPTION_2</zType>
-    <en-US>Describe the reckoning that will come if {G0:he:she} continues.</en-US>
-    <it-IT>Descrivete la resa dei conti che avverrà se {G0:he:she} continua.</it-IT>
+    <en-US>Describe the reckoning that will come if {G0:lui:lei} continues.</en-US>
+    <it-IT>Descrivete la resa dei conti che avverrà se {G0:lui:lei} continua.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TENSE_MEETING_OPTION_3</zType>
@@ -18207,8 +18207,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNDER_ARREST_OPTION_0</zType>
-    <en-US>Threaten {G0:him:her} with grievous harm.</en-US>
-    <it-IT>Minacciare {G0:him:her} di un grave danno.</it-IT>
+    <en-US>Threaten {G0:lui:lei} with grievous harm.</en-US>
+    <it-IT>Minacciare {G0:lui:lei} di un grave danno.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNDER_ARREST_OPTION_1</zType>
@@ -18232,8 +18232,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_DEFACED_OPTION_0</zType>
-    <en-US>Release {G0:him:her} with a strict warning.</en-US>
-    <it-IT>Rilasciare {G0:him:her} con un'avvertenza severa.</it-IT>
+    <en-US>Release {G0:lui:lei} with a strict warning.</en-US>
+    <it-IT>Rilasciare {G0:lui:lei} con un'avvertenza severa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_DEFACED_OPTION_1</zType>
@@ -18272,8 +18272,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_ON_GOOD_AUTHORITY_OPTION_1</zType>
-    <en-US>Assign {G0:him:her} to shepherd an expedition... far away from here.</en-US>
-    <it-IT>Assegnate a {G0:him:her} il compito di guidare una spedizione... lontano da qui.</it-IT>
+    <en-US>Assign {G0:lui:lei} to shepherd an expedition... far away from here.</en-US>
+    <it-IT>Assegnate a {G0:lui:lei} il compito di guidare una spedizione... lontano da qui.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_INCONSOLABLE_OPTION_0</zType>
@@ -18397,13 +18397,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_A_BROKEN_SOUL_OPTION_1</zType>
-    <en-US>{G0:He:She} has proven weak and must overcome this alone.</en-US>
+    <en-US>{G0:Lui:Lei} has proven weak and must overcome this alone.</en-US>
     <it-IT>{G0:Lui:Lei} si è dimostrato debole e deve superarlo da solo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_A_BROKEN_SOUL_OPTION_2</zType>
-    <en-US>Torture will exorcise the demons that plague {G0:him:her}.</en-US>
-    <it-IT>La tortura esorcizzerà i demoni che affliggono {G0:him:her}.</it-IT>
+    <en-US>Torture will exorcise the demons that plague {G0:lui:lei}.</en-US>
+    <it-IT>La tortura esorcizzerà i demoni che affliggono {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_BELOVED_MENTOR_OPTION_0</zType>
@@ -18537,12 +18537,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_LONELINESS_ABROAD_OPTION_2</zType>
-    <en-US>{G0:He:She} must continue exploring.</en-US>
+    <en-US>{G0:Lui:Lei} must continue exploring.</en-US>
     <it-IT>{G0:Lui:Lei} deve continuare a esplorare.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_LONELINESS_ABROAD_OPTION_3</zType>
-    <en-US>{G0:He:She} does not need a spouse right now.</en-US>
+    <en-US>{G0:Lui:Lei} does not need a spouse right now.</en-US>
     <it-IT>{G0:Lui:Lei} non ha bisogno di un coniuge in questo momento.</it-IT>
   </Entry>
   <Entry>
@@ -18727,7 +18727,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_ASSIGNMENT_PLEASED_OPTION_0</zType>
-    <en-US>{G0:He:She} is a fine young {G0:man:woman}.</en-US>
+    <en-US>{G0:Lui:Lei} is a fine young {G0:man:woman}.</en-US>
     <it-IT>{G0:Lui:Lei} è un bel giovane {G0:man:woman}.</it-IT>
   </Entry>
   <Entry>
@@ -19062,8 +19062,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CLASSIC_TRAGEDY_OPTION_0</zType>
-    <en-US>The final wishes of my {G0:husband:wife} shall be respected.</en-US>
-    <it-IT>Le ultime volontà del mio {G0:husband:wife} saranno rispettate.</it-IT>
+    <en-US>The final wishes of my {G0:marito:moglie} shall be respected.</en-US>
+    <it-IT>Le ultime volontà del mio {G0:marito:moglie} saranno rispettate.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CLASSIC_TRAGEDY_OPTION_1</zType>
@@ -19077,8 +19077,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CLASSIC_TRAGEDY_INVESTIGATION_OPTION_0</zType>
-    <en-US>Thank you for the report. I never knew how disturbed {G0:he:she} was.</en-US>
-    <it-IT>Grazie per il resoconto. Non sapevo quanto fosse disturbato {G0:he:she}.</it-IT>
+    <en-US>Thank you for the report. I never knew how disturbed {G0:lui:lei} was.</en-US>
+    <it-IT>Grazie per il resoconto. Non sapevo quanto fosse disturbato {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_AIRY_AND_MENDACIOUS_STYLE_OPTION_0</zType>
@@ -19097,8 +19097,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_OF_PROPHECY_OPTION_0</zType>
-    <en-US>Mayhaps fate will be kind today. Allow {G0:him:her} to learn of their plans.</en-US>
-    <it-IT>Forse oggi il destino sarà benevolo. Permettete a {G0:him:her} di conoscere i loro piani.</it-IT>
+    <en-US>Mayhaps fate will be kind today. Allow {G0:lui:lei} to learn of their plans.</en-US>
+    <it-IT>Forse oggi il destino sarà benevolo. Permettete a {G0:lui:lei} di conoscere i loro piani.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_OF_PROPHECY_OPTION_1</zType>
@@ -19257,13 +19257,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISASTER_AT_SEA_OPTION_2</zType>
-    <en-US>I shall find {G0:him:her} myself.</en-US>
-    <it-IT>Troverò {G0:him:her} da solo.</it-IT>
+    <en-US>I shall find {G0:lui:lei} myself.</en-US>
+    <it-IT>Troverò {G0:lui:lei} da solo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_BOOKISH_DEMEANOR_OPTION_0</zType>
-    <en-US>Send {G0:him:her} to the army! That'll toughen {G0:him:her} up.</en-US>
-    <it-IT>Mandate {G0:him:her} nell'esercito! Questo renderà {G0:him:her} più forte.</it-IT>
+    <en-US>Send {G0:lui:lei} to the army! That'll toughen {G0:lui:lei} up.</en-US>
+    <it-IT>Mandate {G0:lui:lei} nell'esercito! Questo renderà {G0:lui:lei} più forte.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_BOOKISH_DEMEANOR_OPTION_1</zType>
@@ -19282,8 +19282,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DRUNKEN_MISCONDUCT_OPTION_1</zType>
-    <en-US>As you say, {G0:he:she} is a lost cause.</en-US>
-    <it-IT>Come lei dice, {G0:he:she} è una causa persa.</it-IT>
+    <en-US>As you say, {G0:lui:lei} is a lost cause.</en-US>
+    <it-IT>Come lei dice, {G0:lui:lei} è una causa persa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DRUNKEN_MISCONDUCT_AFFABLE</zType>
@@ -19317,13 +19317,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_HEMP_ADDICTION_OPTION_0</zType>
-    <en-US>If {CHARACTER-0} recovers, then the doctor shall teach {G0:him:her} of the craft.</en-US>
-    <it-IT>Se {CHARACTER-0} si riprende, il medico deve insegnare a {G0:him:her} il mestiere.</it-IT>
+    <en-US>If {CHARACTER-0} recovers, then the doctor shall teach {G0:lui:lei} of the craft.</en-US>
+    <it-IT>Se {CHARACTER-0} si riprende, il medico deve insegnare a {G0:lui:lei} il mestiere.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_HEMP_ADDICTION_OPTION_1</zType>
-    <en-US>Bring {G0:him:her} home, and I hope this pleases the families.</en-US>
-    <it-IT>Riportate a casa {G0:him:her} e spero che questo sia gradito alle famiglie.</it-IT>
+    <en-US>Bring {G0:lui:lei} home, and I hope this pleases the families.</en-US>
+    <it-IT>Riportate a casa {G0:lui:lei} e spero che questo sia gradito alle famiglie.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_HEMP_ADDICTION_OPTION_2</zType>
@@ -22152,8 +22152,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_VENGEFUL_TO_PLOTTING</zType>
-    <en-US><![CDATA[<p.is_sub.S1=SUBJECT_ZEALOT>The gods shall protect me!<p=SUBJECT_SCHOLAR>I shall research counters to common schemes.<p=SUBJECT_ORATOR>Perhaps I can talk {G0:him:her} out of it?<p=SUBJECT_DIPLOMAT>Perhaps I can talk {G0:him:her} out of it?<p=SUBJECT_SCHEMER>{G0:He:She} cannot out-plot me!<p=SUBJECT_HERO>{G0:He:She} dares plot against me?!<p=SUBJECT_TACTICIAN>{G0:He:She} can be easily out-maneuvered.<p=SUBJECT_COMMANDER>{G0:He:She} is no threat to me!<p=SUBJECT_BUILDER>I hate these distractions from my great works.<p=SUBJECT_JUDGE>But… that’s illegal!<else>Worrisome.<end>]]></en-US>
-    <it-IT><![CDATA[<p.is_sub.S1=SUBJECT_ZEALOT>Gli dei mi proteggeranno! <p=SUBJECT_SCHOLAR>Ricercherò i contatori agli schemi comuni.<p=SUBJECT_ORATOR>Forse posso convincere {G0:him:her} a non farlo? <p=SUBJECT_DIPLOMAT>Forse posso convincere {G0:him:her} a non farlo? <p=SUBJECT_SCHEMER>{G0:Lui:Lei} non può superare i miei piani! <p=SUBJECT_HERO>{G0:Lui:Lei} osa complottare contro di me?! <p=SUBJECT_TACTICIAN>{G0:Lui:Lei} può essere facilmente superato.<p=SUBJECT_COMMANDER>{G0:Lui:Lei} non è una minaccia per me! <p=SUBJECT_BUILDER>Odio queste distrazioni dalle mie grandi opere.<p=SUBJECT_JUDGE>Ma... questo è illegale! <else>Preoccupante.<p> Fine>]]></it-IT>
+    <en-US><![CDATA[<p.is_sub.S1=SUBJECT_ZEALOT>The gods shall protect me!<p=SUBJECT_SCHOLAR>I shall research counters to common schemes.<p=SUBJECT_ORATOR>Perhaps I can talk {G0:lui:lei} out of it?<p=SUBJECT_DIPLOMAT>Perhaps I can talk {G0:lui:lei} out of it?<p=SUBJECT_SCHEMER>{G0:Lui:Lei} cannot out-plot me!<p=SUBJECT_HERO>{G0:Lui:Lei} dares plot against me?!<p=SUBJECT_TACTICIAN>{G0:Lui:Lei} can be easily out-maneuvered.<p=SUBJECT_COMMANDER>{G0:Lui:Lei} is no threat to me!<p=SUBJECT_BUILDER>I hate these distractions from my great works.<p=SUBJECT_JUDGE>But… that’s illegal!<else>Worrisome.<end>]]></en-US>
+    <it-IT><![CDATA[<p.is_sub.S1=SUBJECT_ZEALOT>Gli dei mi proteggeranno! <p=SUBJECT_SCHOLAR>Ricercherò i contatori agli schemi comuni.<p=SUBJECT_ORATOR>Forse posso convincere {G0:lui:lei} a non farlo? <p=SUBJECT_DIPLOMAT>Forse posso convincere {G0:lui:lei} a non farlo? <p=SUBJECT_SCHEMER>{G0:Lui:Lei} non può superare i miei piani! <p=SUBJECT_HERO>{G0:Lui:Lei} osa complottare contro di me?! <p=SUBJECT_TACTICIAN>{G0:Lui:Lei} può essere facilmente superato.<p=SUBJECT_COMMANDER>{G0:Lui:Lei} non è una minaccia per me! <p=SUBJECT_BUILDER>Odio queste distrazioni dalle mie grandi opere.<p=SUBJECT_JUDGE>Ma... questo è illegale! <else>Preoccupante.<p> Fine>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ENCHANTING_CONVERSATION_FOLLOWUP_1</zType>
@@ -22247,12 +22247,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AGENT_RIGHT_PRICE_1</zType>
-    <en-US>Promise {G0:him:her} that I can match any offer that the {PLAYER-2,3} make.</en-US>
-    <it-IT>Prometto a {G0:him:her} che potrò pareggiare qualsiasi offerta fatta da {PLAYER-2,3}.</it-IT>
+    <en-US>Promise {G0:lui:lei} that I can match any offer that the {PLAYER-2,3} make.</en-US>
+    <it-IT>Prometto a {G0:lui:lei} che potrò pareggiare qualsiasi offerta fatta da {PLAYER-2,3}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AGENT_RIGHT_PRICE_2</zType>
-    <en-US>{G0:He:She} must be watched carefully.</en-US>
+    <en-US>{G0:Lui:Lei} must be watched carefully.</en-US>
     <it-IT>{G0:Lui:Lei} deve essere osservato con attenzione.</it-IT>
   </Entry>
   <Entry>
@@ -25642,7 +25642,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_HOLY_STATE_OPTION_0</zType>
-    <en-US>{G0:He:She} is right. We must take this fateful step.</en-US>
+    <en-US>{G0:Lui:Lei} is right. We must take this fateful step.</en-US>
     <it-IT>{G0:Lui:Lei} ha ragione. Dobbiamo compiere questo passo fatidico.</it-IT>
   </Entry>
   <Entry>
@@ -25662,8 +25662,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_OF_RELIGION_HEAD_0</zType>
-    <en-US>Introduce {G0:him:her} to {CHARACTER-SHORT-3}.</en-US>
-    <it-IT>Introdurre {G0:him:her} a {CHARACTER-SHORT-3}.</it-IT>
+    <en-US>Introduce {G0:lui:lei} to {CHARACTER-SHORT-3}.</en-US>
+    <it-IT>Introdurre {G0:lui:lei} a {CHARACTER-SHORT-3}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_OF_RELIGION_HEAD_1</zType>
@@ -27032,7 +27032,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMOUS_VICTOR_OK</zType>
-    <en-US>{G0:He:She} has earned a reward.</en-US>
+    <en-US>{G0:Lui:Lei} has earned a reward.</en-US>
     <it-IT>{G0:Lui:Lei} ha ottenuto una ricompensa.</it-IT>
   </Entry>
   <Entry>
@@ -27042,8 +27042,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONSPIRACY_OPTION_0</zType>
-    <en-US>Would {G0:he:she} really betray us?</en-US>
-    <it-IT>{G0:he:she} ci tradirebbe davvero?</it-IT>
+    <en-US>Would {G0:lui:lei} really betray us?</en-US>
+    <it-IT>{G0:lui:lei} ci tradirebbe davvero?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_KNIVES_OF_THE_CONSPIRACY_OPTION_0</zType>
@@ -27057,8 +27057,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TEMPTING_RUMORS_OPTION_1</zType>
-    <en-US>No, we trust {G0:him:her}.</en-US>
-    <it-IT>No, ci fidiamo di {G0:him:her}.</it-IT>
+    <en-US>No, we trust {G0:lui:lei}.</en-US>
+    <it-IT>No, ci fidiamo di {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ASCETIC_MOVEMENT_REPRESS</zType>
@@ -27082,7 +27082,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WAYWARD_SUBJECT_IMPRISON</zType>
-    <en-US>{G0:He:She} should never have returned.</en-US>
+    <en-US>{G0:Lui:Lei} should never have returned.</en-US>
     <it-IT>{G0:Lui:Lei} non sarebbe mai dovuto tornare.</it-IT>
   </Entry>
   <Entry>
@@ -27932,8 +27932,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_PERSECUTION_IN_CITY_OPTION_2</zType>
-    <en-US>Convert {G0:him:her} to {RELIGION-2}.</en-US>
-    <it-IT>Convertire {G0:him:her} in {RELIGION-2}.</it-IT>
+    <en-US>Convert {G0:lui:lei} to {RELIGION-2}.</en-US>
+    <it-IT>Convertire {G0:lui:lei} in {RELIGION-2}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SEDITIOUS_MEETINGS_OPTION_0</zType>
@@ -28027,8 +28027,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_JEALOUS_RAGE_OPTION_0</zType>
-    <en-US>Imprison the plotters, but free my {G0:husband:wife}.</en-US>
-    <it-IT>Imprigionate i complottisti, ma liberate il mio {G0:husband:wife}.</it-IT>
+    <en-US>Imprison the plotters, but free my {G0:marito:moglie}.</en-US>
+    <it-IT>Imprigionate i complottisti, ma liberate il mio {G0:marito:moglie}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_JEALOUS_RAGE_OPTION_1</zType>
@@ -28062,8 +28062,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_BAD_BLOOD_OPTION_1</zType>
-    <en-US>Order spies to monitor {G0:him:her}.</en-US>
-    <it-IT>Ordinare alle spie di monitorare {G0:him:her}.</it-IT>
+    <en-US>Order spies to monitor {G0:lui:lei}.</en-US>
+    <it-IT>Ordinare alle spie di monitorare {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_BAD_BLOOD_OPTION_2</zType>
@@ -28072,28 +28072,28 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_BEST_SERVED_COLD_OPTION_0</zType>
-    <en-US>Send {G0:him:her} to a temple for a divine cure.</en-US>
-    <it-IT>Inviate {G0:him:her} a un tempio per una cura divina.</it-IT>
+    <en-US>Send {G0:lui:lei} to a temple for a divine cure.</en-US>
+    <it-IT>Inviate {G0:lui:lei} a un tempio per una cura divina.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_BEST_SERVED_COLD_OPTION_1</zType>
-    <en-US>Imprison {G0:him:her} in the city jail.</en-US>
-    <it-IT>Imprigionare {G0:him:her} nella prigione della città.</it-IT>
+    <en-US>Imprison {G0:lui:lei} in the city jail.</en-US>
+    <it-IT>Imprigionare {G0:lui:lei} nella prigione della città.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_BEST_SERVED_COLD_OPTION_2</zType>
-    <en-US>Execute {G0:him:her} for the murder of {CHARACTER-2}.</en-US>
-    <it-IT>Eseguire {G0:him:her} per l'omicidio di {CHARACTER-2}.</it-IT>
+    <en-US>Execute {G0:lui:lei} for the murder of {CHARACTER-2}.</en-US>
+    <it-IT>Eseguire {G0:lui:lei} per l'omicidio di {CHARACTER-2}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_JAILBREAK_OPTION_0</zType>
-    <en-US>Allow {G0:him:her} to flee to parts unknown.</en-US>
-    <it-IT>Permettete a {G0:him:her} di fuggire in zone sconosciute.</it-IT>
+    <en-US>Allow {G0:lui:lei} to flee to parts unknown.</en-US>
+    <it-IT>Permettete a {G0:lui:lei} di fuggire in zone sconosciute.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_JAILBREAK_OPTION_1</zType>
-    <en-US>Hunt {G0:him:her} down with your last breath.</en-US>
-    <it-IT>Cacciate {G0:him:her} con il vostro ultimo respiro.</it-IT>
+    <en-US>Hunt {G0:lui:lei} down with your last breath.</en-US>
+    <it-IT>Cacciate {G0:lui:lei} con il vostro ultimo respiro.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_JAILBREAK_OPTION_2</zType>
@@ -28147,8 +28147,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_FALSE_GOSSIP_OPTION_1</zType>
-    <en-US>Lead {G0:him:her} astray with false information.</en-US>
-    <it-IT>Svia {G0:him:her} con false informazioni.</it-IT>
+    <en-US>Lead {G0:lui:lei} astray with false information.</en-US>
+    <it-IT>Svia {G0:lui:lei} con false informazioni.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_FALSE_GOSSIP_OPTION_2</zType>
@@ -28437,7 +28437,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_CITIZEN_OF_THE_WORLD_OPTION_2</zType>
-    <en-US>{G0:He:She} will resume exploration.</en-US>
+    <en-US>{G0:Lui:Lei} will resume exploration.</en-US>
     <it-IT>{G0:Lui:Lei} riprenderà l'esplorazione.</it-IT>
   </Entry>
   <Entry>
@@ -28542,7 +28542,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_MAKING_PEACE_OPTION_1</zType>
-    <en-US>{G0:He:She} will spend time in prison and be released.</en-US>
+    <en-US>{G0:Lui:Lei} will spend time in prison and be released.</en-US>
     <it-IT>{G0:Lui:Lei} trascorrerà un periodo di tempo in prigione e sarà rilasciato.</it-IT>
   </Entry>
   <Entry>
@@ -28567,23 +28567,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_PARANOID_OPTION_0</zType>
-    <en-US>Tell {G0:him:her} that we have no qualm with {PLAYER-0}.</en-US>
-    <it-IT>Dite a {G0:him:her} che non abbiamo alcun problema con {PLAYER-0}.</it-IT>
+    <en-US>Tell {G0:lui:lei} that we have no qualm with {PLAYER-0}.</en-US>
+    <it-IT>Dite a {G0:lui:lei} che non abbiamo alcun problema con {PLAYER-0}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_PARANOID_OPTION_1</zType>
-    <en-US>Send {G0:him:her} gifts of fine {PLAYER-1,1} goods.</en-US>
-    <it-IT>Inviate {G0:him:her} doni di beni pregiati {PLAYER-1,1}.</it-IT>
+    <en-US>Send {G0:lui:lei} gifts of fine {PLAYER-1,1} goods.</en-US>
+    <it-IT>Inviate {G0:lui:lei} doni di beni pregiati {PLAYER-1,1}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_PARANOID_OPTION_2</zType>
-    <en-US>Scold {G0:him:her} for making ridiculous accusations.</en-US>
-    <it-IT>Rimproverare a {G0:him:her} di fare accuse ridicole.</it-IT>
+    <en-US>Scold {G0:lui:lei} for making ridiculous accusations.</en-US>
+    <it-IT>Rimproverare a {G0:lui:lei} di fare accuse ridicole.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_PARANOID_OPTION_3</zType>
-    <en-US>Gift {G0:him:her} with laborers... who are diseased.</en-US>
-    <it-IT>Regalo {G0:him:her} con operai... che sono malati.</it-IT>
+    <en-US>Gift {G0:lui:lei} with laborers... who are diseased.</en-US>
+    <it-IT>Regalo {G0:lui:lei} con operai... che sono malati.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_THE_RANT_OPTION_0</zType>
@@ -28597,8 +28597,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_THE_RANT_OPTION_2</zType>
-    <en-US>What odd metaphor {CHARACTER-SHORT-0} uses! Still, a lovely sentiment, I must write {G0:him:her} in kind.</en-US>
-    <it-IT>Che strana metafora usa {CHARACTER-SHORT-0}! Comunque, un bel sentimento, devo scrivere a {G0:him:her} in modo gentile.</it-IT>
+    <en-US>What odd metaphor {CHARACTER-SHORT-0} uses! Still, a lovely sentiment, I must write {G0:lui:lei} in kind.</en-US>
+    <it-IT>Che strana metafora usa {CHARACTER-SHORT-0}! Comunque, un bel sentimento, devo scrivere a {G0:lui:lei} in modo gentile.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_THE_RANT_OPTION_3</zType>
@@ -28672,8 +28672,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_URGING_CAUTION_OPTION_2</zType>
-    <en-US>Reassure {G0:him:her} of our peaceful intentions.</en-US>
-    <it-IT>Rassicurare {G0:him:her} sulle nostre intenzioni pacifiche.</it-IT>
+    <en-US>Reassure {G0:lui:lei} of our peaceful intentions.</en-US>
+    <it-IT>Rassicurare {G0:lui:lei} sulle nostre intenzioni pacifiche.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_GIVE_AN_INCH_OPTION_0</zType>
@@ -28837,13 +28837,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_UNCANNY_OPTION_1</zType>
-    <en-US>Leave {G0:him:her} to {G0:his:her} important work.</en-US>
-    <it-IT>Lasciare {G0:him:her} a {G0:his:her} il lavoro importante.</it-IT>
+    <en-US>Leave {G0:lui:lei} to {G0:his:her} important work.</en-US>
+    <it-IT>Lasciare {G0:lui:lei} a {G0:his:her} il lavoro importante.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_UNCANNY_OPTION_2</zType>
-    <en-US>I will speak with {G0:him:her} about {G0:his:her} discoveries.</en-US>
-    <it-IT>Parlerò con {G0:him:her} delle scoperte di {G0:his:her}.</it-IT>
+    <en-US>I will speak with {G0:lui:lei} about {G0:his:her} discoveries.</en-US>
+    <it-IT>Parlerò con {G0:lui:lei} delle scoperte di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HIDDEN_SCROLLS_OPTION_0</zType>
@@ -29242,8 +29242,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUSPICIONS_CONFIRMED_OPTION_0</zType>
-    <en-US>Welcome {G0:him:her} back to court with a speech.</en-US>
-    <it-IT>Diamo il benvenuto a {G0:him:her} in tribunale con un discorso.</it-IT>
+    <en-US>Welcome {G0:lui:lei} back to court with a speech.</en-US>
+    <it-IT>Diamo il benvenuto a {G0:lui:lei} in tribunale con un discorso.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUSPICIONS_CONFIRMED_OPTION_1</zType>
@@ -29297,13 +29297,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RESTFUL_MEDITATION_OPTION_2</zType>
-    <en-US>Let us see how {G0:he:she} adjusts first.</en-US>
-    <it-IT>Vediamo innanzitutto come si adatta {G0:he:she}.</it-IT>
+    <en-US>Let us see how {G0:lui:lei} adjusts first.</en-US>
+    <it-IT>Vediamo innanzitutto come si adatta {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DREAM_RITUALS_OPTION_0</zType>
-    <en-US>We are pleased that {G0:he:she} has recovered.</en-US>
-    <it-IT>Siamo lieti che {G0:he:she} si sia ripreso.</it-IT>
+    <en-US>We are pleased that {G0:lui:lei} has recovered.</en-US>
+    <it-IT>Siamo lieti che {G0:lui:lei} si sia ripreso.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BEWARE_OPTION_0</zType>
@@ -29317,8 +29317,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BEWARE_OPTION_2</zType>
-    <en-US>Send my link(COUNCIL_SPYMASTER) to deal with {G0:him:her}.</en-US>
-    <it-IT>Manda il mio link(COUNCIL_SPYMASTER) a occuparsi di {G0:him:her}.</it-IT>
+    <en-US>Send my link(COUNCIL_SPYMASTER) to deal with {G0:lui:lei}.</en-US>
+    <it-IT>Manda il mio link(COUNCIL_SPYMASTER) a occuparsi di {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BEWARE_OPTION_3</zType>
@@ -29327,8 +29327,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DISHEARTENING_NEWS_OPTION_0</zType>
-    <en-US>We will pray for {G0:him:her} and make sacrifices.</en-US>
-    <it-IT>Pregheremo per {G0:him:her} e faremo dei sacrifici.</it-IT>
+    <en-US>We will pray for {G0:lui:lei} and make sacrifices.</en-US>
+    <it-IT>Pregheremo per {G0:lui:lei} e faremo dei sacrifici.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MONKEY_SEE_THE_WORLD_OPTION_0</zType>
@@ -29477,8 +29477,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STEAL_SEEKING_HELP_OPTION_0</zType>
-    <en-US>I wish {G0:him:her} a speedy recovery.</en-US>
-    <it-IT>Auguro a {G0:him:her} una pronta guarigione.</it-IT>
+    <en-US>I wish {G0:lui:lei} a speedy recovery.</en-US>
+    <it-IT>Auguro a {G0:lui:lei} una pronta guarigione.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SLANDER_DIPLOMATIC_DISASTER_OPTION_0</zType>
@@ -29707,12 +29707,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RESTORED_OPTION_1</zType>
-    <en-US>Return {G0:him:her} to prison, but shorten the sentence.</en-US>
-    <it-IT>Riportare {G0:him:her} in prigione, ma abbreviando la pena.</it-IT>
+    <en-US>Return {G0:lui:lei} to prison, but shorten the sentence.</en-US>
+    <it-IT>Riportare {G0:lui:lei} in prigione, ma abbreviando la pena.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RESTORED_OPTION_2</zType>
-    <en-US>{G0:He:She} will die in a cell, alone.</en-US>
+    <en-US>{G0:Lui:Lei} will die in a cell, alone.</en-US>
     <it-IT>{G0:Lui:Lei} morirà in una cella, da solo.</it-IT>
   </Entry>
   <Entry>
@@ -29867,8 +29867,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TREACHERY_A_WAY_IN_OPTION_0</zType>
-    <en-US>Tell {G0:him:her} to proceed with caution.</en-US>
-    <it-IT>Dite a {G0:him:her} di procedere con cautela.</it-IT>
+    <en-US>Tell {G0:lui:lei} to proceed with caution.</en-US>
+    <it-IT>Dite a {G0:lui:lei} di procedere con cautela.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TREACHERY_MISINFORMATION_OPTION_0</zType>
@@ -30072,7 +30072,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_TOO_MUCH_ATTENTION_OPTION_0</zType>
-    <en-US>I must refuse. {G0:He:She} misunderstood by intentions.</en-US>
+    <en-US>I must refuse. {G0:Lui:Lei} misunderstood by intentions.</en-US>
     <it-IT>Devo rifiutare. {G0:Lui:Lei} frainteso nelle intenzioni.</it-IT>
   </Entry>
   <Entry>
@@ -30107,7 +30107,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_A_WARM_BED_OPTION_1</zType>
-    <en-US>{G0:He:She} asks too much.</en-US>
+    <en-US>{G0:Lui:Lei} asks too much.</en-US>
     <it-IT>{G0:Lui:Lei} chiede troppo.</it-IT>
   </Entry>
   <Entry>
@@ -30142,7 +30142,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_DISTASTEFUL_OPTION_0</zType>
-    <en-US>{G0:He:She} is right. I made a mistake.</en-US>
+    <en-US>{G0:Lui:Lei} is right. I made a mistake.</en-US>
     <it-IT>{G0:Lui:Lei} ha ragione. Ho commesso un errore.</it-IT>
   </Entry>
   <Entry>
@@ -30317,8 +30317,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SECRET_RITUALS_OPTION_0</zType>
-    <en-US>A governor rules {G0:his:her} city as {G0:he:she} chooses.</en-US>
-    <it-IT>Un governatore governa la città di {G0:his:her} come sceglie {G0:he:she}.</it-IT>
+    <en-US>A governor rules {G0:his:her} city as {G0:lui:lei} chooses.</en-US>
+    <it-IT>Un governatore governa la città di {G0:his:her} come sceglie {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SECRET_RITUALS_OPTION_1</zType>
@@ -30492,18 +30492,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TREACHERY_THEM_AGENT_CAUGHT_EXECUTE</zType>
-    <en-US>Make an example of {G0:him:her} to deter any other agents.</en-US>
-    <it-IT>Fare un esempio di {G0:him:her} per scoraggiare qualsiasi altro agente.</it-IT>
+    <en-US>Make an example of {G0:lui:lei} to deter any other agents.</en-US>
+    <it-IT>Fare un esempio di {G0:lui:lei} per scoraggiare qualsiasi altro agente.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TREACHERY_THEM_AGENT_CAUGHT_RECRUIT</zType>
-    <en-US>Recruit {G0:him:her} to serve you and {PLAYER-2}.</en-US>
-    <it-IT>Recluta {G0:him:her} per servire te e {PLAYER-2}.</it-IT>
+    <en-US>Recruit {G0:lui:lei} to serve you and {PLAYER-2}.</en-US>
+    <it-IT>Recluta {G0:lui:lei} per servire te e {PLAYER-2}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TREACHERY_THEM_AGENT_CAUGHT_CHARM</zType>
-    <en-US>Convince {G0:him:her} to share the secrets of those who left {G0:him:her} to rot.</en-US>
-    <it-IT>Convincere {G0:him:her} a condividere i segreti di coloro che hanno lasciato {G0:him:her} a marcire.</it-IT>
+    <en-US>Convince {G0:lui:lei} to share the secrets of those who left {G0:lui:lei} to rot.</en-US>
+    <it-IT>Convincere {G0:lui:lei} a condividere i segreti di coloro che hanno lasciato {G0:lui:lei} a marcire.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HIGH_SYNOD_MONEY_YES</zType>
@@ -30632,8 +30632,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TREACHERY_THEM_AGENT_DISCOVERED_KILL</zType>
-    <en-US>Capture and kill {G0:him:her} as soon as possible.</en-US>
-    <it-IT>Catturare e uccidere {G0:him:her} il prima possibile.</it-IT>
+    <en-US>Capture and kill {G0:lui:lei} as soon as possible.</en-US>
+    <it-IT>Catturare e uccidere {G0:lui:lei} il prima possibile.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TREACHERY_THEM_AGENT_DISCOVERED_FOLLOW</zType>
@@ -30652,8 +30652,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INSURRECTION_THEM_AGENT_BRIBE_RECRUIT</zType>
-    <en-US>Offer the wealth to {CHARACTER-0} if {G0:he:she} is willing to join your court.</en-US>
-    <it-IT>Offrite la ricchezza a {CHARACTER-0} se {G0:he:she} è disposto a unirsi alla vostra corte.</it-IT>
+    <en-US>Offer the wealth to {CHARACTER-0} if {G0:lui:lei} is willing to join your court.</en-US>
+    <it-IT>Offrite la ricchezza a {CHARACTER-0} se {G0:lui:lei} è disposto a unirsi alla vostra corte.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INSURRECTION_THEM_AGENT_BRIBE_LOYALTY</zType>
@@ -30703,7 +30703,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_TOOLTIPS_OK</zType>
     <en-US>I will lock tooltips in place with hotkey(HOTKEY_FREEZE_TOOLTIP)+Click to discover more information!</en-US>
-    <it-IT>Bloccherò i tooltip in posizione con il tasto di scelta rapida(HOTKEY_FREEZE_TOOLTIP)+click per scoprire ulteriori informazioni!</it-IT>
+    <it-IT>Bloccherò i tooltip in posizione con il hotkey(HOTKEY_FREEZE_TOOLTIP)+click per scoprire ulteriori informazioni!</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_CHOP_WOOD_OKAY</zType>
@@ -31307,8 +31307,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUCCESSION_THEM_OKAY_WAR</zType>
-    <en-US>May {G0:he:she} lead {G0:his:her} people to ruin.</en-US>
-    <it-IT>Che {G0:he:she} possa condurre {G0:his:her} le persone alla rovina.</it-IT>
+    <en-US>May {G0:lui:lei} lead {G0:his:her} people to ruin.</en-US>
+    <it-IT>Che {G0:lui:lei} possa condurre {G0:his:her} le persone alla rovina.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GOT_YOUR_NOSE_0</zType>
@@ -31482,8 +31482,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DELENDA_EST_ALLOW</zType>
-    <en-US>Allow {G0:him:her} to distract the council with fruitless debates.</en-US>
-    <it-IT>Permettere a {G0:him:her} di distrarre il Consiglio con dibattiti infruttuosi.</it-IT>
+    <en-US>Allow {G0:lui:lei} to distract the council with fruitless debates.</en-US>
+    <it-IT>Permettere a {G0:lui:lei} di distrarre il Consiglio con dibattiti infruttuosi.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DELENDA_EST_DENOUNCE</zType>
@@ -31492,7 +31492,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DELENDA_EST_WAR</zType>
-    <en-US>We'll do it, we'll do anything, just please shut {G0:him:her} up.</en-US>
+    <en-US>We'll do it, we'll do anything, just please shut {G0:lui:lei} up.</en-US>
     <it-IT>Lo faremo, faremo qualsiasi cosa, ma per favore chiudete il becco.</it-IT>
   </Entry>
   <Entry>
@@ -31817,8 +31817,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LIVE_AND_LET_DYE_OPTION_0</zType>
-    <en-US>That sounds like nonsense, send {G0:him:her} on {G0:his:her} way.</en-US>
-    <it-IT>Sembra un'assurdità, mandate {G0:him:her} sulla strada di {G0:his:her}.</it-IT>
+    <en-US>That sounds like nonsense, send {G0:lui:lei} on {G0:his:her} way.</en-US>
+    <it-IT>Sembra un'assurdità, mandate {G0:lui:lei} sulla strada di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LIVE_AND_LET_DYE_OPTION_1</zType>
@@ -32462,8 +32462,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPERIENCED_INSTRUCTOR_INSTRUCTOR</zType>
-    <en-US>Though {CHARACTER-0} wants to be on the front lines, {G0:he:she} should help train more troops.</en-US>
-    <it-IT>Sebbene {CHARACTER-0} voglia essere in prima linea, {G0:he:she} dovrebbe aiutare ad addestrare altre truppe.</it-IT>
+    <en-US>Though {CHARACTER-0} wants to be on the front lines, {G0:lui:lei} should help train more troops.</en-US>
+    <it-IT>Sebbene {CHARACTER-0} voglia essere in prima linea, {G0:lui:lei} dovrebbe aiutare ad addestrare altre truppe.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFILTRATION_UNWELCOME_MEETING_PAY</zType>
@@ -32492,8 +32492,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NAIVE_AMBASSADOR_EXILE</zType>
-    <en-US>Give {CHARACTER-0} some "gifts" and send {G0:him:her} off to {PLAYER-1}.</en-US>
-    <it-IT>Dare a {CHARACTER-0} alcuni "regali" e inviare {G0:him:her} a {PLAYER-1}.</it-IT>
+    <en-US>Give {CHARACTER-0} some "gifts" and send {G0:lui:lei} off to {PLAYER-1}.</en-US>
+    <it-IT>Dare a {CHARACTER-0} alcuni "regali" e inviare {G0:lui:lei} a {PLAYER-1}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUTHLESS_SLAUGHTER_TRUCE</zType>
@@ -32902,8 +32902,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DESERTION_DISMISS</zType>
-    <en-US>Perhaps we will be better off without {G0:him:her}.</en-US>
-    <it-IT>Forse è meglio non avere {G0:him:her}.</it-IT>
+    <en-US>Perhaps we will be better off without {G0:lui:lei}.</en-US>
+    <it-IT>Forse è meglio non avere {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PURIM_BAN</zType>
@@ -32967,7 +32967,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BLESSINGS_FOR_THE_HEIR_INSPIRE</zType>
-    <en-US>{G0:He:She} should learn to inspire the people as {RELIGION-2,1} priests inspire their followers.</en-US>
+    <en-US>{G0:Lui:Lei} should learn to inspire the people as {RELIGION-2,1} priests inspire their followers.</en-US>
     <it-IT>{G0:Lui:Lei} dovrebbe imparare a ispirare il popolo come i sacerdoti di {RELIGION-2,1} ispirano i loro seguaci.</it-IT>
   </Entry>
   <Entry>
@@ -33027,13 +33027,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNEXPECTED_REUNION_REINSTATE</zType>
-    <en-US>If {CHARACTER-SHORT-0} swears an oath of lifelong loyalty, {G0:he:she} can be forgiven.</en-US>
-    <it-IT>Se {CHARACTER-SHORT-0} giura fedeltà per tutta la vita, {G0:he:she} può essere perdonato.</it-IT>
+    <en-US>If {CHARACTER-SHORT-0} swears an oath of lifelong loyalty, {G0:lui:lei} can be forgiven.</en-US>
+    <it-IT>Se {CHARACTER-SHORT-0} giura fedeltà per tutta la vita, {G0:lui:lei} può essere perdonato.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNEXPECTED_REUNION_IMPRISON</zType>
-    <en-US>A deserter can never be trusted. Haul {G0:him:her} off to the dungeon.</en-US>
-    <it-IT>Non ci si può mai fidare di un disertore. Portate {G0:him:her} nelle segrete.</it-IT>
+    <en-US>A deserter can never be trusted. Haul {G0:lui:lei} off to the dungeon.</en-US>
+    <it-IT>Non ci si può mai fidare di un disertore. Portate {G0:lui:lei} nelle segrete.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNEXPECTED_REUNION_EXECUTE</zType>
@@ -34052,8 +34052,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LOVE_OF_THE_LAND_NO</zType>
-    <en-US>Is {G0:he:she} not content?</en-US>
-    <it-IT>{G0:he:she} non è soddisfatto?</it-IT>
+    <en-US>Is {G0:lui:lei} not content?</en-US>
+    <it-IT>{G0:lui:lei} non è soddisfatto?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRUSTED_COUNCIL_NO</zType>
@@ -36212,8 +36212,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_FALLEN_BANNER_CONSOLE</zType>
-    <en-US>Encourage {CHARACTER-SHORT-0} that {G0:he:she} will have a chance to redeem {G0:himself:herself}.</en-US>
-    <it-IT>Incoraggiare {CHARACTER-SHORT-0} che {G0:he:she} abbia la possibilità di riscattare {G0:himself:herself}.</it-IT>
+    <en-US>Encourage {CHARACTER-SHORT-0} that {G0:lui:lei} will have a chance to redeem {G0:se stesso:se stessa}.</en-US>
+    <it-IT>Incoraggiare {CHARACTER-SHORT-0} che {G0:lui:lei} abbia la possibilità di riscattare {G0:se stesso:se stessa}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AVENGING_THE_BANNER_CITIES</zType>
@@ -37452,8 +37452,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RIVALS1_CLOSE_ENCOUNTERS_GIVE</zType>
-    <en-US>Maybe {G0:he:she} should have {CITY-1}.</en-US>
-    <it-IT>Forse {G0:he:she} dovrebbe avere {CITY-1}.</it-IT>
+    <en-US>Maybe {G0:lui:lei} should have {CITY-1}.</en-US>
+    <it-IT>Forse {G0:lui:lei} dovrebbe avere {CITY-1}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RIVALS2_REBELS_AT_WAR_YES</zType>
@@ -37952,8 +37952,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_ALLIANCE_OPTION_1</zType>
-    <en-US>The results speak for themselves. Give {G0:him:her} the needed support.</en-US>
-    <it-IT>I risultati parlano da soli. Date a {G0:him:her} il supporto necessario.</it-IT>
+    <en-US>The results speak for themselves. Give {G0:lui:lei} the needed support.</en-US>
+    <it-IT>I risultati parlano da soli. Date a {G0:lui:lei} il supporto necessario.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXECUTED_SPIES_OPTION_0</zType>
@@ -38127,8 +38127,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SCALES_OF_TRIBUTE_PERSUADE</zType>
-    <en-US>Persuade {G0:him:her} to accept a smaller amount.</en-US>
-    <it-IT>Convincere {G0:him:her} ad accettare un importo inferiore.</it-IT>
+    <en-US>Persuade {G0:lui:lei} to accept a smaller amount.</en-US>
+    <it-IT>Convincere {G0:lui:lei} ad accettare un importo inferiore.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SCALES_OF_TRIBUTE_REFUSE</zType>
@@ -38257,8 +38257,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FLORID_DIPLOMAT_GIFTS</zType>
-    <en-US>Fine gifts may lead {G0:him:her} to peace.</en-US>
-    <it-IT>I bei regali possono portare {G0:him:her} alla pace.</it-IT>
+    <en-US>Fine gifts may lead {G0:lui:lei} to peace.</en-US>
+    <it-IT>I bei regali possono portare {G0:lui:lei} alla pace.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FLORID_DIPLOMAT_WAR</zType>
@@ -38387,8 +38387,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_TRIBE_BRIDE_OPTION_0</zType>
-    <en-US>We will welcome {G0:him:her} to the court with a festive ceremony.</en-US>
-    <it-IT>Daremo il benvenuto a {G0:him:her} a corte con una cerimonia festosa.</it-IT>
+    <en-US>We will welcome {G0:lui:lei} to the court with a festive ceremony.</en-US>
+    <it-IT>Daremo il benvenuto a {G0:lui:lei} a corte con una cerimonia festosa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_TRIBE_BRIDE_OPTION_1</zType>
@@ -38442,8 +38442,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_PEACE_UPKEEP_MONEY</zType>
-    <en-US>We shall send {G0:him:her} a gift of link(YIELD_MONEY) as a token of our friendship.</en-US>
-    <it-IT>Invieremo a {G0:him:her} un regalo di link(YIELD_MONEY) in segno di amicizia.</it-IT>
+    <en-US>We shall send {G0:lui:lei} a gift of link(YIELD_MONEY) as a token of our friendship.</en-US>
+    <it-IT>Invieremo a {G0:lui:lei} un regalo di link(YIELD_MONEY) in segno di amicizia.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_PEACE_UPKEEP_LEGITIMACY</zType>
@@ -38602,8 +38602,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BACK_IN_COMMAND_OPTION_0</zType>
-    <en-US>May {G0:he:she} rot in a pit for eternity.</en-US>
-    <it-IT>Che {G0:he:she} possa marcire in una fossa per l'eternità.</it-IT>
+    <en-US>May {G0:lui:lei} rot in a pit for eternity.</en-US>
+    <it-IT>Che {G0:lui:lei} possa marcire in una fossa per l'eternità.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_OVER_MY_DEAD_BODY_OPTION_0</zType>
@@ -38642,7 +38642,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_AMBITIOUS_OPTION_1</zType>
-    <en-US>Ignore the savage wretch. {G0:He:She} has no dominion here.</en-US>
+    <en-US>Ignore the savage wretch. {G0:Lui:Lei} has no dominion here.</en-US>
     <it-IT>Ignorate il selvaggio. {G0:Lui:Lei} non ha alcun dominio qui.</it-IT>
   </Entry>
   <Entry>
@@ -38697,8 +38697,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_ENAMORED_OPTION_2</zType>
-    <en-US>I will woo {G0:him:her}, in order to secure favorable trade deals.</en-US>
-    <it-IT>Corteggerò {G0:him:her}, per assicurarmi accordi commerciali favorevoli.</it-IT>
+    <en-US>I will woo {G0:lui:lei}, in order to secure favorable trade deals.</en-US>
+    <it-IT>Corteggerò {G0:lui:lei}, per assicurarmi accordi commerciali favorevoli.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_POLITICAL_ARENA_OPTION_0</zType>
@@ -38732,8 +38732,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_POWER_BROKER_OPTION_0</zType>
-    <en-US>{CHARACTER-SHORT-0} is a good ally, and I trust {G0:him:her}.</en-US>
-    <it-IT>{CHARACTER-SHORT-0} è un buon alleato e mi fido di {G0:him:her}.</it-IT>
+    <en-US>{CHARACTER-SHORT-0} is a good ally, and I trust {G0:lui:lei}.</en-US>
+    <it-IT>{CHARACTER-SHORT-0} è un buon alleato e mi fido di {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_POWER_BROKER_OPTION_1</zType>
@@ -38742,8 +38742,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_POWER_BROKER_OPTION_2</zType>
-    <en-US>Thank {G0:him:her}, but we will handle the {TRIBE-2} ourselves.</en-US>
-    <it-IT>Ringraziamo {G0:him:her}, ma ci occuperemo noi stessi di {TRIBE-2}.</it-IT>
+    <en-US>Thank {G0:lui:lei}, but we will handle the {TRIBE-2} ourselves.</en-US>
+    <it-IT>Ringraziamo {G0:lui:lei}, ma ci occuperemo noi stessi di {TRIBE-2}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_JEALOUS_SAVAGE_OPTION_0</zType>
@@ -40132,18 +40132,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_DEEPER_MEANING_ENDEARED</zType>
-    <en-US>Although we lack the funds to hire a true master, I shall do my best to instruct {G0:him:her} myself.</en-US>
-    <it-IT>Anche se non abbiamo i fondi per assumere un vero maestro, farò del mio meglio per istruire {G0:him:her} io stesso.</it-IT>
+    <en-US>Although we lack the funds to hire a true master, I shall do my best to instruct {G0:lui:lei} myself.</en-US>
+    <it-IT>Anche se non abbiamo i fondi per assumere un vero maestro, farò del mio meglio per istruire {G0:lui:lei} io stesso.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_MONASTIC_LIVING_OK</zType>
-    <en-US>Send {G0:him:her} and make the donation.</en-US>
-    <it-IT>Inviare {G0:him:her} ed effettuare la donazione.</it-IT>
+    <en-US>Send {G0:lui:lei} and make the donation.</en-US>
+    <it-IT>Inviare {G0:lui:lei} ed effettuare la donazione.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_MONASTIC_LIVING_NO</zType>
-    <en-US>Let {G0:him:her} go, but refuse to donate.</en-US>
-    <it-IT>Lasciare andare {G0:him:her}, ma rifiutarsi di donare.</it-IT>
+    <en-US>Let {G0:lui:lei} go, but refuse to donate.</en-US>
+    <it-IT>Lasciare andare {G0:lui:lei}, ma rifiutarsi di donare.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_COMBAT_TRAINING_OK</zType>
@@ -40152,8 +40152,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_COMBAT_TRAINING_ENDEARED</zType>
-    <en-US>The nation's budget won't support such an expense, but I shall take it upon myself to instruct {G0:him:her}.</en-US>
-    <it-IT>Il bilancio della nazione non può sostenere una tale spesa, ma mi assumerò la responsabilità di istruire {G0:him:her}.</it-IT>
+    <en-US>The nation's budget won't support such an expense, but I shall take it upon myself to instruct {G0:lui:lei}.</en-US>
+    <it-IT>Il bilancio della nazione non può sostenere una tale spesa, ma mi assumerò la responsabilità di istruire {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_LEGAL_INSTRUCTION_OK</zType>
@@ -40167,13 +40167,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_TILL_THE_EARTH_OK</zType>
-    <en-US>Build {G0:him:her} a garden outside the palace.</en-US>
-    <it-IT>Costruire {G0:him:her} un giardino fuori dal palazzo.</it-IT>
+    <en-US>Build {G0:lui:lei} a garden outside the palace.</en-US>
+    <it-IT>Costruire {G0:lui:lei} un giardino fuori dal palazzo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_TILL_THE_EARTH_ENDEARED</zType>
-    <en-US>An elaborate, private garden is too expensive, but commit to spending time with your {G0:husband:wife} tending a more modest garden plot.</en-US>
-    <it-IT>Un giardino elaborato e privato è troppo costoso, ma impegnatevi a passare del tempo con il vostro {G0:husband:wife} curando un orto più modesto.</it-IT>
+    <en-US>An elaborate, private garden is too expensive, but commit to spending time with your {G0:marito:moglie} tending a more modest garden plot.</en-US>
+    <it-IT>Un giardino elaborato e privato è troppo costoso, ma impegnatevi a passare del tempo con il vostro {G0:marito:moglie} curando un orto più modesto.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_SPONSOR_A_LABORATORY_OK</zType>
@@ -40182,8 +40182,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_SPONSOR_A_LABORATORY_ENDEARED</zType>
-    <en-US>While there's not enough money in the treasury to support an entire laboratory, promise to spend more time on intellectual pursuits with your {G0:husband:wife} in the coming year.</en-US>
-    <it-IT>Anche se non ci sono abbastanza soldi in cassa per sostenere un intero laboratorio, promettete di dedicare più tempo alle attività intellettuali con il vostro {G0:husband:wife} nel prossimo anno.</it-IT>
+    <en-US>While there's not enough money in the treasury to support an entire laboratory, promise to spend more time on intellectual pursuits with your {G0:marito:moglie} in the coming year.</en-US>
+    <it-IT>Anche se non ci sono abbastanza soldi in cassa per sostenere un intero laboratorio, promettete di dedicare più tempo alle attività intellettuali con il vostro {G0:marito:moglie} nel prossimo anno.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_CREATIVE_PURSUITS_OK</zType>
@@ -40202,8 +40202,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_PERSUASION_ENDEARED</zType>
-    <en-US>Explain that it isn't possible just now, but make a vow to spend more time with {G0:him:her} in the year ahead.</en-US>
-    <it-IT>Spiegate che non è possibile in questo momento, ma fate voto di passare più tempo con {G0:him:her} nell'anno a venire.</it-IT>
+    <en-US>Explain that it isn't possible just now, but make a vow to spend more time with {G0:lui:lei} in the year ahead.</en-US>
+    <it-IT>Spiegate che non è possibile in questo momento, ma fate voto di passare più tempo con {G0:lui:lei} nell'anno a venire.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_HORSEBACK_RIDING_OK</zType>
@@ -40367,13 +40367,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_TROUBLING_BEHAVIOR_OPTION_0</zType>
-    <en-US>To slay as many enemies as {G0:he:she} can.</en-US>
-    <it-IT>Uccidere quanti più nemici possibile {G0:he:she}.</it-IT>
+    <en-US>To slay as many enemies as {G0:lui:lei} can.</en-US>
+    <it-IT>Uccidere quanti più nemici possibile {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_TROUBLING_BEHAVIOR_OPTION_1</zType>
-    <en-US>To punish those who believe differently than {G0:he:she} does.</en-US>
-    <it-IT>Per punire chi crede diversamente da {G0:he:she}.</it-IT>
+    <en-US>To punish those who believe differently than {G0:lui:lei} does.</en-US>
+    <it-IT>Per punire chi crede diversamente da {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_TROUBLING_BEHAVIOR_OPTION_2</zType>
@@ -40537,8 +40537,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_WEDDING_FAUX_PAS_NOTHING</zType>
-    <en-US>Nothing, {G0:he:she} must learn to live with {G0:his:her} mistakes.</en-US>
-    <it-IT>Niente, {G0:he:she} deve imparare a convivere con gli errori di {G0:his:her}.</it-IT>
+    <en-US>Nothing, {G0:lui:lei} must learn to live with {G0:his:her} mistakes.</en-US>
+    <it-IT>Niente, {G0:lui:lei} deve imparare a convivere con gli errori di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_WEDDING_FAUX_PAS_LIGHTEN</zType>
@@ -40547,18 +40547,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PREPARE_YOUR_HEIR_RULE</zType>
-    <en-US>Let {G0:him:her} rule for a day.</en-US>
-    <it-IT>Lasciate che {G0:him:her} regoli per un giorno.</it-IT>
+    <en-US>Let {G0:lui:lei} rule for a day.</en-US>
+    <it-IT>Lasciate che {G0:lui:lei} regoli per un giorno.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PREPARE_YOUR_HEIR_HUNT</zType>
-    <en-US>Take {G0:him:her} on a hunt.</en-US>
-    <it-IT>Portate {G0:him:her} a caccia.</it-IT>
+    <en-US>Take {G0:lui:lei} on a hunt.</en-US>
+    <it-IT>Portate {G0:lui:lei} a caccia.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PREPARE_YOUR_HEIR_RIDE</zType>
-    <en-US>Show {G0:him:her} the farthest borders of the realm.</en-US>
-    <it-IT>Mostra a {G0:him:her} i confini più lontani del regno.</it-IT>
+    <en-US>Show {G0:lui:lei} the farthest borders of the realm.</en-US>
+    <it-IT>Mostra a {G0:lui:lei} i confini più lontani del regno.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_COMING_OF_AGE_CEREMONY</zType>
@@ -40662,17 +40662,17 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INHERITANCE_STRICT_OPTION_0</zType>
-    <en-US>Let us pray {G0:he:she} does not break under the strain.</en-US>
-    <it-IT>Preghiamo che {G0:he:she} non si rompa sotto lo sforzo.</it-IT>
+    <en-US>Let us pray {G0:lui:lei} does not break under the strain.</en-US>
+    <it-IT>Preghiamo che {G0:lui:lei} non si rompa sotto lo sforzo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INHERITANCE_BRAVE_OPTION_0</zType>
-    <en-US>Is {G0:he:she} loyal, brave, and true?</en-US>
-    <it-IT>{G0:he:she} è leale, coraggioso e sincero?</it-IT>
+    <en-US>Is {G0:lui:lei} loyal, brave, and true?</en-US>
+    <it-IT>{G0:lui:lei} è leale, coraggioso e sincero?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INHERITANCE_FIERCE_OPTION_0</zType>
-    <en-US>Ha! {G0:He:She} really does take after {G0:his:her} {G1:father:mother}!</en-US>
+    <en-US>Ha! {G0:Lui:Lei} really does take after {G0:his:her} {G1:father:mother}!</en-US>
     <it-IT>Ah! {G0:Lui:Lei} ha davvero preso da {G0:his:her} {G1:father:mother}!</it-IT>
   </Entry>
   <Entry>
@@ -41052,18 +41052,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHILD_FEATS_OF_VALOR_OPTION_0</zType>
-    <en-US>Promote {G0:him:her} on the battlefield.</en-US>
-    <it-IT>Promuovi {G0:him:her} sul campo di battaglia.</it-IT>
+    <en-US>Promote {G0:lui:lei} on the battlefield.</en-US>
+    <it-IT>Promuovi {G0:lui:lei} sul campo di battaglia.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHILD_FEATS_OF_VALOR_OPTION_1</zType>
-    <en-US>Make {G0:him:her} an advisor in my court.</en-US>
-    <it-IT>Fai di {G0:him:her} un consigliere alla mia corte.</it-IT>
+    <en-US>Make {G0:lui:lei} an advisor in my court.</en-US>
+    <it-IT>Fai di {G0:lui:lei} un consigliere alla mia corte.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHILD_FEATS_OF_VALOR_OPTION_2</zType>
-    <en-US>Return {G0:him:her} to the front lines.</en-US>
-    <it-IT>Riportare {G0:him:her} in prima linea.</it-IT>
+    <en-US>Return {G0:lui:lei} to the front lines.</en-US>
+    <it-IT>Riportare {G0:lui:lei} in prima linea.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHILD_SEE_THE_WORLD_OPTION_0</zType>
@@ -41302,12 +41302,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHILD_MYSTERIOUS_INFANT_OPTION_0</zType>
-    <en-US>We will raise {G0:him:her} as our own.</en-US>
-    <it-IT>Innalzeremo {G0:him:her} come proprio.</it-IT>
+    <en-US>We will raise {G0:lui:lei} as our own.</en-US>
+    <it-IT>Innalzeremo {G0:lui:lei} come proprio.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHILD_MYSTERIOUS_INFANT_OPTION_1</zType>
-    <en-US>{G0:He:She} will stay but never be our blood.</en-US>
+    <en-US>{G0:Lui:Lei} will stay but never be our blood.</en-US>
     <it-IT>{G0:Lui:Lei} resterà, ma non sarà mai il nostro sangue.</it-IT>
   </Entry>
   <Entry>
@@ -41452,8 +41452,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AXES_HIGH_TREMBLE_HELP</zType>
-    <en-US>Our enemies will tremble before {G0:him:her}!</en-US>
-    <it-IT>I nostri nemici tremeranno davanti a {G0:him:her}!</it-IT>
+    <en-US>Our enemies will tremble before {G0:lui:lei}!</en-US>
+    <it-IT>I nostri nemici tremeranno davanti a {G0:lui:lei}!</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AXES_HIGH_HOME</zType>
@@ -41622,12 +41622,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUMOR_HAS_IT_MISUNDERSTOOD</zType>
-    <en-US>{G0:He:She} practices an honorable and misunderstood religion.</en-US>
+    <en-US>{G0:Lui:Lei} practices an honorable and misunderstood religion.</en-US>
     <it-IT>{G0:Lui:Lei} pratica una religione onorevole e incompresa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUMOR_HAS_IT_BURN</zType>
-    <en-US>{G0:He:She} must be burned at the stake!</en-US>
+    <en-US>{G0:Lui:Lei} must be burned at the stake!</en-US>
     <it-IT>{G0:Lui:Lei} deve essere bruciato sul rogo!</it-IT>
   </Entry>
   <Entry>
@@ -41697,8 +41697,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_FRUSTRATING_OUTCOME_FRUSTRATED</zType>
-    <en-US>I am increasingly frustrated with {G0:him:her}.</en-US>
-    <it-IT>Sono sempre più frustrato da {G0:him:her}.</it-IT>
+    <en-US>I am increasingly frustrated with {G0:lui:lei}.</en-US>
+    <it-IT>Sono sempre più frustrato da {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHANGE_OF_HEART_STOP</zType>
@@ -41712,8 +41712,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHANGE_OF_HEART_ENDEARED</zType>
-    <en-US>Commit to spending more time together in a bid to keep {G0:him:her} from spending so lavishly.</en-US>
-    <it-IT>Impegnatevi a trascorrere più tempo insieme nel tentativo di evitare che {G0:him:her} spenda così tanto.</it-IT>
+    <en-US>Commit to spending more time together in a bid to keep {G0:lui:lei} from spending so lavishly.</en-US>
+    <it-IT>Impegnatevi a trascorrere più tempo insieme nel tentativo di evitare che {G0:lui:lei} spenda così tanto.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_SCOUNDREL_EXILE</zType>
@@ -41722,8 +41722,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_SCOUNDREL_RESTORE</zType>
-    <en-US>Send {G0:him:her} to the {RELIGION-1,1} priests for reformation.</en-US>
-    <it-IT>Inviare {G0:him:her} ai sacerdoti di {RELIGION-1,1} per la riforma.</it-IT>
+    <en-US>Send {G0:lui:lei} to the {RELIGION-1,1} priests for reformation.</en-US>
+    <it-IT>Inviare {G0:lui:lei} ai sacerdoti di {RELIGION-1,1} per la riforma.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_SCOUNDREL_PROUD</zType>
@@ -41732,27 +41732,27 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_SCOUNDREL_ENDEARED</zType>
-    <en-US>Spend more time with {G0:him:her} to blunt {G0:his:her} worst impulses.</en-US>
-    <it-IT>Trascorrere più tempo con {G0:him:her} per smussare gli impulsi peggiori di {G0:his:her}.</it-IT>
+    <en-US>Spend more time with {G0:lui:lei} to blunt {G0:his:her} worst impulses.</en-US>
+    <it-IT>Trascorrere più tempo con {G0:lui:lei} per smussare gli impulsi peggiori di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_LITTLE_PUSHBACK_YES</zType>
-    <en-US>{G0:He:She} will do it for the good of the nation.</en-US>
+    <en-US>{G0:Lui:Lei} will do it for the good of the nation.</en-US>
     <it-IT>{G0:Lui:Lei} lo farà per il bene della nazione.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_LITTLE_PUSHBACK_NO</zType>
-    <en-US>We can find {G0:him:her} a better match.</en-US>
-    <it-IT>Possiamo trovare {G0:him:her} una corrispondenza migliore.</it-IT>
+    <en-US>We can find {G0:lui:lei} a better match.</en-US>
+    <it-IT>Possiamo trovare {G0:lui:lei} una corrispondenza migliore.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_LITTLE_PUSHBACK_ENDEARED</zType>
-    <en-US>Leverage our relationship with {G0:him:her} to get {G0:him:her} to agree. This provides an excellent lesson in statecraft.</en-US>
-    <it-IT>Sfruttare il nostro rapporto con {G0:him:her} per ottenere il consenso di {G0:him:her}. Questa è un'eccellente lezione di statistica.</it-IT>
+    <en-US>Leverage our relationship with {G0:lui:lei} to get {G0:lui:lei} to agree. This provides an excellent lesson in statecraft.</en-US>
+    <it-IT>Sfruttare il nostro rapporto con {G0:lui:lei} per ottenere il consenso di {G0:lui:lei}. Questa è un'eccellente lezione di statistica.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_IMPUDENT_MATCH_STOP</zType>
-    <en-US>Send the heir away. {G0:He:She} will forget {G1:him:her} in time.</en-US>
+    <en-US>Send the heir away. {G0:Lui:Lei} will forget {G1:him:her} in time.</en-US>
     <it-IT>Mandate via l'erede. {G0:Lui:Lei} dimenticherà {G1:him:her} col tempo.</it-IT>
   </Entry>
   <Entry>
@@ -42057,8 +42057,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BIRTH_RENEWED_HOPE_OPTION_2</zType>
-    <en-US>We will try to provide {G0:him:her} with more siblings.</en-US>
-    <it-IT>Cercheremo di fornire a {G0:him:her} altri fratelli.</it-IT>
+    <en-US>We will try to provide {G0:lui:lei} with more siblings.</en-US>
+    <it-IT>Cercheremo di fornire a {G0:lui:lei} altri fratelli.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BIRTH_SHOWERED_WITH_GIFTS_OPTION_0</zType>
@@ -42337,8 +42337,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNEXPECTED_GUEST_OPTION_1</zType>
-    <en-US>Scold {CHARACTER-SHORT-0} and send {G0:him:her} away.</en-US>
-    <it-IT>Sgridare {CHARACTER-SHORT-0} e mandare via {G0:him:her}.</it-IT>
+    <en-US>Scold {CHARACTER-SHORT-0} and send {G0:lui:lei} away.</en-US>
+    <it-IT>Sgridare {CHARACTER-SHORT-0} e mandare via {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNEXPECTED_GUEST_OPTION_2</zType>
@@ -42357,8 +42357,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISMATCHED_OPTION_1</zType>
-    <en-US>I have chosen, and {G0:he:she} must learn to live with it.</en-US>
-    <it-IT>Ho scelto, e {G0:he:she} deve imparare a conviverci.</it-IT>
+    <en-US>I have chosen, and {G0:lui:lei} must learn to live with it.</en-US>
+    <it-IT>Ho scelto, e {G0:lui:lei} deve imparare a conviverci.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISMATCHED_OPTION_2</zType>
@@ -42652,8 +42652,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FULL_OF_IDEAS_OPTION_2</zType>
-    <en-US>Hold {CHARACTER-SHORT-0} in the dungeons until {G0:he:she} hands over the riches from {G0:his:her} travels.</en-US>
-    <it-IT>Trattenete {CHARACTER-SHORT-0} nei sotterranei finché {G0:he:she} non vi consegnerà le ricchezze dei viaggi di {G0:his:her}.</it-IT>
+    <en-US>Hold {CHARACTER-SHORT-0} in the dungeons until {G0:lui:lei} hands over the riches from {G0:his:her} travels.</en-US>
+    <it-IT>Trattenete {CHARACTER-SHORT-0} nei sotterranei finché {G0:lui:lei} non vi consegnerà le ricchezze dei viaggi di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WALL_OF_BATTLE_OPTION_0</zType>
@@ -42662,7 +42662,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WALL_OF_BATTLE_OPTION_1</zType>
-    <en-US>{G0:He:She} still has so much to give to the court in {G0:his:her} current duties.</en-US>
+    <en-US>{G0:Lui:Lei} still has so much to give to the court in {G0:his:her} current duties.</en-US>
     <it-IT>{G0:Lui:Lei} ha ancora molto da dare alla corte nelle attuali funzioni di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
@@ -42792,8 +42792,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEATH_FUNERAL_PROCESSION_OPTION_0</zType>
-    <en-US>It is the family's responsibility to honor {G0:him:her}.</en-US>
-    <it-IT>È responsabilità della famiglia onorare {G0:him:her}.</it-IT>
+    <en-US>It is the family's responsibility to honor {G0:lui:lei}.</en-US>
+    <it-IT>È responsabilità della famiglia onorare {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEATH_FUNERAL_PROCESSION_OPTION_1</zType>
@@ -42807,13 +42807,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_THE_LION_OPTION_0</zType>
-    <en-US>Allow {G0:him:her} to learn about lions from scholarly reports.</en-US>
-    <it-IT>Permettete a {G0:him:her} di imparare a conoscere i leoni dai rapporti degli studiosi.</it-IT>
+    <en-US>Allow {G0:lui:lei} to learn about lions from scholarly reports.</en-US>
+    <it-IT>Permettete a {G0:lui:lei} di imparare a conoscere i leoni dai rapporti degli studiosi.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_THE_LION_OPTION_1</zType>
-    <en-US>Command {G0:him:her} to examine the lion personally.</en-US>
-    <it-IT>Comandare {G0:him:her} per esaminare personalmente il leone.</it-IT>
+    <en-US>Command {G0:lui:lei} to examine the lion personally.</en-US>
+    <it-IT>Comandare {G0:lui:lei} per esaminare personalmente il leone.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_HANDS_DIRTY_OPTION_0</zType>
@@ -42862,12 +42862,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_ART_OF_WAR_OPTION_0</zType>
-    <en-US>{G0:He:She} should study the leadership of great generals.</en-US>
+    <en-US>{G0:Lui:Lei} should study the leadership of great generals.</en-US>
     <it-IT>{G0:Lui:Lei} dovrebbe studiare la leadership dei grandi generali.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_ART_OF_WAR_OPTION_1</zType>
-    <en-US>{G0:He:She} should memorize combat drills and tactics.</en-US>
+    <en-US>{G0:Lui:Lei} should memorize combat drills and tactics.</en-US>
     <it-IT>{G0:Lui:Lei} deve memorizzare le esercitazioni e le tattiche di combattimento.</it-IT>
   </Entry>
   <Entry>
@@ -42932,8 +42932,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_STICKY_FINGERS_OPTION_2</zType>
-    <en-US>Turn a blind eye as {G0:he:she} flees the empire.</en-US>
-    <it-IT>Chiudere un occhio mentre {G0:he:she} fugge dall'impero.</it-IT>
+    <en-US>Turn a blind eye as {G0:lui:lei} flees the empire.</en-US>
+    <it-IT>Chiudere un occhio mentre {G0:lui:lei} fugge dall'impero.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_MERCHANT_TOWN_OPTION_0</zType>
@@ -42992,8 +42992,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_SCIENCE_OR_MAGIC_OPTION_0</zType>
-    <en-US>{CHARACTER-0} stays, but {G0:he:she} will be watched.</en-US>
-    <it-IT>{CHARACTER-0} rimane, ma {G0:he:she} sarà sorvegliato.</it-IT>
+    <en-US>{CHARACTER-0} stays, but {G0:lui:lei} will be watched.</en-US>
+    <it-IT>{CHARACTER-0} rimane, ma {G0:lui:lei} sarà sorvegliato.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_SCIENCE_OR_MAGIC_OPTION_1</zType>
@@ -43012,8 +43012,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_TABOOS_OPTION_2</zType>
-    <en-US>{CHARACTER-2} will supply {G0:him:her} with the... "subjects" required.</en-US>
-    <it-IT>{CHARACTER-2} fornirà a {G0:him:her} le... "soggetti" richiesti.</it-IT>
+    <en-US>{CHARACTER-2} will supply {G0:lui:lei} with the... "subjects" required.</en-US>
+    <it-IT>{CHARACTER-2} fornirà a {G0:lui:lei} le... "soggetti" richiesti.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_THE_MECHANISM_OPTION_0</zType>
@@ -43047,8 +43047,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_THE_UNIVERSAL_ORDER_OPTION_0</zType>
-    <en-US>Provide {G0:him:her} with whatever is needed.</en-US>
-    <it-IT>Fornire a {G0:him:her} tutto ciò che è necessario.</it-IT>
+    <en-US>Provide {G0:lui:lei} with whatever is needed.</en-US>
+    <it-IT>Fornire a {G0:lui:lei} tutto ciò che è necessario.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_THE_UNIVERSAL_ORDER_OPTION_1</zType>
@@ -43067,7 +43067,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_OFFENSIVE_BEHAVIOR_OPTION_1</zType>
-    <en-US>{G0:He:She} is too crucial to our plans.</en-US>
+    <en-US>{G0:Lui:Lei} is too crucial to our plans.</en-US>
     <it-IT>{G0:Lui:Lei} è troppo cruciale per i nostri piani.</it-IT>
   </Entry>
   <Entry>
@@ -43112,18 +43112,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_POISON_ON_THE_TREE_OPTION_1</zType>
-    <en-US>Let {G0:him:her} rot in chains for the rest of {G0:his:her} days.</en-US>
-    <it-IT>Lasciate che {G0:him:her} marcisca in catene per il resto dei giorni di {G0:his:her}.</it-IT>
+    <en-US>Let {G0:lui:lei} rot in chains for the rest of {G0:his:her} days.</en-US>
+    <it-IT>Lasciate che {G0:lui:lei} marcisca in catene per il resto dei giorni di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_POISON_ON_THE_TREE_OPTION_2</zType>
-    <en-US>Exile will teach {G0:him:her} respect for the throne.</en-US>
-    <it-IT>L'esilio insegnerà a {G0:him:her} il rispetto per il trono.</it-IT>
+    <en-US>Exile will teach {G0:lui:lei} respect for the throne.</en-US>
+    <it-IT>L'esilio insegnerà a {G0:lui:lei} il rispetto per il trono.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_ANNEXATION_OPTION_0</zType>
-    <en-US>Tell {G0:him:her} to take what is rightfully ours.</en-US>
-    <it-IT>Dite a {G0:him:her} di prendere ciò che è nostro di diritto.</it-IT>
+    <en-US>Tell {G0:lui:lei} to take what is rightfully ours.</en-US>
+    <it-IT>Dite a {G0:lui:lei} di prendere ciò che è nostro di diritto.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_ANNEXATION_OPTION_1</zType>
@@ -43402,13 +43402,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_ACTS_OF_CHARITY_OPTION_0</zType>
-    <en-US>Encourage {G0:him:her} to support charitable government policies.</en-US>
-    <it-IT>Incoraggiare {G0:him:her} a sostenere le politiche governative di beneficenza.</it-IT>
+    <en-US>Encourage {G0:lui:lei} to support charitable government policies.</en-US>
+    <it-IT>Incoraggiare {G0:lui:lei} a sostenere le politiche governative di beneficenza.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_ACTS_OF_CHARITY_OPTION_1</zType>
-    <en-US>Suggest that {G0:he:she} continue working directly with the poor.</en-US>
-    <it-IT>Suggerisce a {G0:he:she} di continuare a lavorare direttamente con i poveri.</it-IT>
+    <en-US>Suggest that {G0:lui:lei} continue working directly with the poor.</en-US>
+    <it-IT>Suggerisce a {G0:lui:lei} di continuare a lavorare direttamente con i poveri.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_SEERS_TEACHINGS_OPTION_0</zType>
@@ -43502,7 +43502,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PAY_TO_PLAY_OPTION_0</zType>
-    <en-US>{G0:He:She} will do {G0:his:her} duty... as a public service.</en-US>
+    <en-US>{G0:Lui:Lei} will do {G0:his:her} duty... as a public service.</en-US>
     <it-IT>{G0:Lui:Lei} farà il dovere di {G0:his:her}... come servizio pubblico.</it-IT>
   </Entry>
   <Entry>
@@ -43512,8 +43512,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PAY_TO_PLAY_OPTION_2</zType>
-    <en-US>Agree, but {G0:he:she} is now my agent.</en-US>
-    <it-IT>Sono d'accordo, ma {G0:he:she} è ora il mio agente.</it-IT>
+    <en-US>Agree, but {G0:lui:lei} is now my agent.</en-US>
+    <it-IT>Sono d'accordo, ma {G0:lui:lei} è ora il mio agente.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_BITE_THE_HAND_OPTION_0</zType>
@@ -43632,8 +43632,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TECH_KNOWLEDGE_OF_POWER_0</zType>
-    <en-US>Send {G0:him:her} to learn what {G0:he:she} can.</en-US>
-    <it-IT>Inviare {G0:him:her} per imparare ciò che {G0:he:she} può.</it-IT>
+    <en-US>Send {G0:lui:lei} to learn what {G0:lui:lei} can.</en-US>
+    <it-IT>Inviare {G0:lui:lei} per imparare ciò che {G0:lui:lei} può.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TECH_KNOWLEDGE_OF_POWER_1</zType>

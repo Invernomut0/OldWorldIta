@@ -267,8 +267,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_RELATION_SIBLING</zType>
-    <en-US>your {masculine_0:Brother:Sister}</en-US>
-    <it-IT>il tuo {masculine_0:Brother:Sister}</it-IT>
+    <en-US>your {masculine_0:Fratello:Sorella}</en-US>
+    <it-IT>il tuo {masculine_0:Fratello:Sorella}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_RELATION_SIBLING_IN_LAW</zType>
@@ -362,8 +362,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_RELATION_SIBLING_SHORT</zType>
-    <en-US>{masculine_0:Brother:Sister}</en-US>
-    <it-IT>{masculine_0:Brother:Sister}</it-IT>
+    <en-US>{masculine_0:Fratello:Sorella}</en-US>
+    <it-IT>{masculine_0:Fratello:Sorella}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_RELATION_SIBLING_IN_LAW_SHORT</zType>

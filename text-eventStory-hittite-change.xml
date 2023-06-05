@@ -186,10 +186,10 @@ In tempi lontani, i loro eserciti saccheggiarono {CITY-3}... Fu in quell'occasio
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_HITTITE</zType>
-    <en-US>A messenger has arrived from {PLAYER-0} with an intriguing offer. {CHARACTER-0} finds {G0:himself:herself} with a strong military, but a shortage of resources. And, {G0:his:her} message suggests, “perhaps we can both benefit from this situation”.
+    <en-US>A messenger has arrived from {PLAYER-0} with an intriguing offer. {CHARACTER-0} finds {G0:se stesso:se stessa} with a strong military, but a shortage of resources. And, {G0:his:her} message suggests, “perhaps we can both benefit from this situation”.
 For a modest fee you can acquire the services of a powerful link(UNIT_HITTITE_CHARIOT_1), a rare sight outside the forces of {PLAYER-0}. “Of course”, the message concludes, “if you refuse I will need to find some other use for my excess forces. They may end up in {CITY-1} regardless”.
 Shall we accept?</en-US>
-    <it-IT>Un messaggero è arrivato da {PLAYER-0} con un'offerta intrigante. {CHARACTER-0} trova {G0:himself:herself} con un esercito forte, ma con una carenza di risorse. E, suggerisce il messaggio di {G0:his:her}, "forse entrambi possiamo trarre beneficio da questa situazione".
+    <it-IT>Un messaggero è arrivato da {PLAYER-0} con un'offerta intrigante. {CHARACTER-0} trova {G0:se stesso:se stessa} con un esercito forte, ma con una carenza di risorse. E, suggerisce il messaggio di {G0:his:her}, "forse entrambi possiamo trarre beneficio da questa situazione".
 Per una modica cifra potete acquisire i servizi di un potente link(UNIT_HITTITE_CHARIOT_1), una vista rara al di fuori delle forze di {PLAYER-0}. "Naturalmente", conclude il messaggio, "se rifiutate dovrò trovare un altro uso per le mie forze in eccesso. Potrebbero comunque finire in {CITY-1}".
 Accettiamo?</it-IT>
   </Entry>

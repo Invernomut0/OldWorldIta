@@ -6203,7 +6203,7 @@
   <Entry>
     <zType>TEXT_DIFFICULTY_ABLE</zType>
     <en-US>The Able</en-US>
-    <it-IT>L'Able</it-IT>
+    <it-IT>L'Abile</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_DIFFICULTY_JUST</zType>
@@ -6213,7 +6213,7 @@
   <Entry>
     <zType>TEXT_DIFFICULTY_GOOD</zType>
     <en-US>The Good</en-US>
-    <it-IT>Il bene</it-IT>
+    <it-IT>Il Buono</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_DIFFICULTY_GOOD_DESCRIPTION</zType>
@@ -6223,7 +6223,7 @@
   <Entry>
     <zType>TEXT_DIFFICULTY_STRONG</zType>
     <en-US>The Strong</en-US>
-    <it-IT>Il forte</it-IT>
+    <it-IT>Il Forte</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_DIFFICULTY_NOBLE</zType>
@@ -6233,7 +6233,7 @@
   <Entry>
     <zType>TEXT_DIFFICULTY_GLORIOUS</zType>
     <en-US>The Glorious</en-US>
-    <it-IT>Il glorioso</it-IT>
+    <it-IT>Il Glorioso</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_DIFFICULTY_MAGNIFICENT</zType>
@@ -6263,7 +6263,7 @@
   <Entry>
     <zType>TEXT_DIFFICULTYMODE_ABLE</zType>
     <en-US>The Able</en-US>
-    <it-IT>L'Able</it-IT>
+    <it-IT>L'Abile</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_DIFFICULTYMODE_ABLE_DESCRIPTION</zType>
@@ -7304,12 +7304,12 @@
   <Entry>
     <zType>TEXT_HOTKEY_SAVE</zType>
     <en-US>Save</en-US>
-    <it-IT>Risparmiare</it-IT>
+    <it-IT>Salva</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HOTKEY_QUICK_LOAD</zType>
     <en-US>Load</en-US>
-    <it-IT>Carico</it-IT>
+    <it-IT>Carica</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HOTKEY_AUTO_LOAD</zType>
@@ -7419,7 +7419,7 @@
   <Entry>
     <zType>TEXT_HOTKEY_MAP_EDITOR_UNDO</zType>
     <en-US>Undo</en-US>
-    <it-IT>Annullamento</it-IT>
+    <it-IT>Annulla</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HOTKEY_MAP_EDITOR_REDO</zType>
@@ -7429,7 +7429,7 @@
   <Entry>
     <zType>TEXT_HOTKEY_MAP_EDITOR_SAVE</zType>
     <en-US>Save</en-US>
-    <it-IT>Risparmiare</it-IT>
+    <it-IT>Salva</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HOTKEY_MAP_EDITOR_INCREASE_SIZE</zType>

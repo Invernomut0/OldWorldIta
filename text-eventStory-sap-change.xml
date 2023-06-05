@@ -10,9 +10,9 @@ Invitandovi a incontrarvi in un vecchio tempio pagano, {CHARACTER-SHORT-0} si of
   <Entry>
     <zType>TEXT_EVENTSTORY_A_FIRE_WITHIN</zType>
     <en-US>{CHARACTER-SHORT-0}, a dedicated {RELIGION-2,1} believer, has been telling you stories of {G0:his:her} god, a divine creator who fights for a perfect world. The tales are captivating and you eagerly ask to hear more.
-The compelling believer claims that {G0:he:she} sees the fire of Ahura Mazda in your eyes and offers to introduce you to a Magi friend of {G0:his:hers} to learn more of the religion.</en-US>
+The compelling believer claims that {G0:lui:lei} sees the fire of Ahura Mazda in your eyes and offers to introduce you to a Magi friend of {G0:his:hers} to learn more of the religion.</en-US>
     <it-IT>{CHARACTER-SHORT-0}, un devoto credente di {RELIGION-2,1}, vi ha raccontato le storie del dio {G0:his:her}, un creatore divino che lotta per un mondo perfetto. I racconti sono accattivanti e voi chiedete con impazienza di saperne di più.
-L'irresistibile credente sostiene che {G0:he:she} vede il fuoco di Ahura Mazda nei vostri occhi e si offre di presentarvi un amico magi di {G0:his:hers} per saperne di più sulla religione.</it-IT>
+L'irresistibile credente sostiene che {G0:lui:lei} vede il fuoco di Ahura Mazda nei vostri occhi e si offre di presentarvi un amico magi di {G0:his:hers} per saperne di più sulla religione.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_EVANGELICAL</zType>
@@ -30,9 +30,9 @@ Il fervore e la lunghezza dei sermoni iniziano a frustrare gli altri membri dell
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_WAY_OF_MANI</zType>
-    <en-US>In contrast to your own {RELIGION-3,1} faith, {CHARACTER-0} is a follower of {RELIGION-2}. One evening you come across {G0:him:her} performing a ritual of cleansing with water before prostrating {G0:himself:herself} in prayer.
+    <en-US>In contrast to your own {RELIGION-3,1} faith, {CHARACTER-0} is a follower of {RELIGION-2}. One evening you come across {G0:lui:lei} performing a ritual of cleansing with water before prostrating {G0:se stesso:se stessa} in prayer.
 Noticing your stare, {CHARACTER-SHORT-0} beckons you over. “Why not join me? The way of Mani can bring peace to a troubled soul.” </en-US>
-    <it-IT>In contrasto con la propria fede {RELIGION-3,1}, {CHARACTER-0} è un seguace di {RELIGION-2}. Una sera vi imbattete in {G0:him:her} che esegue un rituale di pulizia con l'acqua prima di prostrarsi in preghiera con {G0:himself:herself}.
+    <it-IT>In contrasto con la propria fede {RELIGION-3,1}, {CHARACTER-0} è un seguace di {RELIGION-2}. Una sera vi imbattete in {G0:lui:lei} che esegue un rituale di pulizia con l'acqua prima di prostrarsi in preghiera con {G0:se stesso:se stessa}.
 Notando il tuo sguardo, {CHARACTER-SHORT-0} ti fa cenno di avvicinarti. "Perché non ti unisci a me? La via di Mani può portare pace a un'anima turbata". </it-IT>
   </Entry>
   <Entry>
@@ -52,10 +52,10 @@ Vedere lo scopo e la spinta che la fede di {G1:his:her} conferisce a {CHARACTER-
   <Entry>
     <zType>TEXT_EVENTSTORY_VOICE_OF_THE_DIVINE</zType>
     <en-US><![CDATA[A part of the {RELIGION-2,1} clergy, {CHARACTER-SHORT-0} has decided that a part of {G0:his:her} role as a {S2.PRIEST} is to lead you from your own godless ways. 
-<p.is_sub.S0=SUBJECT_PIOUS>A pious and serious teacher<p=SUBJECT_RIGHTEOUS>Imbued with a sanctimonious attitude as inspiring as it is annoying<p=SUBJECT_SUPERSTITIOUS>Nervously pawing various religious charms and talismans<p=SUBJECT_HIGH_CHARISMA>Effortlessly drawing you in with an easy smile<else>Never short of willingness to talk religious matters<end>, {G0:he:she} makes an effort to impart the teachings of <p.is_sub.S0=SUBJECT_ZOROASTRIANISM>Zoroaster<p=SUBJECT_CHRISTIANITY>Jesus<p=SUBJECT_JUDAISM>Moses<p=SUBJECT_MANICHAEISM>Mani<else>the gods<end> at every opportunity. 
+<p.is_sub.S0=SUBJECT_PIOUS>A pious and serious teacher<p=SUBJECT_RIGHTEOUS>Imbued with a sanctimonious attitude as inspiring as it is annoying<p=SUBJECT_SUPERSTITIOUS>Nervously pawing various religious charms and talismans<p=SUBJECT_HIGH_CHARISMA>Effortlessly drawing you in with an easy smile<else>Never short of willingness to talk religious matters<end>, {G0:lui:lei} makes an effort to impart the teachings of <p.is_sub.S0=SUBJECT_ZOROASTRIANISM>Zoroaster<p=SUBJECT_CHRISTIANITY>Jesus<p=SUBJECT_JUDAISM>Moses<p=SUBJECT_MANICHAEISM>Mani<else>the gods<end> at every opportunity. 
 How will you respond to these religious advances?]]></en-US>
     <it-IT><![CDATA[Parte del clero di {RELIGION-2,1}, {CHARACTER-SHORT-0} ha deciso che una parte del ruolo di {G0:his:her} come {S2.PRIEST} è quella di guidarvi dalle vostre vie senza Dio. 
-<p.is_sub. S0=SUBJECT_PIOUS>Un insegnante pio e serio<p=SUBJECT_RIGHTEOUS>Impregnato di un atteggiamento bigotto tanto stimolante quanto fastidioso<p=SUBJECT_SUPERSTIOUS>Nervosamente scalpitante di vari ciondoli e talismani religiosi<p=SUBJECT_HIGH_CHARISMA>Attrae senza difficoltà con un facile sorriso<else>Mai a corto di disponibilità a parlare di questioni religiose<finisce>, {G0:he:she} si sforza di trasmettere gli insegnamenti di <p. is_sub.S0=SUBJECT_ZOROASTRIANISM>Zoroastro<p=SUBJECT_CHRISTIANITY>Gesù<p=SUBJECT_JUDAISM>Mosè<p=SUBJECT_MANICHAEISM>Mani<else>gli dèi<end> ad ogni occasione. 
+<p.is_sub. S0=SUBJECT_PIOUS>Un insegnante pio e serio<p=SUBJECT_RIGHTEOUS>Impregnato di un atteggiamento bigotto tanto stimolante quanto fastidioso<p=SUBJECT_SUPERSTIOUS>Nervosamente scalpitante di vari ciondoli e talismani religiosi<p=SUBJECT_HIGH_CHARISMA>Attrae senza difficoltà con un facile sorriso<else>Mai a corto di disponibilità a parlare di questioni religiose<finisce>, {G0:lui:lei} si sforza di trasmettere gli insegnamenti di <p. is_sub.S0=SUBJECT_ZOROASTRIANISM>Zoroastro<p=SUBJECT_CHRISTIANITY>Gesù<p=SUBJECT_JUDAISM>Mosè<p=SUBJECT_MANICHAEISM>Mani<else>gli dèi<end> ad ogni occasione. 
 Come reagirete a questi progressi religiosi?]]></it-IT>
   </Entry>
   <Entry>
@@ -63,32 +63,32 @@ Come reagirete a questi progressi religiosi?]]></it-IT>
     <en-US><![CDATA[The link(LAW_TOLERANCE) laws of {PLAYER-0} have encouraged the various religions to work together despite their theological differences, often resulting in unexpected consequences. 
 In {CITY-0}, the <p.is_sub.S1=SUBJECT_ZOROASTRIANISM>Magi<p=SUBJECT_CHRISTIANITY>Bishops<p=SUBJECT_JUDAISM>Kohanim<p=SUBJECT_MANICHAEISM>Elect<else>Priests<end> of {RELIGION-1} and the <p.is_sub.S2=SUBJECT_ZOROASTRIANISM>Magi<p=SUBJECT_CHRISTIANITY>Bishops<p=SUBJECT_JUDAISM>Kohanim<p=SUBJECT_MANICHAEISM>Elect<else>Priests<end> of {RELIGION-2} have been collaborating to translate ancient texts handed down by the devotees of their religions. The work would have been impossible without both working together, and copies of the newly understood {S0.LANGUAGE} texts are brought to court as an offering of thanks.  ]]></en-US>
     <it-IT><![CDATA[Le leggi di link(LAW_TOLERANCE) di {PLAYER-0} hanno incoraggiato le varie religioni a collaborare nonostante le loro differenze teologiche, portando spesso a conseguenze inaspettate. 
-In {CITY-0}, i <p.is_sub.S1=SOGGETTO_ZOROASTRIANISMO>Magi<p=SOGGETTO_CRISTIANESIMO>Vescovi<p=SOGGETTO_Giudaismo>Kohanim<p=SOGGETTO_MANICHAEISMO>Eletti<else>Sacerdoti<fine> di {RELIGION-1} e i <p.is_sub. S2=SOGGETTO_ZOROASTRIANISMO>Magi<p=SOGGETTO_CRISTIANITA'>Vescovi<p=SOGGETTO_Giudaismo>Kohanim<p=SOGGETTO_MANICHAEISMO>Eletti<else>Sacerdoti<end> di {RELIGION-2} hanno collaborato alla traduzione di testi antichi tramandati dai devoti delle loro religioni. Il lavoro sarebbe stato impossibile senza la collaborazione di entrambi, e le copie dei testi di {S0.LANGUAGE} appena compresi vengono portate a corte come offerta di ringraziamento.  ]]></it-IT>
+In {CITY-0}, i <p.is_sub.S1=SOGGETTO_ZOROASTRIANISMO>Magi<p=SOGGETTO_CRISTIANESIMO>Vescovi<p=SOGGETTO_Giudaismo>Kohanim<p=SOGGETTO_MANICHAEISMO>Eletti<else>Sacerdoti<end> di {RELIGION-1} e i <p.is_sub. S2=SOGGETTO_ZOROASTRIANISMO>Magi<p=SOGGETTO_CRISTIANITA'>Vescovi<p=SOGGETTO_Giudaismo>Kohanim<p=SOGGETTO_MANICHAEISMO>Eletti<else>Sacerdoti<end> di {RELIGION-2} hanno collaborato alla traduzione di testi antichi tramandati dai devoti delle loro religioni. Il lavoro sarebbe stato impossibile senza la collaborazione di entrambi, e le copie dei testi di {S0.LANGUAGE} appena compresi vengono portate a corte come offerta di ringraziamento.  ]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_ABLANAQANALBA</zType>
     <en-US>{CHARACTER-SHORT-POSS-0} shout of frustration echoes down the corridors. Upon entering the room that your scholar has turned into a makeshift workshop, a crystal sphere slams into the wall a hair-breadth from your royal head.
-"My {TITLE-1}!" {G0:he:she} exclaims, "I did not think anyone else was here!" After profuse apologies, {CHARACTER-SHORT-0} explains that {G0:he:she} was trying to inscribe a crystal globe with the old word of power ABLANAQANALBA, a palindrome spell. Picking up and inspecting the ball makes it clear what is wrong, the word has an extra letter, spelled wrong just before completion.
-{CHARACTER-SHORT-0} seems convinced that the mistake has brought some kind of curse upon {G0:him:her}.</en-US>
+"My {TITLE-1}!" {G0:lui:lei} exclaims, "I did not think anyone else was here!" After profuse apologies, {CHARACTER-SHORT-0} explains that {G0:lui:lei} was trying to inscribe a crystal globe with the old word of power ABLANAQANALBA, a palindrome spell. Picking up and inspecting the ball makes it clear what is wrong, the word has an extra letter, spelled wrong just before completion.
+{CHARACTER-SHORT-0} seems convinced that the mistake has brought some kind of curse upon {G0:lui:lei}.</en-US>
     <it-IT>{Un grido di frustrazione riecheggia nei corridoi. Entrando nella stanza che il vostro studioso ha trasformato in un laboratorio improvvisato, una sfera di cristallo sbatte contro il muro a un soffio dalla vostra testa reale.
-"Mio {TITLE-1}!" esclama {G0:he:she}, "non pensavo ci fosse qualcun altro qui!". Dopo essersi profusamente scusato, {CHARACTER-SHORT-0} spiega che {G0:he:she} stava cercando di incidere un globo di cristallo con l'antica parola del potere ABLANAQANALBA, un incantesimo palindromo. Raccogliendo e ispezionando la sfera si capisce cosa c'è che non va: la parola ha una lettera in più, scritta male appena prima del completamento.
-{CHARACTER-SHORT-0} sembra convinto che l'errore abbia portato una sorta di maledizione a {G0:him:her}.</it-IT>
+"Mio {TITLE-1}!" esclama {G0:lui:lei}, "non pensavo ci fosse qualcun altro qui!". Dopo essersi profusamente scusato, {CHARACTER-SHORT-0} spiega che {G0:lui:lei} stava cercando di incidere un globo di cristallo con l'antica parola del potere ABLANAQANALBA, un incantesimo palindromo. Raccogliendo e ispezionando la sfera si capisce cosa c'è che non va: la parola ha una lettera in più, scritta male appena prima del completamento.
+{CHARACTER-SHORT-0} sembra convinto che l'errore abbia portato una sorta di maledizione a {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_CADAVER_SYNOD</zType>
     <en-US><![CDATA[The {RELIGION-0,1} link(MISSION_HIGH_SYNOD) has taken a rather unexpected turn. Once the required <p.is_sub.S0=SUBJECT_ZOROASTRIANISM>Magi<p=SUBJECT_CHRISTIANITY>Bishops<p=SUBJECT_JUDAISM>Kohanim<p=SUBJECT_MANICHAEISM>Elect<else>Priests<end> are all gathered, {CHARACTER-1} proceeds to bring out the exhumed body of {CHARACTER-2} and places the once-{G2:Patriarch:Matriarch} on trial for charges of sedition and perjury.
 The members of the Synod seem convinced of their previous leader's guilt, although a lone dissenter  suggests that the religion should use this example to demonstrate the power of link(THEOLOGY_REDEMPTION) through the <p.is_sub.S0=SUBJECT_ZOROASTRIANISM>fires of Ahura Mazda<p=SUBJECT_CHRISTIANITY>death of Christ<p=SUBJECT_JUDAISM>laws of the Torah<p=SUBJECT_MANICHAEISM>wisdom of Mani<else>prayers of the faithful<end>. 
 The lone {S0.PRIEST} asks you to intervene. Will you practice forgiveness, or strip the dead of {G2:his:her} titles?]]></en-US>
-    <it-IT><![CDATA[Il {RELIGION-0,1} link(MISSION_HIGH_SYNOD) ha preso una piega piuttosto inaspettata. Una volta che il richiesto <p.is_sub. S0=SOGGETTO_ZOROASTRIANISMO>Magi<p=SOGGETTO_CRISTIANITA'>Vescovi<p=SOGGETTO_Giudaismo>Kohanim<p=SOGGETTO_MANICHAEISMO>Eletti<altri>Sacerdoti<fine>, il {CHARACTER-1} procede a portare alla luce il corpo riesumato del {CHARACTER-2} e sottopone l'ex-{G2:Patriarch:Matriarch} a processo con l'accusa di sedizione e spergiuro.
+    <it-IT><![CDATA[Il {RELIGION-0,1} link(MISSION_HIGH_SYNOD) ha preso una piega piuttosto inaspettata. Una volta che il richiesto <p.is_sub. S0=SOGGETTO_ZOROASTRIANISMO>Magi<p=SOGGETTO_CRISTIANITA'>Vescovi<p=SOGGETTO_Giudaismo>Kohanim<p=SOGGETTO_MANICHAEISMO>Eletti<altri>Sacerdoti<end>, il {CHARACTER-1} procede a portare alla luce il corpo riesumato del {CHARACTER-2} e sottopone l'ex-{G2:Patriarch:Matriarch} a processo con l'accusa di sedizione e spergiuro.
 I membri del Sinodo sembrano convinti della colpevolezza del loro precedente leader, anche se un solitario dissenziente suggerisce che la religione dovrebbe usare questo esempio per dimostrare il potere di link(THEOLOGY_REDEMPTION) attraverso il <p>. is_sub.S0=SOGGETTO_ZOROASTRIANISMO>fuochi di Ahura Mazda<p=SOGGETTO_CRISTIANITÀ>morte di Cristo<p=SOGGETTO_GIUDAISMO>legge della Torah<p=SOGGETTO_MANICHAEISMO>saggezza di Mani<else>preghiere dei fedeli<finisce>. 
 Il solitario {S0.PRIEST} vi chiede di intervenire. Praticherete il perdono o priverete i morti dei titoli di {G2:his:her}?]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_LET_MY_PERSON_GO</zType>
     <en-US>{CHARACTER-2} comes before you overflowing with righteous fury. The {RELIGION-1,1} leader loudly demands that you release {CHARACTER-0} from imprisonment, claiming that holding a faithful follower will anger {S1.GOD}.
-It is uncertain how {CHARACTER-SHORT-0} gained this ally, but it will make it more difficult to hold onto your captive. Is {G0:he:she} worth the anger of the {RELIGION-1,3}?</en-US>
+It is uncertain how {CHARACTER-SHORT-0} gained this ally, but it will make it more difficult to hold onto your captive. Is {G0:lui:lei} worth the anger of the {RELIGION-1,3}?</en-US>
     <it-IT>{CHARACTER-2} si presenta davanti a voi traboccante di giusta furia. Il leader di {RELIGION-1,1} chiede a gran voce che tu liberi {CHARACTER-0} dalla prigionia, sostenendo che trattenere un fedele seguace farà arrabbiare {S1.GOD}.
-Non si sa come {CHARACTER-SHORT-0} abbia ottenuto questo alleato, ma questo renderà più difficile trattenere il vostro prigioniero. Il {G0:he:she} vale la rabbia del {RELIGION-1,3}?</it-IT>
+Non si sa come {CHARACTER-SHORT-0} abbia ottenuto questo alleato, ma questo renderà più difficile trattenere il vostro prigioniero. Il {G0:lui:lei} vale la rabbia del {RELIGION-1,3}?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_SCHISM_OF_MARRIAGE</zType>
@@ -104,20 +104,20 @@ L'intervento religioso riuscirà a tenere insieme questo matrimonio?
   <Entry>
     <zType>TEXT_EVENTSTORY_A_DREAM_FROM_THE_GODS</zType>
     <en-US>{CHARACTER-1} has been spending each day teaching {CHARACTER-0} the ways of the {PLAYER-0,1} gods. Between learning their names and the rituals to appease each, {CHARACTER-SHORT-POSS-0} mind has been filled with little else. 
-However, the gods are not only active during the day. The eager disciple confides in you that {G0:he:she} has been visited each night by a divine figure wreathed in flames. Who could this divine visitor be? </en-US>
+However, the gods are not only active during the day. The eager disciple confides in you that {G0:lui:lei} has been visited each night by a divine figure wreathed in flames. Who could this divine visitor be? </en-US>
     <it-IT>{CHARACTER-1} ha passato ogni giorno a insegnare a {CHARACTER-0} le vie degli dei di {PLAYER-0,1}. Tra l'imparare i loro nomi e i rituali per placarli, la mente di {CHARACTER-SHORT-POSS-0} si è riempita di poco altro. 
-Tuttavia, gli dei non sono attivi solo durante il giorno. L'ansioso discepolo vi confida che {G0:he:she} è stato visitato ogni notte da una figura divina avvolta dalle fiamme. Chi può essere questo visitatore divino? </it-IT>
+Tuttavia, gli dei non sono attivi solo durante il giorno. L'ansioso discepolo vi confida che {G0:lui:lei} è stato visitato ogni notte da una figura divina avvolta dalle fiamme. Chi può essere questo visitatore divino? </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_BLESSED_BY_FIRE</zType>
     <en-US>While teaching {CHARACTER-0} the ways of {RELIGION-2}, {CHARACTER-1} has been impressed by the {p.is_sub.S0=SUBJECT_ADULT_UNDER_30:young :}{G0:man:woman}'s resolve and determination. 
-{CHARACTER-SHORT-0} has taken the teachings to heart and feels a tug at {G0:his:her} heart to dedicate {G0:himself:herself} to Ahura Mazda. How far will you encourage the new disciple to delve into this new path? </en-US>
+{CHARACTER-SHORT-0} has taken the teachings to heart and feels a tug at {G0:his:her} heart to dedicate {G0:se stesso:se stessa} to Ahura Mazda. How far will you encourage the new disciple to delve into this new path? </en-US>
     <it-IT>Mentre insegnava a {CHARACTER-0} le vie di {RELIGION-2}, {CHARACTER-1} è rimasto colpito dalla determinazione e dalla risolutezza di {p.is_sub.S0=SUBJECT_ADULT_UNDER_30:young :}{G0:man:woman}. 
-{CHARACTER-SHORT-0} ha preso a cuore gli insegnamenti e sente un richiamo al cuore di {G0:his:her} per dedicare {G0:himself:herself} ad Ahura Mazda. Fino a che punto incoraggerete il nuovo discepolo ad addentrarsi in questo nuovo sentiero? </it-IT>
+{CHARACTER-SHORT-0} ha preso a cuore gli insegnamenti e sente un richiamo al cuore di {G0:his:her} per dedicare {G0:se stesso:se stessa} ad Ahura Mazda. Fino a che punto incoraggerete il nuovo discepolo ad addentrarsi in questo nuovo sentiero? </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_LAWS_OF_OUR_GOD</zType>
-    <en-US>While learning the practices of {RELIGION-2} from {CHARACTER-1}, the newly converted {CHARACTER-0} has found a passion for reading the religious texts. {G0:He:She} now spends most days taking the esoteric interpretations of various scholars and translating them into {S0.LANGUAGE}. 
+    <en-US>While learning the practices of {RELIGION-2} from {CHARACTER-1}, the newly converted {CHARACTER-0} has found a passion for reading the religious texts. {G0:Lui:Lei} now spends most days taking the esoteric interpretations of various scholars and translating them into {S0.LANGUAGE}. 
 The eager learner has approached you, asking for help to pursue this new calling. Will you provide aid?  </en-US>
     <it-IT>Mentre apprendeva le pratiche di {RELIGION-2} da {CHARACTER-1}, il neo-convertito {CHARACTER-0} ha trovato una passione per la lettura dei testi religiosi. Il {G0:Lui:Lei} ora passa la maggior parte dei giorni a prendere le interpretazioni esoteriche di vari studiosi e a tradurle in {S0.LANGUAGE}. 
 L'allievo impaziente si è rivolto a voi, chiedendovi aiuto per perseguire questa nuova vocazione. Volete aiutarlo?  </it-IT>
@@ -125,16 +125,16 @@ L'allievo impaziente si è rivolto a voi, chiedendovi aiuto per perseguire quest
   <Entry>
     <zType>TEXT_EVENTSTORY_BAPTIZED_BEFORE_GOD</zType>
     <en-US>{CHARACTER-0} has accepted the word of God and is ready to be baptized into the {RELIGION-2,1} communion. A crowd of family and members of the court gather on the banks of the river to witness {G0:his:her} rebirth. 
-However, there is one last step. The new disciple has asked if you would be willing to baptize {G0:him:her}, a role normally reserved for {CHARACTER-SHORT-1}. The {TITLE-1} would be unlikely to take such a slight well, although it would bring you closer to {CHARACTER-SHORT-0}. Will you go down to the river? </en-US>
+However, there is one last step. The new disciple has asked if you would be willing to baptize {G0:lui:lei}, a role normally reserved for {CHARACTER-SHORT-1}. The {TITLE-1} would be unlikely to take such a slight well, although it would bring you closer to {CHARACTER-SHORT-0}. Will you go down to the river? </en-US>
     <it-IT>{CHARACTER-0} ha accettato la parola di Dio ed è pronto per essere battezzato nella comunione di {RELIGION-2,1}. Una folla di familiari e membri della corte si riunisce sulle rive del fiume per assistere alla rinascita di {G0:his:her}. 
-Tuttavia, c'è un ultimo passo da compiere. Il nuovo discepolo ha chiesto se sareste disposti a battezzare {G0:him:her}, un ruolo normalmente riservato a {CHARACTER-SHORT-1}. È improbabile che il {TITLE-1} prenda bene un simile affronto, anche se vi avvicinerebbe al {CHARACTER-SHORT-0}. Volete scendere al fiume? </it-IT>
+Tuttavia, c'è un ultimo passo da compiere. Il nuovo discepolo ha chiesto se sareste disposti a battezzare {G0:lui:lei}, un ruolo normalmente riservato a {CHARACTER-SHORT-1}. È improbabile che il {TITLE-1} prenda bene un simile affronto, anche se vi avvicinerebbe al {CHARACTER-SHORT-0}. Volete scendere al fiume? </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_GIFTED_OF_MANI</zType>
     <en-US>The training of {CHARACTER-0} has been rather extreme, {CHARACTER-1} forcing the convert to live by a strict schedule of prayer, meditation and fasting in order to deepen an understanding of the relation between the physical and spiritual worlds. But {CHARACTER-SHORT-0} does not seem to mind the new lifestyle, rather embracing it and researching the lives of ascetic philosophers and holy figures. 
-The {S2.PRIEST,2} are impressed with {CHARACTER-SHORT-POSS-0} progress and dedication, but some of the court are concerned for the effect it could have on {G0:him:her} and ask for you to intervene. Will you encourage this rejection of the physical? </en-US>
+The {S2.PRIEST,2} are impressed with {CHARACTER-SHORT-POSS-0} progress and dedication, but some of the court are concerned for the effect it could have on {G0:lui:lei} and ask for you to intervene. Will you encourage this rejection of the physical? </en-US>
     <it-IT>L'addestramento di {CHARACTER-0} è stato piuttosto estremo: {CHARACTER-1} ha costretto il convertito a vivere secondo un rigido programma di preghiera, meditazione e digiuno per approfondire la comprensione della relazione tra il mondo fisico e quello spirituale. Ma il {CHARACTER-SHORT-0} non sembra preoccuparsi del nuovo stile di vita, anzi lo abbraccia e si documenta sulla vita dei filosofi asceti e delle figure sacre. 
-I {S2.PRIEST,2} sono impressionati dai progressi e dalla dedizione di {CHARACTER-SHORT-POSS-0}, ma alcuni membri della corte sono preoccupati per l'effetto che potrebbe avere su {G0:him:her} e chiedono il vostro intervento. Incoraggerete questo rifiuto del fisico? </it-IT>
+I {S2.PRIEST,2} sono impressionati dai progressi e dalla dedizione di {CHARACTER-SHORT-POSS-0}, ma alcuni membri della corte sono preoccupati per l'effetto che potrebbe avere su {G0:lui:lei} e chiedono il vostro intervento. Incoraggerete questo rifiuto del fisico? </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_HELP_OF_ANOTHER</zType>
@@ -203,19 +203,19 @@ E ora siete qui. È improbabile che i {PLAYER-1,3} siano contenti che voi riveli
   <Entry>
     <zType>TEXT_EVENTSTORY_TO_TAKE_THE_CLOTH</zType>
     <en-US>{CHARACTER-1} has recently taken {CHARACTER-0} under {G1:his:her} wing, teaching the eager pupil the rituals and rites that make up the {RELIGION-2,1} faith. 
-{CHARACTER-SHORT-1} reports that {CHARACTER-SHORT-0} is an exceptional learner and requests further time together in order to train {G0:him:her} as {S1.PRIEST,1}. While remaining at your court as a courtier, the new {S1.PRIEST} would also answer to {CHARACTER-1}. 
+{CHARACTER-SHORT-1} reports that {CHARACTER-SHORT-0} is an exceptional learner and requests further time together in order to train {G0:lui:lei} as {S1.PRIEST,1}. While remaining at your court as a courtier, the new {S1.PRIEST} would also answer to {CHARACTER-1}. 
 Should {CHARACTER-SHORT-0} be allowed to join the clergy?</en-US>
     <it-IT>{CHARACTER-1} ha recentemente preso {CHARACTER-0} sotto l'ala di {G1:his:her}, insegnando al desideroso allievo i rituali e i riti che compongono la fede di {RELIGION-2,1}. 
-{CHARACTER-SHORT-1} riferisce che {CHARACTER-SHORT-0} è un allievo eccezionale e chiede di passare altro tempo insieme per formare {G0:him:her} come {S1.PRIEST,1}. Pur rimanendo alla vostra corte come cortigiano, il nuovo {S1.PRIEST} risponderebbe anche a {CHARACTER-1}. 
+{CHARACTER-SHORT-1} riferisce che {CHARACTER-SHORT-0} è un allievo eccezionale e chiede di passare altro tempo insieme per formare {G0:lui:lei} come {S1.PRIEST,1}. Pur rimanendo alla vostra corte come cortigiano, il nuovo {S1.PRIEST} risponderebbe anche a {CHARACTER-1}. 
 Si dovrebbe permettere a {CHARACTER-SHORT-0} di entrare nel clero?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_CHILD_OF_GOD</zType>
     <en-US>Your {G0:son:daughter} {CHARACTER-SHORT-0} has taken an increased interest in {RELIGION-1}, spending {G0:his:her} days debating theological details with the {S1.PRIEST,2} around the court.
-Although you pay the discussions little mind, the influence on {CHARACTER-SHORT-0} is not so superficial and {G0:he:she} soon comes before you asking to join the ranks of the {S1.PRIEST,2}. Your advisors whisper that {p.is_sub.S0=SUBJECT_HEIR_US:your heir joining the clergy would remove them from the line of succession, for better or for worse:the clergy could be a good path for a child unlikely to inherit the throne}. 
+Although you pay the discussions little mind, the influence on {CHARACTER-SHORT-0} is not so superficial and {G0:lui:lei} soon comes before you asking to join the ranks of the {S1.PRIEST,2}. Your advisors whisper that {p.is_sub.S0=SUBJECT_HEIR_US:your heir joining the clergy would remove them from the line of succession, for better or for worse:the clergy could be a good path for a child unlikely to inherit the throne}. 
 What answer will you give to your ecclesiastically-minded {G0:son:daughter}?</en-US>
     <it-IT>Il vostro {G0:son:daughter} {CHARACTER-SHORT-0} si è interessato sempre più a {RELIGION-1}, trascorrendo {G0:his:her} giorni a discutere di dettagli teologici con i {S1.PRIEST,2} della corte.
-Anche se non badate a queste discussioni, l'influenza su {CHARACTER-SHORT-0} non è così superficiale e {G0:he:she} si presenta presto davanti a voi chiedendo di unirsi ai ranghi dei {S1.PRIEST,2}. I vostri consiglieri sussurrano che {p.is_sub.S0=SUBJECT_HEIR_US:your heir joining the clergy would remove them from the line of succession, for better or for worse:the clergy could be a good path for a child unlikely to inherit the throne}. 
+Anche se non badate a queste discussioni, l'influenza su {CHARACTER-SHORT-0} non è così superficiale e {G0:lui:lei} si presenta presto davanti a voi chiedendo di unirsi ai ranghi dei {S1.PRIEST,2}. I vostri consiglieri sussurrano che {p.is_sub.S0=SUBJECT_HEIR_US:your heir joining the clergy would remove them from the line of succession, for better or for worse:the clergy could be a good path for a child unlikely to inherit the throne}. 
 Quale risposta darete al vostro {G0:son:daughter} di mentalità ecclesiastica?</it-IT>
   </Entry>
   <Entry>
@@ -255,25 +255,25 @@ Con delicatezza, vi chiede se volete condividere i vostri peccati passati per ce
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_PATH_TO_REDEMPTION_1</zType>
-    <en-US>You are approached by {S1.PRIEST,1}, the same that received {CHARACTER-POSS-0} confession. He tells you that the {RELIGION-1,1} clergy are sure that {CHARACTER-SHORT-0} found peace and redemption for the many, many sins that {G0:he:she} shared in such richly descriptive language and such painfully intricate detail.
+    <en-US>You are approached by {S1.PRIEST,1}, the same that received {CHARACTER-POSS-0} confession. He tells you that the {RELIGION-1,1} clergy are sure that {CHARACTER-SHORT-0} found peace and redemption for the many, many sins that {G0:lui:lei} shared in such richly descriptive language and such painfully intricate detail.
 This will undoubtedly reflect well on your own rule.</en-US>
-    <it-IT>Siete avvicinati da {S1.PRIEST,1}, lo stesso che ha ricevuto la confessione di {CHARACTER-POSS-0}. Vi dice che il clero di {RELIGION-1,1} è sicuro che {CHARACTER-SHORT-0} ha trovato pace e redenzione per i molti, molti peccati che {G0:he:she} ha condiviso con un linguaggio così ricco di descrizioni e dettagli così dolorosamente intricati.
+    <it-IT>Siete avvicinati da {S1.PRIEST,1}, lo stesso che ha ricevuto la confessione di {CHARACTER-POSS-0}. Vi dice che il clero di {RELIGION-1,1} è sicuro che {CHARACTER-SHORT-0} ha trovato pace e redenzione per i molti, molti peccati che {G0:lui:lei} ha condiviso con un linguaggio così ricco di descrizioni e dettagli così dolorosamente intricati.
 Questo si rifletterà senza dubbio positivamente sulla vostra regola.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_PATH_TO_REDEMPTION_PLOT</zType>
     <en-US>The first warning of trouble is when you are approached by some of the {RELIGION-1,1} leaders, worried that {S1.PRIEST,1} had gone missing. 
-Soon after, you hear that {CHARACTER-3} has started spreading rumors across {CITY-2} about the various sins of {CHARACTER-0}, claiming that {G0:he:she} confessed to them before passing away. Such claims are an attempt to undermine your authority and tarnish the dynasty's reputation. 
+Soon after, you hear that {CHARACTER-3} has started spreading rumors across {CITY-2} about the various sins of {CHARACTER-0}, claiming that {G0:lui:lei} confessed to them before passing away. Such claims are an attempt to undermine your authority and tarnish the dynasty's reputation. 
 How will you deal with this unscrupulous rival?</en-US>
     <it-IT>La prima avvisaglia di problemi si ha quando si viene avvicinati da alcuni leader di {RELIGION-1,1}, preoccupati per la scomparsa di {S1.PRIEST,1}. 
-Poco dopo, venite a sapere che {CHARACTER-3} ha iniziato a diffondere voci in tutta {CITY-2} sui vari peccati di {CHARACTER-0}, sostenendo che {G0:he:she} li ha confessati prima di morire. Queste affermazioni sono un tentativo di minare la vostra autorità e di infangare la reputazione della dinastia. 
+Poco dopo, venite a sapere che {CHARACTER-3} ha iniziato a diffondere voci in tutta {CITY-2} sui vari peccati di {CHARACTER-0}, sostenendo che {G0:lui:lei} li ha confessati prima di morire. Queste affermazioni sono un tentativo di minare la vostra autorità e di infangare la reputazione della dinastia. 
 Come affronterete questo rivale senza scrupoli?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_PATH_TO_REDEMPTION_2</zType>
-    <en-US>You are approached by {S1.PRIEST,1}, the same that received {CHARACTER-POSS-0} confession. He tells you that the {RELIGION-1,1} clergy are sure that {CHARACTER-SHORT-0} found peace and redemption for even the darkest sins that {G0:he:she} shared so openly and honestly.
+    <en-US>You are approached by {S1.PRIEST,1}, the same that received {CHARACTER-POSS-0} confession. He tells you that the {RELIGION-1,1} clergy are sure that {CHARACTER-SHORT-0} found peace and redemption for even the darkest sins that {G0:lui:lei} shared so openly and honestly.
 This will undoubtedly reflect well on your own rule.</en-US>
-    <it-IT>Venite avvicinati da {S1.PRIEST,1}, lo stesso che ha ricevuto la confessione di {CHARACTER-POSS-0}. Vi dice che il clero di {RELIGION-1,1} è sicuro che {CHARACTER-SHORT-0} ha trovato pace e redenzione anche per i peccati più oscuri che {G0:he:she} ha condiviso così apertamente e onestamente.
+    <it-IT>Venite avvicinati da {S1.PRIEST,1}, lo stesso che ha ricevuto la confessione di {CHARACTER-POSS-0}. Vi dice che il clero di {RELIGION-1,1} è sicuro che {CHARACTER-SHORT-0} ha trovato pace e redenzione anche per i peccati più oscuri che {G0:lui:lei} ha condiviso così apertamente e onestamente.
 Questo si rifletterà senza dubbio positivamente sul vostro governo.</it-IT>
   </Entry>
   <Entry>
@@ -295,11 +295,11 @@ Come dovrebbe essere ricordato {CHARACTER-SHORT-0}?   </it-IT>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_UNEXPECTED_PATH</zType>
     <en-US>You run through the halls, leaving aghast servants and bemused guards in your wake. But none of it matters when you see that the reports were true, {CHARACTER-0} has returned alive and well. 
-{G0:He:She} regales you with the tale of how {G0:he:she} awoke in a remote {RELIGION-1,1} temple, badly wounded but with no memory of what had happened. The {S1.PRIEST,2} cared for {G0:him:her} until it was safe to return, but during {G0:his:her} time there, {CHARACTER-SHORT-0} found a kinship with {G0:his:her} carers and their way of life. 
-{CHARACTER-SHORT-0} has sworn to serve {S1.GOD} as {S1.PRIEST,1} in honor to those that saved {G0:him:her}.</en-US>
+{G0:Lui:Lei} regales you with the tale of how {G0:lui:lei} awoke in a remote {RELIGION-1,1} temple, badly wounded but with no memory of what had happened. The {S1.PRIEST,2} cared for {G0:lui:lei} until it was safe to return, but during {G0:his:her} time there, {CHARACTER-SHORT-0} found a kinship with {G0:his:her} carers and their way of life. 
+{CHARACTER-SHORT-0} has sworn to serve {S1.GOD} as {S1.PRIEST,1} in honor to those that saved {G0:lui:lei}.</en-US>
     <it-IT>Correte attraverso i corridoi, lasciandovi alle spalle servitori sbigottiti e guardie perplesse. Ma tutto ciò non ha importanza quando vedete che le notizie erano vere: {CHARACTER-0} è tornato vivo e vegeto. 
-{G0:Lui:Lei} vi racconta di come {G0:he:she} si sia risvegliato in un remoto tempio di {RELIGION-1,1}, gravemente ferito ma senza memoria di ciò che era accaduto. Il {S1.PRIEST,2} si è preso cura di {G0:him:her} fino a quando non è stato sicuro tornare, ma durante il periodo trascorso da {G0:his:her} lì, {CHARACTER-SHORT-0} ha trovato una parentela con gli assistenti di {G0:his:her} e il loro modo di vivere. 
-{CHARACTER-SHORT-0} ha giurato di servire {S1.GOD} come {S1.PRIEST,1} in onore di coloro che hanno salvato {G0:him:her}.</it-IT>
+{G0:Lui:Lei} vi racconta di come {G0:lui:lei} si sia risvegliato in un remoto tempio di {RELIGION-1,1}, gravemente ferito ma senza memoria di ciò che era accaduto. Il {S1.PRIEST,2} si è preso cura di {G0:lui:lei} fino a quando non è stato sicuro tornare, ma durante il periodo trascorso da {G0:his:her} lì, {CHARACTER-SHORT-0} ha trovato una parentela con gli assistenti di {G0:his:her} e il loro modo di vivere. 
+{CHARACTER-SHORT-0} ha giurato di servire {S1.GOD} come {S1.PRIEST,1} in onore di coloro che hanno salvato {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_STUDY_NEWFOUND_FAITH_SAME</zType>
@@ -311,9 +311,9 @@ Sembra che un {S2.PRIEST}, uno dei tutor dell'Accademia, abbia incoraggiato ques
   <Entry>
     <zType>TEXT_EVENTSTORY_STUDY_NEWFOUND_FAITH_DIFF</zType>
     <en-US>Messages from {p.is_sub.S0=SUBJECT_HEIR_US:your heir :}{CHARACTER-0} have taken a new turn, often discussing theological disciplines rather than the practical matters of {G0:his:her} studies. 
-However, despite the {S2.PRIEST,2} encouraging this newfound interest in the divine, the young {G0:man:woman} has converted to {RELIGION-3} rather than following your own {RELIGION-2,1} beliefs.</en-US>
+However, despite the {S2.PRIEST,2} encouraging this newfound interest in the divine, the young {G0:uomo:donna} has converted to {RELIGION-3} rather than following your own {RELIGION-2,1} beliefs.</en-US>
     <it-IT>I messaggi di {p.is_sub.S0=SUBJECT_HEIR_US:your heir :}{CHARACTER-0} hanno preso una nuova piega, spesso discutendo di discipline teologiche piuttosto che delle questioni pratiche degli studi di {G0:his:her}. 
-Tuttavia, nonostante il {S2.PRIEST,2} incoraggi questo nuovo interesse per il divino, il giovane {G0:man:woman} si è convertito al {RELIGION-3} piuttosto che seguire le proprie convinzioni {RELIGION-2,1}.</it-IT>
+Tuttavia, nonostante il {S2.PRIEST,2} incoraggi questo nuovo interesse per il divino, il giovane {G0:uomo:donna} si è convertito al {RELIGION-3} piuttosto che seguire le proprie convinzioni {RELIGION-2,1}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_LEADER_ON_TRIAL</zType>
@@ -331,13 +331,13 @@ Vi impegnerete a costruire questi nuovi edifici per {RELIGION-0}? </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_TEMPTATION_OF_MARRIAGE</zType>
-    <en-US>Although receptive to your proposal of marriage, {CHARACTER-0} has one caveat. The religious courtier asks that you convert to {RELIGION-2}, to which {G0:he:she} has dedicated {G0:himself:herself}. </en-US>
-    <it-IT>Pur essendo ricettivo alla vostra proposta di matrimonio, {CHARACTER-0} ha un'avvertenza. Il cortigiano religioso chiede che vi convertiate a {RELIGION-2}, a cui {G0:he:she} ha dedicato {G0:himself:herself}. </it-IT>
+    <en-US>Although receptive to your proposal of marriage, {CHARACTER-0} has one caveat. The religious courtier asks that you convert to {RELIGION-2}, to which {G0:lui:lei} has dedicated {G0:se stesso:se stessa}. </en-US>
+    <it-IT>Pur essendo ricettivo alla vostra proposta di matrimonio, {CHARACTER-0} ha un'avvertenza. Il cortigiano religioso chiede che vi convertiate a {RELIGION-2}, a cui {G0:lui:lei} ha dedicato {G0:se stesso:se stessa}. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_RAISED_IN_RELIGION</zType>
-    <en-US>As {CHARACTER-SHORT-0} grows ever older, there is an ongoing question around {G0:his:her} religious upbringing. Should {G0:he:she} be raised in the state religion of {RELIGION-2}, or follow your own {RELIGION-3,1} beliefs? </en-US>
-    <it-IT>Mentre {CHARACTER-SHORT-0} cresce sempre di più, c'è una continua domanda sull'educazione religiosa di {G0:his:her}. {G0:he:she} dovrebbe essere cresciuto nella religione di Stato di {RELIGION-2} o seguire le proprie convinzioni di {RELIGION-3,1}? </it-IT>
+    <en-US>As {CHARACTER-SHORT-0} grows ever older, there is an ongoing question around {G0:his:her} religious upbringing. Should {G0:lui:lei} be raised in the state religion of {RELIGION-2}, or follow your own {RELIGION-3,1} beliefs? </en-US>
+    <it-IT>Mentre {CHARACTER-SHORT-0} cresce sempre di più, c'è una continua domanda sull'educazione religiosa di {G0:his:her}. {G0:lui:lei} dovrebbe essere cresciuto nella religione di Stato di {RELIGION-2} o seguire le proprie convinzioni di {RELIGION-3,1}? </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_CHURCH_OF_MANI</zType>
@@ -429,9 +429,9 @@ Mentre si diffonde la voce della lite tra questi due leader all'interno della Ch
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_CALLED_TO_MISSION</zType>
-    <en-US>{CHARACTER-0} has been called by {S2.GOD}, {random_R1:receiving a divine vision:visited by a dream:hearing words of the divine} when {random_R2:reading the holy texts:meditating on the divine:making a pilgrimage} that showed {G0:him:her} making a journey across distant lands to bring {RELIGION-2} to new followers. 
+    <en-US>{CHARACTER-0} has been called by {S2.GOD}, {random_R1:receiving a divine vision:visited by a dream:hearing words of the divine} when {random_R2:reading the holy texts:meditating on the divine:making a pilgrimage} that showed {G0:lui:lei} making a journey across distant lands to bring {RELIGION-2} to new followers. 
 {CHARACTER-SHORT-0} believes that it is {G0:his:her} calling to travel to {PLAYER-1} and asks for your patronage. Will you fund this journey?</en-US>
-    <it-IT>{CHARACTER-0} è stato chiamato da {S2.GOD}, {random_R1:receiving a divine vision:visited by a dream:hearing words of the divine} quando {random_R2:reading the holy texts:meditating on the divine:making a pilgrimage} ha mostrato a {G0:him:her} un viaggio attraverso terre lontane per portare {RELIGION-2} a nuovi seguaci. 
+    <it-IT>{CHARACTER-0} è stato chiamato da {S2.GOD}, {random_R1:receiving a divine vision:visited by a dream:hearing words of the divine} quando {random_R2:reading the holy texts:meditating on the divine:making a pilgrimage} ha mostrato a {G0:lui:lei} un viaggio attraverso terre lontane per portare {RELIGION-2} a nuovi seguaci. 
 {CHARACTER-SHORT-0} ritiene che sia la chiamata di {G0:his:her} a viaggiare verso {PLAYER-1} e chiede il vostro patrocinio. Finanzierete questo viaggio?</it-IT>
   </Entry>
   <Entry>
@@ -453,9 +453,9 @@ Come celebrerà {PLAYER-3} questa sacra scoperta?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_UNDERCOVER_PRIESTS</zType>
-    <en-US>Although a devout {G0:man:woman} of {S2.GOD}, {CHARACTER-0} has a streak of cold and calculating darkness. Fortunately the {S2.PRIEST} appears to be fond of you and has offered to leverage an old {S2.PRIEST} contact in {CITY-1} to establish an information network in the city.
+    <en-US>Although a devout {G0:uomo:donna} of {S2.GOD}, {CHARACTER-0} has a streak of cold and calculating darkness. Fortunately the {S2.PRIEST} appears to be fond of you and has offered to leverage an old {S2.PRIEST} contact in {CITY-1} to establish an information network in the city.
 How will you make use of this unlikely opportunity? </en-US>
-    <it-IT>Sebbene sia un {G0:man:woman} devoto di {S2.GOD}, {CHARACTER-0} ha una vena di oscurità fredda e calcolatrice. Fortunatamente il {S2.PRIEST} sembra essere affezionato a voi e si è offerto di sfruttare un vecchio contatto del {S2.PRIEST} nel {CITY-1} per creare una rete di informazioni in città.
+    <it-IT>Sebbene sia un {G0:uomo:donna} devoto di {S2.GOD}, {CHARACTER-0} ha una vena di oscurità fredda e calcolatrice. Fortunatamente il {S2.PRIEST} sembra essere affezionato a voi e si è offerto di sfruttare un vecchio contatto del {S2.PRIEST} nel {CITY-1} per creare una rete di informazioni in città.
 Come sfrutterete questa improbabile opportunità? </it-IT>
   </Entry>
   <Entry>
@@ -484,16 +484,16 @@ Sembra che alla fine abbiate trovato il vostro mago.</it-IT>
   <Entry>
     <zType>TEXT_EVENTSTORY_MIRACULOUS_RECOVERY_ILL</zType>
     <en-US>{CHARACTER-0} is close to death, and nothing that the {S2.PRIEST,2}, doctors or elders have done is able to stop it. All seems lost when {CHARACTER-1} appears, sealing {G1:himself:herself} in the room with {CHARACTER-SHORT-0} for a day and refusing to let anyone in. 
-Just as the decision is made to send guards in to stop whatever malpractice is being committed {CHARACTER-0} walks out looking as healthy as {G0:he:she} has ever been. {CHARACTER-SHORT-1} follows, with naught but a wry smile. </en-US>
+Just as the decision is made to send guards in to stop whatever malpractice is being committed {CHARACTER-0} walks out looking as healthy as {G0:lui:lei} has ever been. {CHARACTER-SHORT-1} follows, with naught but a wry smile. </en-US>
     <it-IT>{CHARACTER-0} è prossimo alla morte e nulla di quanto fatto da {S2.PRIEST,2}, dai medici o dagli anziani è in grado di fermarla. Tutto sembra perduto quando {CHARACTER-1} appare, sigillando {G1:himself:herself} nella stanza con {CHARACTER-SHORT-0} per un giorno e rifiutandosi di far entrare chiunque. 
-Proprio mentre si decide di inviare delle guardie per fermare qualsiasi illecito si stia commettendo, {CHARACTER-0} esce con l'aspetto più sano che abbia mai avuto {G0:he:she}. {CHARACTER-SHORT-1} lo segue, con un sorriso ironico. </it-IT>
+Proprio mentre si decide di inviare delle guardie per fermare qualsiasi illecito si stia commettendo, {CHARACTER-0} esce con l'aspetto più sano che abbia mai avuto {G0:lui:lei}. {CHARACTER-SHORT-1} lo segue, con un sorriso ironico. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_MIRACULOUS_RECOVERY_WOUNDED</zType>
     <en-US>{CHARACTER-0} is close to death, and nothing that the {S2.PRIEST,2}, doctors or elders have done is able to stop it. All seems lost when {CHARACTER-1} appears, sealing {G1:himself:herself} in the room with {CHARACTER-SHORT-0} for a day and refusing to let anyone in. 
-Just as the decision is made to send guards in to stop whatever malpractice is being committed {CHARACTER-0} walks out looking as healthy as {G0:he:she} has ever been. {CHARACTER-SHORT-1} follows, with naught but a wry smile. </en-US>
+Just as the decision is made to send guards in to stop whatever malpractice is being committed {CHARACTER-0} walks out looking as healthy as {G0:lui:lei} has ever been. {CHARACTER-SHORT-1} follows, with naught but a wry smile. </en-US>
     <it-IT>{CHARACTER-0} è prossimo alla morte e nulla di quanto fatto da {S2.PRIEST,2}, dai medici o dagli anziani è in grado di fermarla. Tutto sembra perduto quando {CHARACTER-1} appare, sigillando {G1:himself:herself} nella stanza con {CHARACTER-SHORT-0} per un giorno e rifiutandosi di far entrare chiunque. 
-Proprio mentre si decide di inviare delle guardie per fermare qualsiasi illecito si stia commettendo, {CHARACTER-0} esce con l'aspetto più sano che abbia mai avuto {G0:he:she}. {CHARACTER-SHORT-1} lo segue, con un sorriso ironico. </it-IT>
+Proprio mentre si decide di inviare delle guardie per fermare qualsiasi illecito si stia commettendo, {CHARACTER-0} esce con l'aspetto più sano che abbia mai avuto {G0:lui:lei}. {CHARACTER-SHORT-1} lo segue, con un sorriso ironico. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_VOICE_IN_YOUR_EAR</zType>
@@ -516,9 +516,9 @@ I tutori temono che questo interesse per l'arcano conduca la giovane carica su u
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_AGAINST_THE_UNHOLY</zType>
-    <en-US>{CHARACTER-3} and {CHARACTER-4} may often disagree when it comes to faith, but against {CHARACTER-0} they stand united. The unlikely friends are often found discussing the unwanted influence of the mage in court, putting the differences of {RELIGION-1} and {RELIGION-2} aside to imagine what devious practices {G0:he:she} may be up to next.
+    <en-US>{CHARACTER-3} and {CHARACTER-4} may often disagree when it comes to faith, but against {CHARACTER-0} they stand united. The unlikely friends are often found discussing the unwanted influence of the mage in court, putting the differences of {RELIGION-1} and {RELIGION-2} aside to imagine what devious practices {G0:lui:lei} may be up to next.
 You have become aware of a plot brewing, planning for {CHARACTER-0} to be attacked by 'bandits' on the way home one evening. Will you intercede to protect the mage? </en-US>
-    <it-IT>{CHARACTER-3} e {CHARACTER-4} possono spesso essere in disaccordo quando si tratta di fede, ma contro {CHARACTER-0} sono uniti. Gli improbabili amici si trovano spesso a discutere dell'influenza indesiderata del mago a corte, mettendo da parte le divergenze di {RELIGION-1} e {RELIGION-2} per immaginare quali pratiche subdole {G0:he:she} possa avere in mente.
+    <it-IT>{CHARACTER-3} e {CHARACTER-4} possono spesso essere in disaccordo quando si tratta di fede, ma contro {CHARACTER-0} sono uniti. Gli improbabili amici si trovano spesso a discutere dell'influenza indesiderata del mago a corte, mettendo da parte le divergenze di {RELIGION-1} e {RELIGION-2} per immaginare quali pratiche subdole {G0:lui:lei} possa avere in mente.
 Siete venuti a conoscenza di un complotto in atto, che prevede che {CHARACTER-0} venga attaccato da "banditi" mentre torna a casa una sera. Interverrete per proteggere il mago? </it-IT>
   </Entry>
   <Entry>
@@ -588,10 +588,10 @@ La corte rimane sbalordita nel vedere tale bellezza e alcuni offrono preghiere a
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_KING_AND_THE_GOD</zType>
-    <en-US>{CHARACTER-0} is visiting the capital for a diplomatic trip, but your advisors are uncertain of how to treat {G0:him:her}. The foreign leader may be a {TITLE-0} but under the laws of {PLAYER-2} you are above that, a divine ruler chosen by, if not even one of, the gods.
-Will you greet {CHARACTER-SHORT-0} as an equal or force {G0:him:her} to make a show of recognizing your divinity? </en-US>
-    <it-IT>{CHARACTER-0} è in visita nella capitale per un viaggio diplomatico, ma i vostri consiglieri sono incerti su come trattare {G0:him:her}. Il leader straniero sarà anche un {TITLE-0}, ma secondo le leggi di {PLAYER-2} voi siete al di sopra, un sovrano divino scelto da, se non addirittura uno degli, dei.
-Accoglierete {CHARACTER-SHORT-0} come un vostro pari o costringerete {G0:him:her} a fare una dimostrazione di riconoscimento della vostra divinità? </it-IT>
+    <en-US>{CHARACTER-0} is visiting the capital for a diplomatic trip, but your advisors are uncertain of how to treat {G0:lui:lei}. The foreign leader may be a {TITLE-0} but under the laws of {PLAYER-2} you are above that, a divine ruler chosen by, if not even one of, the gods.
+Will you greet {CHARACTER-SHORT-0} as an equal or force {G0:lui:lei} to make a show of recognizing your divinity? </en-US>
+    <it-IT>{CHARACTER-0} è in visita nella capitale per un viaggio diplomatico, ma i vostri consiglieri sono incerti su come trattare {G0:lui:lei}. Il leader straniero sarà anche un {TITLE-0}, ma secondo le leggi di {PLAYER-2} voi siete al di sopra, un sovrano divino scelto da, se non addirittura uno degli, dei.
+Accoglierete {CHARACTER-SHORT-0} come un vostro pari o costringerete {G0:lui:lei} a fare una dimostrazione di riconoscimento della vostra divinità? </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_OTHER_NATION_RELIGION</zType>
@@ -614,16 +614,16 @@ Potete concedere a {CHARACTER-SHORT-0} il permesso di partire per questo viaggio
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_PILGRIMAGE_2</zType>
-    <en-US>On the road to {CITY-2}, {CHARACTER-0} is battered by the wind and rain until {G0:he:she} is barely able to stand. A kind {S1.PRIEST} takes in the pilgrim, offering {CHARACTER-SHORT-0} a place to rest until {G0:he:she} has recovered from the fever that has taken hold.
+    <en-US>On the road to {CITY-2}, {CHARACTER-0} is battered by the wind and rain until {G0:lui:lei} is barely able to stand. A kind {S1.PRIEST} takes in the pilgrim, offering {CHARACTER-SHORT-0} a place to rest until {G0:lui:lei} has recovered from the fever that has taken hold.
 Although not {G0:his:her} intended destination, over the weeks {CHARACTER-0} becomes firm friends with the {S1.PRIEST} and spends many nights in lively discussion.</en-US>
-    <it-IT>Sulla strada per {CITY-2}, {CHARACTER-0} è battuto dal vento e dalla pioggia finché {G0:he:she} non riesce quasi a stare in piedi. Un gentile {S1.PRIEST} accoglie il pellegrino, offrendo a {CHARACTER-SHORT-0} un posto dove riposare finché {G0:he:she} non si sarà ripreso dalla febbre.
+    <it-IT>Sulla strada per {CITY-2}, {CHARACTER-0} è battuto dal vento e dalla pioggia finché {G0:lui:lei} non riesce quasi a stare in piedi. Un gentile {S1.PRIEST} accoglie il pellegrino, offrendo a {CHARACTER-SHORT-0} un posto dove riposare finché {G0:lui:lei} non si sarà ripreso dalla febbre.
 Sebbene non sia la destinazione prevista da {G0:his:her}, nel corso delle settimane {CHARACTER-0} diventa amico del {S1.PRIEST} e passa molte notti a discutere animatamente.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_PILGRIMAGE_3</zType>
-    <en-US>{CHARACTER-0} stops at a city on the road to {CITY-2}, pleased to find that the inn where {G0:he:she} is staying is a common haven for people treading the same pilgrim path. {CHARACTER-SHORT-0} is enjoying drinks with the other pilgrims that night, until the realization that {G0:he:she} and three others have all been sold the same 'Holy Hand', supposedly owned by the founder of {RELIGION-1}. 
+    <en-US>{CHARACTER-0} stops at a city on the road to {CITY-2}, pleased to find that the inn where {G0:lui:lei} is staying is a common haven for people treading the same pilgrim path. {CHARACTER-SHORT-0} is enjoying drinks with the other pilgrims that night, until the realization that {G0:lui:lei} and three others have all been sold the same 'Holy Hand', supposedly owned by the founder of {RELIGION-1}. 
 The relic used the last of {CHARACTER-SHORT-POSS-0} money and the dejected pilgrim reluctantly sends a message asking for more. </en-US>
-    <it-IT>{CHARACTER-0} si ferma in una città lungo la strada per {CITY-2}, felice di scoprire che la locanda in cui alloggia {G0:he:she} è un rifugio comune per chi percorre lo stesso cammino di pellegrinaggio. {CHARACTER-SHORT-0} si diverte a bere con gli altri pellegrini quella sera, fino a quando si rende conto che a {G0:he:she} e ad altri tre è stata venduta la stessa "mano santa", che si suppone appartenga al fondatore di {RELIGION-1}. 
+    <it-IT>{CHARACTER-0} si ferma in una città lungo la strada per {CITY-2}, felice di scoprire che la locanda in cui alloggia {G0:lui:lei} è un rifugio comune per chi percorre lo stesso cammino di pellegrinaggio. {CHARACTER-SHORT-0} si diverte a bere con gli altri pellegrini quella sera, fino a quando si rende conto che a {G0:lui:lei} e ad altri tre è stata venduta la stessa "mano santa", che si suppone appartenga al fondatore di {RELIGION-1}. 
 La reliquia ha utilizzato l'ultimo denaro di {CHARACTER-SHORT-POSS-0} e il pellegrino, sconsolato, invia a malincuore un messaggio per chiederne altri. </it-IT>
   </Entry>
   <Entry>
@@ -633,9 +633,9 @@ La reliquia ha utilizzato l'ultimo denaro di {CHARACTER-SHORT-POSS-0} e il pelle
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_PILGRIMAGE_5</zType>
-    <en-US>{CHARACTER-POSS-0} pilgrimage to {CITY-2} takes {G0:him:her} on roads through many different lands. Not all are happy about the presence of {RELIGION-1,1} travelers. 
+    <en-US>{CHARACTER-POSS-0} pilgrimage to {CITY-2} takes {G0:lui:lei} on roads through many different lands. Not all are happy about the presence of {RELIGION-1,1} travelers. 
 The group that {CHARACTER-SHORT-0} is traveling with are suddenly ambushed by bandits, circling around the mostly unarmed pilgrims. {CHARACTER-SHORT-0} is frozen, deciding whether to fight, and starts to imagine what you would advise...</en-US>
-    <it-IT>Il pellegrinaggio di {CHARACTER-POSS-0} a {CITY-2} porta {G0:him:her} su strade che attraversano molte terre diverse. Non tutti sono felici della presenza dei viaggiatori di {RELIGION-1,1}. 
+    <it-IT>Il pellegrinaggio di {CHARACTER-POSS-0} a {CITY-2} porta {G0:lui:lei} su strade che attraversano molte terre diverse. Non tutti sono felici della presenza dei viaggiatori di {RELIGION-1,1}. 
 Il gruppo con cui {CHARACTER-SHORT-0} sta viaggiando cade improvvisamente in un'imboscata dei banditi, che girano intorno ai pellegrini, per lo più disarmati. {CHARACTER-SHORT-0} è bloccato, sta decidendo se combattere o meno e inizia a immaginare cosa consigliereste...</it-IT>
   </Entry>
   <Entry>
@@ -645,19 +645,19 @@ Il gruppo con cui {CHARACTER-SHORT-0} sta viaggiando cade improvvisamente in un'
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_PILGRIMAGE_FINISHED_1</zType>
-    <en-US>Finally reaching {CITY-2}, {CHARACTER-0} spends a week there visiting the holy sites and keeping in solemn reflection. Returning to {PLAYER-3}, {CHARACTER-SHORT-0} is a changed {G0:man:woman} and claims to be imbued with divine grace. </en-US>
-    <it-IT>Raggiunto finalmente {CITY-2}, {CHARACTER-0} vi trascorre una settimana visitando i luoghi sacri e mantenendosi in solenne riflessione. Tornato a {PLAYER-3}, {CHARACTER-SHORT-0} è un {G0:man:woman} cambiato e sostiene di essere pervaso dalla grazia divina. </it-IT>
+    <en-US>Finally reaching {CITY-2}, {CHARACTER-0} spends a week there visiting the holy sites and keeping in solemn reflection. Returning to {PLAYER-3}, {CHARACTER-SHORT-0} is a changed {G0:uomo:donna} and claims to be imbued with divine grace. </en-US>
+    <it-IT>Raggiunto finalmente {CITY-2}, {CHARACTER-0} vi trascorre una settimana visitando i luoghi sacri e mantenendosi in solenne riflessione. Tornato a {PLAYER-3}, {CHARACTER-SHORT-0} è un {G0:uomo:donna} cambiato e sostiene di essere pervaso dalla grazia divina. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_PILGRIMAGE_FINISHED_2</zType>
-    <en-US>Finally reaching {CITY-2}, {CHARACTER-0} spends a week there visiting the holy sites and meeting the {S1.PRIEST,2} of the city. As well as endearing {G0:himself:herself} and your court to the elders of the religion, {CHARACTER-SHORT-0} returns to {PLAYER-3} satisfied with {G0:his:her} journey of faith.</en-US>
-    <it-IT>Raggiunto finalmente {CITY-2}, {CHARACTER-0} vi trascorre una settimana visitando i luoghi sacri e incontrando i {S1.PRIEST,2} della città. Oltre a far conoscere {G0:himself:herself} e la sua corte agli anziani della religione, {CHARACTER-SHORT-0} torna a {PLAYER-3} soddisfatto del viaggio di fede di {G0:his:her}.</it-IT>
+    <en-US>Finally reaching {CITY-2}, {CHARACTER-0} spends a week there visiting the holy sites and meeting the {S1.PRIEST,2} of the city. As well as endearing {G0:se stesso:se stessa} and your court to the elders of the religion, {CHARACTER-SHORT-0} returns to {PLAYER-3} satisfied with {G0:his:her} journey of faith.</en-US>
+    <it-IT>Raggiunto finalmente {CITY-2}, {CHARACTER-0} vi trascorre una settimana visitando i luoghi sacri e incontrando i {S1.PRIEST,2} della città. Oltre a far conoscere {G0:se stesso:se stessa} e la sua corte agli anziani della religione, {CHARACTER-SHORT-0} torna a {PLAYER-3} soddisfatto del viaggio di fede di {G0:his:her}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_PILGRIMAGE_FINISHED_3</zType>
-    <en-US>Finally reaching {CITY-2}, {CHARACTER-0} spends a week there visiting the holy sites. Upon returning, {G0:he:she} confides that by the end {G0:he:she} was just excited for the journey to be over and found it difficult to feel any connection to {S1.GOD}. 
+    <en-US>Finally reaching {CITY-2}, {CHARACTER-0} spends a week there visiting the holy sites. Upon returning, {G0:lui:lei} confides that by the end {G0:lui:lei} was just excited for the journey to be over and found it difficult to feel any connection to {S1.GOD}. 
 If you make the journey yourself, {CHARACTER-SHORT-0} advises, take a horse.</en-US>
-    <it-IT>Raggiunto finalmente {CITY-2}, {CHARACTER-0} vi trascorre una settimana visitando i luoghi sacri. Al ritorno, {G0:he:she} confida che alla fine {G0:he:she} era solo entusiasta che il viaggio fosse finito e aveva difficoltà a sentire un legame con {S1.GOD}. 
+    <it-IT>Raggiunto finalmente {CITY-2}, {CHARACTER-0} vi trascorre una settimana visitando i luoghi sacri. Al ritorno, {G0:lui:lei} confida che alla fine {G0:lui:lei} era solo entusiasta che il viaggio fosse finito e aveva difficoltà a sentire un legame con {S1.GOD}. 
 Se fate il viaggio da soli, {CHARACTER-SHORT-0} consiglia di prendere un cavallo.</it-IT>
   </Entry>
   <Entry>
@@ -690,8 +690,8 @@ Divinizzato e venerato negli anni in un piccolo tempio alla periferia di {CITY-1
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_CHILD_OF_THE_RIVER</zType>
-    <en-US>{CHARACTER-POSS-0} supporters, ever looking to shower praise upon their leader, have started claiming that {G0:he:she} is the child of a river nymph. Although at first embarrassed, {CHARACTER-SHORT-0} seems to enjoy the idea and now tells the story {G0:himself:herself}.</en-US>
-    <it-IT>I sostenitori di {CHARACTER-POSS-0}, sempre desiderosi di elogiare il loro leader, hanno iniziato a sostenere che {G0:he:she} è figlio di una ninfa del fiume. Anche se inizialmente imbarazzato, {CHARACTER-SHORT-0} sembra apprezzare l'idea e ora racconta la storia a {G0:himself:herself}.</it-IT>
+    <en-US>{CHARACTER-POSS-0} supporters, ever looking to shower praise upon their leader, have started claiming that {G0:lui:lei} is the child of a river nymph. Although at first embarrassed, {CHARACTER-SHORT-0} seems to enjoy the idea and now tells the story {G0:se stesso:se stessa}.</en-US>
+    <it-IT>I sostenitori di {CHARACTER-POSS-0}, sempre desiderosi di elogiare il loro leader, hanno iniziato a sostenere che {G0:lui:lei} è figlio di una ninfa del fiume. Anche se inizialmente imbarazzato, {CHARACTER-SHORT-0} sembra apprezzare l'idea e ora racconta la storia a {G0:se stesso:se stessa}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_CURSED</zType>
@@ -955,8 +955,8 @@ Il ritmo sale mentre le armi volteggiano, finché alla fine la musica si ferma. 
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_SACRED_CHASTITY</zType>
-    <en-US>Inspired by {G0:his:her} {RELIGION-1,1} faith, {CHARACTER-0} has reached the idea that it is vital that {G0:he:she} stays chaste for {S1.GOD}. Although not a common part of the religion, the idea of sacred chastity has started to spread as a part of the religion's dialog with morality.</en-US>
-    <it-IT>Ispirato dalla fede di {G0:his:her} {RELIGION-1,1}, {CHARACTER-0} ha raggiunto l'idea che sia vitale che {G0:he:she} rimanga casto per {S1.GOD}. Sebbene non sia una parte comune della religione, l'idea della castità sacra ha iniziato a diffondersi come parte del dialogo della religione con la morale.</it-IT>
+    <en-US>Inspired by {G0:his:her} {RELIGION-1,1} faith, {CHARACTER-0} has reached the idea that it is vital that {G0:lui:lei} stays chaste for {S1.GOD}. Although not a common part of the religion, the idea of sacred chastity has started to spread as a part of the religion's dialog with morality.</en-US>
+    <it-IT>Ispirato dalla fede di {G0:his:her} {RELIGION-1,1}, {CHARACTER-0} ha raggiunto l'idea che sia vitale che {G0:lui:lei} rimanga casto per {S1.GOD}. Sebbene non sia una parte comune della religione, l'idea della castità sacra ha iniziato a diffondersi come parte del dialogo della religione con la morale.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_TAUGHT_OF_GOD</zType>
@@ -1047,9 +1047,9 @@ Gli scrittori di {RELIGION-1,1} hanno risposto con saggi sulla natura della loro
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_UNDER_A_SPELL</zType>
-    <en-US>Your child {CHARACTER-0} has found the {G3:man:woman} {G0:he:she} wants to make {G0:his:her} {G3:husband:wife}. The would-be {G3:groom:bride} is {CHARACTER-3}, an estranged member of the {FAMILY-1}. {CHARACTER-2} warns that {CHARACTER-SHORT-3} is known to be a practicer of magic. 
+    <en-US>Your child {CHARACTER-0} has found the {G3:man:woman} {G0:lui:lei} wants to make {G0:his:her} {G3:husband:wife}. The would-be {G3:groom:bride} is {CHARACTER-3}, an estranged member of the {FAMILY-1}. {CHARACTER-2} warns that {CHARACTER-SHORT-3} is known to be a practicer of magic. 
 Although often helpful, such power from the gods is easily corrupted and {CHARACTER-SHORT-2} suggests that {CHARACTER-SHORT-0} is probably under a spell so {CHARACTER-SHORT-3} can climb the ranks. </en-US>
-    <it-IT>Il vostro bambino {CHARACTER-0} ha trovato il {G3:man:woman} {G0:he:she} vuole fare {G0:his:her} {G3:husband:wife}. L'aspirante {G3:groom:bride} è {CHARACTER-3}, un membro allontanato del {FAMILY-1}. {CHARACTER-2} avverte che {CHARACTER-SHORT-3} è noto per essere un praticante di magia. 
+    <it-IT>Il vostro bambino {CHARACTER-0} ha trovato il {G3:man:woman} {G0:lui:lei} vuole fare {G0:his:her} {G3:husband:wife}. L'aspirante {G3:groom:bride} è {CHARACTER-3}, un membro allontanato del {FAMILY-1}. {CHARACTER-2} avverte che {CHARACTER-SHORT-3} è noto per essere un praticante di magia. 
 Anche se spesso utile, questo potere degli dei si corrompe facilmente e {CHARACTER-SHORT-2} suggerisce che {CHARACTER-SHORT-0} è probabilmente vittima di un incantesimo per permettere a {CHARACTER-SHORT-3} di scalare i ranghi. </it-IT>
   </Entry>
   <Entry>
@@ -1075,9 +1075,9 @@ Confuterai questa affermazione?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_A_WORLD_MADE_SMALL</zType>
-    <en-US>{p.is_sub.S0=SUBJECT_ARTIST:"An uncanny likeness!":"Is this supposed to be me?"} You lean in to take a closer look at the {p.is_sub.S0=SUBJECT_ARTIST:expertly crafted:crude} figure. Luckily, as an engineer {CHARACTER-0} is {p.is_sub.S0=SUBJECT_ARTIST:even:much} more skilled at designing buildings, various models of which are scattered around the room. In the center is the one that {G0:he:she} brought you here to show. It is a grand structure of stone curving in ways you have never seen. 
+    <en-US>{p.is_sub.S0=SUBJECT_ARTIST:"An uncanny likeness!":"Is this supposed to be me?"} You lean in to take a closer look at the {p.is_sub.S0=SUBJECT_ARTIST:expertly crafted:crude} figure. Luckily, as an engineer {CHARACTER-0} is {p.is_sub.S0=SUBJECT_ARTIST:even:much} more skilled at designing buildings, various models of which are scattered around the room. In the center is the one that {G0:lui:lei} brought you here to show. It is a grand structure of stone curving in ways you have never seen. 
 Even this miniature version takes your breath away. {CHARACTER-SHORT-0} says that {G0:his:her} vision is for a grand palace to {S1.GOD}. Will you support the vision?</en-US>
-    <it-IT>{p.is_sub.S0=SUBJECT_ARTIST:"An uncanny likeness!":"Is this supposed to be me?"} Ci si china per dare un'occhiata più da vicino alla figura di {p.is_sub.S0=SUBJECT_ARTIST:expertly crafted:crude}. Fortunatamente, come ingegnere {CHARACTER-0} è {p.is_sub.S0=SUBJECT_ARTIST:even:much} più abile nel progettare edifici, i cui vari modelli sono sparsi per la stanza. Al centro c'è quello che {G0:he:she} vi ha portato qui per mostrarvi. È una grandiosa struttura di pietra che si incurva in modi che non avete mai visto. 
+    <it-IT>{p.is_sub.S0=SUBJECT_ARTIST:"An uncanny likeness!":"Is this supposed to be me?"} Ci si china per dare un'occhiata più da vicino alla figura di {p.is_sub.S0=SUBJECT_ARTIST:expertly crafted:crude}. Fortunatamente, come ingegnere {CHARACTER-0} è {p.is_sub.S0=SUBJECT_ARTIST:even:much} più abile nel progettare edifici, i cui vari modelli sono sparsi per la stanza. Al centro c'è quello che {G0:lui:lei} vi ha portato qui per mostrarvi. È una grandiosa struttura di pietra che si incurva in modi che non avete mai visto. 
 Anche questa versione in miniatura lascia senza fiato. {CHARACTER-SHORT-0} dice che la visione di {G0:his:her} è quella di un grande palazzo per {S1.GOD}. Sosterrete la visione?</it-IT>
   </Entry>
   <Entry>
@@ -1089,9 +1089,9 @@ La tua gente impiega giorni per catturare il cavallo, ma alla fine ci riesce. Ch
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_NEXT_JOURNEY</zType>
-    <en-US>It is time for {CHARACTER-0} to be laid to rest, but there are disagreements over how the leader wanted to be buried. Unlike most rulers, it seems like {G0:he:she} made few preparations for eternity. As the new {TITLE-1}, it falls to you to decide {CHARACTER-POSS-0} journey to the afterlife.
+    <en-US>It is time for {CHARACTER-0} to be laid to rest, but there are disagreements over how the leader wanted to be buried. Unlike most rulers, it seems like {G0:lui:lei} made few preparations for eternity. As the new {TITLE-1}, it falls to you to decide {CHARACTER-POSS-0} journey to the afterlife.
 How will you honor the fallen ruler?</en-US>
-    <it-IT>È ora che {CHARACTER-0} venga messo a riposo, ma ci sono disaccordi su come il leader voleva essere sepolto. A differenza della maggior parte dei governanti, sembra che {G0:he:she} abbia fatto pochi preparativi per l'eternità. Come nuovo {TITLE-1}, spetta a voi decidere il viaggio di {CHARACTER-POSS-0} nell'aldilà.
+    <it-IT>È ora che {CHARACTER-0} venga messo a riposo, ma ci sono disaccordi su come il leader voleva essere sepolto. A differenza della maggior parte dei governanti, sembra che {G0:lui:lei} abbia fatto pochi preparativi per l'eternità. Come nuovo {TITLE-1}, spetta a voi decidere il viaggio di {CHARACTER-POSS-0} nell'aldilà.
 Come onorerete il sovrano caduto?</it-IT>
   </Entry>
   <Entry>
@@ -1131,9 +1131,9 @@ Le liriche di {CHARACTER-SHORT-POSS-2} stanno già diventando famose, senza riva
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_CHARGED_WITH_CORRUPTION</zType>
-    <en-US>You have been asked to preside over the {RELIGION-2,1} link(MISSION_HIGH_SYNOD), at which the religious head {CHARACTER-0} is to defend {G0:himself:herself} against charges of corruption. A group of {S2.PRIEST,2} led by {CHARACTER-1}, claim that {CHARACTER-SHORT-0} commanded soldiers to burn their homes after falsely claiming that they were dissidents.
+    <en-US>You have been asked to preside over the {RELIGION-2,1} link(MISSION_HIGH_SYNOD), at which the religious head {CHARACTER-0} is to defend {G0:se stesso:se stessa} against charges of corruption. A group of {S2.PRIEST,2} led by {CHARACTER-1}, claim that {CHARACTER-SHORT-0} commanded soldiers to burn their homes after falsely claiming that they were dissidents.
 Brought forth to apologize, {CHARACTER-0} refuses to recognize the legality of a Synod in which {G0:his:her} open enemies are sitting as judges. Your advisors suggest that this could be a chance to rid yourself of the upset {TITLE-0}, although the leader remains popular with many of the {PLAYER-3,1} populace.</en-US>
-    <it-IT>Le è stato chiesto di presiedere il {RELIGION-2,1} link(MISSION_HIGH_SYNOD), in cui il capo religioso {CHARACTER-0} deve difendere {G0:himself:herself} dalle accuse di corruzione. Un gruppo di {S2.PRIEST,2}, guidato da {CHARACTER-1}, sostiene che {CHARACTER-SHORT-0} ha ordinato ai soldati di bruciare le loro case dopo aver affermato falsamente che erano dissidenti.
+    <it-IT>Le è stato chiesto di presiedere il {RELIGION-2,1} link(MISSION_HIGH_SYNOD), in cui il capo religioso {CHARACTER-0} deve difendere {G0:se stesso:se stessa} dalle accuse di corruzione. Un gruppo di {S2.PRIEST,2}, guidato da {CHARACTER-1}, sostiene che {CHARACTER-SHORT-0} ha ordinato ai soldati di bruciare le loro case dopo aver affermato falsamente che erano dissidenti.
 Portato a scusarsi, {CHARACTER-0} si rifiuta di riconoscere la legalità di un Sinodo in cui i nemici di {G0:his:her} siedono come giudici. I vostri consiglieri suggeriscono che questa potrebbe essere un'occasione per liberarvi dell'inquietante {TITLE-0}, anche se il leader rimane popolare tra molti abitanti di {PLAYER-3,1}.</it-IT>
   </Entry>
   <Entry>
@@ -1173,9 +1173,9 @@ Si dice che i membri del culto stiano diventando sempre più antagonisti al vost
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_HYBRIS</zType>
-    <en-US>{CHARACTER-POSS-0} search has led to the edges of {PLAYER-2}, where {G0:he:she} heard rumors of a scholar with a vast collection of oracular readings and prophesies from {RELIGION-1}. {CHARACTER-3} keeps the readings to {G3:himself:herself}, claiming that {G3:he:she} is the only one capable of translating such divine utterances.
+    <en-US>{CHARACTER-POSS-0} search has led to the edges of {PLAYER-2}, where {G0:lui:lei} heard rumors of a scholar with a vast collection of oracular readings and prophesies from {RELIGION-1}. {CHARACTER-3} keeps the readings to {G3:himself:herself}, claiming that {G3:he:she} is the only one capable of translating such divine utterances.
 This surely indicates a learned scholar, however {CHARACTER-SHORT-0} reports some... peculiarities when conversing with {CHARACTER-3} that indicate the scholar may have had too much time in isolation with {G3:his:her} prophesies.</en-US>
-    <it-IT>La ricerca di {CHARACTER-POSS-0} ha portato ai margini di {PLAYER-2}, dove {G0:he:she} ha sentito parlare di uno studioso con una vasta collezione di letture oracolari e profezie da {RELIGION-1}. {CHARACTER-3} conserva le letture a {G3:himself:herself}, sostenendo che {G3:he:she} è l'unico in grado di tradurre tali enunciati divini.
+    <it-IT>La ricerca di {CHARACTER-POSS-0} ha portato ai margini di {PLAYER-2}, dove {G0:lui:lei} ha sentito parlare di uno studioso con una vasta collezione di letture oracolari e profezie da {RELIGION-1}. {CHARACTER-3} conserva le letture a {G3:himself:herself}, sostenendo che {G3:he:she} è l'unico in grado di tradurre tali enunciati divini.
 Questo indica sicuramente che si tratta di uno studioso colto, tuttavia {CHARACTER-SHORT-0} riferisce alcune... particolarità quando conversa con {CHARACTER-3} che indicano che lo studioso potrebbe aver passato troppo tempo in isolamento con le profezie di {G3:his:her}.</it-IT>
   </Entry>
   <Entry>
@@ -1230,8 +1230,8 @@ Chiedono che la loro vecchia casa venga ridedicata a tempio degli dei.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_BETROTHAL_ENDED_THEM</zType>
-    <en-US>With the death of {CHARACTER-3}, the betrothal has been called off. {CHARACTER-0} is free to do as {G0:he:she} pleases.</en-US>
-    <it-IT>Con la morte di {CHARACTER-3}, il fidanzamento è stato annullato. {CHARACTER-0} è libero di fare ciò che {G0:he:she} desidera.</it-IT>
+    <en-US>With the death of {CHARACTER-3}, the betrothal has been called off. {CHARACTER-0} is free to do as {G0:lui:lei} pleases.</en-US>
+    <it-IT>Con la morte di {CHARACTER-3}, il fidanzamento è stato annullato. {CHARACTER-0} è libero di fare ciò che {G0:lui:lei} desidera.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_WHERE_LIGHTNING_STRIKES</zType>
@@ -1291,9 +1291,9 @@ L'incrollabile {TITLE-1} afferma che molte delle nuove reclute sono seguaci di {
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_CARMEN</zType>
-    <en-US>{CHARACTER-0} is in the habit of composing small chants in verse that {G0:he:she} often repeats to {G0:himself:herself}. The words you catch include the names of the various gods of {RELIGION-1} and mythological figures. It is little surprise that some in the court are fearful that the young ward is cursing them.
+    <en-US>{CHARACTER-0} is in the habit of composing small chants in verse that {G0:lui:lei} often repeats to {G0:se stesso:se stessa}. The words you catch include the names of the various gods of {RELIGION-1} and mythological figures. It is little surprise that some in the court are fearful that the young ward is cursing them.
 {CHARACTER-2} suggests encouraging this predilection for verse, although warns that the line between lyrics and spells is a fine one indeed. Although most would use a seer if needed, the support of such practices and practitioners changes as often as the tide. </en-US>
-    <it-IT>{CHARACTER-0} ha l'abitudine di comporre piccoli canti in versi che {G0:he:she} ripete spesso a {G0:himself:herself}. Le parole che si colgono includono i nomi delle varie divinità di {RELIGION-1} e di figure mitologiche. Non sorprende che alcuni membri della corte temano che la giovane pupilla li stia maledicendo.
+    <it-IT>{CHARACTER-0} ha l'abitudine di comporre piccoli canti in versi che {G0:lui:lei} ripete spesso a {G0:se stesso:se stessa}. Le parole che si colgono includono i nomi delle varie divinità di {RELIGION-1} e di figure mitologiche. Non sorprende che alcuni membri della corte temano che la giovane pupilla li stia maledicendo.
 {CHARACTER-2} suggerisce di incoraggiare questa predilezione per i versi, anche se avverte che il confine tra testi e incantesimi è davvero sottile. Sebbene la maggior parte ricorra a un veggente in caso di necessità, il sostegno di tali pratiche e praticanti cambia con la stessa frequenza della marea. </it-IT>
   </Entry>
   <Entry>
@@ -1343,9 +1343,9 @@ L'espansione della città fa sì che il terreno per le sepolture diventi sempre 
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_RETURNED_BY_GRACE</zType>
-    <en-US>After {CHARACTER-POSS-0} funeral rites, you are approached by a young {G3:man:woman} who claims to be the courtier's long lost {G3:son:daughter}. The {RELIGION-1,1} disciple believes that it is {S1.GOD}'s will that {G3:he:she} serves you as {G3:his:her} {G0:father:mother} did before.
+    <en-US>After {CHARACTER-POSS-0} funeral rites, you are approached by a young {G3:man:woman} who claims to be the courtier's long lost {G3:son:daughter}. The {RELIGION-1,1} disciple believes that it is {S1.GOD}'s will that {G3:he:she} serves you as {G3:his:her} {G0:padre:madre} did before.
 Will you accept {CHARACTER-POSS-3} service?</en-US>
-    <it-IT>Dopo i riti funebri di {CHARACTER-POSS-0}, venite avvicinati da un giovane {G3:man:woman} che sostiene di essere il {G3:son:daughter} perduto da tempo del cortigiano. Il discepolo {RELIGION-1,1} crede che sia volontà di {S1.GOD} che {G3:he:she} vi serva come {G3:his:her} {G0:father:mother} ha fatto prima.
+    <it-IT>Dopo i riti funebri di {CHARACTER-POSS-0}, venite avvicinati da un giovane {G3:man:woman} che sostiene di essere il {G3:son:daughter} perduto da tempo del cortigiano. Il discepolo {RELIGION-1,1} crede che sia volontà di {S1.GOD} che {G3:he:she} vi serva come {G3:his:her} {G0:padre:madre} ha fatto prima.
 Accetterete il servizio di {CHARACTER-POSS-3}?</it-IT>
   </Entry>
   <Entry>
@@ -1682,10 +1682,10 @@ Sarebbe facile accusare {CHARACTER-SHORT-0} dello stesso crimine, usando la loro
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_OPEN_DISSENT</zType>
-    <en-US>You, along with the rest of {CITY-2}, have been made aware of {CHARACTER-POSS-0} radical ideas after {G0:he:she} took to the steps of the palace to give a speech on the "true" meaning of the {S1.HOLYTEXT}. 
-After the sermon, {CHARACTER-SHORT-0} reveals that {G0:he:she} has joined a small radical sect of {RELIGION-1}. Your advisors warn that the sect has some rather extreme beliefs about the use of violence to bring about the will of {S1.GOD}.</en-US>
-    <it-IT>Voi, insieme al resto di {CITY-2}, siete venuti a conoscenza delle idee radicali di {CHARACTER-POSS-0} dopo che {G0:he:she} è salito sui gradini del palazzo per tenere un discorso sul "vero" significato del {S1.HOLYTEXT}. 
-Dopo il sermone, {CHARACTER-SHORT-0} rivela che {G0:he:she} si è unito a una piccola setta radicale di {RELIGION-1}. I vostri consiglieri avvertono che la setta ha delle convinzioni piuttosto estreme sull'uso della violenza per realizzare la volontà di {S1.GOD}.</it-IT>
+    <en-US>You, along with the rest of {CITY-2}, have been made aware of {CHARACTER-POSS-0} radical ideas after {G0:lui:lei} took to the steps of the palace to give a speech on the "true" meaning of the {S1.HOLYTEXT}. 
+After the sermon, {CHARACTER-SHORT-0} reveals that {G0:lui:lei} has joined a small radical sect of {RELIGION-1}. Your advisors warn that the sect has some rather extreme beliefs about the use of violence to bring about the will of {S1.GOD}.</en-US>
+    <it-IT>Voi, insieme al resto di {CITY-2}, siete venuti a conoscenza delle idee radicali di {CHARACTER-POSS-0} dopo che {G0:lui:lei} è salito sui gradini del palazzo per tenere un discorso sul "vero" significato del {S1.HOLYTEXT}. 
+Dopo il sermone, {CHARACTER-SHORT-0} rivela che {G0:lui:lei} si è unito a una piccola setta radicale di {RELIGION-1}. I vostri consiglieri avvertono che la setta ha delle convinzioni piuttosto estreme sull'uso della violenza per realizzare la volontà di {S1.GOD}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_COMMUNITY</zType>
@@ -1752,7 +1752,7 @@ Mentre la violenza aumenta e sempre più persone vengono coinvolte in questi inu
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_FIRST_DISCIPLE</zType>
-    <en-US>{CHARACTER-0} has happened upon a lone traveler, who claims to be the first disciple of a great teacher and prophet. Upon hearing the tales, {CHARACTER-SHORT-0} is unconvinced about the ideas of this religion, but {G0:his:her} devout nature draws {G0:him:her} to want to document the faith and bring it back to {CITY-1}.</en-US>
+    <en-US>{CHARACTER-0} has happened upon a lone traveler, who claims to be the first disciple of a great teacher and prophet. Upon hearing the tales, {CHARACTER-SHORT-0} is unconvinced about the ideas of this religion, but {G0:his:her} devout nature draws {G0:lui:lei} to want to document the faith and bring it back to {CITY-1}.</en-US>
     <it-IT>{CHARACTER-0} si è imbattuto in un viaggiatore solitario che sostiene di essere il primo discepolo di un grande maestro e profeta. Dopo aver ascoltato i racconti, {CHARACTER-SHORT-0} non è convinto delle idee di questa religione, ma la natura devota di {G0:his:her} lo spinge a voler documentare la fede e a riportarla a {CITY-1}.</it-IT>
   </Entry>
   <Entry>
@@ -1865,10 +1865,10 @@ Le storie della Statua di {S0.PAGANGOD} si diffondono presto in tutta {PLAYER-3}
   <Entry>
     <zType>TEXT_EVENTSTORY_LANDS_OF_THE_DEAD</zType>
     <en-US><![CDATA[{CHARACTER-0} is dead, {G0:his:her} body prepared by the <p.is_sub.S1=SUBJECT_RELIGION_GREECE>women<else>{S1.PRIEST,2}<end> of {RELIGION-1} for the journey into the next life. 
-<p.is_sub.S1=SUBJECT_RELIGION_ASSYRIA>There is no judgment after death, just the cold and dark planes of existence where the dead wander for eternity sustained by naught but clay. It is a grim fate that awaits all people, and the rites serve a powerful reminder to make the most of your time upon the earth.<p=SUBJECT_RELIGION_BABYLONIA>There is no judgment after death, just the cold and dark planes of existence where the dead wander for eternity sustained by naught but clay. It is a grim fate that awaits all people, and the rites serve a powerful reminder to make the most of your time upon the earth.  <p=SUBJECT_RELIGION_CARTHAGE>The dead is first anointed with perfumed resin, colored red with ocher and cinnabar, before being burned or buried. A feast is a final send-off for the dead, a banquet in the cemetery with the ritually impure crockery smashed and buried at the end of the meal. <p=SUBJECT_RELIGION_EGYPT>After the ritual preparation of the body, there is a complex journey to be undertaken, with the ka, the deceased’s double in death, making the journey through the judgment of Osiris and the weighing of the heart. Only then will they reach the Field of Reeds, living for eternity with the servants and goods buried together in death.<p=SUBJECT_RELIGION_GREECE>The body is prepared by the women of the family, with the Priests unable to enter the house tainted by death. A coin is placed in the mouth of the deceased, with which to pay the ferryman of Hades, Charon. After passing into Hades a dutiful soul will find themselves in Elysium, the wicked fall to Tartarus. Libations from the living are an important duty to help the dead, as the forgotten souls are lost, wandering the fields of Hades for eternity.<p=SUBJECT_RELIGION_HITTITE>There are many thoughts of what follows death, but none of them are reassuring. The fourteen day ritual prepares the dead to take their rightful place, the burning of the body on the second day followed by further rituals and sacrifices to guide the soul along the journey in which {G0:he:she} tries to avoid the ‘dark earth’.<p=SUBJECT_RELIGION_PERSIA>After death, it is thought that the person’s spirit wanders the earth for three days. During this time it is up to the family to provide help through rituals and sacrifices to guard the spirit from harm. <p=SUBJECT_RELIGION_ROME>The body must be burned and interred before it is thought that the shade of the dead is able to leave the world of the living and cross the river Styx. A ritual feast with the living is the final sign for the deceased that they can continue on and that the family will be able to move forwards.<else>The rituals are ready and the body prepared.<end>
+<p.is_sub.S1=SUBJECT_RELIGION_ASSYRIA>There is no judgment after death, just the cold and dark planes of existence where the dead wander for eternity sustained by naught but clay. It is a grim fate that awaits all people, and the rites serve a powerful reminder to make the most of your time upon the earth.<p=SUBJECT_RELIGION_BABYLONIA>There is no judgment after death, just the cold and dark planes of existence where the dead wander for eternity sustained by naught but clay. It is a grim fate that awaits all people, and the rites serve a powerful reminder to make the most of your time upon the earth.  <p=SUBJECT_RELIGION_CARTHAGE>The dead is first anointed with perfumed resin, colored red with ocher and cinnabar, before being burned or buried. A feast is a final send-off for the dead, a banquet in the cemetery with the ritually impure crockery smashed and buried at the end of the meal. <p=SUBJECT_RELIGION_EGYPT>After the ritual preparation of the body, there is a complex journey to be undertaken, with the ka, the deceased’s double in death, making the journey through the judgment of Osiris and the weighing of the heart. Only then will they reach the Field of Reeds, living for eternity with the servants and goods buried together in death.<p=SUBJECT_RELIGION_GREECE>The body is prepared by the women of the family, with the Priests unable to enter the house tainted by death. A coin is placed in the mouth of the deceased, with which to pay the ferryman of Hades, Charon. After passing into Hades a dutiful soul will find themselves in Elysium, the wicked fall to Tartarus. Libations from the living are an important duty to help the dead, as the forgotten souls are lost, wandering the fields of Hades for eternity.<p=SUBJECT_RELIGION_HITTITE>There are many thoughts of what follows death, but none of them are reassuring. The fourteen day ritual prepares the dead to take their rightful place, the burning of the body on the second day followed by further rituals and sacrifices to guide the soul along the journey in which {G0:lui:lei} tries to avoid the ‘dark earth’.<p=SUBJECT_RELIGION_PERSIA>After death, it is thought that the person’s spirit wanders the earth for three days. During this time it is up to the family to provide help through rituals and sacrifices to guard the spirit from harm. <p=SUBJECT_RELIGION_ROME>The body must be burned and interred before it is thought that the shade of the dead is able to leave the world of the living and cross the river Styx. A ritual feast with the living is the final sign for the deceased that they can continue on and that the family will be able to move forwards.<else>The rituals are ready and the body prepared.<end>
 The {S1.PRIEST,2} want to know, will you organize the full funerary rites for {CHARACTER-SHORT-0}?]]></en-US>
     <it-IT><![CDATA[{CHARACTER-0} è morto, il corpo di {G0:his:her} è stato preparato dalle <p.is_sub.S1=SUBJECT_RELIGION_GREECE>donne<else>{S1.PRIEST,2}<end> di {RELIGION-1} per il viaggio nella prossima vita. 
-<p.is_sub.S1=SUBJECT_RELIGION_ASSYRIA>Non c'è giudizio dopo la morte, ma solo i freddi e bui piani dell'esistenza dove i morti vagano per l'eternità sostenuti solo dall'argilla. È un triste destino quello che attende tutti gli uomini, e i riti servono a ricordarci di sfruttare al meglio il tempo trascorso sulla terra.<p=SUBJECT_RELIGION_BABYLONIA>Non c'è alcun giudizio dopo la morte, ma solo i freddi e bui piani dell'esistenza dove i morti vagano per l'eternità sostenuti da nient'altro che argilla. È un triste destino quello che attende tutti gli uomini, e i riti servono a ricordarci di sfruttare al meglio il tempo trascorso sulla terra.  <p=SUBJECT_RELIGION_CARTHAGE>Il morto viene prima unto con resina profumata, colorata di rosso con ocra e cinabro, prima di essere bruciato o sepolto. La festa è l'ultimo saluto ai morti, un banchetto nel cimitero con le stoviglie ritualmente impure che vengono distrutte e sepolte alla fine del pasto. <p=SUBJECT_RELIGION_EGYPT>Dopo la preparazione rituale del corpo, c'è un viaggio complesso da intraprendere, con il ka, il doppio del defunto nella morte, che compie il viaggio attraverso il giudizio di Osiride e la pesatura del cuore. Solo allora raggiungeranno il Campo dei Giunchi, vivendo per l'eternità con i servi e i beni sepolti insieme nella morte.<p=SUBJECT_RELIGION_GREECE>Il corpo viene preparato dalle donne della famiglia, mentre i sacerdoti non possono entrare nella casa contaminata dalla morte. Si mette una moneta nella bocca del defunto, con la quale si paga il traghettatore dell'Ade, Caronte. Dopo il passaggio nell'Ade, un'anima doverosa si ritrova nell'Eliseo, mentre i malvagi cadono nel Tartaro. Le libagioni dei vivi sono un dovere importante per aiutare i morti, poiché le anime dimenticate si perdono, vagando per l'eternità nei campi dell'Ade.<p=SUBJECT_RELIGION_HITTITE>Ci sono molti pensieri su ciò che segue la morte, ma nessuno di essi è rassicurante. Il rituale di quattordici giorni prepara il morto a prendere il posto che gli spetta, il rogo del corpo il secondo giorno seguito da altri rituali e sacrifici per guidare l'anima lungo il viaggio in cui {G0:he:she} cerca di evitare la "terra oscura".<p=SUBJECT_RELIGION_PERSIA>Dopo la morte, si pensa che lo spirito della persona vaghi sulla terra per tre giorni. Durante questo periodo spetta alla famiglia fornire aiuto attraverso rituali e sacrifici per proteggere lo spirito dal male. <p=SOGGETTO_RELIGIONE_ROMA>Il corpo deve essere bruciato e inumato prima che l'ombra del morto possa lasciare il mondo dei vivi e attraversare il fiume Stige. Un banchetto rituale con i vivi è l'ultimo segno per il defunto che può continuare e che la famiglia sarà in grado di andare avanti.<else>I rituali sono pronti e il corpo preparato.<em>
+<p.is_sub.S1=SUBJECT_RELIGION_ASSYRIA>Non c'è giudizio dopo la morte, ma solo i freddi e bui piani dell'esistenza dove i morti vagano per l'eternità sostenuti solo dall'argilla. È un triste destino quello che attende tutti gli uomini, e i riti servono a ricordarci di sfruttare al meglio il tempo trascorso sulla terra.<p=SUBJECT_RELIGION_BABYLONIA>Non c'è alcun giudizio dopo la morte, ma solo i freddi e bui piani dell'esistenza dove i morti vagano per l'eternità sostenuti da nient'altro che argilla. È un triste destino quello che attende tutti gli uomini, e i riti servono a ricordarci di sfruttare al meglio il tempo trascorso sulla terra.  <p=SUBJECT_RELIGION_CARTHAGE>Il morto viene prima unto con resina profumata, colorata di rosso con ocra e cinabro, prima di essere bruciato o sepolto. La festa è l'ultimo saluto ai morti, un banchetto nel cimitero con le stoviglie ritualmente impure che vengono distrutte e sepolte alla fine del pasto. <p=SUBJECT_RELIGION_EGYPT>Dopo la preparazione rituale del corpo, c'è un viaggio complesso da intraprendere, con il ka, il doppio del defunto nella morte, che compie il viaggio attraverso il giudizio di Osiride e la pesatura del cuore. Solo allora raggiungeranno il Campo dei Giunchi, vivendo per l'eternità con i servi e i beni sepolti insieme nella morte.<p=SUBJECT_RELIGION_GREECE>Il corpo viene preparato dalle donne della famiglia, mentre i sacerdoti non possono entrare nella casa contaminata dalla morte. Si mette una moneta nella bocca del defunto, con la quale si paga il traghettatore dell'Ade, Caronte. Dopo il passaggio nell'Ade, un'anima doverosa si ritrova nell'Eliseo, mentre i malvagi cadono nel Tartaro. Le libagioni dei vivi sono un dovere importante per aiutare i morti, poiché le anime dimenticate si perdono, vagando per l'eternità nei campi dell'Ade.<p=SUBJECT_RELIGION_HITTITE>Ci sono molti pensieri su ciò che segue la morte, ma nessuno di essi è rassicurante. Il rituale di quattordici giorni prepara il morto a prendere il posto che gli spetta, il rogo del corpo il secondo giorno seguito da altri rituali e sacrifici per guidare l'anima lungo il viaggio in cui {G0:lui:lei} cerca di evitare la "terra oscura".<p=SUBJECT_RELIGION_PERSIA>Dopo la morte, si pensa che lo spirito della persona vaghi sulla terra per tre giorni. Durante questo periodo spetta alla famiglia fornire aiuto attraverso rituali e sacrifici per proteggere lo spirito dal male. <p=SOGGETTO_RELIGIONE_ROMA>Il corpo deve essere bruciato e inumato prima che l'ombra del morto possa lasciare il mondo dei vivi e attraversare il fiume Stige. Un banchetto rituale con i vivi è l'ultimo segno per il defunto che può continuare e che la famiglia sarà in grado di andare avanti.<else>I rituali sono pronti e il corpo preparato.<em>
 Il {S1.PRIEST,2} vuole sapere se organizzerà i riti funebri completi per il {CHARACTER-SHORT-0}.]]></it-IT>
   </Entry>
   <Entry>
@@ -2070,9 +2070,9 @@ Dopo la battaglia crolli, ma le truppe parlano già di come hai combattuto come 
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_DIVINE_GRACE</zType>
-    <en-US>On the battlefield, {CHARACTER-0} found {G0:himself:herself} facing down the very strongest of {CHARACTER-POSS-1} {UNIT-3,2}. Surrounded on all sides, it seemed like all was lost for the General, but all of the blows seemed to glide off {G0:his:her} armor.
+    <en-US>On the battlefield, {CHARACTER-0} found {G0:se stesso:se stessa} facing down the very strongest of {CHARACTER-POSS-1} {UNIT-3,2}. Surrounded on all sides, it seemed like all was lost for the General, but all of the blows seemed to glide off {G0:his:her} armor.
 {CHARACTER-0} was saved by a sortie of {G0:his:her} troops, but can only ascribe {G0:his:her} survival to some kind of divine protection.</en-US>
-    <it-IT>Sul campo di battaglia, {CHARACTER-0} trovò {G0:himself:herself} ad affrontare il più forte di {CHARACTER-POSS-1} {UNIT-3,2}. Circondato da tutti i lati, sembrava che tutto fosse perduto per il Generale, ma tutti i colpi sembravano scivolare via dall'armatura di {G0:his:her}.
+    <it-IT>Sul campo di battaglia, {CHARACTER-0} trovò {G0:se stesso:se stessa} ad affrontare il più forte di {CHARACTER-POSS-1} {UNIT-3,2}. Circondato da tutti i lati, sembrava che tutto fosse perduto per il Generale, ma tutti i colpi sembravano scivolare via dall'armatura di {G0:his:her}.
 {CHARACTER-0} fu salvato da una sortita delle truppe di {G0:his:her}, ma può solo attribuire la sopravvivenza di {G0:his:her} a una sorta di protezione divina.</it-IT>
   </Entry>
   <Entry>
@@ -2282,10 +2282,10 @@ Sebbene i piani di {CHARACTER-SHORT-POSS-0} non siano stati portati a termine, i
   <Entry>
     <zType>TEXT_EVENTSTORY_KING_FOR_A_DAY</zType>
     <en-US>"The omens are dire, my {TITLE-0}." {CHARACTER-2} stands before you with an entourage of scholars and scribes. The {TITLE-1} has been paying close attention to the signs sent by the gods and is particularly worried about a recent eclipse that darkened the kingdom, indicating that a powerful {TITLE-0} would soon die. 
-{CHARACTER-SHORT-2} recommends that the ritual of substitution be performed to protect your life. A substitute will be found to nominally rule for one hundred days, after which {G0:he:she} will be killed. 
+{CHARACTER-SHORT-2} recommends that the ritual of substitution be performed to protect your life. A substitute will be found to nominally rule for one hundred days, after which {G0:lui:lei} will be killed. 
 To ensure the omens fully transfer onto this scapegoat, it is necessary that you enter hiding for the time. Will you hide away to save your life? </en-US>
     <it-IT>"I presagi sono funesti, mio {TITLE-0}". Il {CHARACTER-2} è davanti a voi con un seguito di studiosi e scribi. Il {TITLE-1} ha prestato molta attenzione ai segni inviati dagli dei ed è particolarmente preoccupato per una recente eclissi che ha oscurato il regno, indicando che un potente {TITLE-0} sarebbe morto presto. 
-{CHARACTER-SHORT-2} raccomanda di eseguire il rituale di sostituzione per proteggere la vostra vita. Verrà trovato un sostituto che regnerà nominalmente per cento giorni, dopodiché {G0:he:she} verrà ucciso. 
+{CHARACTER-SHORT-2} raccomanda di eseguire il rituale di sostituzione per proteggere la vostra vita. Verrà trovato un sostituto che regnerà nominalmente per cento giorni, dopodiché {G0:lui:lei} verrà ucciso. 
 Per garantire che i presagi si trasferiscano completamente su questo capro espiatorio, è necessario che vi nascondiate per il tempo necessario. Vi nasconderete per salvarvi la vita? </it-IT>
   </Entry>
   <Entry>
@@ -2360,7 +2360,7 @@ Il culmine di questa espiazione si raggiunge durante la festa del Bema, quattro 
     <zType>TEXT_EVENTSTORY_JUDGED_IN_ABSENCE</zType>
     <en-US><![CDATA["The {RELIGION-2,3} have been left without proper guidance for too long!" {CHARACTER-1} is standing before the court, making a case against the <p.is_sub.S0=SUBJECT_FUGITIVE>fugitive<p=SUBJECT_IMPRISONED>imprisoned<p=SUBJECT_MISSING>missing<p=SUBJECT_ELOPED>eloped<p=SUBJECT_CAPTURED>captured<p=SUBJECT_EXILED>exiled<p=SUBJECT_DESERTER>deserted<p=SUBJECT_INCUBATED>incubated<p=SUBJECT_SLIGHTED>slighted<else>absent<end> {CHARACTER-0}. 
 {CHARACTER-SHORT-1} suggests that {G1:he:she} would make a better leader of the religion than the absent {TITLE-0} and with your support the {S2.PRIEST,2} are likely to agree. Will you ratify {CHARACTER-SHORT-POSS-1} claim to this position?]]></en-US>
-    <it-IT><![CDATA["I {RELIGION-2,3} sono stati lasciati senza una guida adeguata per troppo tempo!". {CHARACTER-1} è in piedi davanti al tribunale, e sta discutendo un caso contro il <p.is_sub. S0=SOGGETTO_FUGGENTE>fuggitivo<p=SOGGETTO_IMPRISONITO>imprigionato<p=SOGGETTO_MISSING>mancante<p=SOGGETTO_ELOPED>elegato<p=SOGGETTO_CAPTURATO>catturato<p=SOGGETTO_ESILATO>esiliato<p=SOGGETTO_DESERTO>desiderato<p=SOGGETTO_INCUBATO>incubato<p=SOGGETTO_LUMINATO>illuminato<else>assente<fine>. {CHARACTER-0}. 
+    <it-IT><![CDATA["I {RELIGION-2,3} sono stati lasciati senza una guida adeguata per troppo tempo!". {CHARACTER-1} è in piedi davanti al tribunale, e sta discutendo un caso contro il <p.is_sub. S0=SOGGETTO_FUGGENTE>fuggitivo<p=SOGGETTO_IMPRISONITO>imprigionato<p=SOGGETTO_MISSING>mancante<p=SOGGETTO_ELOPED>elegato<p=SOGGETTO_CAPTURATO>catturato<p=SOGGETTO_ESILATO>esiliato<p=SOGGETTO_DESERTO>desiderato<p=SOGGETTO_INCUBATO>incubato<p=SOGGETTO_LUMINATO>illuminato<else>assente<end>. {CHARACTER-0}. 
 Il {CHARACTER-SHORT-1} suggerisce che il {G1:he:she} sarebbe un leader della religione migliore dell'assente {TITLE-0} e con il vostro sostegno il {S2.PRIEST,2} probabilmente sarà d'accordo. Ritiene che {CHARACTER-SHORT-POSS-1} possa rivendicare questa posizione?]]></it-IT>
   </Entry>
   <Entry>
@@ -2499,7 +2499,7 @@ Will {CHARACTER-2} join the court?</en-US>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_RECRUIT_TWO</zType>
-    <en-US>{CHARACTER-0} has found a number of potential recruits for the court. {G0:He:She} presents the most promising two before you.
+    <en-US>{CHARACTER-0} has found a number of potential recruits for the court. {G0:Lui:Lei} presents the most promising two before you.
 Are either of the candidates worthy of joining the court?</en-US>
     <it-IT>{CHARACTER-0} ha trovato una serie di potenziali reclute per la corte. {G0:Lui:Lei} vi presenta i due più promettenti.
 I due candidati sono degni di entrare a far parte della Corte?</it-IT>

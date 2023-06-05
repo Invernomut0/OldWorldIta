@@ -1187,8 +1187,8 @@ These ideas are gaining traction amongst the religion’s followers. What will y
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_KEEPSAKE</zType>
-    <en-US>After {CHARACTER-POSS-0} death, you find a small keepsake, a small amulet with {S1.ICON} and your name etched in {S2.LANGUAGE} on the back. It is such a tiny thing but the burnished metal feels warm to the touch, as if {G0:he:she} had just been holding it.</en-US>
-    <it-IT>After {CHARACTER-POSS-0} death, you find a small keepsake, a small amulet with {S1.ICON} and your name etched in {S2.LANGUAGE} on the back. It is such a tiny thing but the burnished metal feels warm to the touch, as if {G0:he:she} had just been holding it.</it-IT>
+    <en-US>After {CHARACTER-POSS-0} death, you find a small keepsake, a small amulet with {S1.ICON} and your name etched in {S2.LANGUAGE} on the back. It is such a tiny thing but the burnished metal feels warm to the touch, as if {G0:lui:lei} had just been holding it.</en-US>
+    <it-IT>After {CHARACTER-POSS-0} death, you find a small keepsake, a small amulet with {S1.ICON} and your name etched in {S2.LANGUAGE} on the back. It is such a tiny thing but the burnished metal feels warm to the touch, as if {G0:lui:lei} had just been holding it.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_KEEPSAKE_TITLE</zType>
@@ -1202,8 +1202,8 @@ These ideas are gaining traction amongst the religion’s followers. What will y
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_KEEPSAKE_OPTION_1</zType>
-    <en-US>Keep it on you to remember {G0:him:her} by.</en-US>
-    <it-IT>Keep it on you to remember {G0:him:her} by.</it-IT>
+    <en-US>Keep it on you to remember {G0:lui:lei} by.</en-US>
+    <it-IT>Keep it on you to remember {G0:lui:lei} by.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_KEEPSAKE</zType>
@@ -1217,8 +1217,8 @@ These ideas are gaining traction amongst the religion’s followers. What will y
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_ALIEN_TRADITIONS</zType>
-    <en-US>Not raised in the court of {PLAYER-3}, {CHARACTER-0} often raises questions about the way that things are done in your court, from meals to religious ceremonies. The traditional {CHARACTER-1} and the {FAMILY-2,1} have taken offense at some of your spouse's recent questions about the origins of the rules around family land-owning, claiming that {G0:he:she} is an interloper and aiming to usurp the traditions of {PLAYER-3}. </en-US>
-    <it-IT>Not raised in the court of {PLAYER-3}, {CHARACTER-0} often raises questions about the way that things are done in your court, from meals to religious ceremonies. The traditional {CHARACTER-1} and the {FAMILY-2,1} have taken offense at some of your spouse's recent questions about the origins of the rules around family land-owning, claiming that {G0:he:she} is an interloper and aiming to usurp the traditions of {PLAYER-3}. </it-IT>
+    <en-US>Not raised in the court of {PLAYER-3}, {CHARACTER-0} often raises questions about the way that things are done in your court, from meals to religious ceremonies. The traditional {CHARACTER-1} and the {FAMILY-2,1} have taken offense at some of your spouse's recent questions about the origins of the rules around family land-owning, claiming that {G0:lui:lei} is an interloper and aiming to usurp the traditions of {PLAYER-3}. </en-US>
+    <it-IT>Not raised in the court of {PLAYER-3}, {CHARACTER-0} often raises questions about the way that things are done in your court, from meals to religious ceremonies. The traditional {CHARACTER-1} and the {FAMILY-2,1} have taken offense at some of your spouse's recent questions about the origins of the rules around family land-owning, claiming that {G0:lui:lei} is an interloper and aiming to usurp the traditions of {PLAYER-3}. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_ALIEN_TRADITIONS_TITLE</zType>
@@ -1404,8 +1404,8 @@ Seeking help, the officers have come to you to ask for order to be restored. ]]>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_INFLUENCE_OF_WEAKNESS</zType>
-    <en-US>Your attempts to influence {CHARACTER-0} are close to bearing fruit. However, spending so much time with the {TRAIT-2} {G0:man:woman} is starting to take effect. You notice yourself acting in similar ways to your target, agreeing more and more with {G0:his:her} way of thinking.</en-US>
-    <it-IT>Your attempts to influence {CHARACTER-0} are close to bearing fruit. However, spending so much time with the {TRAIT-2} {G0:man:woman} is starting to take effect. You notice yourself acting in similar ways to your target, agreeing more and more with {G0:his:her} way of thinking.</it-IT>
+    <en-US>Your attempts to influence {CHARACTER-0} are close to bearing fruit. However, spending so much time with the {TRAIT-2} {G0:uomo:donna} is starting to take effect. You notice yourself acting in similar ways to your target, agreeing more and more with {G0:his:her} way of thinking.</en-US>
+    <it-IT>Your attempts to influence {CHARACTER-0} are close to bearing fruit. However, spending so much time with the {TRAIT-2} {G0:uomo:donna} is starting to take effect. You notice yourself acting in similar ways to your target, agreeing more and more with {G0:his:her} way of thinking.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_INFLUENCE_OF_WEAKNESS_TITLE</zType>

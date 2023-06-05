@@ -23,7 +23,7 @@
   <Entry>
     <zType>TEXT_HINT_5</zType>
     <en-US>Hold [hotkey(HOTKEY_SHOW_TRADE_NETWORK)] to see your link(CONCEPT_TRADE_NETWORK) and Connections to the link(CONCEPT_CAPITAL).</en-US>
-    <it-IT>Tenere premuto [tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK)] per vedere il proprio link(CONCEPT_TRADE_NETWORK) e le connessioni al link(CONCEPT_CAPITAL).</it-IT>
+    <it-IT>Tenere premuto [hotkey(HOTKEY_SHOW_TRADE_NETWORK)] per vedere il proprio link(CONCEPT_TRADE_NETWORK) e le connessioni al link(CONCEPT_CAPITAL).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_6</zType>
@@ -43,7 +43,7 @@
   <Entry>
     <zType>TEXT_HINT_9</zType>
     <en-US>If you don't want to use all of your link(YIELD_ORDERS,1), you can end your turn by pressing [hotkey(HOTKEY_END_TURN)].</en-US>
-    <it-IT>Se non volete usare tutti i vostri link(YIELD_ORDERS,1), potete terminare il vostro turno premendo [tasto di scelta rapida(HOTKEY_END_TURN)].</it-IT>
+    <it-IT>Se non volete usare tutti i vostri link(YIELD_ORDERS,1), potete terminare il vostro turno premendo [hotkey(HOTKEY_END_TURN)].</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_10</zType>
@@ -228,17 +228,17 @@
   <Entry>
     <zType>TEXT_HINT_46</zType>
     <en-US>Hold [hotkey(HOTKEY_HIDE_VEGETATION)] to hide link(VEGETATION_TREES) and link(VEGETATION_SCRUB).</en-US>
-    <it-IT>Tenere premuto [tasto di scelta rapida(HOTKEY_HIDE_VEGETATION)] per nascondere link(VEGETATION_TREES) e link(VEGETATION_SCRUB).</it-IT>
+    <it-IT>Tenere premuto [hotkey(HOTKEY_HIDE_VEGETATION)] per nascondere link(VEGETATION_TREES) e link(VEGETATION_SCRUB).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_47</zType>
     <en-US>Hold [hotkey(HOTKEY_SHOW_ZOC)] to highlight Zones of Control.</en-US>
-    <it-IT>Tenere premuto [tasto di scelta rapida(HOTKEY_SHOW_ZOC)] per evidenziare le Zone di controllo.</it-IT>
+    <it-IT>Tenere premuto [hotkey(HOTKEY_SHOW_ZOC)] per evidenziare le Zone di controllo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_48</zType>
     <en-US>Hold [hotkey(HOTKEY_SHOW_DANGER_TILES)] to highlight tiles which enemy Units can target.</en-US>
-    <it-IT>Tenere premuto [tasto di scelta rapida(HOTKEY_SHOW_DANGER_TILES)] per evidenziare le tessere che le Unità nemiche possono colpire.</it-IT>
+    <it-IT>Tenere premuto [hotkey(HOTKEY_SHOW_DANGER_TILES)] per evidenziare le tessere che le Unità nemiche possono colpire.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_49</zType>
@@ -248,12 +248,12 @@
   <Entry>
     <zType>TEXT_HINT_50</zType>
     <en-US>Hold [hotkey(HOTKEY_SHOW_IDLE_UNITS)] to highlight Units which can still be used.</en-US>
-    <it-IT>Tenere premuto [tasto di scelta rapida(HOTKEY_SHOW_IDLE_UNITS)] per evidenziare le unità ancora utilizzabili.</it-IT>
+    <it-IT>Tenere premuto [hotkey(HOTKEY_SHOW_IDLE_UNITS)] per evidenziare le unità ancora utilizzabili.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_51</zType>
     <en-US>Hold [hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)] to highlight Resources and tile link(CONCEPT_IMPROVEMENT,2).</en-US>
-    <it-IT>Tenere premuto [tasto di scelta rapida(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)] per evidenziare Risorse e selezionare link(CONCEPT_IMPROVEMENT,2).</it-IT>
+    <it-IT>Tenere premuto [hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)] per evidenziare Risorse e selezionare link(CONCEPT_IMPROVEMENT,2).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_52</zType>
@@ -353,7 +353,7 @@
   <Entry>
     <zType>TEXT_HINT_71</zType>
     <en-US>Hold [hotkey(HOTKEY_HIDE_IMPROVEMENTS)] to hide all link(CONCEPT_IMPROVEMENT,2).</en-US>
-    <it-IT>Tenere premuto [tasto di scelta rapida(HOTKEY_HIDE_IMPROVEMENTS)] per nascondere tutti i link(CONCEPT_IMPROVEMENT,2).</it-IT>
+    <it-IT>Tenere premuto [hotkey(HOTKEY_HIDE_IMPROVEMENTS)] per nascondere tutti i link(CONCEPT_IMPROVEMENT,2).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_72</zType>
@@ -403,7 +403,7 @@
   <Entry>
     <zType>TEXT_HINT_81</zType>
     <en-US>You can check the link(CONCEPT_TRADE_NETWORK) overlay with the icon(MAP_OVERLAY_NETWORK) button beside the mini-map or by holding the hotkey(HOTKEY_SHOW_TRADE_NETWORK) key.</en-US>
-    <it-IT>È possibile controllare la sovrapposizione link(CONCEPT_TRADE_NETWORK) con il tasto icon(MAP_OVERLAY_NETWORK) accanto alla mini-mappa o tenendo premuto il tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK).</it-IT>
+    <it-IT>È possibile controllare la sovrapposizione link(CONCEPT_TRADE_NETWORK) con il tasto icon(MAP_OVERLAY_NETWORK) accanto alla mini-mappa o tenendo premuto il hotkey(HOTKEY_SHOW_TRADE_NETWORK).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_82</zType>
@@ -448,7 +448,7 @@
   <Entry>
     <zType>TEXT_HINT_90</zType>
     <en-US>Hold [hotkey(HOTKEY_SHOW_CURRENT_YIELDS)] to highlight tile Yields.</en-US>
-    <it-IT>Tenere premuto [tasto di scelta rapida(HOTKEY_SHOW_CURRENT_YIELDS)] per evidenziare le rese delle piastrelle.</it-IT>
+    <it-IT>Tenere premuto [hotkey(HOTKEY_SHOW_CURRENT_YIELDS)] per evidenziare le rese delle piastrelle.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_91</zType>

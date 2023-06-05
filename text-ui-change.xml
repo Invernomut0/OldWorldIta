@@ -13,7 +13,7 @@
   <Entry>
     <zType>TEXT_GENERIC_CANCEL</zType>
     <en-US>Cancel</en-US>
-    <it-IT>Annullamento</it-IT>
+    <it-IT>Annulla</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_GENERIC_OK</zType>
@@ -2182,7 +2182,7 @@ La connessione di rete verrà interrotta.
   <Entry>
     <zType>TEXT_CLOUD_SCREEN_SAVE_MESSAGE</zType>
     <en-US>Save</en-US>
-    <it-IT>Risparmiare</it-IT>
+    <it-IT>Salva</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_CLOUD_SCREEN_HOST_CONTROLS</zType>
@@ -2642,7 +2642,7 @@ La connessione di rete verrà interrotta.
   <Entry>
     <zType>TOOLS_SCREEN_MAP_EDITOR_MENU_SAVE</zType>
     <en-US>Save</en-US>
-    <it-IT>Risparmiare</it-IT>
+    <it-IT>Salva</it-IT>
   </Entry>
   <Entry>
     <zType>TOOLS_SCREEN_MAP_EDITOR_MENU_SAVE_AS</zType>
@@ -2737,7 +2737,7 @@ La connessione di rete verrà interrotta.
   <Entry>
     <zType>TOOLS_SCREEN_MAP_EDITOR_UNDO</zType>
     <en-US>Undo</en-US>
-    <it-IT>Annullamento</it-IT>
+    <it-IT>Annulla</it-IT>
   </Entry>
   <Entry>
     <zType>TOOLS_SCREEN_MAP_EDITOR_REDO</zType>
@@ -4024,12 +4024,12 @@ Dimensioni valide: {2_min}x{2_min}-{3_max}x{3_max}</it-IT>
   <Entry>
     <zType>TEXT_POPUP_PINGS_CANCEL</zType>
     <en-US>Cancel</en-US>
-    <it-IT>Annullamento</it-IT>
+    <it-IT>Annulla</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_POPUP_PINGS_TEXT</zType>
     <en-US>Ping Text</en-US>
-    <it-IT>Testo ping</it-IT>
+    <it-IT>Ping Test</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_POPUP_PINGS_REMIND</zType>

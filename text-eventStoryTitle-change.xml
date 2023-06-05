@@ -1577,9 +1577,9 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_TRAIT_MIDNIGHT_MEETING_SECURITY</zType>
-    <en-US>The guards rush into the garden, surrounding the hapless serving {G0:girl:boy}. It doesn't take long to find out the truth, that {G0:she:he} is an assassin sent by {CHARACTER-1} to lure you to your death. 
+    <en-US>The guards rush into the garden, surrounding the hapless serving {G0:ragazza:ragazzo} . It doesn't take long to find out the truth, that {G0:she:he} is an assassin sent by {CHARACTER-1} to lure you to your death. 
 It seems that your quick thinking has saved you on this occasion, but what will you do with the knowledge of {CHARACTER-SHORT-1}'s plans?</en-US>
-    <it-IT>Le guardie si precipitano nel giardino e circondano il malcapitato servitore {G0:girl:boy}. Non ci vuole molto per scoprire la verità: {G0:she:he} è un assassino mandato da {CHARACTER-1} per attirarti verso la morte. 
+    <it-IT>Le guardie si precipitano nel giardino e circondano il malcapitato servitore {G0:ragazza:ragazzo} . Non ci vuole molto per scoprire la verità: {G0:she:he} è un assassino mandato da {CHARACTER-1} per attirarti verso la morte. 
 Sembra che la vostra prontezza di riflessi vi abbia salvato in questa occasione, ma cosa farete con la conoscenza dei piani di {CHARACTER-SHORT-1}?</it-IT>
   </Entry>
   <Entry>
@@ -15009,8 +15009,8 @@ Sembra che la vostra prontezza di riflessi vi abbia salvato in questa occasione,
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_SIBLING_DEATH_01_TITLE</zType>
-    <en-US>Farewell, {G0:Brother:Sister}</en-US>
-    <it-IT>Addio, {G0:Brother:Sister}</it-IT>
+    <en-US>Farewell, {G0:Fratello:Sorella}</en-US>
+    <it-IT>Addio, {G0:Fratello:Sorella}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_BIRTH_RENEWED_HOPE_TITLE</zType>

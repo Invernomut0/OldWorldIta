@@ -303,7 +303,7 @@
   <Entry>
     <zType>TEXT_HELPTEXT_SENTENCE_CASE</zType>
     <en-US><![CDATA[<sentencecase>{0}</sentencecase>]]></en-US>
-    <it-IT><![CDATA[<classe di frase>{0}</classe di frase>.]]></it-IT>
+    <it-IT><![CDATA[<sentencecase>{0}</sentencecase>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_PLUS</zType>
@@ -3219,7 +3219,7 @@ You can choose to adopt a link(CONCEPT_STATE_RELIGION) for your link(CONCEPT_NAT
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_UNDO</zType>
     <en-US>You can link(CONCEPT_UNDO) as many decisions as you want, including moves, combat, building link(CONCEPT_IMPROVEMENT,2), and Event choices up to five past turns. Undo is performed with hotkey(HOTKEY_UNDO) or by pressing the backwards arrow button  icon(Undo_Normal2) in the bottom left of the screen.</en-US>
-    <it-IT>Si possono prendere tutte le decisioni che si vogliono, comprese le mosse, i combattimenti, le costruzioni link(CONCEPT_IMPROVEMENT,2) e le scelte degli eventi fino a cinque turni precedenti. L'annullamento si esegue con il tasto di scelta rapida(HOTKEY_UNDO) o premendo l'icona della freccia all'indietro(Undo_Normal2) in basso a sinistra dello schermo.</it-IT>
+    <it-IT>Si possono prendere tutte le decisioni che si vogliono, comprese le mosse, i combattimenti, le costruzioni link(CONCEPT_IMPROVEMENT,2) e le scelte degli eventi fino a cinque turni precedenti. L'annullamento si esegue con il hotkey(HOTKEY_UNDO) o premendo l'icona della freccia all'indietro(Undo_Normal2) in basso a sinistra dello schermo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_LUXURIES</zType>
@@ -3232,7 +3232,7 @@ I link(CONCEPT_LUXURY) possono essere inviati al bersaglio desiderato con l'icon
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_TOOLTIPS</zType>
     <en-US>The nested tooltip system in Old World allows windows to persist as you link from one to another. Simply hold hotkey(HOTKEY_FREEZE_TOOLTIP) while clicking a link, or click it with the Middle Mouse Button, to lock the new window in place. This lets you continue to view a window while opening more links, even if you move the cursor off of the window altogether.
 Try it out on this Unit link: link(UNIT_SPEARMAN). Press the ESC key, or click away from all tooltip windows, to make them disappear after they are locked.</en-US>
-    <it-IT>Il sistema di suggerimenti annidati di Old World consente alle finestre di persistere quando si passa da una all'altra. È sufficiente tenere premuto il tasto di scelta rapida(HOTKEY_FREEZE_TOOLTIP) mentre si fa clic su un collegamento o con il pulsante centrale del mouse per bloccare la nuova finestra. Ciò consente di continuare a visualizzare una finestra mentre si aprono altri collegamenti, anche se si sposta il cursore dalla finestra stessa.
+    <it-IT>Il sistema di suggerimenti annidati di Old World consente alle finestre di persistere quando si passa da una all'altra. È sufficiente tenere premuto il hotkey(HOTKEY_FREEZE_TOOLTIP) mentre si fa clic su un collegamento o con il pulsante centrale del mouse per bloccare la nuova finestra. Ciò consente di continuare a visualizzare una finestra mentre si aprono altri collegamenti, anche se si sposta il cursore dalla finestra stessa.
 Provate questo link dell'Unità: link(UNIT_SPEARMAN). Premete il tasto ESC o fate clic lontano da tutte le finestre di suggerimenti per farle scomparire una volta bloccate.</it-IT>
   </Entry>
   <Entry>
@@ -3444,7 +3444,7 @@ You can conduct an link(MISSION_IMPRISON) Mission by clicking the prison bars  i
     <en-US>A link(IMPROVEMENT_HAMLET) and its upgrades, link(IMPROVEMENT_VILLAGE) and link(IMPROVEMENT_TOWN), will produce extra {YIELD_MONEY}link(YIELD_MONEY) if brought into your link(CONCEPT_TRADE_NETWORK)! Bringing a City into your link(CONCEPT_TRADE_NETWORK) will reduce {YIELD_DISCONTENT}link(YIELD_DISCONTENT) there.
 The link(CONCEPT_TRADE_NETWORK) consists of all Tiles connected to your link(CONCEPT_CAPITAL) City. Cities and link(IMPROVEMENT_HAMLET,2) can be connected with one another via link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) Tiles, and even open water. You can connect a City to its link(IMPROVEMENT_HARBOR) with a link(CONCEPT_ROAD). You can check the link(CONCEPT_TRADE_NETWORK) overlay with the icon(MAP_OVERLAY_NETWORK) button below the mini-map, or the hotkey(HOTKEY_SHOW_TRADE_NETWORK) key, and verify that a City is link(EFFECTCITY_CONNECTED) to the link(CONCEPT_TRADE_NETWORK) by checking that the  icon(CONNECTED) icon is displayed under its City banner.</en-US>
     <it-IT>Un link(IMPROVEMENT_HAMLET) e i suoi potenziamenti, link(IMPROVEMENT_VILLAGE) e link(IMPROVEMENT_TOWN), produrranno {YIELD_MONEY}link(YIELD_MONEY) extra se portati nel vostro link(CONCEPT_TRADE_NETWORK)! Portare una Città nella propria link(CONCEPT_TRADE_NETWORK) ridurrà i {YIELD_DISCONTENT}link(YIELD_DISCONTENT) presenti.
-La link(CONCEPT_TRADE_NETWORK) consiste in tutte le tessere collegate alla vostra link(CONCEPT_CAPITAL) Città. Le città e le link(IMPROVEMENT_HAMLET,2) possono essere collegate tra loro tramite le Tessere link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) e persino le acque libere. È possibile collegare una città al suo link(IMPROVEMENT_HARBOR) con un link(CONCEPT_ROAD). È possibile controllare la sovrapposizione del link(CONCEPT_TRADE_NETWORK) con il pulsante icon(MAP_OVERLAY_NETWORK) sotto la mini-mappa o con il tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK) e verificare che una città sia link(EFFECTCITY_CONNECTED) al link(CONCEPT_TRADE_NETWORK) controllando che l'icon(CONNECTED) sia visualizzata sotto il banner della città.</it-IT>
+La link(CONCEPT_TRADE_NETWORK) consiste in tutte le tessere collegate alla vostra link(CONCEPT_CAPITAL) Città. Le città e le link(IMPROVEMENT_HAMLET,2) possono essere collegate tra loro tramite le Tessere link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) e persino le acque libere. È possibile collegare una città al suo link(IMPROVEMENT_HARBOR) con un link(CONCEPT_ROAD). È possibile controllare la sovrapposizione del link(CONCEPT_TRADE_NETWORK) con il pulsante icon(MAP_OVERLAY_NETWORK) sotto la mini-mappa o con il hotkey(HOTKEY_SHOW_TRADE_NETWORK) e verificare che una città sia link(EFFECTCITY_CONNECTED) al link(CONCEPT_TRADE_NETWORK) controllando che l'icon(CONNECTED) sia visualizzata sotto il banner della città.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_HARVEST_RESOURCE</zType>
@@ -5270,7 +5270,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_CAN_FOUND_CITY</zType>
     <en-US>Can Found City</en-US>
-    <it-IT>Can Found City</it-IT>
+    <it-IT>Può fondare città</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_UNIT_TYPE_CAN_HARVEST_RESOURCE</zType>
@@ -5545,7 +5545,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_WATER_CONTROL</zType>
     <en-US><![CDATA[<true_1>link(CONCEPT_ANCHORED,1) Range: {0_value}<false>{0_value} link(CONCEPT_ANCHORED,1) Range<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>link(CONCEPT_ANCHORED,1) Intervallo: {0_value}<false>{0_value} link(CONCEPT_ANCHORED,1) Intervallo<fine>]]></it-IT>
+    <it-IT><![CDATA[<true_1>link(CONCEPT_ANCHORED,1) Intervallo: {0_value}<false>{0_value} link(CONCEPT_ANCHORED,1) Intervallo<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_ENLIST_ON_KILL</zType>
@@ -5580,12 +5580,12 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ATTACK_INTO</zType>
     <en-US><![CDATA[<true_2>Into {0_tileLink}: {1_value}<false>{1_value} Into {0_tileLink}<end>]]></en-US>
-    <it-IT><![CDATA[<true_2>Into {0_tileLink}: {1_value}<falso>{1_value} Into {0_tileLink}<fine>]]></it-IT>
+    <it-IT><![CDATA[<true_2>Into {0_tileLink}: {1_value}<falso>{1_value} Into {0_tileLink}<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ATTACK_INTO_MELEE</zType>
     <en-US><![CDATA[<true_2>Into {0_tileLink} & link(CONCEPT_CLEAR): {1_value} (Melee Combat)<false>{1_value} (Melee Combat) Into {0_tileLink} & link(CONCEPT_CLEAR)<end>]]></en-US>
-    <it-IT><![CDATA[<true_2>Into {0_tileLink} & link(CONCEPT_CLEAR): {1_value} (Melee Combat)<false>{1_value} (Melee Combat) Into {0_tileLink} & link(CONCEPT_CLEAR)<fine>]]></it-IT>
+    <it-IT><![CDATA[<true_2>Into {0_tileLink} & link(CONCEPT_CLEAR): {1_value} (Melee Combat)<false>{1_value} (Melee Combat) Into {0_tileLink} & link(CONCEPT_CLEAR)<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_FIGHT_FROM</zType>
@@ -5610,12 +5610,12 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_HAS_GENERAL</zType>
     <en-US><![CDATA[<true_1>With link(CONCEPT_GENERAL): {0_value}<false>{0_value} With link(CONCEPT_GENERAL)<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>Con link(CONCEPT_GENERAL): {0_value}<false>{0_value} Con link(CONCEPT_GENERAL)<fine>]]></it-IT>
+    <it-IT><![CDATA[<true_1>Con link(CONCEPT_GENERAL): {0_value}<false>{0_value} Con link(CONCEPT_GENERAL)<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_FLANKING_ATTACK</zType>
     <en-US><![CDATA[<true_1>If link(CONCEPT_FLANKING): {0_value}<false>{0_value} If link(CONCEPT_FLANKING)<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>Se link(CONCEPT_FLANKING): {0_value}<falso>{0_value} Se link(CONCEPT_FLANKING)<fine>]]></it-IT>
+    <it-IT><![CDATA[<true_1>Se link(CONCEPT_FLANKING): {0_value}<falso>{0_value} Se link(CONCEPT_FLANKING)<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_SAME_UNIT_ADJACENT</zType>
@@ -5625,7 +5625,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_HEAL_EXTRA</zType>
     <en-US><![CDATA[<true_1>link(CONCEPT_HEAL) Action: {0_value} HP<false>{0_value} HP from link(CONCEPT_HEAL) Action<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>link(CONCEPT_HEAL) Azione: {0_value} HP<false>{0_value} HP da link(CONCEPT_HEAL) Azione<fine>]]></it-IT>
+    <it-IT><![CDATA[<true_1>link(CONCEPT_HEAL) Azione: {0_value} HP<false>{0_value} HP da link(CONCEPT_HEAL) Azione<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_HEAL_ALWAYS</zType>
@@ -9395,7 +9395,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_RETIRE_BUTTON</zType>
     <en-US>Retire</en-US>
-    <it-IT>Andare in pensione</it-IT>
+    <it-IT>Ritirati</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_EXIT_BUTTON</zType>
@@ -9405,7 +9405,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_QUIT_BUTTON</zType>
     <en-US>Quit to Desktop</en-US>
-    <it-IT>Esci dal desktop</it-IT>
+    <it-IT>Vai al desktop</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_TITLE</zType>
@@ -10724,7 +10724,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_RETIRED</zType>
     <en-US>Retired</en-US>
-    <it-IT>In pensione</it-IT>
+    <it-IT>Ritirati</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TEMPORARY</zType>

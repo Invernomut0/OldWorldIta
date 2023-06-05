@@ -207,8 +207,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ABLANAQANALBA_SUPERSTITIOUS</zType>
-    <en-US>Suggest that {G0:he:she} starts wearing charms to ward against the magic.</en-US>
-    <it-IT>Suggerisci a {G0:he:she} di iniziare a indossare incantesimi per difendersi dalla magia.</it-IT>
+    <en-US>Suggest that {G0:lui:lei} starts wearing charms to ward against the magic.</en-US>
+    <it-IT>Suggerisci a {G0:lui:lei} di iniziare a indossare incantesimi per difendersi dalla magia.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ABLANAQANALBA_IGNORE</zType>
@@ -257,7 +257,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EVENTOPTION_ABLANAQANALBA_IGNORE_HELP</zType>
-    <en-US>{G0:He:She}'ll see soon enough that there is no bad luck from this.</en-US>
+    <en-US>{G0:Lui:Lei}'ll see soon enough that there is no bad luck from this.</en-US>
     <it-IT>{Vedrete presto che questo non porterà sfortuna.</it-IT>
   </Entry>
   <Entry>
@@ -267,13 +267,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LET_MY_PERSON_GO_REFUSE_HELP</zType>
-    <en-US>{G0:He:She} cannot escape that easily!</en-US>
+    <en-US>{G0:Lui:Lei} cannot escape that easily!</en-US>
     <it-IT>{G0:Lui:Lei} non può sfuggire così facilmente!</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LET_MY_PERSON_GO_BRIBE_HELP</zType>
-    <en-US>How much do you really want {G0:him:her}, {CHARACTER-SHORT-2}?</en-US>
-    <it-IT>Quanto volete davvero {G0:him:her}, {CHARACTER-SHORT-2}?</it-IT>
+    <en-US>How much do you really want {G0:lui:lei}, {CHARACTER-SHORT-2}?</en-US>
+    <it-IT>Quanto volete davvero {G0:lui:lei}, {CHARACTER-SHORT-2}?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_SCHISM_OF_MARRIAGE_RECANT_HELP</zType>
@@ -292,8 +292,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_DREAM_FROM_THE_GODS_STRENGTH</zType>
-    <en-US>The gods of war are calling {G0:him:her} to battle.</en-US>
-    <it-IT>Gli dei della guerra chiamano {G0:him:her} alla battaglia.</it-IT>
+    <en-US>The gods of war are calling {G0:lui:lei} to battle.</en-US>
+    <it-IT>Gli dei della guerra chiamano {G0:lui:lei} alla battaglia.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_DREAM_FROM_THE_GODS_CHARM</zType>
@@ -307,13 +307,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BLESSED_BY_FIRE_ZEALOT</zType>
-    <en-US>{CHARACTER-SHORT-0} should dedicate {G0:himself:herself} with unrelenting zeal.</en-US>
-    <it-IT>{CHARACTER-SHORT-0} deve dedicarsi a {G0:himself:herself} con zelo incessante.</it-IT>
+    <en-US>{CHARACTER-SHORT-0} should dedicate {G0:se stesso:se stessa} with unrelenting zeal.</en-US>
+    <it-IT>{CHARACTER-SHORT-0} deve dedicarsi a {G0:se stesso:se stessa} con zelo incessante.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BLESSED_BY_FIRE_COMMANDER</zType>
-    <en-US>Encourage {G0:him:her} to hold others accountable to the rules of {RELIGION-2}.</en-US>
-    <it-IT>Incoraggiare {G0:him:her} a ritenere gli altri responsabili delle regole di {RELIGION-2}.</it-IT>
+    <en-US>Encourage {G0:lui:lei} to hold others accountable to the rules of {RELIGION-2}.</en-US>
+    <it-IT>Incoraggiare {G0:lui:lei} a ritenere gli altri responsabili delle regole di {RELIGION-2}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BLESSED_BY_FIRE_COURAGE</zType>
@@ -357,8 +357,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_GIFTED_OF_MANI_ACCEPT</zType>
-    <en-US>Ignore the court’s concerns and allow {G0:him:her} to continue on this path. </en-US>
-    <it-IT>Ignorare le preoccupazioni della corte e permettere a {G0:him:her} di continuare su questa strada. </it-IT>
+    <en-US>Ignore the court’s concerns and allow {G0:lui:lei} to continue on this path. </en-US>
+    <it-IT>Ignorare le preoccupazioni della corte e permettere a {G0:lui:lei} di continuare su questa strada. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_GIFTED_OF_MANI_REFUSE_HELP</zType>
@@ -547,8 +547,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TO_TAKE_THE_CLOTH_NO</zType>
-    <en-US>No, {G0:he:she} is best suited elsewhere. </en-US>
-    <it-IT>No, {G0:he:she} è più adatto altrove. </it-IT>
+    <en-US>No, {G0:lui:lei} is best suited elsewhere. </en-US>
+    <it-IT>No, {G0:lui:lei} è più adatto altrove. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHILD_OF_GOD_YES</zType>
@@ -582,8 +582,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHILD_OF_GOD_EDUCATE_HELP</zType>
-    <en-US>{CHARACTER-SHORT-0} will come to understand why I need {G0:him:her} by my side.</en-US>
-    <it-IT>{CHARACTER-SHORT-0} capirà perché ho bisogno di {G0:him:her} al mio fianco.</it-IT>
+    <en-US>{CHARACTER-SHORT-0} will come to understand why I need {G0:lui:lei} by my side.</en-US>
+    <it-IT>{CHARACTER-SHORT-0} capirà perché ho bisogno di {G0:lui:lei} al mio fianco.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHILD_OF_GOD_YES_HELP</zType>
@@ -737,12 +737,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FINAL_REMEMBRANCE_OPTION_0</zType>
-    <en-US>Record {G0:him:her} as a keen and generous patron of the arts.</en-US>
-    <it-IT>Si registra che {G0:him:her} è un mecenate appassionato e generoso delle arti.</it-IT>
+    <en-US>Record {G0:lui:lei} as a keen and generous patron of the arts.</en-US>
+    <it-IT>Si registra che {G0:lui:lei} è un mecenate appassionato e generoso delle arti.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FINAL_REMEMBRANCE_OPTION_1</zType>
-    <en-US>{G0:He:She} was a friend of the people, a part of the community.</en-US>
+    <en-US>{G0:Lui:Lei} was a friend of the people, a part of the community.</en-US>
     <it-IT>{G0:Lui:Lei} era un amico della gente, una parte della comunità.</it-IT>
   </Entry>
   <Entry>
@@ -897,13 +897,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RAISED_IN_RELIGION_STATE</zType>
-    <en-US>{G0:He:She} should follow the state religion.</en-US>
+    <en-US>{G0:Lui:Lei} should follow the state religion.</en-US>
     <it-IT>{G0:Lui:Lei} dovrebbe seguire la religione di Stato.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RAISED_IN_RELIGION_NONE</zType>
-    <en-US>Let {CHARACTER-0} decide for {G0:himself:herself}.</en-US>
-    <it-IT>Sia {CHARACTER-0} a decidere per {G0:himself:herself}.</it-IT>
+    <en-US>Let {CHARACTER-0} decide for {G0:se stesso:se stessa}.</en-US>
+    <it-IT>Sia {CHARACTER-0} a decidere per {G0:se stesso:se stessa}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_CHURCH_OF_MANI_WELCOME</zType>
@@ -1167,7 +1167,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CLERGY_MISSION_EXECUTION_NONE</zType>
-    <en-US>{G0:He:She} will be remembered.</en-US>
+    <en-US>{G0:Lui:Lei} will be remembered.</en-US>
     <it-IT>{G0:Lui:Lei} sarà ricordato.</it-IT>
   </Entry>
   <Entry>
@@ -1432,8 +1432,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_KING_AND_THE_GOD_OPTION_0</zType>
-    <en-US>{CHARACTER-SHORT-0} must abide by our customs and place {G0:himself:herself} beneath me.</en-US>
-    <it-IT>{CHARACTER-SHORT-0} deve rispettare le nostre usanze e mettere {G0:himself:herself} sotto di me.</it-IT>
+    <en-US>{CHARACTER-SHORT-0} must abide by our customs and place {G0:se stesso:se stessa} beneath me.</en-US>
+    <it-IT>{CHARACTER-SHORT-0} deve rispettare le nostre usanze e mettere {G0:se stesso:se stessa} sotto di me.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_KING_AND_THE_GOD_OPTION_1</zType>
@@ -1507,8 +1507,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PILGRIMAGE_4_OPTION_0</zType>
-    <en-US>Send a message reassuring {CHARACTER-SHORT-0} that {G0:he:she} will be heard.</en-US>
-    <it-IT>Invia un messaggio per rassicurare {CHARACTER-SHORT-0} che {G0:he:she} sarà ascoltato.</it-IT>
+    <en-US>Send a message reassuring {CHARACTER-SHORT-0} that {G0:lui:lei} will be heard.</en-US>
+    <it-IT>Invia un messaggio per rassicurare {CHARACTER-SHORT-0} che {G0:lui:lei} sarà ascoltato.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PILGRIMAGE_4_OPTION_1</zType>
@@ -1562,13 +1562,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PILGRIMAGE_FINISHED_2_OPTION_1</zType>
-    <en-US>What wisdom did {G0:he:she} find?</en-US>
-    <it-IT>Quale saggezza ha trovato {G0:he:she}?</it-IT>
+    <en-US>What wisdom did {G0:lui:lei} find?</en-US>
+    <it-IT>Quale saggezza ha trovato {G0:lui:lei}?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PILGRIMAGE_FINISHED_2_OPTION_2</zType>
-    <en-US>Congratulate {G0:him:her} on seeing the journey through.</en-US>
-    <it-IT>Congratulazioni a {G0:him:her} per aver portato a termine il viaggio.</it-IT>
+    <en-US>Congratulate {G0:lui:lei} on seeing the journey through.</en-US>
+    <it-IT>Congratulazioni a {G0:lui:lei} per aver portato a termine il viaggio.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PILGRIMAGE_FINISHED_3_OPTION_0</zType>
@@ -2637,8 +2637,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARGED_WITH_CORRUPTION_OPTION_1</zType>
-    <en-US>{CHARACTER-0} is right, {G0:he:she} deserves a fair trial. </en-US>
-    <it-IT>{CHARACTER-0} ha ragione, {G0:he:she} merita un processo equo. </it-IT>
+    <en-US>{CHARACTER-0} is right, {G0:lui:lei} deserves a fair trial. </en-US>
+    <it-IT>{CHARACTER-0} ha ragione, {G0:lui:lei} merita un processo equo. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARGED_WITH_CORRUPTION_OPTION_2</zType>
@@ -3417,8 +3417,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LANDS_OF_THE_DEAD_OPTION_0_HELP</zType>
-    <en-US>We lost {G0:him:her} too soon!</en-US>
-    <it-IT>Abbiamo perso {G0:him:her} troppo presto!</it-IT>
+    <en-US>We lost {G0:lui:lei} too soon!</en-US>
+    <it-IT>Abbiamo perso {G0:lui:lei} troppo presto!</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LANDS_OF_THE_DEAD_OPTION_1</zType>
@@ -3987,8 +3987,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EYES_OF_GREEN_OPTION_2</zType>
-    <en-US>Bid {G0:him:her} to break up the remains of the statue for resources.</en-US>
-    <it-IT>Dichiara {G0:him:her} per rompere i resti della statua per ottenere risorse.</it-IT>
+    <en-US>Bid {G0:lui:lei} to break up the remains of the statue for resources.</en-US>
+    <it-IT>Dichiara {G0:lui:lei} per rompere i resti della statua per ottenere risorse.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONVERTED_ON_THE_ROAD_OPTION_0</zType>
@@ -4007,13 +4007,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONVERTED_ON_THE_ROAD_OPTION_2_HELP</zType>
-    <en-US>How nice that {G0:he:she} made a friend.</en-US>
-    <it-IT>È bello che {G0:he:she} si sia fatto un amico.</it-IT>
+    <en-US>How nice that {G0:lui:lei} made a friend.</en-US>
+    <it-IT>È bello che {G0:lui:lei} si sia fatto un amico.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_FIRST_DISCIPLE_OPTION_0</zType>
-    <en-US>Have {G0:him:her} return, to hear the words of this disciple.</en-US>
-    <it-IT>Fate tornare {G0:him:her}, per ascoltare le parole di questo discepolo.</it-IT>
+    <en-US>Have {G0:lui:lei} return, to hear the words of this disciple.</en-US>
+    <it-IT>Fate tornare {G0:lui:lei}, per ascoltare le parole di questo discepolo.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_FIRST_DISCIPLE_OPTION_1</zType>
@@ -5007,8 +5007,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEKA_OPTION_1</zType>
-    <en-US>An education under the priests will serve {G0:him:her} well.</en-US>
-    <it-IT>Un'educazione sotto i sacerdoti servirà a {G0:him:her}.</it-IT>
+    <en-US>An education under the priests will serve {G0:lui:lei} well.</en-US>
+    <it-IT>Un'educazione sotto i sacerdoti servirà a {G0:lui:lei}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEKA_OPTION_2</zType>
@@ -5537,8 +5537,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_HOLY_BAKERS_OPTION_0</zType>
-    <en-US>Instruct {CHARACTER-SHORT-0} to return any bakers {G0:he:she} finds back to their former roles.</en-US>
-    <it-IT>Chiedere a {CHARACTER-SHORT-0} di riportare tutti i panettieri trovati da {G0:he:she} al loro ruolo precedente.</it-IT>
+    <en-US>Instruct {CHARACTER-SHORT-0} to return any bakers {G0:lui:lei} finds back to their former roles.</en-US>
+    <it-IT>Chiedere a {CHARACTER-SHORT-0} di riportare tutti i panettieri trovati da {G0:lui:lei} al loro ruolo precedente.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_HOLY_BAKERS_OPTION_1</zType>
