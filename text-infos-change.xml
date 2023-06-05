@@ -748,7 +748,7 @@
   <Entry>
     <zType>TEXT_CONCEPT_ROUT</zType>
     <en-US>Rout~Routed</en-US>
-    <it-IT>Rotta~Instradamento</it-IT>
+    <it-IT>Rotta~Rotte</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_ROYAL</zType>
@@ -2523,7 +2523,7 @@
     <it-IT>    Io sono Ciro il Grande, secondo del mio nome, Re dei Re e figlio del Re Cambise.
     Mio nonno, il re Astyages, dell'Impero di Medea, voleva farmi uccidere alla nascita. Invece, sono vissuto per conquistare il suo regno e farlo mio.
     Ho fondato il primo impero persiano. Sotto il mio governo, tutti gli Stati civilizzati sono liberi di adorare i propri dei. Ho sottomesso ogni nazione, senza eccezioni.
-    Il profeta Isaia si riferisce a me come Messia, chiamandomi &quot;il Suo Unto&quot;. Sono l'unica figura non ebraica nella Bibbia a essere chiamata così.</it-IT>
+    Il profeta Isaia si riferisce a me come Messia, chiamandomi "il Suo Unto". Sono l'unica figura non ebraica nella Bibbia a essere chiamata così.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_NATION_ROME_STORY</zType>
@@ -2969,7 +2969,7 @@
   <Entry>
     <zType>TEXT_TECH_ADMINISTRATION_BONUS_WORKER</zType>
     <en-US>Free link(UNIT_WORKER)</en-US>
-    <it-IT>Libero link(UNIT_WORKER)</it-IT>
+    <it-IT>Gratuito link(UNIT_WORKER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_LABOR_FORCE</zType>
@@ -2994,7 +2994,7 @@
   <Entry>
     <zType>TEXT_TECH_DRAMA_BONUS_SETTLER</zType>
     <en-US>Free link(UNIT_SETTLER)</en-US>
-    <it-IT>Libero link(UNIT_SETTLER)</it-IT>
+    <it-IT>Gratuito link(UNIT_SETTLER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_POLIS</zType>
@@ -3029,7 +3029,7 @@
   <Entry>
     <zType>TEXT_TECH_NAVIGATION_BONUS_BIREME</zType>
     <en-US>Free link(UNIT_BIREME)</en-US>
-    <it-IT>Libero link(UNIT_BIREME)</it-IT>
+    <it-IT>Gratuito link(UNIT_BIREME)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_PHALANX</zType>
@@ -3049,7 +3049,7 @@
   <Entry>
     <zType>TEXT_TECH_SPOKED_WHEEL_BONUS_CHARIOT</zType>
     <en-US>Free link(UNIT_CHARIOT)</en-US>
-    <it-IT>Libero link(UNIT_CHARIOT)</it-IT>
+    <it-IT>Gratuito link(UNIT_CHARIOT)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_FORESTRY</zType>
@@ -3059,7 +3059,7 @@
   <Entry>
     <zType>TEXT_TECH_FORESTRY_BONUS_SCIENTIST</zType>
     <en-US>Free link(COURTIER_SCIENTIST)</en-US>
-    <it-IT>Libero link(COURTIER_SCIENTIST)</it-IT>
+    <it-IT>Gratuito link(COURTIER_SCIENTIST)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_STEEL</zType>
@@ -3104,7 +3104,7 @@
   <Entry>
     <zType>TEXT_TECH_CITIZENSHIP_BONUS_MINISTER</zType>
     <en-US>Free link(COURTIER_MINISTER)</en-US>
-    <it-IT>Libero link(COURTIER_MINISTER)</it-IT>
+    <it-IT>Gratuito link(COURTIER_MINISTER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_PORTCULLIS</zType>
@@ -3114,7 +3114,7 @@
   <Entry>
     <zType>TEXT_TECH_PORTCULLIS_BONUS_MACEMAN</zType>
     <en-US>Free link(UNIT_MACEMAN)</en-US>
-    <it-IT>Libero link(UNIT_MACEMAN)</it-IT>
+    <it-IT>Gratuito link(UNIT_MACEMAN)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_LAND_CONSOLIDATION</zType>
@@ -3124,12 +3124,12 @@
   <Entry>
     <zType>TEXT_TECH_LAND_CONSOLIDATION_BONUS_CAMEL_ARCHER</zType>
     <en-US>Free link(UNIT_CAMEL_ARCHER)</en-US>
-    <it-IT>Libero link(UNIT_CAMEL_ARCHER)</it-IT>
+    <it-IT>Gratuito link(UNIT_CAMEL_ARCHER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_LAND_CONSOLIDATION_BONUS_WAR_ELEPHANT</zType>
     <en-US>Free link(UNIT_WAR_ELEPHANT)</en-US>
-    <it-IT>Libero link(UNIT_WAR_ELEPHANT)</it-IT>
+    <it-IT>Gratuito link(UNIT_WAR_ELEPHANT)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_COMPOSITE_BOW</zType>
@@ -3139,7 +3139,7 @@
   <Entry>
     <zType>TEXT_TECH_COMPOSITE_BOW_BONUS_ARCHER</zType>
     <en-US>Free link(UNIT_ARCHER)</en-US>
-    <it-IT>Libero link(UNIT_ARCHER)</it-IT>
+    <it-IT>Gratuito link(UNIT_ARCHER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_MONASTICISM</zType>
@@ -3154,7 +3154,7 @@
   <Entry>
     <zType>TEXT_TECH_MACHINERY_BONUS_ONAGER</zType>
     <en-US>Free link(UNIT_ONAGER)</en-US>
-    <it-IT>Libero link(UNIT_ONAGER)</it-IT>
+    <it-IT>Gratuito link(UNIT_ONAGER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_SCHOLARSHIP</zType>
@@ -3164,7 +3164,7 @@
   <Entry>
     <zType>TEXT_TECH_SCHOLARSHIP_BONUS_SCIENTIST</zType>
     <en-US>Free link(COURTIER_SCIENTIST)</en-US>
-    <it-IT>Libero link(COURTIER_SCIENTIST)</it-IT>
+    <it-IT>Gratuito link(COURTIER_SCIENTIST)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_HYDRAULICS</zType>
@@ -3174,7 +3174,7 @@
   <Entry>
     <zType>TEXT_TECH_HYDRAULICS_BONUS_BALLISTA</zType>
     <en-US>Free link(UNIT_BALLISTA)</en-US>
-    <it-IT>Libero link(UNIT_BALLISTA)</it-IT>
+    <it-IT>Gratuito link(UNIT_BALLISTA)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_STIRRUPS</zType>
@@ -3184,12 +3184,12 @@
   <Entry>
     <zType>TEXT_TECH_STIRRUPS_BONUS_HORSEMAN</zType>
     <en-US>Free link(UNIT_HORSEMAN)</en-US>
-    <it-IT>Libero link(UNIT_HORSEMAN)</it-IT>
+    <it-IT>Gratuito link(NIT_HORSEMAN)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_STIRRUPS_BONUS_HORSE_ARCHER</zType>
     <en-US>Free link(UNIT_HORSE_ARCHER)</en-US>
-    <it-IT>Libero link(UNIT_HORSE_ARCHER)</it-IT>
+    <it-IT>Gratuito link(UNIT_HORSE_ARCHER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_ARCHITECTURE</zType>
@@ -3214,7 +3214,7 @@
   <Entry>
     <zType>TEXT_TECH_BATTLELINE_BONUS_SOLDIER</zType>
     <en-US>Free link(COURTIER_SOLDIER)</en-US>
-    <it-IT>Libero link(COURTIER_SOLDIER)</it-IT>
+    <it-IT>Gratuito link(COURTIER_SOLDIER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_DOCTRINE</zType>
@@ -3229,7 +3229,7 @@
   <Entry>
     <zType>TEXT_TECH_CARTOGRAPHY_BONUS_TRIREME</zType>
     <en-US>Free link(UNIT_TRIREME)</en-US>
-    <it-IT>Libero link(UNIT_TRIREME)</it-IT>
+    <it-IT>Gratuito link(UNIT_TRIREME)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_LATEEN_SAIL</zType>
@@ -3239,7 +3239,7 @@
   <Entry>
     <zType>TEXT_TECH_LATEEN_SAIL_BONUS_DROMON</zType>
     <en-US>Free link(UNIT_DROMON)</en-US>
-    <it-IT>Libero link(UNIT_DROMON)</it-IT>
+    <it-IT>Gratuito link(UNIT_DROMON)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_JURISPRUDENCE</zType>
@@ -3249,7 +3249,7 @@
   <Entry>
     <zType>TEXT_TECH_JURISPRUDENCE_BONUS_MINISTER</zType>
     <en-US>Free link(COURTIER_MINISTER)</en-US>
-    <it-IT>Libero link(COURTIER_MINISTER)</it-IT>
+    <it-IT>Gratuito link(COURTIER_MINISTER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_MARTIAL_CODE</zType>
@@ -3279,7 +3279,7 @@
   <Entry>
     <zType>TEXT_TECH_WINDLASS_BONUS_CROSSBOWMAN</zType>
     <en-US>Free link(UNIT_CROSSBOWMAN)</en-US>
-    <it-IT>Libero link(UNIT_CROSSBOWMAN)</it-IT>
+    <it-IT>Gratuito link(UNIT_CROSSBOWMAN)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_FISCAL_POLICY</zType>
@@ -3289,7 +3289,7 @@
   <Entry>
     <zType>TEXT_TECH_FISCAL_POLICY_BONUS_MERCHANT</zType>
     <en-US>Free link(COURTIER_MERCHANT)</en-US>
-    <it-IT>Libero link(COURTIER_MERCHANT)</it-IT>
+    <it-IT>Gratuito link(COURTIER_MERCHANT)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_BARDING</zType>
@@ -3304,7 +3304,7 @@
   <Entry>
     <zType>TEXT_TECH_INFANTRY_SQUARE_BONUS_SOLDIER</zType>
     <en-US>Free link(COURTIER_SOLDIER)</en-US>
-    <it-IT>Libero link(COURTIER_SOLDIER)</it-IT>
+    <it-IT>Gratuito link(COURTIER_SOLDIER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_COHORTS</zType>
@@ -3319,7 +3319,7 @@
   <Entry>
     <zType>TEXT_TECH_CHAIN_DRIVE_BONUS_MERCHANT</zType>
     <en-US>Free link(COURTIER_MERCHANT)</en-US>
-    <it-IT>Libero link(COURTIER_MERCHANT)</it-IT>
+    <it-IT>Gratuito link(COURTIER_MERCHANT)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_BALLISTICS</zType>
@@ -3344,72 +3344,72 @@
   <Entry>
     <zType>TEXT_TECH_BATTERING_RAM_BONUS</zType>
     <en-US>Free link(UNIT_BATTERING_RAM)</en-US>
-    <it-IT>Libero link(UNIT_BATTERING_RAM)</it-IT>
+    <it-IT>Gratuito link(UNIT_BATTERING_RAM)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_SIEGE_TOWER_BONUS</zType>
     <en-US>Free link(UNIT_SIEGE_TOWER)</en-US>
-    <it-IT>Libero link(UNIT_SIEGE_TOWER)</it-IT>
+    <it-IT>Gratuito link(UNIT_SIEGE_TOWER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_AKKADIAN_ARCHER_BONUS</zType>
     <en-US>Free link(UNIT_AKKADIAN_ARCHER)</en-US>
-    <it-IT>Libero link(UNIT_AKKADIAN_ARCHER)</it-IT>
+    <it-IT>Gratuito link(UNIT_AKKADIAN_ARCHER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_CIMMERIAN_ARCHER_BONUS</zType>
     <en-US>Free link(UNIT_CIMMERIAN_ARCHER)</en-US>
-    <it-IT>Libero link(UNIT_CIMMERIAN_ARCHER)</it-IT>
+    <it-IT>Gratuito link(UNIT_CIMMERIAN_ARCHER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_AFRICAN_ELEPHANT_BONUS</zType>
     <en-US>Free link(UNIT_AFRICAN_ELEPHANT)</en-US>
-    <it-IT>Libero link(UNIT_AFRICAN_ELEPHANT)</it-IT>
+    <it-IT>Gratuito link(UNIT_AFRICAN_ELEPHANT)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_TURRETED_ELEPHANT_BONUS</zType>
     <en-US>Free link(UNIT_TURRETED_ELEPHANT)</en-US>
-    <it-IT>Libero link(UNIT_TURRETED_ELEPHANT)</it-IT>
+    <it-IT>Gratuito link(UNIT_TURRETED_ELEPHANT)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_LIGHT_CHARIOT_BONUS</zType>
     <en-US>Free link(UNIT_LIGHT_CHARIOT)</en-US>
-    <it-IT>Libero link(UNIT_LIGHT_CHARIOT)</it-IT>
+    <it-IT>Gratuito link(UNIT_LIGHT_CHARIOT)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_KUSHITE_CAVALRY_BONUS</zType>
     <en-US>Free link(UNIT_KUSHITE_CAVALRY)</en-US>
-    <it-IT>Libero link(UNIT_KUSHITE_CAVALRY)</it-IT>
+    <it-IT>Gratuito link(UNIT_KUSHITE_CAVALRY)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_HOPLITE_BONUS</zType>
     <en-US>Free link(UNIT_HOPLITE)</en-US>
-    <it-IT>Libero link(UNIT_HOPLITE)</it-IT>
+    <it-IT>Gratuito link(UNIT_HOPLITE)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_PHALANGITE_BONUS</zType>
     <en-US>Free link(UNIT_PHALANGITE)</en-US>
-    <it-IT>Libero link(UNIT_PHALANGITE)</it-IT>
+    <it-IT>Gratuito link(UNIT_PHALANGITE)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_PALTON_CAVALRY_BONUS</zType>
     <en-US>Free link(UNIT_PALTON_CAVALRY)</en-US>
-    <it-IT>Libero link(UNIT_PALTON_CAVALRY)</it-IT>
+    <it-IT>Gratuito link(UNIT_PALTON_CAVALRY)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_CATAPHRACT_ARCHER_BONUS</zType>
     <en-US>Free link(UNIT_CATAPHRACT_ARCHER)</en-US>
-    <it-IT>Libero link(UNIT_CATAPHRACT_ARCHER)</it-IT>
+    <it-IT>Gratuito link(UNIT_CATAPHRACT_ARCHER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_HASTATUS_BONUS</zType>
     <en-US>Free link(UNIT_HASTATUS)</en-US>
-    <it-IT>Libero link(UNIT_HASTATUS)</it-IT>
+    <it-IT>Gratuito link(UNIT_HASTATUS)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_LEGIONARY_BONUS</zType>
     <en-US>Free link(UNIT_LEGIONARY)</en-US>
-    <it-IT>Libero link(UNIT_LEGIONARY)</it-IT>
+    <it-IT>Gratuito link(UNIT_LEGIONARY)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_GUIDE_TECH_IRONWORKING</zType>
@@ -8299,7 +8299,7 @@ Per i Generali, la Disciplina aumenta la XP dell'Unità ogni anno.</it-IT>
   <Entry>
     <zType>TEXT_GOD_PAGAN</zType>
     <en-US>the Gods~the Gods~the Gods~the Gods'</en-US>
-    <it-IT>gli dei~gli Dei~gli dei~gli dei&quot;.</it-IT>
+    <it-IT>gli dei~gli Dei~gli dei~gli dei".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_LANGUAGE_DEFAULT</zType>
@@ -8868,7 +8868,7 @@ Fare clic sul pulsante verde INIZIA GIOCO per procedere.</it-IT>
   <Entry>
     <zType>TEXT_SCENARIO_BARBARIAN_DESC</zType>
     <en-US>Fight to survive as the only civilized Nation in a world filled with envious and distrustful Tribes.
-SETUP (click &quot;Show Options&quot; above)
+SETUP (click "Show Options" above)
 icon(bullet) Choose your Nation and Map.
 icon(bullet) Choose Tribal Organization and Uprising Time.
 icon(bullet) Higher game difficulty and tribal aggression levels increase the size of the Horde.
@@ -8889,7 +8889,7 @@ icon(bullet) Some family bonuses have been adjusted:
 VICTORY
 icon(bullet) To win, eliminate the Barbarian Horde.</en-US>
     <it-IT>Lotta per sopravvivere come unica nazione civilizzata in un mondo pieno di tribù invidiose e diffidenti.
-SETUP (click &quot;Show Options&quot; above)
+SETUP (click "Show Options" above)
 icon(bullet) Scegliere la Nazione e la Mappa.
 icon(bullet) Scegliere l'Organizzazione Tribale e il Tempo della Rivolta.
 icon(bullet) I livelli di difficoltà e di aggressività tribale più elevati aumentano le dimensioni dell'orda.
@@ -9012,7 +9012,7 @@ Completa sei obiettivi per ottenere una vittoria Bronzo. Completate otto obietti
     <zType>TEXT_SCENARIO_CARTHAGE_3_DESC</zType>
     <en-US>Carthage has withstood unending waves of chaos and bloodshed in the Mediterranean. Now, Rome rises as a new threat. Can you guide Carthage to rule the seas, defend its cities on land, and achieve a victory against the rise of Rome?
 You may import a save file from completing the previous scenario, Riches and Influence. If you import a save, some of your choices from the previous scenario will be preserved. Family assignment and some city improvements will be carried forward, and you may encounter events related to your actions in the previous scenario.
-In this scenario, you're fighting a war against a powerful opponent. Historically, Carthage lost the war, and accordingly this scenario is more challenging than the first two. Some goals may be very tough to accomplish.   
+In this scenario, you're fighting a war against a powerful opponent. Historically, Carthage lost the war, and accordingly this scenario is more challenging than the first two. Some goals may be very tough to accomplish.
 Rules for Game Three - Rise of Rome:
 icon(bullet) Technologies are more expensive.
 icon(bullet) You cannot settle new cities.

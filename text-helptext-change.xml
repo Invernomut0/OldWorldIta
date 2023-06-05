@@ -258,7 +258,7 @@
   <Entry>
     <zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER_FIRST</zType>
     <en-US>icon(bullet){0}</en-US>
-    <it-IT>icona{0}{0}</it-IT>
+    <it-IT>icon(bullet){0}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BULLET_LIST_BUILDER</zType>
@@ -268,7 +268,7 @@
   <Entry>
     <zType>TEXT_HELPTEXT_BULLET_TEXT_SPACE</zType>
     <en-US>icon(bullet){0} </en-US>
-    <it-IT>icona{0}{0} </it-IT>
+    <it-IT>icon(bullet){0} </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TURN</zType>
@@ -928,7 +928,7 @@
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_GT_LT</zType>
     <en-US>{0} {true_3:is:are} icon(GreaterThan) {1} and icon(LessThan) {2}</en-US>
-    <it-IT>{0} {true_3:is:are} icona{2} {1} e icon(LessThan) {2}</it-IT>
+    <it-IT>{0} {true_3:is:are} icon(GreaterThan) {1} e icon(LessThan) {2}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_GT</zType>
@@ -963,37 +963,37 @@
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_AGE_RANGE</zType>
     <en-US>{0_character} is Age icon(GreaterThan) {1_minAge} and icon(LessThan) {2_maxAge}</en-US>
-    <it-IT>{0_character} è l'icona Age(GreaterThan) {1_minAge} e icon(LessThan) {2_maxAge}</it-IT>
+    <it-IT>{0_character} è l'Età icon(GreaterThan) {1_minAge} e icon(LessThan) {2_maxAge}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_AGE_GT</zType>
     <en-US>{0_character} is Age icon(GreaterThan) {1_minAge}</en-US>
-    <it-IT>{0_character} è l'icona Età(GreaterThan) {1_minAge}</it-IT>
+    <it-IT>{0_character} è l'Età icon(GreaterThan) {1_minAge}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_AGE_LT</zType>
     <en-US>{0_character} is Age icon(LessThan) {1_maxAge}</en-US>
-    <it-IT>{0_character} è l'icona Età(LessThan) {1_maxAge}</it-IT>
+    <it-IT>{0_character} è l'Età icon(LessThan) {1_maxAge}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MIN_HAPPINESS</zType>
     <en-US>{0_city} has icon(GreaterThan) {1} {2_happiness} Level</en-US>
-    <it-IT>{0_city} ha l'icona{1} {1} {2_happiness} Livello</it-IT>
+    <it-IT>{0_city} ha l'icon(GreaterThan) {1} {2_happiness} Livello</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MAX_HAPPINESS</zType>
     <en-US>{0_city} has icon(LessThan) {1} {2_happiness} Level</en-US>
-    <it-IT>{0_city} ha l'icona{1} {1} {2_happiness} Livello</it-IT>
+    <it-IT>{0_city} ha l'icon(LessThan) {1} {2_happiness} Livello</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MIN_YIELD_LEVEL</zType>
     <en-US>{0_city} has icon(GreaterThan) {1} {2_yield} Level</en-US>
-    <it-IT>{0_city} ha l'icona{1} {1} {2_yield} Livello</it-IT>
+    <it-IT>{0_city} ha l'icon(GreaterThan) {1} {2_yield} Livello</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MAX_YIELD_LEVEL</zType>
     <en-US>{0_city} has icon(LessThan) {1} {2_yield} Level</en-US>
-    <it-IT>{0_city} ha l'icona{1} {1} {2_yield} Livello</it-IT>
+    <it-IT>{0_city} ha l'icon(LessThan)  {1} {2_yield} Livello</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MIN_CULTURE</zType>
@@ -2149,8 +2149,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_STORY_DISABLE_TUTORIAL</zType>
-    <en-US>(You can disable tutorial events by unchecking &quot;Tutorial&quot; in Options.)</en-US>
-    <it-IT>(You can disable tutorial events by unchecking &quot;Tutorial&quot; in Options.)</it-IT>
+    <en-US>(You can disable tutorial events by unchecking "Tutorial" in Options.)</en-US>
+    <it-IT>(You can disable tutorial events by unchecking "Tutorial" in Options.)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_HEAL</zType>
@@ -3043,11 +3043,11 @@ Mandate le link(UNIT_SCOUT,2) nelle terre selvagge a cercare nuove link(IMPROVEM
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_AGENTS</zType>
-    <en-US>With a link(COUNCIL_SPYMASTER) on your Council, you can convert link(UNIT_SCOUT,2) into an link(CONCEPT_AGENT_NETWORK) in a rival City (temporarily consuming the link(UNIT_SCOUT) in the process). If you move your link(UNIT_SCOUT) adjacent to the territory of that City, the link(CONCEPT_AGENT_NETWORK)  icon(CREATE_AGENT_NETWORK) Button will be enabled in the Unit Panel on the left. 
+    <en-US>With a link(COUNCIL_SPYMASTER) on your Council, you can convert link(UNIT_SCOUT,2) into an link(CONCEPT_AGENT_NETWORK) in a rival City (temporarily consuming the link(UNIT_SCOUT) in the process). If you move your link(UNIT_SCOUT) adjacent to the territory of that City, the link(CONCEPT_AGENT_NETWORK)  icon(CREATE_AGENT_NETWORK) Button will be enabled in the Unit Panel on the left.
 Once you have established an link(CONCEPT_AGENT_NETWORK) in a City, an eligible Character can then be assigned as the local link(CONCEPT_AGENT) there. To do so, you need to click the link(CONCEPT_AGENT)  icon(AGENT_HIGHLIGHTED) Button below the City Banner.
 A dedicated link(CONCEPT_AGENT) Character can perform link(MISSION_INSURRECTION) and link(MISSION_TREACHERY) Missions and will siphon off a percentage of the City's Yields, depending on the Ratings of the Character. (For example, a Character's link(RATING_WISDOM) will determine how much {YIELD_SCIENCE}link(YIELD_SCIENCE) they will gather.)
 You can choose link(CONCEPT_AGENT) Missions to perform from the link(CONCEPT_AGENT) Character's Panel, the link(COUNCIL_SPYMASTER) Character's Panel, or even directly from the City in question by clicking the link(CONCEPT_AGENT)  icon(AGENT_HIGHLIGHTED) Button beneath the City banner.</en-US>
-    <it-IT>Con un link(COUNCIL_SPYMASTER) nel vostro Consiglio, potete convertire un link(UNIT_SCOUT,2) in un link(CONCEPT_AGENT_NETWORK) in una Città rivale (temporarily consuming the link(UNIT_SCOUT) nel processo). Se muovete il vostro link(UNIT_SCOUT) adiacente al territorio di quella Città, l'icona link(CONCEPT_AGENT_NETWORK)(CREATE_AGENT_NETWORK) nel pannello delle unità a sinistra. 
+    <it-IT>Con un link(COUNCIL_SPYMASTER) nel vostro Consiglio, potete convertire un link(UNIT_SCOUT,2) in un link(CONCEPT_AGENT_NETWORK) in una Città rivale (temporarily consuming the link(UNIT_SCOUT) nel processo). Se muovete il vostro link(UNIT_SCOUT) adiacente al territorio di quella Città, l'icona link(CONCEPT_AGENT_NETWORK)(CREATE_AGENT_NETWORK) nel pannello delle unità a sinistra.
 Una volta stabilito un link(CONCEPT_AGENT_NETWORK) in una città, è possibile assegnare un personaggio idoneo come link(CONCEPT_AGENT) locale. Per farlo, è necessario cliccare sull'icona link(CONCEPT_AGENT)(AGENT_HIGHLIGHTED) sotto lo stendardo della città.
 Un personaggio link(CONCEPT_AGENT) dedicato può svolgere missioni link(MISSION_INSURRECTION) e link(MISSION_TREACHERY) e si rifornisce di link(CONCEPT_AGENT). e sottrarrà una percentuale dei guadagni della città, a seconda della valutazione del personaggio. (For example, a Character's link(RATING_WISDOM) determinerà la quantità di {YIELD_SCIENCE}link(YIELD_SCIENCE) che raccoglierà).
 Si possono scegliere link(CONCEPT_AGENT) Missioni da svolgere dal pannello del link(CONCEPT_AGENT) Pannello del personaggio, dal Pannello del personaggio link(COUNCIL_SPYMASTER) pannello del personaggio, o anche direttamente dalla città in questione, cliccando sull'icona link(CONCEPT_AGENT)(AGENT_HIGHLIGHTED) sotto lo striscione della città.</it-IT>
@@ -3055,7 +3055,7 @@ Si possono scegliere link(CONCEPT_AGENT) Missioni da svolgere dal pannello del l
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_SPYMASTER</zType>
     <en-US>You can use your link(COUNCIL_SPYMASTER) to conduct secret Missions! Just select the portrait of your link(COUNCIL_SPYMASTER) in the top right, and you will see their available actions in the panel on the left side of the screen.
-A link(COUNCIL_SPYMASTER) can execute missions like link(MISSION_INFILTRATE), link(MISSION_STEAL_RESEARCH), link(MISSION_ASSASSINATE), and more!		
+A link(COUNCIL_SPYMASTER) can execute missions like link(MISSION_INFILTRATE), link(MISSION_STEAL_RESEARCH), link(MISSION_ASSASSINATE), and more!
 If you have researched the link(TECH_PORTCULLIS) technology and you have an available candidate on your court with the link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), or link(TRAIT_SCHOLAR_ARCHETYPE) trait, then you may appoint link(COUNCIL_SPYMASTER,1) using the glowing eye icon  icon(COUNCIL_SPYMASTER) in the top right of the screen.</en-US>
     <it-IT>Potete usare il vostro link(COUNCIL_SPYMASTER) per condurre missioni segrete! Basta selezionare il ritratto del proprio link(COUNCIL_SPYMASTER) in alto a destra per vedere le azioni disponibili nel pannello a sinistra dello schermo.
 Un link(COUNCIL_SPYMASTER) può eseguire missioni come link(MISSION_INFILTRATE), link(MISSION_STEAL_RESEARCH), link(MISSION_ASSASSINATE) e altre ancora!</it-IT>
@@ -3071,7 +3071,7 @@ Un link(COUNCIL_CHANCELLOR) può dare link(MISSION_FAMILY_GIFT) per migliorare i
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_AMBASSADOR</zType>
-    <en-US>You can use your link(COUNCIL_AMBASSADOR) to conduct diplomatic Missions. Just select the portrait of your link(COUNCIL_AMBASSADOR) in the top right, and you will see their available actions in the panel on the left side of the screen. An link(COUNCIL_AMBASSADOR) can make link(DIPLOMACY_PEACE) with link(CONCEPT_NATION,2) and link(CONCEPT_TRIBE,2), form a link(MISSION_TRADE_MISSION), offer and demand Tribute, and more!	
+    <en-US>You can use your link(COUNCIL_AMBASSADOR) to conduct diplomatic Missions. Just select the portrait of your link(COUNCIL_AMBASSADOR) in the top right, and you will see their available actions in the panel on the left side of the screen. An link(COUNCIL_AMBASSADOR) can make link(DIPLOMACY_PEACE) with link(CONCEPT_NATION,2) and link(CONCEPT_TRIBE,2), form a link(MISSION_TRADE_MISSION), offer and demand Tribute, and more!
 Once you have researched the link(TECH_ARISTOCRACY) technology and you have an available candidate on your court with the link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE), or link(TRAIT_COMMANDER_ARCHETYPE) Trait, then you may appoint link(COUNCIL_AMBASSADOR,1) using the glowing scroll icon  icon(COUNCIL_AMBASSADOR) in the top right of the screen.</en-US>
     <it-IT>Potete usare il vostro link(COUNCIL_AMBASSADOR) per condurre missioni diplomatiche. Selezionate il ritratto del vostro link(COUNCIL_AMBASSADOR) in alto a destra e vedrete le sue azioni disponibili nel pannello sul lato sinistro dello schermo. Un link(COUNCIL_AMBASSADOR) può fare link(DIPLOMACY_PEACE) con link(CONCEPT_NATION,2) e link(CONCEPT_TRIBE,2), formare un link(MISSION_TRADE_MISSION), offrire e chiedere Tributi e altro ancora!</it-IT>
   </Entry>
@@ -3090,10 +3090,10 @@ link(FAMILYCLASS_TRADERS) will like you more if you keep their Cities connected,
 link(FAMILYCLASS_ARTISANS) can't stand interruptions in production, and so they are particularly distressed by pillaged link(CONCEPT_IMPROVEMENT,2) in their territories. Their opinion of you will improve with access to link(CONCEPT_LUXURY), especially link(RESOURCE_GEM) and link(RESOURCE_DYE). link(FAMILYCLASS_ARTISANS) are also pleased by the link(LAW_GUILDS) Law.
 link(FAMILYCLASS_RIDERS) won't suffer the indignity of hostile Units inside their territory, but their opinion of you will improve with access to link(CONCEPT_LUXURY) like link(RESOURCE_FUR) and link(RESOURCE_SALT). link(FAMILYCLASS_RIDERS) are also pleased by the link(LAW_VASSALAGE) Law.
 link(FAMILYCLASS_HUNTERS) want to keep their Units close to home, and their opinion of you will improve with access to link(CONCEPT_LUXURY) like link(RESOURCE_FUR) and link(RESOURCE_HONEY). link(FAMILYCLASS_HUNTERS) are also pleased by the link(LAW_EXPLORATION) Law.</en-US>
-    <it-IT>Welcome to DeepL Write! 
+    <it-IT>Welcome to DeepL Write!
 Easily correct mistakes, rephrase sentences and improve your writing. Changes are highlighted in green on the right.
 See how it works:
-&quot;This is a sentence full of grammar, spelling and punctuation mistakes.&quot;</it-IT>
+"This is a sentence full of grammar, spelling and punctuation mistakes."</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_ONAGER</zType>
@@ -3133,10 +3133,10 @@ L'icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) deriva dal raggiungimento di li
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_INHERITANCE_LAWS</zType>
-    <en-US>On the left side of the top bar, you can open the Inheritance Screen with the Crown  icon(INHERITANCE_Normal) button. 
+    <en-US>On the left side of the top bar, you can open the Inheritance Screen with the Crown  icon(INHERITANCE_Normal) button.
 The Inheritance Screen will show your current link(CONCEPT_SUCCESSION). If you click the Change Law button, you can see who the new Heirs would be, depending on which link(CONCEPT_SUCCESSION_LAW) you select to preview.
 You can choose different schemes, like link(LAW_ULTIMOGENITURE) or link(LAW_SENIORITY), based on your preference.</en-US>
-    <it-IT>Sul lato sinistro della barra superiore, è possibile aprire lo Schermo di eredità con il pulsante dell'icona Corona(INHERITANCE_Normal). 
+    <it-IT>Sul lato sinistro della barra superiore, è possibile aprire lo Schermo di eredità con il pulsante dell'icona Corona(INHERITANCE_Normal).
 Lo schermo dell'Eredità mostrerà il vostro link(CONCEPT_SUCCESSION) attuale. Se si fa clic sul pulsante Cambia legge, si può vedere chi saranno i nuovi eredi, a seconda del link(CONCEPT_SUCCESSION_LAW) selezionato per l'anteprima.
 È possibile scegliere diversi schemi, come link(LAW_ULTIMOGENITURE) o link(LAW_SENIORITY), in base alle proprie preferenze.</it-IT>
   </Entry>
@@ -3258,10 +3258,10 @@ Alla fine, si può ricercare la link(TECH_FORESTRY) per consentire la costruzion
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_ANCHORING</zType>
     <en-US>link(UNITTRAIT_SHIP) Units, like the link(UNIT_BIREME), link(UNIT_TRIREME), and link(UNIT_DROMON), can link(CONCEPT_ANCHORED,1) to enable Land Units to move over water tiles. Without the help of an link(CONCEPT_ANCHORED) link(UNITTRAIT_SHIP), Land Units can only move through water Tiles within their Nation's territory.
-link(CONCEPT_ANCHORED,2) comes at the cost of one link(YIELD_ORDERS,3), and puts the link(UNITTRAIT_SHIP) Unit on Cooldown. Land Units may move over water within the movement range of the link(CONCEPT_ANCHORED) link(UNITTRAIT_SHIP) starting on the turn after the link(UNITTRAIT_SHIP) in question has link(CONCEPT_ANCHORED). 
+link(CONCEPT_ANCHORED,2) comes at the cost of one link(YIELD_ORDERS,3), and puts the link(UNITTRAIT_SHIP) Unit on Cooldown. Land Units may move over water within the movement range of the link(CONCEPT_ANCHORED) link(UNITTRAIT_SHIP) starting on the turn after the link(UNITTRAIT_SHIP) in question has link(CONCEPT_ANCHORED).
 The link(CONCEPT_ANCHORED) status of a link(UNITTRAIT_SHIP) persists until it is moved. link(CONCEPT_ANCHORED,1) a link(UNITTRAIT_SHIP) by pressing the  icon(ANCHOR) button in it's action panel on the left side of the screen while the link(UNITTRAIT_SHIP) Unit is selected.</en-US>
     <it-IT>link(UNITTRAIT_SHIP) Le unità, come le link(UNIT_BIREME), link(UNIT_TRIREME) e link(UNIT_DROMON), possono link(CONCEPT_ANCHORED,1) per consentire alle unità di terra di muoversi sulle tessere acqua. Senza l'aiuto di un link(CONCEPT_ANCHORED) link(UNITTRAIT_SHIP), le Unità di terra possono muoversi solo attraverso le tessere acqua all'interno del territorio della loro Nazione.
-Il link(CONCEPT_ANCHORED,2) ha il costo di un link(YIELD_ORDERS,3) e mette in Cooldown l'unità link(UNITTRAIT_SHIP). e mette l'unità link(UNITTRAIT_SHIP) in Cooldown. Le Unità di terra possono muoversi sull'acqua entro il raggio di movimento dell'Unità link(CONCEPT_ANCHORED) link(UNITTRAIT_SHIP) a partire dal turno successivo a quello in cui il link(UNITTRAIT_SHIP) in questione ha link(CONCEPT_ANCHORED). 
+Il link(CONCEPT_ANCHORED,2) ha il costo di un link(YIELD_ORDERS,3) e mette in Cooldown l'unità link(UNITTRAIT_SHIP). e mette l'unità link(UNITTRAIT_SHIP) in Cooldown. Le Unità di terra possono muoversi sull'acqua entro il raggio di movimento dell'Unità link(CONCEPT_ANCHORED) link(UNITTRAIT_SHIP) a partire dal turno successivo a quello in cui il link(UNITTRAIT_SHIP) in questione ha link(CONCEPT_ANCHORED).
 Lo stato di link(CONCEPT_ANCHORED) di un link(UNITTRAIT_SHIP) persiste finché non viene spostato. {Per spostare un'unità link(CONCEPT_ANCHORED,1), premere il pulsante icon(ANCHOR) nel suo pannello delle azioni sul lato sinistro dello schermo mentre l'unità link(UNITTRAIT_SHIP) è selezionata.} mentre l'unità link(UNITTRAIT_SHIP) è selezionata.</it-IT>
   </Entry>
   <Entry>
@@ -3315,10 +3315,10 @@ Con alcune eccezioni, le migliorie link(CONCEPT_URBAN) devono essere costruiti s
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_RUSH_BUYING</zType>
-    <en-US>Once a City has reached the link(CULTURE_DEVELOPING) link(CONCEPT_CULTURE_LEVEL), various options for link(CONCEPT_HURRY,1) in it become available. 
+    <en-US>Once a City has reached the link(CULTURE_DEVELOPING) link(CONCEPT_CULTURE_LEVEL), various options for link(CONCEPT_HURRY,1) in it become available.
 With the link(CULTURE_DEVELOPING) (or higher) link(CONCEPT_CULTURE_LEVEL) alone, a City can link(CONCEPT_HURRY) at the cost of some {YIELD_CIVICS}link(YIELD_CIVICS) and {YIELD_DISCONTENT}link(YIELD_DISCONTENT). Other methods of link(CONCEPT_HURRY,1) are further enabled by certain link(CONCEPT_GOVERNOR) traits or Laws like link(LAW_ORTHODOXY) and link(LAW_VOLUNTEERS). These distinct means of link(CONCEPT_HURRY,1) cost resources other than {YIELD_CIVICS}link(YIELD_CIVICS) (although they all produce {YIELD_DISCONTENT}link(YIELD_DISCONTENT)). For example, with the link(LAW_HOLY_WAR) Law and a link(CONCEPT_STATE_RELIGION) you can link(CONCEPT_HURRY) with link(YIELD_MONEY,1).
 You can see the different options for link(CONCEPT_HURRY,1) in the City Panel underneath the current production in progress. link(CONCEPT_HURRY,1) can be expensive but can also save you in a tight spot!</en-US>
-    <it-IT>Una volta che una città ha raggiunto il link(CULTURE_DEVELOPING) link(CONCEPT_CULTURE_LEVEL), diventano disponibili varie opzioni per link(CONCEPT_HURRY,1) in essa. 
+    <it-IT>Una volta che una città ha raggiunto il link(CULTURE_DEVELOPING) link(CONCEPT_CULTURE_LEVEL), diventano disponibili varie opzioni per link(CONCEPT_HURRY,1) in essa.
 Con il link(CULTURE_DEVELOPING) (or higher) link(CONCEPT_CULTURE_LEVEL), una città può link(CONCEPT_HURRY) al costo di alcuni {YIELD_CIVICS}link(YIELD_CIVICS) e {YIELD_DISCONTENT}link(YIELD_DISCONTENT). Altri metodi di link(CONCEPT_HURRY,1) sono ulteriormente abilitati da alcuni tratti link(CONCEPT_GOVERNOR) o Leggi come link(LAW_ORTHODOXY) e link(LAW_VOLUNTEERS). Questi metodi distinti di link(CONCEPT_HURRY,1) costano risorse diverse da {YIELD_CIVICS}link(YIELD_CIVICS) (sebbene producano tutti {YIELD_DISCONTENT}link(YIELD_DISCONTENT)). Ad esempio, con la link(LAW_HOLY_WAR) e un link(CONCEPT_STATE_RELIGION) è possibile link(CONCEPT_HURRY) con link(YIELD_MONEY,1).
 Potete vedere le diverse opzioni per link(CONCEPT_HURRY,1) nel Pannello Città sotto la produzione in corso. Il link(CONCEPT_HURRY,1) può essere costoso, ma può anche salvarvi in caso di difficoltà!</it-IT>
   </Entry>
@@ -3343,12 +3343,12 @@ Assicuratevi di proteggere i vostri link(UNIT_CARAVAN,2) durante il viaggio vers
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_RURAL_YIELDS</zType>
-    <en-US>The Rural Yields are link(YIELD_FOOD,1), link(YIELD_IRON,1), link(YIELD_STONE,1), and link(YIELD_WOOD,1). They are primarily drawn from rural link(CONCEPT_IMPROVEMENT,2) and collect in the Global stockpile. You can spend link(YIELD_MONEY,1) to purchase Rural Yields directly from the top bar where it shows your current stockpile.  
+    <en-US>The Rural Yields are link(YIELD_FOOD,1), link(YIELD_IRON,1), link(YIELD_STONE,1), and link(YIELD_WOOD,1). They are primarily drawn from rural link(CONCEPT_IMPROVEMENT,2) and collect in the Global stockpile. You can spend link(YIELD_MONEY,1) to purchase Rural Yields directly from the top bar where it shows your current stockpile.
 The primary source of link(YIELD_FOOD) is link(IMPROVEMENT_FARM,2), which are most fruitful next to link(CONCEPT_FRESH_WATER) and on link(TERRAIN_LUSH) Terrain. link(YIELD_FOOD) is needed to feed your link(CONCEPT_POPULATION) and to produce new link(UNIT_SETTLER,2).
 The primary source of link(YIELD_IRON) is link(IMPROVEMENT_MINE,2), which are most productive on link(RESOURCE_ORE) and link(HEIGHT_HILL,2). link(YIELD_IRON) is needed to produce many types of Military Units, including link(UNIT_WARRIOR,2) and link(UNIT_AXEMAN,2).
 The primary source of link(YIELD_STONE) is link(IMPROVEMENT_QUARRY,2), which are most productive on link(RESOURCE_MARBLE), on link(TERRAIN_ARID) Terrain, and when adjacent to link(HEIGHT_MOUNTAIN,2). link(YIELD_STONE) is needed primarily to build link(CONCEPT_IMPROVEMENT,2) like link(IMPROVEMENTCLASS_SHRINE,2) and City link(CONCEPT_PROJECT,2) such as link(PROJECT_WALLS).
 The link(TECH_FORESTRY) Tech enables the construction of link(IMPROVEMENT_LUMBERMILL,2) on link(VEGETATION_TREES) to produce link(YIELD_WOOD). link(UNIT_WORKER,2) can also cut down link(VEGETATION_TREES) with the  icon(REMOVE_TREES) Button in the Actions panel. link(YIELD_WOOD) is needed to build City link(CONCEPT_IMPROVEMENT,2) like link(IMPROVEMENT_BARRACKS), Military Units like link(UNIT_ARCHER,2), and link(UNITTRAIT_SHIP) Units like link(UNIT_BIREME,2).</en-US>
-    <it-IT>I rendimenti rurali sono link(YIELD_FOOD,1), link(YIELD_IRON,1), link(YIELD_STONE,1) e link(YIELD_WOOD,1). Vengono prelevati principalmente dalle zone rurali link(CONCEPT_IMPROVEMENT,2) e raccolti nelle scorte globali. È possibile spendere link(YIELD_MONEY,1) per acquistare Rendimenti rurali direttamente dalla barra superiore che mostra le scorte attuali.  
+    <it-IT>I rendimenti rurali sono link(YIELD_FOOD,1), link(YIELD_IRON,1), link(YIELD_STONE,1) e link(YIELD_WOOD,1). Vengono prelevati principalmente dalle zone rurali link(CONCEPT_IMPROVEMENT,2) e raccolti nelle scorte globali. È possibile spendere link(YIELD_MONEY,1) per acquistare Rendimenti rurali direttamente dalla barra superiore che mostra le scorte attuali.
 La fonte principale di link(YIELD_FOOD) è costituita dalle link(IMPROVEMENT_FARM,2), che sono più fruttuose accanto alle link(CONCEPT_FRESH_WATER) e sui link(TERRAIN_LUSH) terreni. Terreno. Il link(YIELD_FOOD) è necessario per alimentare il link(CONCEPT_POPULATION) e per produrre nuovo link(UNIT_SETTLER,2).
 La fonte primaria di link(YIELD_IRON) è costituita dai link(IMPROVEMENT_MINE,2), che sono più produttivi su link(RESOURCE_ORE) e link(HEIGHT_HILL,2). Il link(YIELD_IRON) è necessario per produrre molti tipi di Unità militari, tra cui il link(UNIT_WARRIOR,2) e il link(UNIT_AXEMAN,2).
 La fonte primaria di link(YIELD_STONE) è link(IMPROVEMENT_QUARRY,2), che sono più produttivi su link(RESOURCE_MARBLE), su link(TERRAIN_ARID) e quando sono adiacenti a link(HEIGHT_MOUNTAIN,2). Il link(YIELD_STONE) è necessario principalmente per costruire link(CONCEPT_IMPROVEMENT,2) come link(IMPROVEMENTCLASS_SHRINE,2) e Città link(CONCEPT_PROJECT,2) come link(PROJECT_WALLS).
@@ -3361,10 +3361,10 @@ La tecnologia link(TECH_FORESTRY) permette di costruire link(IMPROVEMENT_LUMBERM
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_URBAN_GROWTH</zType>
-    <en-US>link(YIELD_GROWTH,1) is essential for expanding your Population and increasing the Yields of your Cities. Cities produce a new link(CONCEPT_CITIZEN) each time their link(YIELD_GROWTH) bar fills up. Each link(EFFECTCITY_CITIZEN) provides a small amount of link(YIELD_ORDERS,1) and can be converted into link(CONCEPT_SPECIALIST,1).  
+    <en-US>link(YIELD_GROWTH,1) is essential for expanding your Population and increasing the Yields of your Cities. Cities produce a new link(CONCEPT_CITIZEN) each time their link(YIELD_GROWTH) bar fills up. Each link(EFFECTCITY_CITIZEN) provides a small amount of link(YIELD_ORDERS,1) and can be converted into link(CONCEPT_SPECIALIST,1).
 Cities with high link(YIELD_GROWTH) train new Civilian Units like link(UNIT_SETTLER,2), link(UNIT_WORKER,2), and link(UNIT_SCOUT,2) more rapidly. While a City produces a Civilian Unit, its link(YIELD_GROWTH) bar no longer fills. link(UNIT_MILITIA) and link(UNIT_CONSCRIPT) Units are also produced with link(YIELD_GROWTH) instead of link(YIELD_TRAINING,1) like other Military Units.
 You can increase a City's link(YIELD_GROWTH) by training link(SPECIALIST_FARMER,2) and building link(IMPROVEMENT_GRANARY,2) and link(IMPROVEMENT_TOWN,2). link(IMPROVEMENT_FARM,2) will also augment link(YIELD_GROWTH) even further if built on a link(EFFECTCITY_RESOURCE_CROP) like link(RESOURCE_WHEAT) or link(RESOURCE_BARLEY). It is worth noting that although many link(CONCEPT_IMPROVEMENT,2) and link(CONCEPT_SPECIALIST,2) provide both link(YIELD_GROWTH) and link(YIELD_FOOD), they are not the same Resource (link(YIELD_FOOD) is used to start producing link(UNIT_SETTLER,2) and feed your link(CONCEPT_POPULATION)).</en-US>
-    <it-IT>Il link(YIELD_GROWTH,1) è essenziale per espandere la popolazione e aumentare i rendimenti delle città. Le città producono un nuovo link(CONCEPT_CITIZEN) ogni volta che la loro barra link(YIELD_GROWTH) si riempie. Ogni link(EFFECTCITY_CITIZEN) fornisce una piccola quantità di link(YIELD_ORDERS,1) e può essere convertito in link(CONCEPT_SPECIALIST,1).  
+    <it-IT>Il link(YIELD_GROWTH,1) è essenziale per espandere la popolazione e aumentare i rendimenti delle città. Le città producono un nuovo link(CONCEPT_CITIZEN) ogni volta che la loro barra link(YIELD_GROWTH) si riempie. Ogni link(EFFECTCITY_CITIZEN) fornisce una piccola quantità di link(YIELD_ORDERS,1) e può essere convertito in link(CONCEPT_SPECIALIST,1).
 Le città con un alto link(YIELD_GROWTH) formano più rapidamente nuove Unità Civili come link(UNIT_SETTLER,2), link(UNIT_WORKER,2) e link(UNIT_SCOUT,2). Mentre una città produce un'unità civile, la sua barra link(YIELD_GROWTH) non si riempie più. Le unità link(UNIT_MILITIA) e link(UNIT_CONSCRIPT) vengono prodotte con link(YIELD_GROWTH) invece che con link(YIELD_TRAINING,1) come le altre unità militari.
 </it-IT>
   </Entry>
@@ -3393,9 +3393,9 @@ I link(CONCEPT_RELIGION,2) che link(CONCEPT_SPREAD_RELIGION,1) a una città e l'
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_URBAN_DISCONTENT</zType>
-    <en-US>Cities gain link(YIELD_DISCONTENT,1) over time. Having fewer link(CONCEPT_URBAN) Tiles than link(CONCEPT_POPULATION) will increase link(YIELD_DISCONTENT), and so do certain laws like link(LAW_SLAVERY). When a City's link(YIELD_DISCONTENT) bar is filled, its overall link(YIELD_DISCONTENT) Level goes up, which increases link(YIELD_MAINTENANCE,1) and reduces link(YIELD_GROWTH,1) and link(YIELD_SCIENCE,1). High link(YIELD_DISCONTENT,1) Levels reduce the link(CONCEPT_OPINION_FAMILY,3) of the ruling link(CONCEPT_FAMILY) of that City. 
+    <en-US>Cities gain link(YIELD_DISCONTENT,1) over time. Having fewer link(CONCEPT_URBAN) Tiles than link(CONCEPT_POPULATION) will increase link(YIELD_DISCONTENT), and so do certain laws like link(LAW_SLAVERY). When a City's link(YIELD_DISCONTENT) bar is filled, its overall link(YIELD_DISCONTENT) Level goes up, which increases link(YIELD_MAINTENANCE,1) and reduces link(YIELD_GROWTH,1) and link(YIELD_SCIENCE,1). High link(YIELD_DISCONTENT,1) Levels reduce the link(CONCEPT_OPINION_FAMILY,3) of the ruling link(CONCEPT_FAMILY) of that City.
 You can reduce link(YIELD_DISCONTENT) by connecting your Cities with the link(CONCEPT_TRADE_NETWORK), adopting Laws such as link(LAW_DIVINE_RULE), link(LAW_TOLERANCE), and link(LAW_MONETARY_REFORM), and building link(IMPROVEMENTCLASS_BATHS,2) and link(IMPROVEMENT_THEATER_3,2). link(CONCEPT_LUXURY) can be traded to a City to reduce link(YIELD_DISCONTENT), and Religious Opinion affects the link(YIELD_DISCONTENT) of your Cities with that link(CONCEPT_RELIGION). The link(MISSION_PACIFY_CITY) Mission of the link(COUNCIL_CHANCELLOR) can also reduce link(YIELD_DISCONTENT) in targeted Cities.</en-US>
-    <it-IT>Le città guadagnano link(YIELD_DISCONTENT,1) nel tempo. Avere meno tessere link(CONCEPT_URBAN) aumenterà il link(YIELD_DISCONTENT), così come alcune leggi come il link(LAW_SLAVERY). Quando la barra link(YIELD_DISCONTENT) di una città si riempie, il suo livello link(YIELD_DISCONTENT) complessivo aumenta. che aumenta link(YIELD_MAINTENANCE,1) e riduce link(YIELD_GROWTH,1) e link(YIELD_SCIENCE,1). Livelli link(YIELD_DISCONTENT,1) alti alti riducono il link(CONCEPT_OPINION_FAMILY,3) del link(CONCEPT_FAMILY) governante di quella città. 
+    <it-IT>Le città guadagnano link(YIELD_DISCONTENT,1) nel tempo. Avere meno tessere link(CONCEPT_URBAN) aumenterà il link(YIELD_DISCONTENT), così come alcune leggi come il link(LAW_SLAVERY). Quando la barra link(YIELD_DISCONTENT) di una città si riempie, il suo livello link(YIELD_DISCONTENT) complessivo aumenta. che aumenta link(YIELD_MAINTENANCE,1) e riduce link(YIELD_GROWTH,1) e link(YIELD_SCIENCE,1). Livelli link(YIELD_DISCONTENT,1) alti alti riducono il link(CONCEPT_OPINION_FAMILY,3) del link(CONCEPT_FAMILY) governante di quella città.
 È possibile ridurre link(YIELD_DISCONTENT) collegando le proprie Città con il link(CONCEPT_TRADE_NETWORK), adottando Leggi come link(LAW_DIVINE_RULE), link(LAW_TOLERANCE) e link(LAW_MONETARY_REFORM) e costruendo link(IMPROVEMENTCLASS_BATHS,2) e link(IMPROVEMENT_THEATER_3,2). Il link(CONCEPT_LUXURY) può essere scambiato con una città per ridurre il link(YIELD_DISCONTENT), e l'Opinione Religiosa influenza il link(YIELD_DISCONTENT) delle vostre città con quel link(CONCEPT_RELIGION). La link(MISSION_PACIFY_CITY) Missione del link(COUNCIL_CHANCELLOR) può anch'essa ridurre il link(YIELD_DISCONTENT) delle Città bersaglio.</it-IT>
   </Entry>
   <Entry>
@@ -4232,8 +4232,8 @@ Mercenaries have int(CONSUMPTION_MERCENARY_MODIFIER)% higher consumption costs a
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_ONE_CITY_CHALLENGE</zType>
-    <en-US>The One City Challenge (OCC for short) is a game mode in which Human players are limited to one City, their link(CONCEPT_CAPITAL). Human players are not able to build link(UNIT_SETTLER,2), found more than one City, or capture Cities from other link(CONCEPT_NATION,2) (Cities captured by Human players remain in anarchy). To play an OCC game, enable the &quot;One City Challenge&quot; toggle from the Advanced Setup menu when creating a new game.</en-US>
-    <it-IT>La Sfida di una città (OCC for short) è una modalità di gioco in cui i giocatori umani sono limitati a una sola città, la loro link(CONCEPT_CAPITAL). I giocatori umani non possono costruire link(UNIT_SETTLER,2), fondare più di una Città o catturare Città da altri link(CONCEPT_NATION,2). (Cities captured by Human players remain in anarchy). Per giocare una partita OCC, attivare la levetta &quot;Sfida di una città&quot; dal menu Impostazione avanzata quando si crea una nuova partita.</it-IT>
+    <en-US>The One City Challenge (OCC for short) is a game mode in which Human players are limited to one City, their link(CONCEPT_CAPITAL). Human players are not able to build link(UNIT_SETTLER,2), found more than one City, or capture Cities from other link(CONCEPT_NATION,2) (Cities captured by Human players remain in anarchy). To play an OCC game, enable the "One City Challenge" toggle from the Advanced Setup menu when creating a new game.</en-US>
+    <it-IT>La Sfida di una città (OCC for short) è una modalità di gioco in cui i giocatori umani sono limitati a una sola città, la loro link(CONCEPT_CAPITAL). I giocatori umani non possono costruire link(UNIT_SETTLER,2), fondare più di una Città o catturare Città da altri link(CONCEPT_NATION,2). (Cities captured by Human players remain in anarchy). Per giocare una partita OCC, attivare la levetta "Sfida di una città" dal menu Impostazione avanzata quando si crea una nuova partita.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_OPINION_FAMILY</zType>
@@ -5530,17 +5530,17 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_FATIGUE_LIMIT</zType>
     <en-US><![CDATA[<true_1>Fatigue Limit: {0_value}<false>{0_value} Fatigue Limit<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>Limite di fatica: {0_value}<false>{0_value} Limite di Fatica<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>Limite di fatica: {0_value}<false>{0_value} Limite di Fatica<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VISION</zType>
     <en-US><![CDATA[<true_1>link(CONCEPT_VISION): {0_value}<false>{0_value} link(CONCEPT_VISION)<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>link(CONCEPT_VISION): {0_value}<false>{0_value} link(CONCEPT_VISION)<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>link(CONCEPT_VISION): {0_value}<false>{0_value} link(CONCEPT_VISION)<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_REVEAL</zType>
     <en-US><![CDATA[<true_1>Reveal: {0_value}<false>{0_value} Reveal<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>Rivela: {0_value}<false>{0_value} Rivela<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>Rivela: {0_value}<false>{0_value} Rivela<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_WATER_CONTROL</zType>
@@ -5550,32 +5550,32 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_ENLIST_ON_KILL</zType>
     <en-US><![CDATA[<true_1>link(CONCEPT_ENLIST) chance on Kill: {0_value}<false>{0_value} link(CONCEPT_ENLIST) chance on Kill<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>link(CONCEPT_ENLIST) possibilità di uccidere: {0_value}<false>{0_value} link(CONCEPT_ENLIST) possibilità di uccisione<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>link(CONCEPT_ENLIST) possibilità di uccidere: {0_value}<false>{0_value} link(CONCEPT_ENLIST) possibilità di uccisione<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ROAD_MOVEMENT</zType>
     <en-US><![CDATA[<true_1>link(CONCEPT_ROAD) icon(MOVEMENT) Cost: {0_value}<false>{0_value} link(CONCEPT_ROAD) icon(MOVEMENT) Cost<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>link(CONCEPT_ROAD) icon(MOVEMENT) Costo: {0_value}<false>{0_value} link(CONCEPT_ROAD) icon(MOVEMENT) Costo<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>link(CONCEPT_ROAD) icon(MOVEMENT) Costo: {0_value}<false>{0_value} link(CONCEPT_ROAD) icon(MOVEMENT) Costo<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_PILLAGE_YIELD</zType>
     <en-US><![CDATA[<true_1>link(CONCEPT_PILLAGE) Yield: {0_value}<false>{0_value} link(CONCEPT_PILLAGE) Yield<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>link(CONCEPT_PILLAGE) Rendimento: {0_value}<falso>{0_value} link(CONCEPT_PILLAGE) Rendimento<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>link(CONCEPT_PILLAGE) Rendimento: {0_value}<falso>{0_value} link(CONCEPT_PILLAGE) Rendimento<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ATTACK_ACROSS_RIVER</zType>
     <en-US><![CDATA[<true_2>Across {0_riverLink}: {1_value}<false>{1_value} Across {0_riverLink}<end>]]></en-US>
-    <it-IT><![CDATA[<true_2>Attraverso {0_riverLink}: {1_value}<false>{1_value} Attraverso {0_riverLink}<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_2>Attraverso {0_riverLink}: {1_value}<false>{1_value} Attraverso {0_riverLink}<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ATTACK_LAND_WATER</zType>
     <en-US><![CDATA[<true_1>Land/Water Combat: {0_value}<false>{0_value} Land/Water Combat<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>Combattimento Terra/Acqua: {0_value}<false>{0_value} Combattimento Terra/Acqua<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>Combattimento Terra/Acqua: {0_value}<false>{0_value} Combattimento Terra/Acqua<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_HOME_MODIFIER</zType>
     <en-US><![CDATA[<true_1>National Territory: {0_value}<false>{0_value} in National Territory<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>Territorio nazionale: {0_value}<falso>{0_value} in Territorio Nazionale<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>Territorio nazionale: {0_value}<falso>{0_value} in Territorio Nazionale<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ATTACK_INTO</zType>
@@ -5590,22 +5590,22 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_FIGHT_FROM</zType>
     <en-US><![CDATA[<true_2>From {0_tileLink}: {1_value}<false>{1_value} From {0_tileLink}<end>]]></en-US>
-    <it-IT><![CDATA[<true_2>Da {0_tileLink}: {1_value}<falso>{1_value} Da {0_tileLink}<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_2>Da {0_tileLink}: {1_value}<falso>{1_value} Da {0_tileLink}<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IF_DAMAGED</zType>
     <en-US><![CDATA[<true_1>If Damaged: {0_value}<false>{0_value} If Damaged<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>Se danneggiato: {0_value}<false>{0_value} Se danneggiato<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>Se danneggiato: {0_value}<false>{0_value} Se danneggiato<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_DAMAGED</zType>
     <en-US><![CDATA[<true_1>Vs. Damaged: {0_value}<false>{0_value} Vs. Damaged<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>Vs. Danneggiato: {0_value}<falso>{0_value} Vs. Danneggiato<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>Vs. Danneggiato: {0_value}<falso>{0_value} Vs. Danneggiato<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_GENERAL</zType>
     <en-US><![CDATA[<true_1>Vs. link(CONCEPT_GENERAL): {0_value}<false>{0_value} Vs. link(CONCEPT_GENERAL)<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>Vs. link(CONCEPT_GENERAL): {0_value}<falso>{0_value} Vs. link(CONCEPT_GENERAL)<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>Vs. link(CONCEPT_GENERAL): {0_value}<falso>{0_value} Vs. link(CONCEPT_GENERAL)<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_HAS_GENERAL</zType>
@@ -5620,7 +5620,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_SAME_UNIT_ADJACENT</zType>
     <en-US><![CDATA[<true_1>If Same Unit Adjacent: {0_value}<false>{0_value} If Same Unit Adjacent<end>]]></en-US>
-    <it-IT><![CDATA[<true_1>Se stessa unità adiacente: {0_value}<false>{0_value} Se la stessa unità è adiacente<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_1>Se stessa unità adiacente: {0_value}<false>{0_value} Se la stessa unità è adiacente<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_HEAL_EXTRA</zType>
@@ -5725,12 +5725,12 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_UNIT_TRAIT</zType>
     <en-US><![CDATA[<true_2>Vs. {0_unitTrait} Units: {1_value}<false>{1_value} Vs. {0_unitTrait} Units<end>]]></en-US>
-    <it-IT><![CDATA[<true_2>Vs. {0_unitTrait} Unità: {1_value}<falso>{1_value} Vs. {0_unitTrait} Unità<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_2>Vs. {0_unitTrait} Unità: {1_value}<falso>{1_value} Vs. {0_unitTrait} Unità<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IN_MELEE_VS</zType>
     <en-US><![CDATA[<true_2>link(UNITTRAIT_MELEE) Combat Vs. {0_unitTrait} Units: {1_value}<false>{1_value} link(UNITTRAIT_MELEE) Combat Vs. {0_unitTrait} Units<end>]]></en-US>
-    <it-IT><![CDATA[<true_2>link(UNITTRAIT_MELEE) Combattimento Vs. {0_unitTrait} Unità: {1_value}<falso>{1_value} link(UNITTRAIT_MELEE) Combattimento Vs. {0_unitTrait} Unità<finito>]]></it-IT>
+    <it-IT><![CDATA[<true_2>link(UNITTRAIT_MELEE) Combattimento Vs. {0_unitTrait} Unità: {1_value}<falso>{1_value} link(UNITTRAIT_MELEE) Combattimento Vs. {0_unitTrait} Unità<end>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_UNIT_MILITARY_KILL_YIELD</zType>
@@ -6765,7 +6765,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILYCLASS_ON_SEAT_FOUNDED_BULLET_LINE_START</zType>
     <en-US>icon(bullet)[On Seat Founded] {0}</en-US>
-    <it-IT>icona{0}[Sul sedile trovato] {0}</it-IT>
+    <it-IT>icon(bullet) [Sul sedile trovato] {0}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILYCLASS_PREFERS_DISTANT_CITIES</zType>
@@ -7450,7 +7450,7 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_FREE_THEOLOGY</zType>
     <en-US>Free link(CONCEPT_THEOLOGY){true_0: ({0_religion})}: {1_theology}</en-US>
-    <it-IT>Libero link(CONCEPT_THEOLOGY){true_0: ({0_religion})}: {1_theology}</it-IT>
+    <it-IT>link(CONCEPT_THEOLOGY){true_0: ({0_religion})}: {1_theology} gratuito</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_HOLY_CITY_AGENTS</zType>
@@ -9514,8 +9514,8 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CLOUD_AWAY_MESSAGE</zType>
-    <en-US>{0_player}: &quot;{1_message}&quot;</en-US>
-    <it-IT>{0_player}: &quot;{1_message}&quot;</it-IT>
+    <en-US>{0_player}: "{1_message}"</en-US>
+    <it-IT>{0_player}: "{1_message}"</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CLOUD_GAME_AWAY_MESSAGE</zType>
@@ -9529,8 +9529,8 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CLOUD_TO_NETWORK</zType>
-    <en-US>Host as a network game for quicker online play. After the network session is over and you still want to continue on the cloud, select the in-game option to &quot;Play by Cloud&quot; so that the state of this game is updated.</en-US>
-    <it-IT>Ospitare come gioco di rete per velocizzare il gioco online. Una volta terminata la sessione di rete e se si desidera continuare sulla nuvola, selezionare l'opzione di gioco &quot;Gioca su nuvola&quot; per aggiornare lo stato della partita.</it-IT>
+    <en-US>Host as a network game for quicker online play. After the network session is over and you still want to continue on the cloud, select the in-game option to "Play by Cloud" so that the state of this game is updated.</en-US>
+    <it-IT>Ospitare come gioco di rete per velocizzare il gioco online. Una volta terminata la sessione di rete e se si desidera continuare sulla nuvola, selezionare l'opzione di gioco "Gioca su nuvola" per aggiornare lo stato della partita.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_OBSERVER_SWITCH</zType>
@@ -9819,8 +9819,8 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_OPTIONS_LOCKED_OPTION</zType>
-    <en-US>Cannot be toggled because &quot;Lock Player Options&quot; settings was enabled at game creation</en-US>
-    <it-IT>Non è possibile attivarlo perché l'impostazione &quot;Blocca opzioni giocatore&quot; è stata attivata alla creazione del gioco.</it-IT>
+    <en-US>Cannot be toggled because "Lock Player Options" settings was enabled at game creation</en-US>
+    <it-IT>Non è possibile attivarlo perché l'impostazione "Blocca opzioni giocatore" è stata attivata alla creazione del gioco.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_OPTIONS_BETA_TRANSLATIONS</zType>

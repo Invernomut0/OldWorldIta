@@ -32,8 +32,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_FAILED_LOAD_LOCKED_SAVE</zType>
-    <en-US>Failed to load save. Specified file is either invalid or was started with the &quot;Locked Save&quot; option enabled and the file has subsequently been modified</en-US>
-    <it-IT>Non è riuscito a caricare il salvataggio. Il file specificato non è valido oppure è stato avviato con l'opzione &quot;Salvataggio bloccato&quot; attivata e il file è stato successivamente modificato.</it-IT>
+    <en-US>Failed to load save. Specified file is either invalid or was started with the "Locked Save" option enabled and the file has subsequently been modified</en-US>
+    <it-IT>Non è riuscito a caricare il salvataggio. Il file specificato non è valido oppure è stato avviato con l'opzione "Salvataggio bloccato" attivata e il file è stato successivamente modificato.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_UI_REDRAW_TECH</zType>
@@ -583,7 +583,7 @@
   <Entry>
     <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_ENEMY_DEFENSE</zType>
     <en-US>General  icon(Icon_Defense)</en-US>
-    <it-IT>Icona generale(Icon_Defense)</it-IT>
+    <it-IT>Generale Icon(Icon_Defense)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_WATER_VS_LAND</zType>
@@ -1445,9 +1445,9 @@ Tutti i progressi non salvati andranno persi.
   </Entry>
   <Entry>
     <zType>TEXT_UI_RESTART_DIALOG</zType>
-    <en-US>Are you sure you want to restart? 
+    <en-US>Are you sure you want to restart?
 Any unsaved progress will be lost.</en-US>
-    <it-IT>Siete sicuri di voler riavviare? 
+    <it-IT>Siete sicuri di voler riavviare?
 Tutti i progressi non salvati andranno persi.</it-IT>
   </Entry>
   <Entry>
@@ -1477,7 +1477,7 @@ La connessione di rete verrà interrotta.
   <Entry>
     <zType>TEXT_MENU_SCREEN_RESUME_BUTTON</zType>
     <en-US>Resume</en-US>
-    <it-IT>Il curriculum</it-IT>
+    <it-IT>Continua</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_MENU_SCREEN_TUTORIAL_BUTTON</zType>
@@ -1512,7 +1512,7 @@ La connessione di rete verrà interrotta.
   <Entry>
     <zType>TEXT_MENU_SCREEN_QUIT_BUTTON</zType>
     <en-US>Exit to Desktop</en-US>
-    <it-IT>Esci dal desktop</it-IT>
+    <it-IT>Esci al desktop</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_MENU_SCREEN_NEWSLETTER</zType>
@@ -3163,8 +3163,8 @@ Dimensioni valide: {2_min}x{2_min}-{3_max}x{3_max}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_MP_SETUP_INVALID_START_MAP</zType>
-    <en-US>&quot;Premade Map&quot; is selected, but no map file has been specified</en-US>
-    <it-IT>È stato selezionato &quot;Mappa preconfezionata&quot;, ma non è stato specificato alcun file di mappa.</it-IT>
+    <en-US>"Premade Map" is selected, but no map file has been specified</en-US>
+    <it-IT>È stato selezionato "Mappa preconfezionata", ma non è stato specificato alcun file di mappa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_MP_SETUP_NO_HUMANS</zType>
@@ -5178,8 +5178,8 @@ Dimensioni valide: {2_min}x{2_min}-{3_max}x{3_max}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_BODY</zType>
-    <en-US>The mod name &quot;{0_modName}&quot; is reserved for internal use only</en-US>
-    <it-IT>Il nome del mod &quot;{0_modName}&quot; è riservato all'uso interno.</it-IT>
+    <en-US>The mod name "{0_modName}" is reserved for internal use only</en-US>
+    <it-IT>Il nome del mod "{0_modName}" è riservato all'uso interno.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_UI_MODS_PANEL_UPDATING_MOD_PROFILE</zType>
@@ -5666,7 +5666,7 @@ Questa mod è stata creata in una versione diversa di Old World. L'uso di questa
   <Entry>
     <zType>TEXT_UI_LAPTOP_BATTERY_PERFORMANCE_WARNING</zType>
     <en-US>You are playing on a laptop that is running on battery. Depending on your computer's settings, it may limit performance to ensure longer battery life.
-On some laptops, these power saving features may result in very long waiting times between turns. If you encounter such issues, consider switching your laptop's power plan to a &quot;Maximum Performance&quot; setting or similar.</en-US>
+On some laptops, these power saving features may result in very long waiting times between turns. If you encounter such issues, consider switching your laptop's power plan to a "Maximum Performance" setting or similar.</en-US>
     <it-IT>Si sta giocando su un computer portatile che funziona a batteria. A seconda delle impostazioni del computer, le prestazioni potrebbero essere limitate per garantire una maggiore durata della batteria.
 </it-IT>
   </Entry>

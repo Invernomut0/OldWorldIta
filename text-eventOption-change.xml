@@ -953,17 +953,17 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_3</zType>
     <en-US>Khshathra Vairiya, ‘well deserved command’</en-US>
-    <it-IT>Khshathra Vairiya, &quot;comando meritato</it-IT>
+    <it-IT>Khshathra Vairiya, "comando meritato</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_4</zType>
     <en-US>Spenta Armati, ‘life-giving humility’</en-US>
-    <it-IT>Spenta Armati, &quot;umiltà che dà la vita&quot;.</it-IT>
+    <it-IT>Spenta Armati, "umiltà che dà la vita".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_5</zType>
     <en-US>Haurwatat, ‘wholeness’</en-US>
-    <it-IT>Haurwatat, &quot;interezza&quot;.</it-IT>
+    <it-IT>Haurwatat, "interezza".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_6</zType>
@@ -1818,7 +1818,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_CULINARY_ESCIPADES_1</zType>
     <en-US>Lavish praise on the food then have the cook ‘disappear’.</en-US>
-    <it-IT>Lodate il cibo e poi fate &quot;sparire&quot; il cuoco.</it-IT>
+    <it-IT>Lodate il cibo e poi fate "sparire" il cuoco.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CULINARY_ESCIPADES_2</zType>
@@ -3388,17 +3388,17 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_INSPIRED_TROOPS_0</zType>
     <en-US>“Hold formation and never surrender!”</en-US>
-    <it-IT>&quot;Mantenete la formazione e non arrendetevi mai!&quot;.</it-IT>
+    <it-IT>"Mantenete la formazione e non arrendetevi mai!".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INSPIRED_TROOPS_1</zType>
     <en-US>“Fight with everything you have!”</en-US>
-    <it-IT>&quot;Combattete con tutto quello che avete!&quot;</it-IT>
+    <it-IT>"Combattete con tutto quello che avete!"</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INSPIRED_TROOPS_2</zType>
     <en-US>“Protect your comrades!”</en-US>
-    <it-IT>&quot;Proteggete i vostri compagni!&quot;</it-IT>
+    <it-IT>"Proteggete i vostri compagni!"</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFAMOUS_GENERAL</zType>
@@ -3923,7 +3923,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_SUCCESSION_THEM_AGENT_1</zType>
     <en-US>Have the agent 'disappear'.</en-US>
-    <it-IT>Fate in modo che l'agente &quot;scompaia&quot;.</it-IT>
+    <it-IT>Fate in modo che l'agente "scompaia".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUCCESSION_THEM_AGENT_2</zType>
@@ -4482,18 +4482,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PAIDEIA_0</zType>
-    <en-US>&quot;Know thyself.&quot;</en-US>
-    <it-IT>&quot;Conosci te stesso&quot;.</it-IT>
+    <en-US>"Know thyself."</en-US>
+    <it-IT>"Conosci te stesso".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PAIDEIA_1</zType>
-    <en-US>&quot;Nothing in excess.&quot;</en-US>
-    <it-IT>&quot;Niente in eccesso&quot;.</it-IT>
+    <en-US>"Nothing in excess."</en-US>
+    <it-IT>"Niente in eccesso".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PAIDEIA_2</zType>
-    <en-US>&quot;The good is hard to do.&quot;</en-US>
-    <it-IT>&quot;Il bene è difficile da fare&quot;.</it-IT>
+    <en-US>"The good is hard to do."</en-US>
+    <it-IT>"Il bene è difficile da fare".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_AGOGE_0</zType>
@@ -4687,8 +4687,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONVERT_SELF_BEFORE_GOD_2</zType>
-    <en-US>&quot;We are all the same before {S2.GOD}.&quot;</en-US>
-    <it-IT>&quot;Siamo tutti uguali davanti a {S2.GOD}&quot;.</it-IT>
+    <en-US>"We are all the same before {S2.GOD}."</en-US>
+    <it-IT>"Siamo tutti uguali davanti a {S2.GOD}".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONVERT_SELF_FOOL_0</zType>
@@ -4862,8 +4862,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEATH_STALKS_1</zType>
-    <en-US>&quot;Guards, kill this {G2:madman:madwoman}!&quot;</en-US>
-    <it-IT>&quot;Guardie, uccidete questo {G2:madman:madwoman}!&quot;.</it-IT>
+    <en-US>"Guards, kill this {G2:madman:madwoman}!"</en-US>
+    <it-IT>"Guardie, uccidete questo {G2:madman:madwoman}!".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEATH_INVESTIGATED_0</zType>
@@ -6768,7 +6768,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_TRUCE_RESPONSE_MONKEY_OPTION_NO</zType>
     <en-US>“Creature”? That monkey is family!</en-US>
-    <it-IT>&quot;Creatura&quot;? Quella scimmia è una famiglia!</it-IT>
+    <it-IT>"Creatura"? Quella scimmia è una famiglia!</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_SURVIVORS_INVITE</zType>
@@ -7007,8 +7007,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_VULGAR_SPEECH_OPTION_2</zType>
-    <en-US>&quot;Vulgar&quot; language should be lost. Replace it with my royal sigil.</en-US>
-    <it-IT>Il linguaggio &quot;volgare&quot; dovrebbe essere eliminato. Sostituitelo con il mio sigillo reale.</it-IT>
+    <en-US>"Vulgar" language should be lost. Replace it with my royal sigil.</en-US>
+    <it-IT>Il linguaggio "volgare" dovrebbe essere eliminato. Sostituitelo con il mio sigillo reale.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_ANCIENT_BARBARIANS_OPTION_0</zType>
@@ -9102,18 +9102,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_CAPTURED_ROMAN_CITY_OPTION_1</zType>
-    <en-US>&quot;Roma delenda est.&quot; (&quot;Rome must be destroyed.&quot;)</en-US>
-    <it-IT>&quot;Roma delenda est.&quot; (&quot;Rome must be destroyed.&quot;)</it-IT>
+    <en-US>"Roma delenda est." ("Rome must be destroyed.")</en-US>
+    <it-IT>"Roma delenda est." ("Rome must be destroyed.")</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_CAPTURED_ROMAN_CITY_OPTION_0</zType>
-    <en-US>&quot;Oderint dum metuant!&quot; (&quot;You may hate us so long as you fear us.&quot;)</en-US>
-    <it-IT>&quot;Oderint dum metuant!&quot;. (&quot;You may hate us so long as you fear us.&quot;)</it-IT>
+    <en-US>"Oderint dum metuant!" ("You may hate us so long as you fear us.")</en-US>
+    <it-IT>"Oderint dum metuant!". ("You may hate us so long as you fear us.")</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_ROMANS_HAVE_TAKEN_OUR_CITY_OPTION_1</zType>
-    <en-US>&quot;{PLAYER-0} delenda est.&quot; (&quot;{PLAYER-0} must be destroyed.&quot;)</en-US>
-    <it-IT>&quot;{PLAYER-0} delenda est&quot;. (&quot;{PLAYER-0} deve essere distrutto&quot;).</it-IT>
+    <en-US>"{PLAYER-0} delenda est." ("{PLAYER-0} must be destroyed.")</en-US>
+    <it-IT>"{PLAYER-0} delenda est". ("{PLAYER-0} deve essere distrutto").</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_ROMANS_HAVE_TAKEN_OUR_CITY_OPTION_0</zType>
@@ -9207,8 +9207,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_PRIDEFUL_SUGGEST_BABYLON_OPTION_0</zType>
-    <en-US>&quot;We didn't want your Tribute anyway. It will be more fun to crush you in battle.&quot;</en-US>
-    <it-IT>&quot;Non volevamo comunque il tuo Tributo. Sarà più divertente schiacciarvi in battaglia&quot;.</it-IT>
+    <en-US>"We didn't want your Tribute anyway. It will be more fun to crush you in battle."</en-US>
+    <it-IT>"Non volevamo comunque il tuo Tributo. Sarà più divertente schiacciarvi in battaglia".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_PRIDEFUL_BRAG_BABYLON_OPTION_0</zType>
@@ -10588,7 +10588,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_FOOD_SCIENCE</zType>
     <en-US>How about Food for thought?</en-US>
-    <it-IT>Che ne dite di &quot;Food for thought&quot;?</it-IT>
+    <it-IT>Che ne dite di "Food for thought"?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_IRON_ORDERS</zType>
@@ -10867,18 +10867,18 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_OPTION_0</zType>
-    <en-US>&quot;Now is the time to write a Peace treaty to ensure our future co-operation.&quot;</en-US>
-    <it-IT>&quot;È il momento di scrivere un trattato di pace per garantire la nostra futura cooperazione&quot;.</it-IT>
+    <en-US>"Now is the time to write a Peace treaty to ensure our future co-operation."</en-US>
+    <it-IT>"È il momento di scrivere un trattato di pace per garantire la nostra futura cooperazione".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_OPTION_1</zType>
-    <en-US>&quot;If we share some of our knowledge with you, will that erase these complaints?&quot;</en-US>
-    <it-IT>&quot;Se condividiamo con voi alcune delle nostre conoscenze, questo cancellerà queste lamentele?&quot;.</it-IT>
+    <en-US>"If we share some of our knowledge with you, will that erase these complaints?"</en-US>
+    <it-IT>"Se condividiamo con voi alcune delle nostre conoscenze, questo cancellerà queste lamentele?".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_OPTION_2</zType>
-    <en-US>&quot;I am too busy planning the design of my next Library building to bother with you at the moment.&quot;</en-US>
-    <it-IT>&quot;Sono troppo impegnato a pianificare il progetto del mio prossimo edificio della Biblioteca per occuparmi di voi in questo momento&quot;.</it-IT>
+    <en-US>"I am too busy planning the design of my next Library building to bother with you at the moment."</en-US>
+    <it-IT>"Sono troppo impegnato a pianificare il progetto del mio prossimo edificio della Biblioteca per occuparmi di voi in questo momento".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_OPTION_2_HELP</zType>
@@ -12873,7 +12873,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_SUCCESSION_THEM_AGENT_WAR1</zType>
     <en-US>Have the agent 'disappear'.</en-US>
-    <it-IT>Fate in modo che l'agente &quot;scompaia&quot;.</it-IT>
+    <it-IT>Fate in modo che l'agente "scompaia".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUCCESSION_THEM_AGENT_WAR2</zType>
@@ -13302,8 +13302,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_BATTLEFIELD_BRILLIANCE_PEACE</zType>
-    <en-US>&quot;We make war that we may live in peace.&quot;</en-US>
-    <it-IT>&quot;Facciamo la guerra per vivere in pace&quot;.</it-IT>
+    <en-US>"We make war that we may live in peace."</en-US>
+    <it-IT>"Facciamo la guerra per vivere in pace".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_BATTLEFIELD_BRILLIANCE_AMUSE</zType>
@@ -16387,8 +16387,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPYMASTER_MASTER_OF_POISONS_OPTION_0</zType>
-    <en-US>Intrigue must remain &quot;honorable.&quot;</en-US>
-    <it-IT>L'intrigo deve rimanere &quot;onorevole&quot;.</it-IT>
+    <en-US>Intrigue must remain "honorable."</en-US>
+    <it-IT>L'intrigo deve rimanere "onorevole".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPYMASTER_MASTER_OF_POISONS_OPTION_1</zType>
@@ -16612,8 +16612,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_KINDRED_SPIRITS_OPTION_2</zType>
-    <en-US>Arrange to have this &quot;kindred spirit&quot; removed.</en-US>
-    <it-IT>Fate in modo che questo &quot;spirito affine&quot; venga allontanato.</it-IT>
+    <en-US>Arrange to have this "kindred spirit" removed.</en-US>
+    <it-IT>Fate in modo che questo "spirito affine" venga allontanato.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GRADUATE_TAKING_THE_MANTLE_OPTION_0</zType>
@@ -18147,8 +18147,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ROGUE_NATION_OPTION_2</zType>
-    <en-US>Pay local ruffians to rid us of this &quot;problem.&quot;</en-US>
-    <it-IT>Pagare i delinquenti locali per liberarci da questo &quot;problema&quot;.</it-IT>
+    <en-US>Pay local ruffians to rid us of this "problem."</en-US>
+    <it-IT>Pagare i delinquenti locali per liberarci da questo "problema".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNCHECKED_OPTION_0</zType>
@@ -19747,163 +19747,163 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_PREGNANT</zType>
-    <en-US>&quot;...met the love of my life and we will soon have a child.&quot;</en-US>
-    <it-IT>&quot;... ho incontrato l'amore della mia vita e presto avremo un figlio&quot;.</it-IT>
+    <en-US>"...met the love of my life and we will soon have a child."</en-US>
+    <it-IT>"... ho incontrato l'amore della mia vita e presto avremo un figlio".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_ROBUST</zType>
-    <en-US>&quot;...spent the year working on the docks.&quot;</en-US>
-    <it-IT>&quot;... ha trascorso l'anno lavorando al porto&quot;.</it-IT>
+    <en-US>"...spent the year working on the docks."</en-US>
+    <it-IT>"... ha trascorso l'anno lavorando al porto".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_WANTON</zType>
-    <en-US>&quot;...danced in the brothels of a foreign land.&quot;</en-US>
-    <it-IT>&quot;... ha ballato nei bordelli di una terra straniera&quot;.</it-IT>
+    <en-US>"...danced in the brothels of a foreign land."</en-US>
+    <it-IT>"... ha ballato nei bordelli di una terra straniera".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_GAY</zType>
-    <en-US>&quot;...found I have a taste for {G0:men:women}.&quot;</en-US>
-    <it-IT>&quot;... ho scoperto di avere un gusto per {G0:men:women}&quot;.</it-IT>
+    <en-US>"...found I have a taste for {G0:men:women}."</en-US>
+    <it-IT>"... ho scoperto di avere un gusto per {G0:men:women}".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_ARTIST</zType>
-    <en-US>&quot;...realized that art is my passion.&quot;</en-US>
-    <it-IT>&quot;... ho capito che l'arte è la mia passione&quot;.</it-IT>
+    <en-US>"...realized that art is my passion."</en-US>
+    <it-IT>"... ho capito che l'arte è la mia passione".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_CLERGY</zType>
-    <en-US>&quot;...took the vows of the ordained clergy.&quot;</en-US>
-    <it-IT>&quot;... ha preso i voti del clero ordinato&quot;.</it-IT>
+    <en-US>"...took the vows of the ordained clergy."</en-US>
+    <it-IT>"... ha preso i voti del clero ordinato".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_EQUESTRIAN</zType>
-    <en-US>&quot;...discovered great joy in riding.&quot;</en-US>
-    <it-IT>&quot;... ha scoperto una grande gioia nell'andare a cavallo&quot;.</it-IT>
+    <en-US>"...discovered great joy in riding."</en-US>
+    <it-IT>"... ha scoperto una grande gioia nell'andare a cavallo".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_PROPHET</zType>
-    <en-US>&quot;...have seen god face to face, and I now hear him.&quot;</en-US>
-    <it-IT>&quot;... ho visto Dio faccia a faccia e ora lo ascolto&quot;.</it-IT>
+    <en-US>"...have seen god face to face, and I now hear him."</en-US>
+    <it-IT>"... ho visto Dio faccia a faccia e ora lo ascolto".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_INTELLIGENT</zType>
-    <en-US>&quot;...devoted myself to knowledge and its wonders.&quot;</en-US>
-    <it-IT>&quot;... mi sono dedicato alla conoscenza e alle sue meraviglie&quot;.</it-IT>
+    <en-US>"...devoted myself to knowledge and its wonders."</en-US>
+    <it-IT>"... mi sono dedicato alla conoscenza e alle sue meraviglie".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_INSPIRING</zType>
-    <en-US>&quot;...found that men follow me when I lead them.&quot;</en-US>
-    <it-IT>&quot;... ho scoperto che gli uomini mi seguono quando li guido&quot;.</it-IT>
+    <en-US>"...found that men follow me when I lead them."</en-US>
+    <it-IT>"... ho scoperto che gli uomini mi seguono quando li guido".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_PROSPEROUS</zType>
-    <en-US>&quot;...have become something of a money maker.&quot;</en-US>
-    <it-IT>&quot;... sono diventati una specie di macchina da soldi&quot;.</it-IT>
+    <en-US>"...have become something of a money maker."</en-US>
+    <it-IT>"... sono diventati una specie di macchina da soldi".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_RIGHTEOUS</zType>
-    <en-US>&quot;...spent a year in chains as a slave.&quot;</en-US>
-    <it-IT>&quot;... ha trascorso un anno in catene come schiavo&quot;.</it-IT>
+    <en-US>"...spent a year in chains as a slave."</en-US>
+    <it-IT>"... ha trascorso un anno in catene come schiavo".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_CUNNING</zType>
-    <en-US>&quot;...traveled to the far east with a merchant caravan, selling silks.&quot;</en-US>
-    <it-IT>&quot;... viaggiò verso l'estremo oriente con una carovana di mercanti, vendendo sete&quot;.</it-IT>
+    <en-US>"...traveled to the far east with a merchant caravan, selling silks."</en-US>
+    <it-IT>"... viaggiò verso l'estremo oriente con una carovana di mercanti, vendendo sete".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_PATHFINDER</zType>
-    <en-US>&quot;...sailed the seas, earning my living from its denizens.&quot;</en-US>
-    <it-IT>&quot;...navigava per i mari, guadagnandomi da vivere con i suoi abitanti&quot;.</it-IT>
+    <en-US>"...sailed the seas, earning my living from its denizens."</en-US>
+    <it-IT>"...navigava per i mari, guadagnandomi da vivere con i suoi abitanti".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_CULTIVATOR</zType>
-    <en-US>&quot;...worked as a laborer on a small farm.&quot;</en-US>
-    <it-IT>&quot;... lavorava come operaio in una piccola fattoria&quot;.</it-IT>
+    <en-US>"...worked as a laborer on a small farm."</en-US>
+    <it-IT>"... lavorava come operaio in una piccola fattoria".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_NATURALIST</zType>
-    <en-US>&quot;...cared for the forests and wilderness.&quot;</en-US>
-    <it-IT>&quot;... si prendeva cura delle foreste e della natura selvaggia&quot;.</it-IT>
+    <en-US>"...cared for the forests and wilderness."</en-US>
+    <it-IT>"... si prendeva cura delle foreste e della natura selvaggia".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_DELVER</zType>
-    <en-US>&quot;...worked underground for a year.&quot;</en-US>
-    <it-IT>&quot;... ha lavorato sottoterra per un anno&quot;.</it-IT>
+    <en-US>"...worked underground for a year."</en-US>
+    <it-IT>"... ha lavorato sottoterra per un anno".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_TRACKER</zType>
-    <en-US>&quot;...tracked and poached game, surviving in the forests.&quot;</en-US>
-    <it-IT>&quot;... inseguivano e braccavano la selvaggina, sopravvivendo nelle foreste&quot;.</it-IT>
+    <en-US>"...tracked and poached game, surviving in the forests."</en-US>
+    <it-IT>"... inseguivano e braccavano la selvaggina, sopravvivendo nelle foreste".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_TOUGH</zType>
-    <en-US>&quot;...fought in the army and learned a few things.&quot;</en-US>
-    <it-IT>&quot;... ha combattuto nell'esercito e ha imparato alcune cose&quot;.</it-IT>
+    <en-US>"...fought in the army and learned a few things."</en-US>
+    <it-IT>"... ha combattuto nell'esercito e ha imparato alcune cose".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_FIERCE</zType>
-    <en-US>&quot;...fell in with a band of bandits for a time.&quot;</en-US>
-    <it-IT>&quot;... si è unito a una banda di briganti per un certo periodo&quot;.</it-IT>
+    <en-US>"...fell in with a band of bandits for a time."</en-US>
+    <it-IT>"... si è unito a una banda di briganti per un certo periodo".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_BLOODTHIRSTY</zType>
-    <en-US>&quot;...acquired a taste for blood while working as an assassin.&quot;</en-US>
-    <it-IT>&quot;... ha acquisito il gusto per il sangue mentre lavorava come assassino&quot;.</it-IT>
+    <en-US>"...acquired a taste for blood while working as an assassin."</en-US>
+    <it-IT>"... ha acquisito il gusto per il sangue mentre lavorava come assassino".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_RANGER</zType>
-    <en-US>&quot;...spent the summers in the forests - free as can be.&quot;</en-US>
-    <it-IT>&quot;... trascorreva le estati nelle foreste, libero di essere&quot;.</it-IT>
+    <en-US>"...spent the summers in the forests - free as can be."</en-US>
+    <it-IT>"... trascorreva le estati nelle foreste, libero di essere".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_BOLD</zType>
-    <en-US>&quot;...learned you can't rely on fate to survive.&quot;</en-US>
-    <it-IT>&quot;... ha imparato che non ci si può affidare al destino per sopravvivere&quot;.</it-IT>
+    <en-US>"...learned you can't rely on fate to survive."</en-US>
+    <it-IT>"... ha imparato che non ci si può affidare al destino per sopravvivere".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_ROMANTIC</zType>
-    <en-US>&quot;...fell in with a band of traveling poets and musicians.&quot;</en-US>
-    <it-IT>&quot;... è entrato a far parte di un gruppo di poeti e musicisti itineranti&quot;.</it-IT>
+    <en-US>"...fell in with a band of traveling poets and musicians."</en-US>
+    <it-IT>"... è entrato a far parte di un gruppo di poeti e musicisti itineranti".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_RUTHLESS</zType>
-    <en-US>&quot;...worked as a spy among a tribe.&quot;</en-US>
-    <it-IT>&quot;... lavorava come spia presso una tribù&quot;.</it-IT>
+    <en-US>"...worked as a spy among a tribe."</en-US>
+    <it-IT>"... lavorava come spia presso una tribù".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_BRAVE</zType>
-    <en-US>&quot;...fought as a gladiator in the pits.&quot;</en-US>
-    <it-IT>&quot;... ha combattuto come gladiatore nelle fosse&quot;.</it-IT>
+    <en-US>"...fought as a gladiator in the pits."</en-US>
+    <it-IT>"... ha combattuto come gladiatore nelle fosse".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_COMPASSIONATE</zType>
-    <en-US>&quot;...cared for the sick and wounded at the shrines.&quot;</en-US>
-    <it-IT>&quot;... si prendeva cura dei malati e dei feriti nei santuari&quot;.</it-IT>
+    <en-US>"...cared for the sick and wounded at the shrines."</en-US>
+    <it-IT>"... si prendeva cura dei malati e dei feriti nei santuari".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_HUMBLE</zType>
-    <en-US>&quot;...am just glad to be home.&quot;</en-US>
-    <it-IT>&quot;... sono solo felice di essere a casa&quot;.</it-IT>
+    <en-US>"...am just glad to be home."</en-US>
+    <it-IT>"... sono solo felice di essere a casa".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_DOG_OWNER</zType>
-    <en-US>&quot;...met a cheerful little drooling monster who saved my life.&quot;</en-US>
-    <it-IT>&quot;... ho incontrato un allegro mostriciattolo bavoso che mi ha salvato la vita&quot;.</it-IT>
+    <en-US>"...met a cheerful little drooling monster who saved my life."</en-US>
+    <it-IT>"... ho incontrato un allegro mostriciattolo bavoso che mi ha salvato la vita".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_PET_MONKEY</zType>
-    <en-US>&quot;...met a little troublemaker after he stole something from me.&quot;</en-US>
-    <it-IT>&quot;... ho incontrato un piccolo piantagrane dopo che mi aveva rubato qualcosa&quot;.</it-IT>
+    <en-US>"...met a little troublemaker after he stole something from me."</en-US>
+    <it-IT>"... ho incontrato un piccolo piantagrane dopo che mi aveva rubato qualcosa".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_HERBALIST</zType>
-    <en-US>&quot;...learned pharmacopoeia from a well known sage.&quot;</en-US>
-    <it-IT>&quot;...apprese la farmacopea da un noto saggio&quot;.</it-IT>
+    <en-US>"...learned pharmacopoeia from a well known sage."</en-US>
+    <it-IT>"...apprese la farmacopea da un noto saggio".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_MINISTER</zType>
-    <en-US>&quot;...met a brilliant {G1:fellow:woman} who I convinced to join our court.&quot;</en-US>
-    <it-IT>&quot;... ho incontrato un brillante {G1:fellow:woman} che ho convinto a unirsi alla nostra corte&quot;.</it-IT>
+    <en-US>"...met a brilliant {G1:fellow:woman} who I convinced to join our court."</en-US>
+    <it-IT>"... ho incontrato un brillante {G1:fellow:woman} che ho convinto a unirsi alla nostra corte".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_CLUB_STRUGGLE</zType>
@@ -22182,8 +22182,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AGENT_RECOGNIZED_0</zType>
-    <en-US>&quot;Ah, this is my old family friend. We've not seen each other in years!&quot;</en-US>
-    <it-IT>&quot;Ah, questo è il mio vecchio amico di famiglia. Non ci vediamo da anni!&quot;.</it-IT>
+    <en-US>"Ah, this is my old family friend. We've not seen each other in years!"</en-US>
+    <it-IT>"Ah, questo è il mio vecchio amico di famiglia. Non ci vediamo da anni!".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AGENT_RECOGNIZED_0_HELP</zType>
@@ -27147,8 +27147,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_LITERATE_THE_LITERATE</zType>
-    <en-US>Adopt his &quot;alphabet,&quot; and employ him in court.</en-US>
-    <it-IT>Adottate il suo &quot;alfabeto&quot; e impiegatelo in tribunale.</it-IT>
+    <en-US>Adopt his "alphabet," and employ him in court.</en-US>
+    <it-IT>Adottate il suo "alfabeto" e impiegatelo in tribunale.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_LITERATE_PROPAGANDA</zType>
@@ -28762,8 +28762,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STRANGER_AT_THE_DOOR_OPTION_1</zType>
-    <en-US>&quot;Remove&quot; {CHARACTER-SHORT-2} and replace {G2:him:her} with {CHARACTER-SHORT-1}.</en-US>
-    <it-IT>&quot;Rimuovere&quot; {CHARACTER-SHORT-2} e sostituire {G2:him:her} con {CHARACTER-SHORT-1}.</it-IT>
+    <en-US>"Remove" {CHARACTER-SHORT-2} and replace {G2:him:her} with {CHARACTER-SHORT-1}.</en-US>
+    <it-IT>"Rimuovere" {CHARACTER-SHORT-2} e sostituire {G2:him:her} con {CHARACTER-SHORT-1}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STRANGER_AT_THE_DOOR_OPTION_2</zType>
@@ -29362,8 +29362,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MONKEY_SCOURGE_OF_NATION_OPTION_0</zType>
-    <en-US>Apologize, and find that monkey and &quot;retire&quot; him.</en-US>
-    <it-IT>Chiedere scusa, trovare quella scimmia e &quot;metterla in pensione&quot;.</it-IT>
+    <en-US>Apologize, and find that monkey and "retire" him.</en-US>
+    <it-IT>Chiedere scusa, trovare quella scimmia e "metterla in pensione".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MONKEY_SCOURGE_OF_NATION_OPTION_1</zType>
@@ -32487,13 +32487,13 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NAIVE_AMBASSADOR_CHASTIZE</zType>
-    <en-US>&quot;I cannot have an idiot on the council.&quot;</en-US>
-    <it-IT>&quot;Non posso avere un idiota in consiglio&quot;.</it-IT>
+    <en-US>"I cannot have an idiot on the council."</en-US>
+    <it-IT>"Non posso avere un idiota in consiglio".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NAIVE_AMBASSADOR_EXILE</zType>
-    <en-US>Give {CHARACTER-0} some &quot;gifts&quot; and send {G0:him:her} off to {PLAYER-1}.</en-US>
-    <it-IT>Dare a {CHARACTER-0} alcuni &quot;regali&quot; e inviare {G0:him:her} a {PLAYER-1}.</it-IT>
+    <en-US>Give {CHARACTER-0} some "gifts" and send {G0:him:her} off to {PLAYER-1}.</en-US>
+    <it-IT>Dare a {CHARACTER-0} alcuni "regali" e inviare {G0:him:her} a {PLAYER-1}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUTHLESS_SLAUGHTER_TRUCE</zType>
@@ -32757,8 +32757,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HAREM_CONSPIRACY_RESIST</zType>
-    <en-US>I will buy time to &quot;consider&quot; this while I order guards to imprison the plotters.</en-US>
-    <it-IT>Prenderò tempo per &quot;riflettere&quot; su questo mentre ordinerò alle guardie di imprigionare i complottisti.</it-IT>
+    <en-US>I will buy time to "consider" this while I order guards to imprison the plotters.</en-US>
+    <it-IT>Prenderò tempo per "riflettere" su questo mentre ordinerò alle guardie di imprigionare i complottisti.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HAREM_CONSPIRACY_CRUSHED_IMPRISON</zType>
@@ -33012,8 +33012,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_RELIGIOUS_CARVINGS_OPTION_3</zType>
-    <en-US>&quot;Carved art&quot; sounds like &quot;free stone&quot; to me.</en-US>
-    <it-IT>&quot;Arte scolpita&quot; mi sembra una &quot;pietra libera&quot;.</it-IT>
+    <en-US>"Carved art" sounds like "free stone" to me.</en-US>
+    <it-IT>"Arte scolpita" mi sembra una "pietra libera".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HARVEST_DELICIOUS_WINE_OPTION_0</zType>
@@ -33247,8 +33247,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGIOUS_PILGRIMS_WAR_BRAWLS_KILL</zType>
-    <en-US>Kill all those &quot;pilgrims&quot; and take whatever they had on them.</en-US>
-    <it-IT>Uccidere tutti quei &quot;pellegrini&quot; e prendere tutto ciò che avevano addosso.</it-IT>
+    <en-US>Kill all those "pilgrims" and take whatever they had on them.</en-US>
+    <it-IT>Uccidere tutti quei "pellegrini" e prendere tutto ciò che avevano addosso.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGIOUS_PILGRIMS_WAR_HAPPY_DISMISS</zType>
@@ -34648,12 +34648,12 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_PYTHIA_SPEAKS_0_HARBOR</zType>
     <en-US>We must build a fleet of ships as our 'wooden walls'.</en-US>
-    <it-IT>Dobbiamo costruire una flotta di navi come nostri &quot;muri di legno&quot;.</it-IT>
+    <it-IT>Dobbiamo costruire una flotta di navi come nostri "muri di legno".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_PYTHIA_SPEAKS_0_SIEGE</zType>
     <en-US>Siege engines will be a 'wooden wall' to drive off our enemies.</en-US>
-    <it-IT>I motori d'assedio saranno un &quot;muro di legno&quot; per allontanare i nostri nemici.</it-IT>
+    <it-IT>I motori d'assedio saranno un "muro di legno" per allontanare i nostri nemici.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_PYTHIA_SPEAKS_0_WOOD</zType>
@@ -35107,23 +35107,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_FAVORS_LEGENDARY</zType>
-    <en-US>&quot;I would see our nation's cities become beyond all compare.&quot;</en-US>
-    <it-IT>&quot;Vorrei che le città della nostra nazione diventassero al di là di ogni paragone&quot;.</it-IT>
+    <en-US>"I would see our nation's cities become beyond all compare."</en-US>
+    <it-IT>"Vorrei che le città della nostra nazione diventassero al di là di ogni paragone".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_FAVORS_FESTIVALS</zType>
-    <en-US>&quot;All I ask is a series of festivals that we could sponsor to improve the family name.&quot;</en-US>
-    <it-IT>&quot;Tutto ciò che chiedo è una serie di festival che potremmo sponsorizzare per migliorare il nome della famiglia&quot;.</it-IT>
+    <en-US>"All I ask is a series of festivals that we could sponsor to improve the family name."</en-US>
+    <it-IT>"Tutto ciò che chiedo è una serie di festival che potremmo sponsorizzare per migliorare il nome della famiglia".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_FAVORS_LUXURIES</zType>
-    <en-US>&quot;There are so many luxuries in {PLAYER-0}, perhaps some of them could go to the nobility?&quot;</en-US>
-    <it-IT>&quot;Ci sono così tanti lussi in {PLAYER-0}, forse alcuni di essi potrebbero andare alla nobiltà?&quot;.</it-IT>
+    <en-US>"There are so many luxuries in {PLAYER-0}, perhaps some of them could go to the nobility?"</en-US>
+    <it-IT>"Ci sono così tanti lussi in {PLAYER-0}, forse alcuni di essi potrebbero andare alla nobiltà?".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_FAVORS_IMPROVEMENTS</zType>
-    <en-US>&quot;All I ask is for the basic pleasures: baths, entertainment and places to spend our money.&quot;</en-US>
-    <it-IT>&quot;Chiedo solo i piaceri di base: bagni, divertimenti e luoghi dove spendere i nostri soldi&quot;.</it-IT>
+    <en-US>"All I ask is for the basic pleasures: baths, entertainment and places to spend our money."</en-US>
+    <it-IT>"Chiedo solo i piaceri di base: bagni, divertimenti e luoghi dove spendere i nostri soldi".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PATH_OF_THE_HEIR_NETS</zType>
@@ -35663,32 +35663,32 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_AMBITION_ORATOR_1_NO</zType>
     <en-US>“…thank you all!”</en-US>
-    <it-IT>&quot;... Grazie a tutti!&quot;.</it-IT>
+    <it-IT>"... Grazie a tutti!".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AMBITION_ORATOR_1_SPECIALISTS</zType>
     <en-US>“…only the best!”</en-US>
-    <it-IT>&quot;...solo il meglio!&quot;</it-IT>
+    <it-IT>"...solo il meglio!"</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AMBITION_ORATOR_1_TECHS</zType>
     <en-US>“…to a new future!”</en-US>
-    <it-IT>&quot;... a un nuovo futuro!&quot;.</it-IT>
+    <it-IT>"... a un nuovo futuro!".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AMBITION_ORATOR_1_CATHEDRALS</zType>
     <en-US>“…to the very heavens!”</en-US>
-    <it-IT>&quot;... fino al cielo!&quot;.</it-IT>
+    <it-IT>"... fino al cielo!".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AMBITION_ORATOR_1_BATHS_3</zType>
     <en-US>“…a place for all people!”</en-US>
-    <it-IT>&quot;... un posto per tutti!&quot;.</it-IT>
+    <it-IT>"... un posto per tutti!".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AMBITION_ORATOR_1_BATHS_1</zType>
     <en-US>“…a place for all people!”</en-US>
-    <it-IT>&quot;... un posto per tutti!&quot;.</it-IT>
+    <it-IT>"... un posto per tutti!".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AMBITION_SCHEMER_2_NO</zType>
@@ -35888,17 +35888,17 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_OUR_PEOPLE_KILLS</zType>
     <en-US>“We will bring war and destruction to {PLAYER-3} for what they have done.”</en-US>
-    <it-IT>&quot;Porteremo guerra e distruzione a {PLAYER-3} per quello che hanno fatto&quot;.</it-IT>
+    <it-IT>"Porteremo guerra e distruzione a {PLAYER-3} per quello che hanno fatto".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_OUR_PEOPLE_LUXURIES</zType>
     <en-US>“We will send gifts to your people to trade for supplies.”</en-US>
-    <it-IT>&quot;Invieremo doni al vostro popolo per scambiarli con i rifornimenti&quot;.</it-IT>
+    <it-IT>"Invieremo doni al vostro popolo per scambiarli con i rifornimenti".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_OUR_PEOPLE_NO</zType>
     <en-US>“I am sorry, {PLAYER-1} can not help you.”</en-US>
-    <it-IT>&quot;Mi dispiace, {PLAYER-1} non può aiutarla&quot;.</it-IT>
+    <it-IT>"Mi dispiace, {PLAYER-1} non può aiutarla".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EBB_AND_FLOW_SHIPS</zType>
@@ -36158,7 +36158,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_OATH_OF_SUPPORT_WAR_YES</zType>
     <en-US>“Very well, I will swear this oath.”</en-US>
-    <it-IT>&quot;Molto bene, presterò questo giuramento&quot;.</it-IT>
+    <it-IT>"Molto bene, presterò questo giuramento".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_OATH_OF_SUPPORT_WAR_NO</zType>
@@ -36168,7 +36168,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_OATH_OF_SUPPORT_MARRIAGE_YES</zType>
     <en-US>“Very well, I will swear this oath.”</en-US>
-    <it-IT>&quot;Molto bene, presterò questo giuramento&quot;.</it-IT>
+    <it-IT>"Molto bene, presterò questo giuramento".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_OATH_OF_SUPPORT_MARRIAGE_NO</zType>
@@ -36238,17 +36238,17 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_DRUNKEN_AMBITION_NO</zType>
     <en-US>“Why would you listen to me when I’m drinking!?”</en-US>
-    <it-IT>&quot;Perché dovresti ascoltarmi quando bevo!&quot;.</it-IT>
+    <it-IT>"Perché dovresti ascoltarmi quando bevo!".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DRUNKEN_AMBITION_OPTION_0</zType>
     <en-US>“Of course, why would you doubt it?”</en-US>
-    <it-IT>&quot;Certo, perché dubitarne?&quot;.</it-IT>
+    <it-IT>"Certo, perché dubitarne?".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DRUNKEN_AMBITION_OPTION_1</zType>
     <en-US>“Well yes, we can do that…”</en-US>
-    <it-IT>&quot;Beh sì, possiamo farlo...&quot;.</it-IT>
+    <it-IT>"Beh sì, possiamo farlo...".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DRUNKEN_AMBITION_OPTION_1_HELP</zType>
@@ -38037,8 +38037,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SECURING_PEACE_RETURNING_EMISSARY_MISUNDERSTANDING_WAR</zType>
-    <en-US>...&quot;misunderstand&quot; their swords through our hearts.</en-US>
-    <it-IT>... &quot;fraintendere&quot; le loro spade attraverso i nostri cuori.</it-IT>
+    <en-US>..."misunderstand" their swords through our hearts.</en-US>
+    <it-IT>... "fraintendere" le loro spade attraverso i nostri cuori.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SECURING_PEACE_RETURNING_EMISSARY_MISUNDERSTANDING_WAR_HELP</zType>
@@ -40008,7 +40008,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_PERFUME_MERCHANT_1</zType>
     <en-US>We should not only acquire this 'Perfume,' but also add {CHARACTER-1} to our Court.</en-US>
-    <it-IT>Non dobbiamo solo acquisire questo &quot;Profumo&quot;, ma anche aggiungere {CHARACTER-1} alla nostra Corte.</it-IT>
+    <it-IT>Non dobbiamo solo acquisire questo "Profumo", ma anche aggiungere {CHARACTER-1} alla nostra Corte.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_PERFUME_MERCHANT_2</zType>
@@ -40257,8 +40257,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_0_OPTION_0</zType>
-    <en-US>&quot;Beauteous and lovely youth.&quot;</en-US>
-    <it-IT>&quot;Gioventù bella e adorabile&quot;.</it-IT>
+    <en-US>"Beauteous and lovely youth."</en-US>
+    <it-IT>"Gioventù bella e adorabile".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_0_OPTION_1</zType>
@@ -40492,8 +40492,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_CRISIS_ACCIDENT</zType>
-    <en-US>Arrange for my wife to have an &quot;accident.&quot;</en-US>
-    <it-IT>Organizzare un &quot;incidente&quot; per mia moglie.</it-IT>
+    <en-US>Arrange for my wife to have an "accident."</en-US>
+    <it-IT>Organizzare un "incidente" per mia moglie.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_CRISIS_DIVORCE</zType>
@@ -41927,8 +41927,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_PROBLEM_CHILD_OPTION_1</zType>
-    <en-US>Send {G1:him:her} to {PLAYER-2} as a permanent &quot;ambassador.&quot;</en-US>
-    <it-IT>Inviare {G1:him:her} a {PLAYER-2} come &quot;ambasciatore&quot; permanente.</it-IT>
+    <en-US>Send {G1:him:her} to {PLAYER-2} as a permanent "ambassador."</en-US>
+    <it-IT>Inviare {G1:him:her} a {PLAYER-2} come "ambasciatore" permanente.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_PROBLEM_CHILD_OPTION_2</zType>
@@ -42937,8 +42937,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_MERCHANT_TOWN_OPTION_0</zType>
-    <en-US>Give {CITY-2} the &quot;merchant town&quot; distinction.</en-US>
-    <it-IT>Attribuire a {CITY-2} la distinzione di &quot;città mercantile&quot;.</it-IT>
+    <en-US>Give {CITY-2} the "merchant town" distinction.</en-US>
+    <it-IT>Attribuire a {CITY-2} la distinzione di "città mercantile".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_MERCHANT_TOWN_OPTION_1</zType>
@@ -43012,8 +43012,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_TABOOS_OPTION_2</zType>
-    <en-US>{CHARACTER-2} will supply {G0:him:her} with the... &quot;subjects&quot; required.</en-US>
-    <it-IT>{CHARACTER-2} fornirà a {G0:him:her} le... &quot;soggetti&quot; richiesti.</it-IT>
+    <en-US>{CHARACTER-2} will supply {G0:him:her} with the... "subjects" required.</en-US>
+    <it-IT>{CHARACTER-2} fornirà a {G0:him:her} le... "soggetti" richiesti.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_THE_MECHANISM_OPTION_0</zType>
@@ -43477,8 +43477,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_SYCOPHANT_OPTION_1</zType>
-    <en-US>Have our Spymaster plan an &quot;accident&quot; for {CHARACTER-SHORT-0}.</en-US>
-    <it-IT>Chiedete al nostro Spymaster di pianificare un &quot;incidente&quot; per {CHARACTER-SHORT-0}.</it-IT>
+    <en-US>Have our Spymaster plan an "accident" for {CHARACTER-SHORT-0}.</en-US>
+    <it-IT>Chiedete al nostro Spymaster di pianificare un "incidente" per {CHARACTER-SHORT-0}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_SYCOPHANT_OPTION_2</zType>

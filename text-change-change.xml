@@ -8,10 +8,10 @@
   <Entry>
     <zType>TEXT_EVENTSTORY_CAMELS_AND_PAWS</zType>
     <en-US>In the middle of the day, your dog comes barreling through the court, caterwauling and whimpering as it runs between courtiers and skids on the stone floors. Gasps of exclamation fill the air as your dog charges across the room, leaps into your lap and spins around before dropping into your lap and licking your face affectionately.
-A harried servant rushes into the court. &quot;My apologies, my {TITLE-0}. The dog startled several camels. {CHARACTER-1} was thrown from {G1:his:her} camel and chased the dog across the courtyard.&quot; The servant bows again, distress plain upon their face.
+A harried servant rushes into the court. "My apologies, my {TITLE-0}. The dog startled several camels. {CHARACTER-1} was thrown from {G1:his:her} camel and chased the dog across the courtyard." The servant bows again, distress plain upon their face.
 How shall we handle this matter?</en-US>
     <it-IT>Nel bel mezzo della giornata, il vostro cane arriva a tutta velocità nella corte, emettendo suoni e mugolii mentre corre tra i cortigiani e sbanda sul pavimento di pietra. L'aria si riempie di esclamazioni quando il cane attraversa la stanza, vi salta in grembo e vi gira intorno prima di cadervi in braccio e leccarvi affettuosamente il viso.
-Un servitore affannato si precipita nella corte. &quot;Le mie scuse, mio {TITLE-0}. Il cane ha spaventato diversi cammelli. {CHARACTER-1} è stato sbalzato da {G1:his:her} cammello e ha inseguito il cane per tutto il cortile&quot;. Il servitore si inchina di nuovo, l'angoscia è evidente sul suo volto.
+Un servitore affannato si precipita nella corte. "Le mie scuse, mio {TITLE-0}. Il cane ha spaventato diversi cammelli. {CHARACTER-1} è stato sbalzato da {G1:his:her} cammello e ha inseguito il cane per tutto il cortile". Il servitore si inchina di nuovo, l'angoscia è evidente sul suo volto.
 Come dobbiamo gestire la questione?</it-IT>
   </Entry>
   <Entry>
@@ -28,16 +28,16 @@ Alla fine, si può ricercare la link(TECH_FORESTRY) per consentire la costruzion
   <Entry>
     <zType>TEXT_EVENTSTORY_INFLUENCE_OF_MONEY</zType>
     <en-US>{CHARACTER-1} asks to speak with you privately, gesturing to a secluded hallway. Servants and courtiers carry on about their business in the wide halls.
-&quot;Your majesty has taken an interest in me,&quot; {CHARACTER-1} says and smiles with practiced ease. &quot;But I do not wish to flatter myself. Instead, I would like to propose a deal where I gain your financial support in return for my political support.&quot;</en-US>
+"Your majesty has taken an interest in me," {CHARACTER-1} says and smiles with practiced ease. "But I do not wish to flatter myself. Instead, I would like to propose a deal where I gain your financial support in return for my political support."</en-US>
     <it-IT>{CHARACTER-1} chiede di parlare con voi in privato, indicando un corridoio appartato. I servitori e i cortigiani continuano a fare i loro affari nelle ampie sale.
-&quot;Vostra Maestà si è interessata a me&quot;, dice {CHARACTER-1} e sorride con disinvoltura. &quot;Ma non voglio adularmi. Vorrei invece proporvi un accordo per ottenere il vostro sostegno finanziario in cambio del mio appoggio politico&quot;.</it-IT>
+"Vostra Maestà si è interessata a me", dice {CHARACTER-1} e sorride con disinvoltura. "Ma non voglio adularmi. Vorrei invece proporvi un accordo per ottenere il vostro sostegno finanziario in cambio del mio appoggio politico".</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_FINAL_FAVOR_PLAYER</zType>
     <en-US>At the funeral of {CHARACTER-0}, you are approached by the new {TITLE-1} {CHARACTER-SHORT-1} with tears in {G1:his:her} eyes and steel in {G1:his:her} posture.
-&quot;I shall not beat around the bush. {CHARACTER-SHORT-0} told me that {G0:he:she} owed you a debt. I would see that debt repaid. Will you accept?&quot;</en-US>
+"I shall not beat around the bush. {CHARACTER-SHORT-0} told me that {G0:he:she} owed you a debt. I would see that debt repaid. Will you accept?"</en-US>
     <it-IT>Al funerale di {CHARACTER-0}, vi si avvicina il nuovo {TITLE-1} {CHARACTER-SHORT-1} con le lacrime agli occhi e la postura d'acciaio di {G1:his:her}.
-&quot;Non voglio menare il can per l'aia. {CHARACTER-SHORT-0} mi ha detto che {G0:he:she} ha un debito con te. Vorrei che quel debito fosse ripagato. Accetterai?&quot;</it-IT>
+"Non voglio menare il can per l'aia. {CHARACTER-SHORT-0} mi ha detto che {G0:he:she} ha un debito con te. Vorrei che quel debito fosse ripagato. Accetterai?"</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_ANTICHRIST</zType>
@@ -63,9 +63,9 @@ Fortunatamente l'informatore è stato ucciso e {CHARACTER-SHORT-0} ha tenuto il 
   <Entry>
     <zType>TEXT_EVENTSTORY_PROPHET_IN_CHAINS</zType>
     <en-US>When your men stormed {CITY-4}, they found {CHARACTER-SHORT-2} at the bottom of a dry well in the city dungeons. They have brought this so called prophet to you.
-Weeping, {CHARACTER-SHORT-2} kneels before you. &quot;Thus said Jehovah, {CHARACTER-SHORT-1} shall come against {CITY-4}, and seize it with fire. O {CHARACTER-SHORT-1}, these prophecies have come to pass by your hand, and the will of Jehovah, the God of {RELIGION-0}.</en-US>
+Weeping, {CHARACTER-SHORT-2} kneels before you. "Thus said Jehovah, {CHARACTER-SHORT-1} shall come against {CITY-4}, and seize it with fire. O {CHARACTER-SHORT-1}, these prophecies have come to pass by your hand, and the will of Jehovah, the God of {RELIGION-0}.</en-US>
     <it-IT>Quando i tuoi uomini hanno preso d'assalto {CITY-4}, hanno trovato {CHARACTER-SHORT-2} in fondo a un pozzo secco nelle prigioni della città. Hanno portato da te questo cosiddetto profeta.
-Piangendo, {CHARACTER-SHORT-2} si inginocchia davanti a te. &quot;Così ha detto Geova: {CHARACTER-SHORT-1} verrà contro {CITY-4} e la catturerà con il fuoco. O {CHARACTER-SHORT-1}, queste profezie sono avvenute per mano tua e per volontà di Geova, il Dio di {RELIGION-0}.</it-IT>
+Piangendo, {CHARACTER-SHORT-2} si inginocchia davanti a te. "Così ha detto Geova: {CHARACTER-SHORT-1} verrà contro {CITY-4} e la catturerà con il fuoco. O {CHARACTER-SHORT-1}, queste profezie sono avvenute per mano tua e per volontà di Geova, il Dio di {RELIGION-0}.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_CHANCELLOR_RELIGION_HEAD_FAMILY_GIFT_MISSION</zType>
@@ -148,19 +148,19 @@ Guadagna {0_amount} contro le Unità a distanza per {1_turnScale}, fino a {2_max
   <Entry>
     <zType>TEXT_EVENTSTORY_RIGHTFUL_HEIR</zType>
     <en-US>In the morning light, {CHARACTER-1} sweeps into the court. Your courtiers gasp and gesture meaningfully among themselves. The distraught young leader who left the throne to {G1:his:her} regent has matured into {G1:an imposing man:a majestic woman}.
-&quot;I thank you for your fine efforts on my behalf,&quot; {CHARACTER-SHORT-1} says to you and the court. &quot;But the time has come for me to retake my rightful inheritance - the throne you now sit upon.&quot;
+"I thank you for your fine efforts on my behalf," {CHARACTER-SHORT-1} says to you and the court. "But the time has come for me to retake my rightful inheritance - the throne you now sit upon."
 How shall you respond?</en-US>
     <it-IT>Nella luce del mattino, {CHARACTER-1} entra nella corte. I vostri cortigiani sussultano e gesticolano significativamente tra loro. Il giovane leader sconvolto che ha lasciato il trono al reggente {G1:his:her} è maturato in {G1:an imposing man:a majestic woman}.
-&quot;Vi ringrazio per i vostri sforzi in mio favore&quot;, dice {CHARACTER-SHORT-1} a voi e alla corte. &quot;Ma è giunto il momento che io riprenda la mia legittima eredità: il trono su cui ora siedi&quot;.
+"Vi ringrazio per i vostri sforzi in mio favore", dice {CHARACTER-SHORT-1} a voi e alla corte. "Ma è giunto il momento che io riprenda la mia legittima eredità: il trono su cui ora siedi".
 Come dovrete rispondere?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_RIGHTFUL_HEIR_REGENT_DEAD</zType>
     <en-US>{CHARACTER-2} is dead and you have been named {TITLE-3}. However, things are not so clear cut. Your courtiers gasp and gesture meaningfully among themselves as {CHARACTER-1} sweeps into the hall, {p.is_sub.S1=SUBJECT_ADULT:no longer the sniffling child who gave up the throne:still a child, but with the gravitas and demeanor of one much older}.
-{CHARACTER-1} looks you in the eye and speaks with a clear voice so that all may hear, &quot;{CHARACTER-SHORT-3}, you know that the throne is rightfully mine. Step aside so that I might take the crown that I was born to.&quot;
+{CHARACTER-1} looks you in the eye and speaks with a clear voice so that all may hear, "{CHARACTER-SHORT-3}, you know that the throne is rightfully mine. Step aside so that I might take the crown that I was born to."
 		</en-US>
     <it-IT>{CHARACTER-2} è morto e tu sei stato nominato {TITLE-3}. Tuttavia, le cose non sono così chiare. I vostri cortigiani sussultano e gesticolano tra loro in modo significativo quando {CHARACTER-1} entra nella sala, {p.is_sub.S1=SUBJECT_ADULT:no longer the sniffling child who gave up the throne:still a child, but with the gravitas and demeanor of one much older}.
-{CHARACTER-1} vi guarda negli occhi e parla con voce chiara in modo che tutti possano sentire: &quot;{CHARACTER-SHORT-3}, sapete che il trono è mio di diritto. Fatti da parte perché io possa prendere la corona per cui sono nato&quot;.
+{CHARACTER-1} vi guarda negli occhi e parla con voce chiara in modo che tutti possano sentire: "{CHARACTER-SHORT-3}, sapete che il trono è mio di diritto. Fatti da parte perché io possa prendere la corona per cui sono nato".
 </it-IT>
   </Entry>
   <Entry>
@@ -281,7 +281,7 @@ C'è così tanto da realizzare e ci sono ancora voci che dicono che {CHARACTER-1
   <Entry>
     <zType>TEXT_SCENARIO_BARBARIAN_DESC</zType>
     <en-US>Fight to survive as the only civilized Nation in a world filled with envious and distrustful Tribes.
-SETUP (click &quot;Show Options&quot; above)
+SETUP (click "Show Options" above)
 icon(bullet) Choose your Nation and Map.
 icon(bullet) Choose Tribal Organization and Uprising Time.
 icon(bullet) Higher game difficulty and tribal aggression levels increase the size of the Horde.
@@ -302,7 +302,7 @@ icon(bullet) Some family bonuses have been adjusted:
 VICTORY
 icon(bullet) To win, eliminate the Barbarian Horde.</en-US>
     <it-IT>Lotta per sopravvivere come unica nazione civilizzata in un mondo pieno di tribù invidiose e diffidenti.
-SETUP (click &quot;Show Options&quot; above)
+SETUP (click "Show Options" above)
 icon(bullet) Scegliere la Nazione e la Mappa.
 icon(bullet) Scegliere l'Organizzazione Tribale e il Tempo della Rivolta.
 icon(bullet) I livelli di difficoltà e di aggressività tribale più elevati aumentano le dimensioni dell'orda.

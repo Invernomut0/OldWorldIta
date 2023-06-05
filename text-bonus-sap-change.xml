@@ -498,12 +498,12 @@
   <Entry>
     <zType>TEXT_BONUS_EVENTOPTION_IMMORAL_MYSTERIES_WANTON</zType>
     <en-US>Whatever carnal pleasure {0_character} is seeking from these 'mysteries' is not enough. {masculine_0:He:She} has soon fully embraced the pursuit of link(TRAIT_WANTON) pleasure.</en-US>
-    <it-IT>Qualunque piacere carnale {0_character} cerchi da questi &quot;misteri&quot; non è sufficiente. {masculine_0:Lui:Lei} ha presto abbracciato completamente la ricerca del piacere di link(TRAIT_WANTON).</it-IT>
+    <it-IT>Qualunque piacere carnale {0_character} cerchi da questi "misteri" non è sufficiente. {masculine_0:Lui:Lei} ha presto abbracciato completamente la ricerca del piacere di link(TRAIT_WANTON).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_BONUS_EVENTOPTION_IMMORAL_MYSTERIES_CORRUPT</zType>
     <en-US>{0_character} is soon conducting favors for {masculine_0:his:her} fellow 'initiates' as the link(TRAIT_CORRUPT) group flout all rules to help each other reap the benefits of their positions.</en-US>
-    <it-IT>{0_character} si trova presto a fare favori ai compagni &quot;iniziati&quot; di {masculine_0:his:her}, mentre il gruppo link(TRAIT_CORRUPT) si fa beffe di tutte le regole per aiutarsi a vicenda a raccogliere i frutti delle proprie posizioni.</it-IT>
+    <it-IT>{0_character} si trova presto a fare favori ai compagni "iniziati" di {masculine_0:his:her}, mentre il gruppo link(TRAIT_CORRUPT) si fa beffe di tutte le regole per aiutarsi a vicenda a raccogliere i frutti delle proprie posizioni.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_BONUS_EVENTOPTION_IMMORAL_MYSTERIES_DEBAUCHED</zType>

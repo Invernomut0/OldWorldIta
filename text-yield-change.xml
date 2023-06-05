@@ -59,7 +59,7 @@ Le famiglie che sono link(FAMILYCLASS_CHAMPIONS), link(FAMILYCLASS_RIDERS) o lin
   <Entry>
     <zType>TEXT_YIELD_DISCONTENT</zType>
     <en-US>Discontent~icon(YIELD_DISCONTENT)Discontent</en-US>
-    <it-IT>Scontento~icon(YIELD_DISCONTENT)Discontento</it-IT>
+    <it-IT>Scontento~icon(YIELD_DISCONTENT)Scontento</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_DISCONTENT_HELP</zType>

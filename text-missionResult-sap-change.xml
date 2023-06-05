@@ -8,7 +8,7 @@
   <Entry>
     <zType>TEXT_MISSIONRESULT_QUELL_DISSENT_EVENT_DESCRIPTION</zType>
     <en-US>The Quell Religious Dissent Mission of {CHARACTER-SUBJECT} has led to an event...</en-US>
-    <it-IT>La missione &quot;Sedare il dissenso religioso&quot; di {CHARACTER-SUBJECT} ha portato a un evento...</it-IT>
+    <it-IT>La missione "Sedare il dissenso religioso" di {CHARACTER-SUBJECT} ha portato a un evento...</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_QUELL_DISSENT</zType>

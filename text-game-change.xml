@@ -918,7 +918,7 @@
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_HOLY_CITY_AGENTS</zType>
     <en-US>{0_player}: Free link(CONCEPT_AGENT) in all Holy Cities</en-US>
-    <it-IT>{0_player}: Libero link(CONCEPT_AGENT) in tutte le Città Sante</it-IT>
+    <it-IT>{0_player}: CONCEPT_AGENT) in tutte le Città Sante</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION</zType>

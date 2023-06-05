@@ -1012,8 +1012,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_BONUS_EVENTOPTION_TRAIT_FORBIDDEN_KNOWLEDGE_OPTION_3_CHARACTER</zType>
-    <en-US>&quot;Disregarded&quot; Tribal knowledge</en-US>
-    <it-IT>&quot;Conoscenze tribali &quot;ignorate</it-IT>
+    <en-US>"Disregarded" Tribal knowledge</en-US>
+    <it-IT>"Conoscenze tribali "ignorate</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_BONUS_EVENTOPTION_RUINS_PROPHECY_OPTION_3_CHARACTER</zType>
@@ -3198,17 +3198,17 @@
   <Entry>
     <zType>TEXT_BONUS_TECH_ECONOMIC_REFORM</zType>
     <en-US>Free link(COURTIER_MERCHANT)</en-US>
-    <it-IT>Libero link(COURTIER_MERCHANT)</it-IT>
+    <it-IT>Gratuito link(COURTIER_MERCHANT)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_BONUS_TECH_MILITARY_PRESTIGE</zType>
     <en-US>Free link(COURTIER_SOLDIER)</en-US>
-    <it-IT>Libero link(COURTIER_SOLDIER)</it-IT>
+    <it-IT>Gratuito link(COURTIER_SOLDIER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_BONUS_TECH_INDUSTRIAL_PROGRESS</zType>
     <en-US>Free link(COURTIER_MINISTER)</en-US>
-    <it-IT>Libero link(COURTIER_MINISTER)</it-IT>
+    <it-IT>Gratuito link(COURTIER_MINISTER)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_BONUS_EVENTOPTION_THE_SHOEMAKER_WITTY</zType>
