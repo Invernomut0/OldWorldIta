@@ -1,0 +1,1068 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_DISCOURAGED_RELIGIOUS_PRACTICE</zType>
+    <en-US>Discouraged religious practice</en-US>
+    <it-IT>Scoraggiare la pratica religiosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ENCOURAGED_RELIGIOUS_PRACTICE</zType>
+    <en-US>Encouraged religious practice</en-US>
+    <it-IT>Incoraggiare la pratica religiosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_RETURNED_RELIGIOUS_ARTIFACT</zType>
+    <en-US>Returned religious artifact</en-US>
+    <it-IT>Manufatto religioso restituito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_STOLE_COURTIER</zType>
+    <en-US>Stole our courtier</en-US>
+    <it-IT>Rubato il nostro cortigiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_FOUND_THE_LOST_PROPHET</zType>
+    <en-US>Found the lost prophet</en-US>
+    <it-IT>Trovato il profeta perduto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_HID_STATE_SECRET</zType>
+    <en-US>Covered up state secret</en-US>
+    <it-IT>Segreto di Stato insabbiato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_GAVE_AWAY_RELICS</zType>
+    <en-US>Gave away our relics</en-US>
+    <it-IT>Abbiamo dato via le nostre reliquie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_HELD_HOLY_RELICS</zType>
+    <en-US>Held onto our holy relics</en-US>
+    <it-IT>Tenere le nostre sacre reliquie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_CLERGY_CHILD</zType>
+    <en-US>Allowed child to join the clergy</en-US>
+    <it-IT>Permesso al bambino di entrare nel clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_REFUSED_CLERGY</zType>
+    <en-US>Refused to let child join the clergy</en-US>
+    <it-IT>Rifiuto di far entrare il figlio nel clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_SAUL_MISSION</zType>
+    <en-US>Sent Paul on a mission to convert our cities</en-US>
+    <it-IT>Ha mandato Paolo in missione per convertire le nostre città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_SIDED_WITH_IN_ARGUMENT</zType>
+    <en-US>Took my side in an argument</en-US>
+    <it-IT>Ha preso le mie parti in una discussione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_SIDED_AGAINST</zType>
+    <en-US>Sided against me in an argument</en-US>
+    <it-IT>Si è schierato contro di me in una discussione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_APPEASED_RELIGIOUS_SECT</zType>
+    <en-US>Appeased religious sect</en-US>
+    <it-IT>Setta religiosa placata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_FOURTH_SECT</zType>
+    <en-US>Recruited the Fourth Philosophy</en-US>
+    <it-IT>Reclutata la quarta filosofia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_LEFT_THE_FAITH</zType>
+    <en-US>No longer a follower</en-US>
+    <it-IT>Non più seguace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_KEPT_THE_FAITH</zType>
+    <en-US>Kept the faith</en-US>
+    <it-IT>Mantenere la fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_STOLE_OUR_CONVERT</zType>
+    <en-US>Stole our convert</en-US>
+    <it-IT>Rubato il nostro convertito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_EVANGELICAL_ACCEPT</zType>
+    <en-US>Accepted evangelical's teachings</en-US>
+    <it-IT>Insegnamenti evangelici accettati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_EVANGELICAL_REFUSE</zType>
+    <en-US>Imprisoned evangelical preacher</en-US>
+    <it-IT>Predicatore evangelico imprigionato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IMPRISONED_FOLLOWER</zType>
+    <en-US>Imprisoned our follower</en-US>
+    <it-IT>Imprigionato il nostro seguace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_INDULGED_DEBATE</zType>
+    <en-US>Indulged another religion in debate</en-US>
+    <it-IT>Assecondare un'altra religione nel dibattito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_FOREIGN_RELIGION</zType>
+    <en-US>Accepted a foreign religion</en-US>
+    <it-IT>Accettare una religione straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_STATE_RELIGION_EXEMPLAR</zType>
+    <en-US>Stayed true to state religion</en-US>
+    <it-IT>Rimasto fedele alla religione di Stato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_REFUSED_RELIGION</zType>
+    <en-US>Refused my religion</en-US>
+    <it-IT>Rifiuto della mia religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_EXILED_PRIEST</zType>
+    <en-US>Exiled our priest</en-US>
+    <it-IT>Esiliato il nostro sacerdote</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_HELPED_WITH_MAGIC</zType>
+    <en-US>Helped my magic</en-US>
+    <it-IT>Ha aiutato la mia magia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_IGNORED_MAGIC</zType>
+    <en-US>Let me become cursed</en-US>
+    <it-IT>Lasciatemi diventare maledetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_CONDEMNED_CADAVER</zType>
+    <en-US>Condemned the cadaver</en-US>
+    <it-IT>Condannato il cadavere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_PARDONED_CADAVER</zType>
+    <en-US>Pardoned the cadaver</en-US>
+    <it-IT>Perdonato il cadavere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_RELEASED_RELIGIOUS_PRISONER</zType>
+    <en-US>Released religious prisoner</en-US>
+    <it-IT>Prigioniero religioso rilasciato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_REFUSED_TO_RELEASE_RELIGIOUS_PRISONER</zType>
+    <en-US>Refused to release prisoner</en-US>
+    <it-IT>Rifiuto di rilasciare il prigioniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_DIVORCED_SPOUSE_RELIGIOUS</zType>
+    <en-US>Divorced religious spouse</en-US>
+    <it-IT>Sposo religioso divorziato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_STAYED_WITH_SPOUSE</zType>
+    <en-US>Stayed with spouse</en-US>
+    <it-IT>Soggiorno con il coniuge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_REFUSED_BAPTISM</zType>
+    <en-US>Refused baptism</en-US>
+    <it-IT>Rifiuto del battesimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IMPROVED_RELATIONS</zType>
+    <en-US>Sent an envoy to improve relations</en-US>
+    <it-IT>Inviato un inviato per migliorare le relazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_REDEEMED_ANCESTOR</zType>
+    <en-US>Redeemed ancestor</en-US>
+    <it-IT>Antenato redento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_SHIFTED_BLAME</zType>
+    <en-US>Shifted the blame</en-US>
+    <it-IT>Spostamento della colpa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_REFUSED_TEMPTATION</zType>
+    <en-US>Refused temptation</en-US>
+    <it-IT>Tentazione rifiutata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_RAISED_CHILD</zType>
+    <en-US>Raised child to follow our religion</en-US>
+    <it-IT>Educare il bambino a seguire la nostra religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_TOOK_IN_RELIGIOUS_EXILE</zType>
+    <en-US>Took in religious exile</en-US>
+    <it-IT>Preso in esilio religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_IGNORED_RELIGIOUS_EXILE</zType>
+    <en-US>Ignored religious exile</en-US>
+    <it-IT>Esilio religioso ignorato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_RETURNED_RELIGIOUS_EXILE</zType>
+    <en-US>Returned religious exile</en-US>
+    <it-IT>Esilio religioso rientrato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_REFUSED_EXPLORING</zType>
+    <en-US>Refused to let me go exploring</en-US>
+    <it-IT>Si è rifiutato di lasciarmi andare all'esplorazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ENCOURGED_PERSECUTION</zType>
+    <en-US>Encouraged persecution</en-US>
+    <it-IT>Ha incoraggiato la persecuzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_PROTECTED_FROM_PERSECUTION</zType>
+    <en-US>Protected us from persecution</en-US>
+    <it-IT>Ci ha protetto dalla persecuzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ADOPTED_FAVORED_LAW</zType>
+    <en-US>Adopted our favored law</en-US>
+    <it-IT>Adottata la nostra legge preferita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_REFUSED_TO_FUND_MISSION</zType>
+    <en-US>Refused to fund my mission</en-US>
+    <it-IT>Si è rifiutato di finanziare la mia missione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_FOUND_BONES_OF_THE_MARTYR</zType>
+    <en-US>Found the bones of the Martyr</en-US>
+    <it-IT>Trovate le ossa del Martire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_HOLY_WAR_STARTED</zType>
+    <en-US>Started a holy war for us</en-US>
+    <it-IT>Ha iniziato una guerra santa per noi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_EXECUTED_CLERGY</zType>
+    <en-US>Entered diplomatic talks on tolerance</en-US>
+    <it-IT>Avvio di colloqui diplomatici sulla tolleranza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_UNITED_IN_ORTHODOXY</zType>
+    <en-US>United in orthodoxy</en-US>
+    <it-IT>Uniti nell'ortodossia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ENCOURAGED_MAGIC</zType>
+    <en-US>Encouraged magic</en-US>
+    <it-IT>Magia incoraggiata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_DENOUNCED_MAGIC</zType>
+    <en-US>Denounced magic</en-US>
+    <it-IT>Magia denunciata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_CHILD_STUDIES_MAGIC</zType>
+    <en-US>Child studies magic</en-US>
+    <it-IT>Magia dei bambini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_PROTECTED_MAGIC_USER</zType>
+    <en-US>Protected magic user</en-US>
+    <it-IT>Utente magico protetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_ALLOWED_MARRIAGE</zType>
+    <en-US>Marriage of my choosing</en-US>
+    <it-IT>Matrimonio a mia scelta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_INFLUENCED_HEIR</zType>
+    <en-US>Influenced my heir</en-US>
+    <it-IT>Ha influenzato il mio erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_DID_NOT_INFLUENCE_HEIR</zType>
+    <en-US>Didn't influence my heir given the chance</en-US>
+    <it-IT>Non ha influenzato il mio erede quando ne ha avuto l'occasione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_DIVINE_RULER_LOWERED</zType>
+    <en-US>Lowered self before a foreign ruler</en-US>
+    <it-IT>Abbassarsi davanti a un sovrano straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_FOREIGN_INFLUENCE</zType>
+    <en-US>Accepted foreign ruler's influence</en-US>
+    <it-IT>Accettare l'influenza di un sovrano straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_DEFENDED_OUR_PILGRIMS</zType>
+    <en-US>Defended our pilgrims</en-US>
+    <it-IT>Ha difeso i nostri pellegrini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_HAPPY_PILGRIM</zType>
+    <en-US>Sent a pilgrim to our holy city</en-US>
+    <it-IT>Ha inviato un pellegrino nella nostra città santa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_LIMITED_CLERGY_IN_WAR</zType>
+    <en-US>Limited clergy volunteers</en-US>
+    <it-IT>Limitato numero di volontari del clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_REFUSED_TO_LIMIT_VOLUNTEERS</zType>
+    <en-US>Refused to limit volunteers</en-US>
+    <it-IT>Rifiuto di limitare i volontari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_RESTORED_TEMPLE</zType>
+    <en-US>Restored a fallen temple</en-US>
+    <it-IT>Ripristinato un tempio caduto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_FORGOTTEN_GODDESS</zType>
+    <en-US>Allowed a goddess to be forgotten</en-US>
+    <it-IT>Permesso a una dea di essere dimenticata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_THREATENED</zType>
+    <en-US>Threatened us</en-US>
+    <it-IT>Ci ha minacciato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_RECONCILIATION_EFFORTS</zType>
+    <en-US>Made efforts towards reconciliation</en-US>
+    <it-IT>Sforzi per la riconciliazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_REFUSED_TO_BLOCK_BUILDING</zType>
+    <en-US>Refused to block the building of a temple</en-US>
+    <it-IT>Rifiuto di bloccare la costruzione di un tempio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_PROTECTED_CIT_BUILDING</zType>
+    <en-US>Stopped a rival temple in our city</en-US>
+    <it-IT>Fermato un tempio rivale nella nostra città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_MEMORYRELIGON_HERO_CULT</zType>
+    <en-US>Encouraged hero cult</en-US>
+    <it-IT>Culto dell'eroe incoraggiato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_OMEN</zType>
+    <en-US>Listened to omen</en-US>
+    <it-IT>Ascoltato omen</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_BARRED_PLAY</zType>
+    <en-US>Barred an impious play</en-US>
+    <it-IT>Impedito un gioco empio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_SACRED_GAMES_CHEAT</zType>
+    <en-US>Encouraged our scion to cheat in the games</en-US>
+    <it-IT>Ha incoraggiato il nostro rampollo a imbrogliare nei giochi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IGNORED_OMEN</zType>
+    <en-US>Ignored an omen</en-US>
+    <it-IT>Ignorare un presagio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_SHRINE_CTHONIC_GODS</zType>
+    <en-US>Built a shrine to the chthonic gods</en-US>
+    <it-IT>Costruito un santuario agli dei ctonici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_PROTECTED_SHRINE</zType>
+    <en-US>Protected our shrine</en-US>
+    <it-IT>Proteggere il nostro santuario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_DISSENT</zType>
+    <en-US>Religious dissent</en-US>
+    <it-IT>Dissenso religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_CHASTE</zType>
+    <en-US>Chose chastity</en-US>
+    <it-IT>Scegliere la castità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_RELIGIOUS_ACCORD</zType>
+    <en-US>Sought religious accord</en-US>
+    <it-IT>Ricerca di un accordo religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IMPRISONED_PRIEST</zType>
+    <en-US>Imprisoned our clergy</en-US>
+    <it-IT>Imprigionato il nostro clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_STOPPED_SPEECH</zType>
+    <en-US>Stopped my speech</en-US>
+    <it-IT>Interruzione del mio discorso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_ALLOWED_ORATION</zType>
+    <en-US>Praised my speech</en-US>
+    <it-IT>Elogio del mio discorso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_RELIGIOUS_RESPECT</zType>
+    <en-US>Religious respect</en-US>
+    <it-IT>Rispetto religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_RELIGIOUS_RESPECT</zType>
+    <en-US>Thanked ruler who treated us with respect</en-US>
+    <it-IT>Ringraziamento al governante che ci ha trattato con rispetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_CULT</zType>
+    <en-US>Supported a new cult</en-US>
+    <it-IT>Sostenuto un nuovo culto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ALLOWED_RELIGIOUS_CHASTITY</zType>
+    <en-US>Allowed religious chastity</en-US>
+    <it-IT>Consentita la castità religiosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_COINS</zType>
+    <en-US>Put our symbols on coins</en-US>
+    <it-IT>Mettere i nostri simboli sulle monete</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_REFUSED_COINS</zType>
+    <en-US>Refused our coinage</en-US>
+    <it-IT>Rifiutato il nostro conio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_SUPPORTED_MARTYR</zType>
+    <en-US>Supported a martyr</en-US>
+    <it-IT>Sostenuto un martire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYTRIBE_MEMORYTRIBE_ESCULATED_TENSIONS</zType>
+    <en-US>Escalated tensions</en-US>
+    <it-IT>Escalation delle tensioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IMPIOUS_PHILOSOPHER_KILL</zType>
+    <en-US>Executed the impious philosopher</en-US>
+    <it-IT>Giustiziato l'empio filosofo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IMPIOUS_PHIOLOSOPHER_EXILE</zType>
+    <en-US>Exiled the impious philosopher</en-US>
+    <it-IT>Esiliato l'empio filosofo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ANGELIC_DIVINE</zType>
+    <en-US>Allowed worship of the Angelic Divine</en-US>
+    <it-IT>Consentito il culto del Divino Angelico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IGNORED_APOCOLYPSE</zType>
+    <en-US>Ignored signs of the apocalypse</en-US>
+    <it-IT>Segni ignorati dell'apocalisse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_EXPELLED_RELIGION</zType>
+    <en-US>Expelled foreign religion from our city</en-US>
+    <it-IT>Espulsione della religione straniera dalla nostra città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_BANNED_FROM_BATHS</zType>
+    <en-US>Banned us from the baths</en-US>
+    <it-IT>Ci ha bandito dai bagni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_ALLOWED_BATHS_ACCESS</zType>
+    <en-US>Allowed pagan access to the baths</en-US>
+    <it-IT>Consentito l'accesso dei pagani alle terme</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_HERO_BLOODLINE</zType>
+    <en-US>Comes from a hero's bloodline</en-US>
+    <it-IT>Proviene da una stirpe di eroi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IMPIOUS_RELEASED</zType>
+    <en-US>Refused to punish impiety</en-US>
+    <it-IT>Rifiuto di punire l'empietà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_AUTONOMOUS_CITY</zType>
+    <en-US>Allowed autonomous rule of a city</en-US>
+    <it-IT>Consentito il governo autonomo di una città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_CURRICULUM_BAD</zType>
+    <en-US>Stopped classical curriculum</en-US>
+    <it-IT>Interruzione del curriculum classico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_CURRICULUM_GOOD</zType>
+    <en-US>Allowed classical curriculum</en-US>
+    <it-IT>Consentito il curriculum classico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_BASILICA</zType>
+    <en-US>Denied us the basilica</en-US>
+    <it-IT>Ci ha negato la basilica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_BASILICA</zType>
+    <en-US>Denied us the basilica</en-US>
+    <it-IT>Ci ha negato la basilica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_BROKE_BETROTHAL</zType>
+    <en-US>Broke off a betrothal</en-US>
+    <it-IT>Rottura di un fidanzamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_HOLY_DAYS</zType>
+    <en-US>Reduced our holy days</en-US>
+    <it-IT>Riduzione dei nostri giorni sacri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_NOBLE_CULT</zType>
+    <en-US>Supported our rights to cult worship</en-US>
+    <it-IT>Sostenuto il nostro diritto al culto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_PRAYER</zType>
+    <en-US>Offered a prayer</en-US>
+    <it-IT>Offrire una preghiera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_TWINS</zType>
+    <en-US>Parent of twins</en-US>
+    <it-IT>Genitore di gemelli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_REFUSED_MY_AMULET</zType>
+    <en-US>Refused my amulet</en-US>
+    <it-IT>Ha rifiutato il mio amuleto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_KEPT_STUDY_SECRETS</zType>
+    <en-US>Kept religious secrets</en-US>
+    <it-IT>Custodire i segreti religiosi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_TAX_EXEMPTION</zType>
+    <en-US>Gave us tax exemption</en-US>
+    <it-IT>Ci ha dato l'esenzione fiscale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_RESPECTED_OUR_TRADITIONS</zType>
+    <en-US>Respected our traditions</en-US>
+    <it-IT>Rispetto delle nostre tradizioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_APPEASED_LOCAL_LEADERS</zType>
+    <en-US>Appeased local leaders</en-US>
+    <it-IT>Appagamento dei leader locali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_REFUSED_CULT</zType>
+    <en-US>Refused foreign cult</en-US>
+    <it-IT>Rifiuto del culto straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_ACCEPTED_OUR_CULT</zType>
+    <en-US>Accepted our cult</en-US>
+    <it-IT>Accettato il nostro culto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_REFUSED_MY_RETIREMENT</zType>
+    <en-US>Refused my retirement</en-US>
+    <it-IT>Rifiuto del mio pensionamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_STOLE_COURTIER</zType>
+    <en-US>Stole our courtier</en-US>
+    <it-IT>Rubato il nostro cortigiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_STOPPED_PAGAN_SACRIFICES</zType>
+    <en-US>Stopped pagan sacrifices</en-US>
+    <it-IT>Interruzione dei sacrifici pagani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_ALLOWED_SACRIFICES</zType>
+    <en-US>Allowed pagan sacrifices</en-US>
+    <it-IT>Consentiti i sacrifici pagani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_TRAINED_HOLY_TROOPS</zType>
+    <en-US>Trained a holy army</en-US>
+    <it-IT>Addestrare un esercito sacro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_WAR_FOR_THE_HOLY_CITY</zType>
+    <en-US>Went to war for the holy city</en-US>
+    <it-IT>In guerra per la città santa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_TOOK_REFUGEES</zType>
+    <en-US>Took refugees from the holy city</en-US>
+    <it-IT>Presi i rifugiati dalla città santa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_UNDERMINED_OUR_ATTACK</zType>
+    <en-US>Helped the city we attacked</en-US>
+    <it-IT>Ha aiutato la città che abbiamo attaccato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ABUSED_THE_SABBATH</zType>
+    <en-US>Abused the sabbath</en-US>
+    <it-IT>Abuso del sabato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_SHARED_BREAD</zType>
+    <en-US>Shared food with travelers</en-US>
+    <it-IT>Cibo condiviso con i viaggiatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ATTACKED_OUR_COMMUNITY</zType>
+    <en-US>Attacked our community</en-US>
+    <it-IT>Ha attaccato la nostra comunità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_PERSECUTED</zType>
+    <en-US>Persecuted our Faith</en-US>
+    <it-IT>Perseguitati nella nostra fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_CHILD_CLERGY_NO</zType>
+    <en-US>Prevented child from joining the clergy</en-US>
+    <it-IT>Impedito al bambino di entrare nel clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_MAGIC_BIRTH</zType>
+    <en-US>Turned to magic</en-US>
+    <it-IT>Si è trasformato in magia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_SLIGHTED</zType>
+    <en-US>Slighted me</en-US>
+    <it-IT>Mi ha trascurato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_REVEALED_ADULTURY</zType>
+    <en-US>Revealed adultery</en-US>
+    <it-IT>Adulterio rivelato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_COVERED_UP_SECRET</zType>
+    <en-US>Covered up secret</en-US>
+    <it-IT>Segreto coperto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_BLACKMAILED</zType>
+    <en-US>We are being blackmailed</en-US>
+    <it-IT>Siamo ricattati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_FUNERAL_RITES</zType>
+    <en-US>Led funeral rites</en-US>
+    <it-IT>Riti funebri guidati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_FORCED_CLERGY</zType>
+    <en-US>Forced us to accept new clergy</en-US>
+    <it-IT>Ci ha costretto ad accettare nuovo clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_REFUSED_CLERGY</zType>
+    <en-US>Refused to help me join the clergy</en-US>
+    <it-IT>Si è rifiutato di aiutarmi a entrare nel clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYTRIBE_MEMORYTRIBE_REJECTED_COURTIER</zType>
+    <en-US>Rejected our courtier</en-US>
+    <it-IT>Rifiutato il nostro cortigiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_MAGIC_PRCTITIONER</zType>
+    <en-US>Recruited pagan magic practitioner</en-US>
+    <it-IT>Reclutamento di un praticante di magia pagana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_BURIAL</zType>
+    <en-US>Ruler used our burial practices</en-US>
+    <it-IT>Il sovrano usava le nostre pratiche di sepoltura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_BURIAL</zType>
+    <en-US>Ruler used traditional burial practices</en-US>
+    <it-IT>Il sovrano utilizzava pratiche di sepoltura tradizionali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_SAVED_US_FROM_PERSECUTION</zType>
+    <en-US>Saved us from persecutions</en-US>
+    <it-IT>Ci ha salvato dalle persecuzioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_MEORYCHARACTER_REFUSED_MY_GIFT</zType>
+    <en-US>Refused my gift</en-US>
+    <it-IT>Ha rifiutato il mio dono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_REFUSED_FOREIGN_INFLUENCE</zType>
+    <en-US>Refused foreign influence</en-US>
+    <it-IT>Rifiuto dell'influenza straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_POLY_MARRIAGE</zType>
+    <en-US>Entered a polygamous marriage</en-US>
+    <it-IT>Ha contratto un matrimonio poligamo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYTRIBE_MEMORYTRIBE_REJECTED_SECOND_SPOUSE</zType>
+    <en-US>Rejected marriage offer</en-US>
+    <it-IT>Offerta di matrimonio rifiutata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_OVERLOOKED_KILLINGS</zType>
+    <en-US>Overlooked killings</en-US>
+    <it-IT>Omicidi trascurati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_OVERLOOKED_KILLINGS</zType>
+    <en-US>Overlooked killings</en-US>
+    <it-IT>Omicidi trascurati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_INFLUENCED_BY_CULT</zType>
+    <en-US>Influenced by cult</en-US>
+    <it-IT>Influenzato dal culto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_REBELLIOUS_CLERGY</zType>
+    <en-US>Stood up to rebellious clergy</en-US>
+    <it-IT>Si è opposto al clero ribelle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_STOPPED_ECSTATIC_WORSHIP</zType>
+    <en-US>Stopped ecstatic worship</en-US>
+    <it-IT>Interruzione dell'adorazione estatica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_PROTECTED_THE_MYSTERIES</zType>
+    <en-US>Protected the Mysteries</en-US>
+    <it-IT>Proteggere i misteri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_FREE_SHRINES</zType>
+    <en-US>Allowed the construction of local shrines</en-US>
+    <it-IT>Ha permesso la costruzione di santuari locali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_STOPPED_MY_EXPLORING</zType>
+    <en-US>Stopped me exploring</en-US>
+    <it-IT>Mi ha impedito di esplorare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_KEPT_ORDER</zType>
+    <en-US>Kept order</en-US>
+    <it-IT>Mantenimento dell'ordine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_SHARED_A_MEAL</zType>
+    <en-US>Shared a meal together</en-US>
+    <it-IT>Condividere un pasto insieme</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_ALLOWED_RELIGION_SPREAD</zType>
+    <en-US>Allowed a religion into our city</en-US>
+    <it-IT>Permesso a una religione di entrare nella nostra città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ALLOWED_OUR_RIOTS</zType>
+    <en-US>Turned a blind eye</en-US>
+    <it-IT>Ha chiuso un occhio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_ENDEARED_BY_RELIGON</zType>
+    <en-US>Endeared by religion</en-US>
+    <it-IT>Affidato alla religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_WARY_OF_RELIGION</zType>
+    <en-US>Wary of foreign religion</en-US>
+    <it-IT>Diffidare della religione straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_INSULTED_PAGAN_GODS</zType>
+    <en-US>Insulted our gods</en-US>
+    <it-IT>Insultato i nostri dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_COMPARED_OUR_PANTHEON</zType>
+    <en-US>Compared our pantheon</en-US>
+    <it-IT>Confrontando il nostro pantheon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_REFUSED_TEMPLE_PLANS</zType>
+    <en-US>Refused temple plans</en-US>
+    <it-IT>Rifiutato il progetto del tempio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_BUILT_STATUE</zType>
+    <en-US>Built the great statue</en-US>
+    <it-IT>Costruita la grande statua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_MASTERFUL_ORATION</zType>
+    <en-US>Masterful oration</en-US>
+    <it-IT>Un'orazione magistrale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_PARDONED_POET</zType>
+    <en-US>Pardoned the impious poet</en-US>
+    <it-IT>Perdonato il poeta empio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_EPIC_POETRY</zType>
+    <en-US>Inspired by epic poetry</en-US>
+    <it-IT>Ispirato alla poesia epica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_PROTECTED_HOLY_GROUND</zType>
+    <en-US>Protected the holy ground</en-US>
+    <it-IT>Proteggere il suolo sacro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_RETURNED_OUR_BURIAL_SITES</zType>
+    <en-US>Returned our burial sites</en-US>
+    <it-IT>Restituiti i nostri luoghi di sepoltura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_SIDED_WITH_FALLEN_CLERGY</zType>
+    <en-US>Sided with fallen clergy</en-US>
+    <it-IT>Schierato con il clero decaduto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_PROMOTED_PEACE</zType>
+    <en-US>Promoted peace</en-US>
+    <it-IT>Promuovere la pace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_CARRIED_ON_FIGHTING</zType>
+    <en-US>Didn't surrender our god</en-US>
+    <it-IT>Non ci siamo arresi al nostro Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_SCRIPTURES</zType>
+    <en-US>Gave in to heretic faction</en-US>
+    <it-IT>Ceduto alla fazione eretica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ADAPTED_MYTHS</zType>
+    <en-US>Adapted our myths</en-US>
+    <it-IT>Adattare i nostri miti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_HONORED_RELIGIOUS_TRUCE</zType>
+    <en-US>Honored religious truce</en-US>
+    <it-IT>Tregua religiosa onorata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_IMPIOUS_IMPEACHMENT</zType>
+    <en-US>Exiled impious courtier</en-US>
+    <it-IT>Cortigiano empio esiliato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_ACCEPTED_CHOSEN_HEIR</zType>
+    <en-US>Accepted our chosen heir</en-US>
+    <it-IT>Accettato il nostro erede prescelto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_EXILED_HERETIC</zType>
+    <en-US>Exiled heretic</en-US>
+    <it-IT>Eretico in esilio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_OUTLAWED_SECT</zType>
+    <en-US>Outlawed sect</en-US>
+    <it-IT>Setta fuorilegge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_REFUSED_REVENGE</zType>
+    <en-US>Refused to take revenge</en-US>
+    <it-IT>Rifiuto di vendicarsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_OATH_TO_MELQART</zType>
+    <en-US>Child swore an oath against us</en-US>
+    <it-IT>Il bambino ha giurato contro di noi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_SACRIFICE_MELQART</zType>
+    <en-US>Sacrificed to Melqart</en-US>
+    <it-IT>Sacrificato a Melqart</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_STELE</zType>
+    <en-US>Erected stele</en-US>
+    <it-IT>Stele eretta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_SACRIFICED_AT_SACRED_SPACE</zType>
+    <en-US>Sacrificed at a sacred space</en-US>
+    <it-IT>Sacrificato in uno spazio sacro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_DONATION</zType>
+    <en-US>Made a donation</en-US>
+    <it-IT>Fare una donazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IGNORED_TRADITIONS</zType>
+    <en-US>Ignored traditions</en-US>
+    <it-IT>Tradizioni ignorate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_UPHELD_TRADITION</zType>
+    <en-US>Upheld traditional rites</en-US>
+    <it-IT>Mantenimento dei riti tradizionali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYTRIBE_MEMORYTRIBE_ADOPTED_OUR_GOD</zType>
+    <en-US>Adopted our god</en-US>
+    <it-IT>Adottato il nostro Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYTRIBE_MEMORYTRIBE_OUTLAWED_GOD</zType>
+    <en-US>Outlawed our gods</en-US>
+    <it-IT>Vietati i nostri dèi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_STOPPED_COLLEGIAS</zType>
+    <en-US>Stopped the Collegia</en-US>
+    <it-IT>Fermato il Collegio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_PUNISHED_FOR_VESTALS</zType>
+    <en-US>Punished for pursuing a Vestal</en-US>
+    <it-IT>Punito per aver perseguito una Vestale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_VESTALS</zType>
+    <en-US>Protected the Vestals</en-US>
+    <it-IT>Ha protetto le Vestali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_FORCED_REFORMS</zType>
+    <en-US>Forced reforms</en-US>
+    <it-IT>Riforme forzate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_POET_IN_VOGUE</zType>
+    <en-US>Brought a famous poet to court</en-US>
+    <it-IT>Portato a corte un famoso poeta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_DISRESPECTED_OUR_GODS</zType>
+    <en-US>Disrespected our gods</en-US>
+    <it-IT>Non ha rispettato i nostri dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_STOLEN_GODS</zType>
+    <en-US>Our gods were stolen</en-US>
+    <it-IT>I nostri dei sono stati rubati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_HONORED_ANCESTORS</zType>
+    <en-US>Honored our ancestors</en-US>
+    <it-IT>Onorato i nostri antenati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_FOREIGN_ZOROASTRIANISM</zType>
+    <en-US>Welcomed Zoroastrianism</en-US>
+    <it-IT>Accolto lo zoroastrismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_EXECUTED_PRISONERS</zType>
+    <en-US>Executed prisoners</en-US>
+    <it-IT>Prigionieri giustiziati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_FORCED_TO_SACRIFICE</zType>
+    <en-US>Forced to sacrifice</en-US>
+    <it-IT>Costretti a sacrificarsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_FORCED_TEMPLE</zType>
+    <en-US>Forced us to build a temple</en-US>
+    <it-IT>Ci ha costretto a costruire un tempio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_SUPPORTED_THE_DONATISTS</zType>
+    <en-US>Supported the Donatists</en-US>
+    <it-IT>Ha sostenuto i donatisti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_EASTER_CONFUSION</zType>
+    <en-US>Debates over Easter</en-US>
+    <it-IT>Dibattiti sulla Pasqua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_DISCREDITED_BISHOP</zType>
+    <en-US>Discredited Bishop</en-US>
+    <it-IT>Vescovo screditato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_PROTECTED_ELECTS</zType>
+    <en-US>Protected the Elects</en-US>
+    <it-IT>Protezione degli eletti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_RADICAL_THOUGHT</zType>
+    <en-US>Accepted radical thoughts</en-US>
+    <it-IT>Pensieri radicali accettati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_TOLD_OFF</zType>
+    <en-US>Denied my claims</en-US>
+    <it-IT>Negate le mie richieste</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_PUNISHED_PRIESTS</zType>
+    <en-US>Punished our priests</en-US>
+    <it-IT>Punito i nostri sacerdoti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_SUPPRESSED_DISSENT</zType>
+    <en-US>Violently suppressed dissent</en-US>
+    <it-IT>Repressione violenta del dissenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_HOLY_BAKERS</zType>
+    <en-US>Allowed the bakers to stay in the clergy</en-US>
+    <it-IT>Permettere ai panettieri di rimanere nel clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_STOPPED_POEM</zType>
+    <en-US>Defended the memory of a leader</en-US>
+    <it-IT>Difendere la memoria di un leader</it-IT>
+  </Entry>
+</Root>

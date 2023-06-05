@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_PROJECT_REPAIR</zType>
+    <en-US>Repair Damage</en-US>
+    <it-IT>Riparazione dei danni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GOVERNOR</zType>
+    <en-US>Governor~a Governor~Governors</en-US>
+    <it-IT>Governatore~un Governatore~Governatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_WALLS</zType>
+    <en-US>Walls</en-US>
+    <it-IT>Muri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MOAT</zType>
+    <en-US>Moat~a Moat~Moats</en-US>
+    <it-IT>Fossato~un fossato~Fossati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TOWERS</zType>
+    <en-US>Towers</en-US>
+    <it-IT>Torri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TREASURY_1</zType>
+    <en-US>Treasury I~a Treasury I~Treasuries I</en-US>
+    <it-IT>Tesoro I~un Tesoro I~Titoli di Stato I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TREASURY_2</zType>
+    <en-US>Treasury II~a Treasury II~Treasuries II</en-US>
+    <it-IT>Tesoro II~un Tesoro II~Titoli di Stato II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TREASURY_3</zType>
+    <en-US>Treasury III~a Treasury III~Treasuries III</en-US>
+    <it-IT>Tesoro III~un Tesoro III~Titoli di Stato III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TREASURY_4</zType>
+    <en-US>Treasury IV~a Treasury IV~Treasuries IV</en-US>
+    <it-IT>Tesoro IV~un Tesoro IV~Titoli di Stato IV</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FORUM_1</zType>
+    <en-US>Forum I~a Forum I~Forums I~Forums</en-US>
+    <it-IT>Forum I~un Forum I~Forum I~Forum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FORUM_2</zType>
+    <en-US>Forum II~a Forum II~Forums II</en-US>
+    <it-IT>Forum II~un Forum II~Forum II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FORUM_3</zType>
+    <en-US>Forum III~a Forum III~Forums III</en-US>
+    <it-IT>Forum III~un Forum III~Forum III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FORUM_4</zType>
+    <en-US>Forum IV~a Forum IV~Forums IV</en-US>
+    <it-IT>Forum IV~un Forum IV~Forum IV</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ARCHIVE_1</zType>
+    <en-US>Archive I~an Archive I~Archives I</en-US>
+    <it-IT>Archivio I~un Archivio I~Archivio I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ARCHIVE_2</zType>
+    <en-US>Archive II~an Archive II~Archives II</en-US>
+    <it-IT>Archivio II~un Archivio II~Archivio II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ARCHIVE_3</zType>
+    <en-US>Archive III~an Archive III~Archives III</en-US>
+    <it-IT>Archivio III~un Archivio III~Archivio III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ARCHIVE_4</zType>
+    <en-US>Archive IV~an Archive IV~Archives IV</en-US>
+    <it-IT>Archivio IV~un Archivio IV~Archivio IV</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DECREE_1</zType>
+    <en-US>Decree I~a Decree I~Decrees I</en-US>
+    <it-IT>Decreto I~un Decreto I~Decreti I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DECREE_2</zType>
+    <en-US>Decree II~a Decree II~Decrees II</en-US>
+    <it-IT>Decreto II~un Decreto II~Decreti II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DECREE_3</zType>
+    <en-US>Decree III~a Decree III~Decrees III</en-US>
+    <it-IT>Decreto III~un Decreto III~Decreti III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DECREE_4</zType>
+    <en-US>Decree IV~a Decree IV~Decrees IV</en-US>
+    <it-IT>Decreto IV~un Decreto IV~Decreti IV</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FESTIVAL</zType>
+    <en-US>Festival~a Festival~Festivals</en-US>
+    <it-IT>Festival~un Festival~Festival</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FESTIVAL_1</zType>
+    <en-US>Festival I~a Festival I~Festivals I</en-US>
+    <it-IT>Festival I~un Festival I~Festival I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FESTIVAL_2</zType>
+    <en-US>Festival II~a Festival II~Festivals II</en-US>
+    <it-IT>Festival II~un Festival II~Festival II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FESTIVAL_3</zType>
+    <en-US>Festival III~a Festival III~Festivals III</en-US>
+    <it-IT>Festival III~un Festival III~Festival III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FESTIVAL_4</zType>
+    <en-US>Festival IV~a Festival IV~Festivals IV</en-US>
+    <it-IT>Festival IV~un Festival IV~Festival IV</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_INQUIRY</zType>
+    <en-US>Inquiry~an Inquiry~Inquiries</en-US>
+    <it-IT>Richiesta di informazioni~un'inchiesta~Richieste di informazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_INQUIRY_1</zType>
+    <en-US>Inquiry I~an Inquiry I~Inquiries I</en-US>
+    <it-IT>Inchiesta I~un'inchiesta I~Richieste di informazioni I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_INQUIRY_2</zType>
+    <en-US>Inquiry II~an Inquiry II~Inquiries II</en-US>
+    <it-IT>Inchiesta II~un'inchiesta II~Richieste di informazioni II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_INQUIRY_3</zType>
+    <en-US>Inquiry III~an Inquiry III~Inquiries III</en-US>
+    <it-IT>Inchiesta III~un'inchiesta III~Richieste di informazioni III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_INQUIRY_4</zType>
+    <en-US>Inquiry IV~an Inquiry IV~Inquiries IV</en-US>
+    <it-IT>Inchiesta IV~un'inchiesta IV~Richieste di informazioni IV</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HUNT</zType>
+    <en-US>Hunt~a Hunt~Hunts</en-US>
+    <it-IT>Caccia~una Caccia~Caccia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HUNT_1</zType>
+    <en-US>Hunt I~a Hunt I~Hunts I</en-US>
+    <it-IT>Caccia I~una Caccia I~Caccia I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HUNT_2</zType>
+    <en-US>Hunt II~a Hunt II~Hunts II</en-US>
+    <it-IT>Caccia II~una caccia II~Caccia II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HUNT_3</zType>
+    <en-US>Hunt III~a Hunt III~Hunts III</en-US>
+    <it-IT>Caccia III~una Caccia III~Caccia III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HUNT_4</zType>
+    <en-US>Hunt IV~a Hunt IV~Hunts IV</en-US>
+    <it-IT>Caccia IV~una Caccia IV~Caccia IV</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_OLYMPICS</zType>
+    <en-US>Olympiad~an Olympiad~Olympiads</en-US>
+    <it-IT>Olimpiadi~un'Olimpiade~Olimpiadi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_OLYMPICS_1</zType>
+    <en-US>Olympiad I~an Olympiad I~Olympiads I</en-US>
+    <it-IT>Olimpiade I~un'Olimpiade I~Olimpiadi I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_OLYMPICS_2</zType>
+    <en-US>Olympiad II~an Olympiad II~Olympiads II</en-US>
+    <it-IT>Olimpiade II~olimpiade II~Olimpiadi II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_OLYMPICS_3</zType>
+    <en-US>Olympiad III~an Olympiad III~Olympiads III</en-US>
+    <it-IT>Olimpiade III~olimpiade III~Olimpiadi III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_OLYMPICS_4</zType>
+    <en-US>Olympiad IV~an Olympiad IV~Olympiads IV</en-US>
+    <it-IT>Olimpiade IV~olimpiade IV~Olimpiadi IV</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CONVOY</zType>
+    <en-US>Convoy~a Convoy~Convoys</en-US>
+    <it-IT>Convoglio~un convoglio~Convogli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CONVOY_1</zType>
+    <en-US>Convoy I~a Convoy I~Convoys I</en-US>
+    <it-IT>Convoglio I~un convoglio I~Convogli I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CONVOY_2</zType>
+    <en-US>Convoy II~a Convoy II~Convoys II</en-US>
+    <it-IT>Convoglio II~un Convoglio II~Convogli II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CONVOY_3</zType>
+    <en-US>Convoy III~a Convoy III~Convoys III</en-US>
+    <it-IT>Convoglio III~un Convoglio III~Convogli III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CONVOY_4</zType>
+    <en-US>Convoy IV~a Convoy IV~Convoys IV</en-US>
+    <it-IT>Convoglio IV~un Convoglio IV~Convogli IV</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_COUNCIL_1</zType>
+    <en-US>Council I~a Council I~Councils I</en-US>
+    <it-IT>Consiglio I~un Consiglio I~Consigli I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_COUNCIL_2</zType>
+    <en-US>Council II~a Council II~Councils II</en-US>
+    <it-IT>Consiglio II~un Consiglio II~Consigli II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_COUNCIL_3</zType>
+    <en-US>Council III~a Council III~Councils III</en-US>
+    <it-IT>Consiglio III~un Consiglio III~Consigli III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_COUNCIL_4</zType>
+    <en-US>Council IV~a Council IV~Councils IV</en-US>
+    <it-IT>Consiglio IV~un Consiglio IV~Consigli IV</it-IT>
+  </Entry>
+</Root>

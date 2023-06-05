@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_FAMILY_KUSSARAN</zType>
+    <en-US>Kussaran~Kussarans~Kussaran</en-US>
+    <it-IT>Kussaran~Kussarans~Kussaran</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILY_NENASSAN</zType>
+    <en-US>Nenassan~Nenassans~Nenassan</en-US>
+    <it-IT>Nenassan~Nenassani~Nenassan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILY_ZALPUWAN</zType>
+    <en-US>Zalpuwan~Zalpuwans~Zalpuwan</en-US>
+    <it-IT>Zalpuwan~Zalpuwans~Zalpuwan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILY_HATTUSAN</zType>
+    <en-US>Hattusan~Hattusans~Hattusan</en-US>
+    <it-IT>Hattusan~Hattusans~Hattusan</it-IT>
+  </Entry>
+</Root>

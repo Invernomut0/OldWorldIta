@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_MOUNT_HASAN</zType>
+    <en-US>Mount Hasan</en-US>
+    <it-IT>Monte Hasan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MYSIAN_OLYMPUS</zType>
+    <en-US>Mysian Olympus</en-US>
+    <it-IT>L'Olimpo dei Miasmi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ZULIYA</zType>
+    <en-US>Zuliya River</en-US>
+    <it-IT>Fiume Zuliya</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KUMMESMAHA</zType>
+    <en-US>Kummesmaha River</en-US>
+    <it-IT>Fiume Kummesmaha</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PYRAMUS_RIVER</zType>
+    <en-US>Pyramus River</en-US>
+    <it-IT>Fiume Pyramus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ADANA_SWEETGUM_FOREST</zType>
+    <en-US>Adana Sweetgum Forest</en-US>
+    <it-IT>Foresta di meliloto di Adana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EASTERN_ANATOLIAN_MONTANE_STEPPE</zType>
+    <en-US>Eastern Anatolian Montane Steppe</en-US>
+    <it-IT>Steppa montana dell'Anatolia orientale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KONYA_PLAINS</zType>
+    <en-US>Konya Plain</en-US>
+    <it-IT>Pianura di Konya</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IHLARA_VALLEY</zType>
+    <en-US>Peristrema Valley</en-US>
+    <it-IT>Valle di Peristream</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SOGANLI_VALLEY</zType>
+    <en-US>Cappadocian Valley</en-US>
+    <it-IT>Valle della Cappadocia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ZALPUWA</zType>
+    <en-US>Zalpuwa</en-US>
+    <it-IT>Zalpuwa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LEVANTINE_SEA</zType>
+    <en-US>Leventine Sea</en-US>
+    <it-IT>Mare Leventino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MARANDYNIAN_BAY</zType>
+    <en-US>Marandynian Bay</en-US>
+    <it-IT>Baia di Marandynian</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_ANTALYA</zType>
+    <en-US>Gulf of Attaleia</en-US>
+    <it-IT>Golfo di Attaleia</it-IT>
+  </Entry>
+</Root>

@@ -1,0 +1,5673 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_GENERIC_CONFIRM</zType>
+    <en-US>Confirm</en-US>
+    <it-IT>Confermare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_YES</zType>
+    <en-US>Yes</en-US>
+    <it-IT>Sì</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_CANCEL</zType>
+    <en-US>Cancel</en-US>
+    <it-IT>Annullamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_OK</zType>
+    <en-US>Ok</en-US>
+    <it-IT>Ok</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GENERIC_NONE</zType>
+    <en-US>None</en-US>
+    <it-IT>Nessuno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAILED_LOAD_SAVE</zType>
+    <en-US>Failed to load save. Specified file is either invalid or no longer compatible</en-US>
+    <it-IT>Impossibile caricare il salvataggio. Il file specificato non è valido o non è più compatibile.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAILED_LOAD_LOCKED_SAVE</zType>
+    <en-US>Failed to load save. Specified file is either invalid or was started with the "Locked Save" option enabled and the file has subsequently been modified</en-US>
+    <it-IT>Non è riuscito a caricare il salvataggio. Il file specificato non è valido oppure è stato avviato con l'opzione "Salvataggio bloccato" attivata e il file è stato successivamente modificato.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REDRAW_TECH</zType>
+    <en-US>Redraw</en-US>
+    <it-IT>Ridisegnare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TRIBE_TURN</zType>
+    <en-US>{0} Turn</en-US>
+    <it-IT>{0} Turni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TRIBAL_TURN</zType>
+    <en-US>Tribal Turn</en-US>
+    <it-IT>Turno tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YOUR_TURN</zType>
+    <en-US>Your Turn</en-US>
+    <it-IT>Il vostro turno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SIMULTANEOUS_TURN</zType>
+    <en-US>Simultaneous</en-US>
+    <it-IT>Simultaneo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SIMULTANEOUS_TURNS_LEFT</zType>
+    <en-US>Simultaneous ({0} Left)</en-US>
+    <it-IT>Simultaneo ({0} Left)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_ENDED</zType>
+    <en-US>Turn Ended</en-US>
+    <it-IT>Fine Turno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_THEIR_TURN</zType>
+    <en-US>{0_player}'s Turn{true_1: ({1_orders}{YIELD_ORDERS})}</en-US>
+    <it-IT>Il turno di {0_player}{true_1: ({1_orders}{YIELD_ORDERS})}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_HOTSEAT_PLAYER</zType>
+    <en-US>{0} in the hotseat!</en-US>
+    <it-IT>{0} nel posto caldo!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RIVALS_TURN</zType>
+    <en-US>Rival's Turn</en-US>
+    <it-IT>Il turno del rivale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YEAR_ENDED</zType>
+    <en-US>{0_turnScale} Ended</en-US>
+    <it-IT>{0_turnScale} Terminato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_END_YEAR</zType>
+    <en-US>End {0_turnScale}</en-US>
+    <it-IT>Fine {0_turnScale}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IDLE_LABEL_NEXT_UNIT</zType>
+    <en-US>Next Unit</en-US>
+    <it-IT>Unità successiva</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IDLE_LABEL_MOVE_UNIT</zType>
+    <en-US>Move Unit</en-US>
+    <it-IT>Spostare l'unità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IDLE_LABEL_CHOOSE_PRODUCTION</zType>
+    <en-US><![CDATA[Choose Production<br><color=#e3c08c>({0_city})</color>]]></en-US>
+    <it-IT><![CDATA[Scegliere la produzione<br><color=#e3c08c>({0_city})</color>]]></it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IDLE_LABEL_OPEN_CITY</zType>
+    <en-US><![CDATA[Open City<br><color=#e3c08c>({0_city})</color>]]></en-US>
+    <it-IT><![CDATA[Città aperta<br><color=#e3c08c>({0_city})</color>]]></it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TURN_SUMMARY</zType>
+    <en-US>TURN SUMMARY</en-US>
+    <it-IT>SINTESI DEL TURNO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_POPUP_MESSAGE</zType>
+    <en-US>POPUP MESSAGE</en-US>
+    <it-IT>MESSAGGIO POPUP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_ACHIEVEMENT</zType>
+    <en-US>ACHIEVEMENT</en-US>
+    <it-IT>RAGGIUNGIMENTO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CHARACTER_SUCCESSION</zType>
+    <en-US>SUCCESSION</en-US>
+    <it-IT>SUCCESSIONE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_DO_BONUS</zType>
+    <en-US>BONUS EFFECTS</en-US>
+    <it-IT>EFFETTI BONUS</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GOAL_STARTED</zType>
+    <en-US>GOAL STARTED</en-US>
+    <it-IT>OBIETTIVO INIZIATO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GOAL_FINISHED</zType>
+    <en-US>GOAL FINISHED</en-US>
+    <it-IT>OBIETTIVO FINITO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GOAL_FAILED</zType>
+    <en-US>GOAL FAILED</en-US>
+    <it-IT>OBIETTIVO FALLITO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_MAKE_LEGACY</zType>
+    <en-US>MAKE LEGACY</en-US>
+    <it-IT>CREARE UNA LEGGENDA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_COURTIER</zType>
+    <en-US>NEW COURTIER</en-US>
+    <it-IT>NUOVO CORTIERE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_RELIGION_FOUNDED</zType>
+    <en-US>RELIGION FOUNDED</en-US>
+    <it-IT>RELIGIONE FONDATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_THEOLOGY_ESTABLISHED</zType>
+    <en-US>THEOLOGY ESTABLISHED</en-US>
+    <it-IT>TEOLOGIA STABILITA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_RELIGION_SPREAD</zType>
+    <en-US>RELIGION SPREAD</en-US>
+    <it-IT>DIFFUSIONE DELLA RELIGIONE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TRIBE_CONTACT</zType>
+    <en-US>TRIBE CONTACT</en-US>
+    <it-IT>CONTATTO TRIBUTO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TRIBE_DIPLOMACY</zType>
+    <en-US>TRIBE DIPLOMACY</en-US>
+    <it-IT>DIPLOMAZIA DELLE TRIBÙ</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TEAM_CONTACT</zType>
+    <en-US>NATIONAL CONTACT</en-US>
+    <it-IT>CONTATTO NAZIONALE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TEAM_DIPLOMACY</zType>
+    <en-US>NATIONAL DIPLOMACY</en-US>
+    <it-IT>DIPLOMAZIA NAZIONALE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_TECH_DISCOVERED</zType>
+    <en-US>TECHNOLOGY DISCOVERED</en-US>
+    <it-IT>TECNOLOGIA SCOPERTA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_RESOURCE_SHORTFALL</zType>
+    <en-US>RESOURCE SHORTFALL</en-US>
+    <it-IT>CARENZA DI RISORSE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_COVER_DEBT</zType>
+    <en-US>COVER DEBT</en-US>
+    <it-IT>COPRIRE IL DEBITO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GIFT_ORDERS</zType>
+    <en-US>GIFT ORDERS</en-US>
+    <it-IT>ORDINI REGALO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_MAX_ORDERS</zType>
+    <en-US>MAX ORDERS</en-US>
+    <it-IT>ORDINI MAX</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_MAX_CIVICS</zType>
+    <en-US>MAX CIVICS</en-US>
+    <it-IT>MAX CIVICA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_MAX_TRAINING</zType>
+    <en-US>MAX TRAINING</en-US>
+    <it-IT>FORMAZIONE MAX</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GENERAL_INJURY</zType>
+    <en-US>GENERAL INJURY</en-US>
+    <it-IT>INFORTUNIO GENERALE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_ATTACKED</zType>
+    <en-US>UNIT ATTACKED</en-US>
+    <it-IT>UNITÀ ATTACCATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_KILLED</zType>
+    <en-US>UNIT KILLED</en-US>
+    <it-IT>UNITÀ UCCISA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_CAPTURED</zType>
+    <en-US>UNIT CAPTURED</en-US>
+    <it-IT>UNITÀ CATTURATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_REBELLED</zType>
+    <en-US>UNIT REBELLED</en-US>
+    <it-IT>UNITÀ RIBELLE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_SEEN</zType>
+    <en-US>UNIT SEEN</en-US>
+    <it-IT>UNITÀ VISTA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_UNIT_QUEUE_CANCELLED</zType>
+    <en-US>UNIT QUEUE CANCELLED</en-US>
+    <it-IT>CODA DI UNITÀ ANNULLATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_ATTACKED</zType>
+    <en-US>CITY ATTACKED</en-US>
+    <it-IT>CITTÀ ATTACCATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_DAMAGED</zType>
+    <en-US>CITY DAMAGED</en-US>
+    <it-IT>CITTÀ DANNEGGIATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_CAPTURED</zType>
+    <en-US>CITY CAPTURED</en-US>
+    <it-IT>CITTÀ CATTURATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_RAZED</zType>
+    <en-US>CITY RAZED</en-US>
+    <it-IT>CITTÀ RASA AL SUOLO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_FOUNDED</zType>
+    <en-US>CITY FOUNDED</en-US>
+    <it-IT>CITTÀ FONDATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_EVENT</zType>
+    <en-US>CITY EVENT</en-US>
+    <it-IT>EVENTO CITTADINO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_PRODUCTION</zType>
+    <en-US>CITY PRODUCTION</en-US>
+    <it-IT>PRODUZIONE CITTADINA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_BREACHED</zType>
+    <en-US>CITY BREACHED</en-US>
+    <it-IT>CITTÀ VIOLATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_CANCELLED</zType>
+    <en-US>CITY CANCELLED</en-US>
+    <it-IT>CITTÀ ANNULLATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CITY_WARNING</zType>
+    <en-US>CITY WARNING</en-US>
+    <it-IT>AVVISO ALLA CITTA'</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CAMP_DESTROYED</zType>
+    <en-US>CAMP DESTROYED</en-US>
+    <it-IT>CAMPO DISTRUTTO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_IMPROVEMENT_FINISHED</zType>
+    <en-US>IMPROVEMENT FINISHED</en-US>
+    <it-IT>MIGLIORAMENTO FINITO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_IMPROVEMENT_PILLAGED</zType>
+    <en-US>IMPROVEMENT PILLAGED</en-US>
+    <it-IT>MIGLIORAMENTO SACCHEGGIATO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_WONDER_ACTIVITY</zType>
+    <en-US>WONDER ACTIVITY</en-US>
+    <it-IT>ATTIVITÀ DI MERAVIGLIA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CARAVAN_MISSION</zType>
+    <en-US>CARAVAN MISSION</en-US>
+    <it-IT>MISSIONE CAROVANA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_LAUNCH_OFFENSIVE</zType>
+    <en-US>LAUNCH OFFENSIVE</en-US>
+    <it-IT>LANCIARE L'OFFENSIVA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_OFFENSIVE_LAUNCHED</zType>
+    <en-US>OFFENSIVE LAUNCHED</en-US>
+    <it-IT>OFFENSIVA LANCIATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GIFT_GOOD</zType>
+    <en-US>GIFT GOOD</en-US>
+    <it-IT>BUONO REGALO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GIFT_PLAYER_UNIT</zType>
+    <en-US>GIFT UNIT</en-US>
+    <it-IT>UNITÀ REGALO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_GIFT_PLAYER_CITY</zType>
+    <en-US>GIFT CITY</en-US>
+    <it-IT>CITTA' DEL REGALO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_MISSION_CANCELLED</zType>
+    <en-US>MISSION CANCELLED</en-US>
+    <it-IT>MISSIONE ANNULLATA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CHARACTER_ADULT</zType>
+    <en-US>CHARACTER ADULTHOOD</en-US>
+    <it-IT>CARATTERE ETÀ ADULTA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CHARACTER_BIRTH</zType>
+    <en-US>CHARACTER BIRTH</en-US>
+    <it-IT>NASCITA DEL PERSONAGGIO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CHARACTER_MARRIAGE</zType>
+    <en-US>CHARACTER MARRIAGE</en-US>
+    <it-IT>MATRIMONIO DI CARATTERE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_CHARACTER_DEATH</zType>
+    <en-US>CHARACTER DEATH</en-US>
+    <it-IT>MORTE DEL PERSONAGGIO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_PING</zType>
+    <en-US>PING</en-US>
+    <it-IT>PING</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_EVENT_STORY</zType>
+    <en-US>NEW EVENT</en-US>
+    <it-IT>NUOVO EVENTO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_DISMISS_TOOLTIP</zType>
+    <en-US>{TEXT_HOTKEY_RIGHT_CLICK} to dismiss this notification{br}{TEXT_HOTKEY_CTRL_RIGHT_CLICK} to dismiss all notifications</en-US>
+    <it-IT>{TEXT_HOTKEY_RIGHT_CLICK} per eliminare questa notifica{br}{TEXT_HOTKEY_CTRL_RIGHT_CLICK} per eliminare tutte le notifiche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_FINISHED</zType>
+    <en-US>{0} Finished</en-US>
+    <it-IT>{0} Finito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_CITY_GOVERNOR</zType>
+    <en-US>Governors Available ({0_count})</en-US>
+    <it-IT>Governatori disponibili ({0_count})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_CITY_AGENT</zType>
+    <en-US>Agents Available ({0_count})</en-US>
+    <it-IT>Agenti disponibili ({0_count})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_AGENT_MISSION</zType>
+    <en-US>Idle Agents ({0_count})</en-US>
+    <it-IT>Agenti inattivi ({0_count})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_COUNCIL_CHARACTER</zType>
+    <en-US>Councillors Available ({0_count})</en-US>
+    <it-IT>Consiglieri disponibili ({0_count})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_COUNCIL_MISSION</zType>
+    <en-US>Idle Councillors ({0_count})</en-US>
+    <it-IT>Consiglieri inattivi ({0_count})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_TUTOR</zType>
+    <en-US>Tutoring Available ({0_count})</en-US>
+    <it-IT>Tutoraggio disponibile ({0_count})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_FAMILY_RELIGION_HEAD</zType>
+    <en-US>Idle Family/Religion Heads ({0_count})</en-US>
+    <it-IT>Teste oziose di famiglia/religione ({0_count})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_LEADER</zType>
+    <en-US>Idle Leader ({0_count})</en-US>
+    <it-IT>Leader inattivo ({0_count})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_LUXURIES_AVAILABLE</zType>
+    <en-US>Luxuries are available to be sent to a nation, tribe, family, or city</en-US>
+    <it-IT>I beni di lusso possono essere inviati a una nazione, tribù, famiglia o città.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_LUXURIES</zType>
+    <en-US>Luxuries ({0_count})</en-US>
+    <it-IT>Lusso ({0_count})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_LAWS</zType>
+    <en-US>Laws Available ({0_count})</en-US>
+    <it-IT>Leggi disponibili ({0_count})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_LAWS_AVAILABLE</zType>
+    <en-US>New laws are available to adopt</en-US>
+    <it-IT>Sono disponibili nuove leggi da adottare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CUSTOM_REMINDER</zType>
+    <en-US>Custom Reminder</en-US>
+    <it-IT>Promemoria personalizzato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_TITLE</zType>
+    <en-US>Mare incognitum</en-US>
+    <it-IT>Mare incognitum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_WATER_BODY</zType>
+    <en-US>HIC SUNT DRACONES</en-US>
+    <it-IT>HIC SUNT DRACONES</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_TITLE</zType>
+    <en-US>Terra incognita</en-US>
+    <it-IT>Terra incognita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TILE_BOUNDARY_TOOLTIP_LAND_BODY</zType>
+    <en-US>HIC SUNT LEONES</en-US>
+    <it-IT>HIC SUNT LEONES</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_CAPTURING</zType>
+    <en-US>Capturing ({true_1:PAUSED:{0_player}})</en-US>
+    <it-IT>Cattura di ({true_1:PAUSED:{0_player}})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_FAMILY</zType>
+    <en-US>Family</en-US>
+    <it-IT>Famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_REBEL_PROB</zType>
+    <en-US>link(TRIBE_REBELS) Probability</en-US>
+    <it-IT>link(TRIBE_REBELS) Probabilità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_GOVERNOR</zType>
+    <en-US>Governor</en-US>
+    <it-IT>Governatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_HP</zType>
+    <en-US>HP</en-US>
+    <it-IT>HP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_STRENGTH</zType>
+    <en-US>Defense</en-US>
+    <it-IT>Difesa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_CITIZENS</zType>
+    <en-US>{singular_1:{0,2}:{0,2}}</en-US>
+    <it-IT>{singular_1:{0,2}:{0,2}}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_RELIGIONS</zType>
+    <en-US>Religions</en-US>
+    <it-IT>Religioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_TOOLTIP_ID</zType>
+    <en-US>ID</en-US>
+    <it-IT>ID</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IMPROVEMENT_ACTION_REMOVE_VEGETATION_TITLE</zType>
+    <en-US>Remove {0}</en-US>
+    <it-IT>Rimuovere {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IMPROVEMENT_ACTION_BUILD_ROAD_TITLE</zType>
+    <en-US>Build Road</en-US>
+    <it-IT>Costruire la strada</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_IMPROVEMENT_ACTION_MAKE_URBAN_TITLE</zType>
+    <en-US>Make link(CONCEPT_URBAN)</en-US>
+    <it-IT>Fare link(CONCEPT_URBAN)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TOOLTIP_PROGRESS</zType>
+    <en-US>Progress: {0}</en-US>
+    <it-IT>Progressi: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_BASE</zType>
+    <en-US>Base</en-US>
+    <it-IT>Base</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL</zType>
+    <en-US>General</en-US>
+    <it-IT>Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_OPINION</zType>
+    <en-US>General ({0_opinion})</en-US>
+    <it-IT>Generale ({0_opinion})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_ENEMY_DEFENSE</zType>
+    <en-US>General  icon(Icon_Defense)</en-US>
+    <it-IT>Icona generale(Icon_Defense)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_WATER_VS_LAND</zType>
+    <en-US>Water-vs-Land</en-US>
+    <it-IT>Acqua-vs-Terra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_LAND_VS_WATER</zType>
+    <en-US>Land-vs-Water</en-US>
+    <it-IT>Terra-vs-Acqua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_AI_MODIFIER</zType>
+    <en-US>AI vs. {0}</en-US>
+    <it-IT>AI contro {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_DISTANCE</zType>
+    <en-US>Distance</en-US>
+    <it-IT>Distanza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_ATTACK</zType>
+    <en-US>Attack</en-US>
+    <it-IT>Attacco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_DEFENSE</zType>
+    <en-US>Defense</en-US>
+    <it-IT>Difesa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FORTIFY</zType>
+    <en-US>Fortify</en-US>
+    <it-IT>Fortificare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_TESTUDO</zType>
+    <en-US>link(CONCEPT_TESTUDO)</en-US>
+    <it-IT>link(CONCEPT_TESTUDO)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_UNLIMBERED</zType>
+    <en-US>link(CONCEPT_UNLIMBERED)</en-US>
+    <it-IT>link(CONCEPT_UNLIMBERED)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FAMILY_TERRITORY</zType>
+    <en-US>{0_family} Territory</en-US>
+    <it-IT>{0_family} Territorio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_CRITICAL_CHANCE</zType>
+    <en-US>Critical Chance</en-US>
+    <it-IT>Occasione critica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_IMMUNE</zType>
+    <en-US>Immune</en-US>
+    <it-IT>Immunità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ATTACK_PREVIEW_POPULATION</zType>
+    <en-US>Population</en-US>
+    <it-IT>Popolazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_ATTACK_PREVIEW_COUNTER_DAMAGE</zType>
+    <en-US>Counterattack</en-US>
+    <it-IT>Contrattacco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_ATTACK_PREVIEW_DAMAGE</zType>
+    <en-US>Attack Damage</en-US>
+    <it-IT>Danno da attacco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_COOLDOWN_FATIGUED</zType>
+    <en-US>Fatigued</en-US>
+    <it-IT>Affaticato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_PANEL_TECH_DISCOVERED</zType>
+    <en-US>{0} Discovered</en-US>
+    <it-IT>{0} Scoperto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_PANEL_CHOOSE_RESEARCH</zType>
+    <en-US>Choose Research</en-US>
+    <it-IT>Scegliere la ricerca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_LEVEL</zType>
+    <en-US>LVL {0}</en-US>
+    <it-IT>LVL {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_SELECTION_MAX_LEVEL</zType>
+    <en-US>MAX LVL</en-US>
+    <it-IT>LVL MAX</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_SELECTION_PROJECTS_TAB_LABEL</zType>
+    <en-US>Projects:  </en-US>
+    <it-IT>Progetti:  </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_SELECTION_CITIZENS_TAB_LABEL</zType>
+    <en-US>Citizens  {0}</en-US>
+    <it-IT>Cittadini {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_SELECTION_HURRY_PRODUCTION</zType>
+    <en-US>Hurry Production</en-US>
+    <it-IT>Affrettatevi a produrre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_COURTIER</zType>
+    <en-US>Courtier</en-US>
+    <it-IT>Cortigiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_GENERAL_UNIT</zType>
+    <en-US>Unit: {0}</en-US>
+    <it-IT>Unità: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_GOVERNING_CITY</zType>
+    <en-US>City: {0}</en-US>
+    <it-IT>Città: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_SELECTION_CITY_AGENT</zType>
+    <en-US>Agent: {0}</en-US>
+    <it-IT>Agente: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_WAKE</zType>
+    <en-US>Wake</en-US>
+    <it-IT>Veglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_PASS</zType>
+    <en-US>Pass</en-US>
+    <it-IT>Pass</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_SLEEP</zType>
+    <en-US>Sleep</en-US>
+    <it-IT>Dormire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_SENTRY</zType>
+    <en-US>Sentry</en-US>
+    <it-IT>Sentinella</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_DISBAND</zType>
+    <en-US>Disband</en-US>
+    <it-IT>Sciogliersi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_UPGRADE</zType>
+    <en-US>Upgrade</en-US>
+    <it-IT>Aggiornamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ACTIONS_PROMOTE</zType>
+    <en-US>Promote</en-US>
+    <it-IT>Promuovere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_LEVEL</zType>
+    <en-US>{0} LVL</en-US>
+    <it-IT>{0} LVL</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_BUILD_UNIT_XP</zType>
+    <en-US>{0} XP</en-US>
+    <it-IT>{0} XP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_GROWTH</zType>
+    <en-US>Growth</en-US>
+    <it-IT>Crescita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_TRAINING</zType>
+    <en-US>Training</en-US>
+    <it-IT>Formazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_PROJECTS</zType>
+    <en-US>Civics: Projects</en-US>
+    <it-IT>Educazione civica: Progetti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_PRODUCTION_CATEGORY_SPECIALISTS</zType>
+    <en-US>Civics: Specialists</en-US>
+    <it-IT>Educazione civica: Specialisti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_ACTIONS_SPECIALIST_AVAILABLE_RESOURCES</zType>
+    <en-US>Potential Resources: {0_luxuryList}</en-US>
+    <it-IT>Risorse potenziali: {0_luxuryList}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_ACTIVE_MISSION</zType>
+    <en-US>{0} (ACTIVE, {1})</en-US>
+    <it-IT>{0} (ACTIVE, {1})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_LEAVE</zType>
+    <en-US>Leave {0}</en-US>
+    <it-IT>Lasciare {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVES_TITLE</zType>
+    <en-US>Living Relatives</en-US>
+    <it-IT>Parenti vivi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_HEAD</zType>
+    <en-US>Family Head</en-US>
+    <it-IT>Capofamiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_LIVING_MEMBERS_TITLE</zType>
+    <en-US>Living Members</en-US>
+    <it-IT>Membri vivi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_FAMILY_ACTIONS_CITIES_TITLE</zType>
+    <en-US>Cities</en-US>
+    <it-IT>Città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RELIGION_HEAD</zType>
+    <en-US>Religion Head</en-US>
+    <it-IT>Religione Capo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_PLAYER_SUCCESSION</zType>
+    <en-US>icon(LINE_OF_SUCCESSION) Line of Succession</en-US>
+    <it-IT>icon(LINE_OF_SUCCESSION) Linea di successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_PLAYER_LEADER</zType>
+    <en-US>Leader</en-US>
+    <it-IT>Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UPGRADE_TO</zType>
+    <en-US>Upgrade to {0}</en-US>
+    <it-IT>Aggiornamento a {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GOAL_PANEL_YEARS_LEFT_LEGACY</zType>
+    <en-US>{0_character}{true_1: {1_cognomen}}'s link(CONCEPT_LEGACY): {2_turnsVariable}</en-US>
+    <it-IT>{0_character}{true_1: {1_cognomen}} di link(CONCEPT_LEGACY): {2_turnsVariable}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITY_LIST_IDLE</zType>
+    <en-US>Idle</en-US>
+    <it-IT>Inattivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_BUILD_COMPLETED</zType>
+    <en-US>{0} Completed</en-US>
+    <it-IT>{0} Completato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_COMPLETED_BUILDS_IDLE</zType>
+    <en-US>Idle City</en-US>
+    <it-IT>Città oziosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHAT_TEAM</zType>
+    <en-US>Team</en-US>
+    <it-IT>Squadra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHAT_ALL</zType>
+    <en-US>All</en-US>
+    <it-IT>Tutti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHAT_CLEAR</zType>
+    <en-US>Clear</en-US>
+    <it-IT>Libero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TEXT_LOCAL_TIME</zType>
+    <en-US>{0} ({1_time})</en-US>
+    <it-IT>{0} ({1_time})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TEXT_YEAR</zType>
+    <en-US>Year {0}{true_1: / {1}}</en-US>
+    <it-IT>Anno {0}{true_1: / {1}}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TEXT_SCALE</zType>
+    <en-US>{0}, Year {1}{true_2: ({2} Turns)}</en-US>
+    <it-IT>{0}, Anno {1}{true_2: ({2} Giri)}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TEXT_TURN_MAX</zType>
+    <en-US>{0}/{1}</en-US>
+    <it-IT>{0}/{1}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_TIMER_PAUSED</zType>
+    <en-US>{0} (PAUSED)</en-US>
+    <it-IT>{0} (PAUSED)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TURN_LOCKED</zType>
+    <en-US>TURN LOCKED</en-US>
+    <it-IT>TURNI BLOCCATI</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_WINNER_ROSTER_VICTORY</zType>
+    <en-US>VICTORY!</en-US>
+    <it-IT>VITTORIA!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_WINNER_ROSTER_VICTORY_ALLIANCE</zType>
+    <en-US>ALLIANCE VICTORY!</en-US>
+    <it-IT>VITTORIA DELL'ALLEANZA!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_WINNER_ROSTER_LOSS</zType>
+    <en-US>DEFEAT!</en-US>
+    <it-IT>SCONFITTO!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MAX_CITIES</zType>
+    <en-US>Max {singular_1:City:Cities}: {0}/{1}</en-US>
+    <it-IT>Max {singular_1:City:Cities}: {0}/{1}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_CITY_POPUP</zType>
+    <en-US>Rename City</en-US>
+    <it-IT>Rinominare la città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_UNIT_POPUP</zType>
+    <en-US>Rename Unit</en-US>
+    <it-IT>Rinominare l'unità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_RELIGION_POPUP</zType>
+    <en-US>Rename Religion</en-US>
+    <it-IT>Rinominare la religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_PLAYER_POPUP</zType>
+    <en-US>Rename Current Player</en-US>
+    <it-IT>Rinominare il giocatore corrente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RENAME_CHARACTER</zType>
+    <en-US>Rename {0}</en-US>
+    <it-IT>Rinominare {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_PLAYER_EMAIL_NOTIFICATIONS</zType>
+    <en-US>Enter an email to receive notifications when it's your turn</en-US>
+    <it-IT>Inserite un'email per ricevere le notifiche quando è il vostro turno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_BORDER_GROWTH</zType>
+    <en-US>Border Growth</en-US>
+    <it-IT>Crescita del confine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_UNAVAILABLE</zType>
+    <en-US>Unavailable</en-US>
+    <it-IT>Non disponibile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_CURRENTLY_AVAILABLE</zType>
+    <en-US>Tech Currently Available!</en-US>
+    <it-IT>Tecnologia attualmente disponibile!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_ACQUIRED</zType>
+    <en-US>Tech Acquired</en-US>
+    <it-IT>Tecnologia acquisita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_RESEARCHING</zType>
+    <en-US>Researching...</en-US>
+    <it-IT>Ricerca...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_DRAW_PILE</zType>
+    <en-US>In the Draw Pile</en-US>
+    <it-IT>Nel mucchio dei sorteggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_DISCARD_PILE</zType>
+    <en-US>In the Discard Pile</en-US>
+    <it-IT>Nel mucchio degli scarti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_TECH_TARGETED</zType>
+    <en-US>Tech is Targeted</en-US>
+    <it-IT>La tecnologia è mirata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_TARGETED_PREREQ</zType>
+    <en-US>Prerequisite for a targeted tech</en-US>
+    <it-IT>Prerequisito per una tecnologia mirata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_LUXURIES_HELP</zType>
+    <en-US>link(CONCEPT_LUXURY) can be given to link(CONCEPT_NATION,2), link(CONCEPT_TRIBE,2), and link(CONCEPT_FAMILY,2) to improve Opinion. They also can be given to Cities to reduce link(YIELD_DISCONTENT). Luxuries are unlocked by constructing Specialists on Improvements. For example, the link(RESOURCE_HONEY) Luxury comes from link(SPECIALIST_GARDENER,1) on link(IMPROVEMENT_GROVE,1).</en-US>
+    <it-IT>I link(CONCEPT_LUXURY) possono essere dati a link(CONCEPT_NATION,2), link(CONCEPT_TRIBE,2) e link(CONCEPT_FAMILY,2) per migliorare l'Opinione. Possono anche essere dati alle Città per ridurre link(YIELD_DISCONTENT). I lussi si sbloccano costruendo Specialisti sui Miglioramenti. Ad esempio, il link(RESOURCE_HONEY) Lusso deriva da link(SPECIALIST_GARDENER,1) su link(IMPROVEMENT_GROVE,1).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_LUXURIES_NONE</zType>
+    <en-US>None Available</en-US>
+    <it-IT>Nessuno disponibile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_TRADABLE</zType>
+    <en-US>Tradable: {0_resource}{true_1: (x{1})}</en-US>
+    <it-IT>Negoziabile: {0_resource}{true_1: (x{1})}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_AMBITION_DESIRED_BY_FAMILY</zType>
+    <en-US>{0} (desired by {1_family} {2_class})</en-US>
+    <it-IT>{0} (desired by {1_family} {2_class})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_WON_GAME</zType>
+    <en-US>[Won Game]</en-US>
+    <it-IT>[Partita vinta]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_WON_GAME_ALLIANCE</zType>
+    <en-US>[Ally Won Game]</en-US>
+    <it-IT>[Gioco vinto dagli alleati]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_LOST_GAME</zType>
+    <en-US>[Lost Game]</en-US>
+    <it-IT>[Partita persa]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_DISCOVERED</zType>
+    <en-US>[{0} Discovered]</en-US>
+    <it-IT>[{0} Scoperto]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_RELIGION_FOUNDED</zType>
+    <en-US>[{0_religion} Founded]</en-US>
+    <it-IT>[{0_religion} Fondato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_RELIGION_SPREAD</zType>
+    <en-US>[{0_religion} Spreads to {1_city}]</en-US>
+    <it-IT>[{0_religion} si allarga a {1_city}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_RELIGION_REMOVED</zType>
+    <en-US>[{0_religion} Removed from {1_city}]</en-US>
+    <it-IT>[{0_religion} Rimosso da {1_city}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_THEOLOGY_ESTABLISHED</zType>
+    <en-US>[{1_theology} Established for {0_religion}]</en-US>
+    <it-IT>[{1_theology} Stabilito per {0_religion}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_TRIBE_CONTACTED</zType>
+    <en-US>[{0_tribe} Contacted]</en-US>
+    <it-IT>[{0_tribe} Contattato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_PLAYER_CONTACTED</zType>
+    <en-US>[{0_player} Contacted]</en-US>
+    <it-IT>[{0_player} Contattato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CITY_FOUNDED</zType>
+    <en-US>[{0_city} Founded]</en-US>
+    <it-IT>[{0_city} Fondato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CITY_LOST</zType>
+    <en-US>[{0_city} Lost]</en-US>
+    <it-IT>[{0_city} Perso]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CITY_BREACHED</zType>
+    <en-US>[{0_city} Breached]</en-US>
+    <it-IT>[{0_city}Violato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CITY_RAZED</zType>
+    <en-US>[City Razed at {0_tilePosition}]</en-US>
+    <it-IT>[Città rasa al suolo a {0_tilePosition}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CULTURE_EVENT</zType>
+    <en-US>[{0} {1} in {2}]</en-US>
+    <it-IT>[{0} {1} in {2}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_X_FINISHED</zType>
+    <en-US>[{0} Finished]</en-US>
+    <it-IT>[{0} Finito]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_IMPROVEMENT_PILLAGED</zType>
+    <en-US>[link(CONCEPT_IMPROVEMENT) Pillaged]</en-US>
+    <it-IT>[link(CONCEPT_IMPROVEMENT) Saccheggiato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_AMBITION_FINISHED</zType>
+    <en-US>[Ambition Finished: {0}]</en-US>
+    <it-IT>[Ambizione conclusa: {0}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GOAL_FINISHED</zType>
+    <en-US>[Goal Finished: {0}]</en-US>
+    <it-IT>[Obiettivo Finito: {0}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GOAL_FAILED</zType>
+    <en-US>[Goal Failed: {0}]</en-US>
+    <it-IT>[Obiettivo fallito: {0}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_MISSION_FINISHED</zType>
+    <en-US>[Mission Finished: {0}]</en-US>
+    <it-IT>[Missione conclusa: {0}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_MARRIES</zType>
+    <en-US>[{0} Marries {1}]</en-US>
+    <it-IT>[{0} sposa {1}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_BORN</zType>
+    <en-US>[{0} Born]</en-US>
+    <it-IT>[{0} Nato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_DIES</zType>
+    <en-US>[{0} Dies]</en-US>
+    <it-IT>[{0} Muore]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_UPGRADE_CHARACTER</zType>
+    <en-US>[Upgrade {0}]</en-US>
+    <it-IT>[Aggiornamento {0}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_ADULT</zType>
+    <en-US>[{0} Becomes Adult]</en-US>
+    <it-IT>[{0}diventa adulto]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_COURTIER</zType>
+    <en-US>[{0} Becomes {1_courtier}]</en-US>
+    <it-IT>[{0} Diventa {1_courtier}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_ADOPTED</zType>
+    <en-US>[{0} Adopted]</en-US>
+    <it-IT>[{0} Adottato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_DIVORCES</zType>
+    <en-US>[{0} Divorces {1}]</en-US>
+    <it-IT>[{0} Divorzi {1}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_COGNOMEN</zType>
+    <en-US>[{0} Becomes {1}]</en-US>
+    <it-IT>[{0} Diventa {1}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_SUCCESSION</zType>
+    <en-US>[Succession: {0}]</en-US>
+    <it-IT>[Successione: {0}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_UNIT_COMBAT</zType>
+    <en-US>[{0} Attacks {1}]</en-US>
+    <it-IT>[{0} Attacca {1}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_UNIT_COMBAT_EMPTY</zType>
+    <en-US>[Unit Combat]</en-US>
+    <it-IT>[Combattimento tra unità]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_ATTACKED_CITY</zType>
+    <en-US>[Attacked {0}]</en-US>
+    <it-IT>[Attaccato {0}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CITY_ATTACKED</zType>
+    <en-US>[{0} Attacked]</en-US>
+    <it-IT>[{0} Attaccato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_KILLED_UNIT</zType>
+    <en-US>[Killed Unit]</en-US>
+    <it-IT>[Unità uccisa]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_UNIT_KILLED</zType>
+    <en-US>[Unit Killed]</en-US>
+    <it-IT>[Unità uccisa]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GENERAL_ATTACK</zType>
+    <en-US>[Attacked with General]</en-US>
+    <it-IT>[Attaccato con il Generale]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GENERAL_DUEL</zType>
+    <en-US>[Duel of Generals]</en-US>
+    <it-IT>[Duello di generali]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_CRITICAL_HIT</zType>
+    <en-US>[link(CONCEPT_CRITICAL_HIT)]</en-US>
+    <it-IT>[link(CONCEPT_CRITICAL_HIT)]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_GENERAL_INJURY</zType>
+    <en-US>[General link(CONCEPT_INJURY,3)]</en-US>
+    <it-IT>[Generale link(CONCEPT_INJURY,3)]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_UNIT_PROMOTION</zType>
+    <en-US>[{0_unit} Promotion: {1_promotion}]</en-US>
+    <it-IT>[{0_unit} Promozione: {1_promotion}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_RESOURCE_HARVESTED</zType>
+    <en-US>[{0_resource} Harvested]</en-US>
+    <it-IT>[{0_resource} Raccolto]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_LANDMARK_DISCOVERED</zType>
+    <en-US>[Landmark Discovered]</en-US>
+    <it-IT>[Scoperta pietra miliare]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_RIVAL_ELIMINATED</zType>
+    <en-US>[{0_playerTribe} Eliminated]</en-US>
+    <it-IT>[{0_playerTribe} Eliminato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_NONE</zType>
+    <en-US>All Characters</en-US>
+    <it-IT>Tutti i personaggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_COURT</zType>
+    <en-US>link(CONCEPT_COURT) Members</en-US>
+    <it-IT>link(CONCEPT_COURT) Membri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_GENERALS</zType>
+    <en-US>Eligible link(CONCEPT_GENERAL,2)</en-US>
+    <it-IT>Ammissibile link(CONCEPT_GENERAL,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_GOVERNORS</zType>
+    <en-US>Eligible link(CONCEPT_GOVERNOR,2)</en-US>
+    <it-IT>Ammissibile link(CONCEPT_GOVERNOR,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_AGENTS</zType>
+    <en-US>Eligible link(CONCEPT_AGENT,2)</en-US>
+    <it-IT>Ammissibile link(CONCEPT_AGENT,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_AMBASSADORS</zType>
+    <en-US>Eligible link(COUNCIL_AMBASSADOR,2)</en-US>
+    <it-IT>Ammissibile link(COUNCIL_AMBASSADOR,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_CHANCELLORS</zType>
+    <en-US>Eligible link(COUNCIL_CHANCELLOR,2)</en-US>
+    <it-IT>Ammissibile link(COUNCIL_CHANCELLOR,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_SPYMASTERS</zType>
+    <en-US>Eligible link(COUNCIL_SPYMASTER,2)</en-US>
+    <it-IT>Ammissibile link(COUNCIL_SPYMASTER,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CHARACTERLIST_FILTER_GENERAL_AGE</zType>
+    <en-US>Must be Younger than int(GENERAL_START_MAX_AGE)</en-US>
+    <it-IT>Deve essere più giovane di int(GENERAL_START_MAX_AGE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_CIVILIAN_FILTER</zType>
+    <en-US>{true_0:Hide:Show} Civilian Units</en-US>
+    <it-IT>{true_0:Hide:Show} Unità civili</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_SCOUT_FILTER</zType>
+    <en-US>{true_0:Hide:Show} Scouts</en-US>
+    <it-IT>{true_0:Hide:Show} Scout</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_WATER_FILTER</zType>
+    <en-US>{true_0:Hide:Show} Naval Units</en-US>
+    <it-IT>{true_0:Hide:Show} Unità navali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_MOUNTED_FILTER</zType>
+    <en-US>{true_0:Hide:Show} Mounted Units</en-US>
+    <it-IT>{true_0:Hide:Show} Unità montate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_SIEGE_FILTER</zType>
+    <en-US>{true_0:Hide:Show} Siege Units</en-US>
+    <it-IT>{true_0:Hide:Show} Unità d'assedio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_RANGED_FILTER</zType>
+    <en-US>{true_0:Hide:Show} Ranged Units</en-US>
+    <it-IT>{true_0:Hide:Show} Unità a distanza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_MILITARY_INFANTRY_FILTER</zType>
+    <en-US>{true_0:Hide:Show} Infantry Units</en-US>
+    <it-IT>{true_0:Hide:Show} Unità di fanteria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_FILTER_OTHERS</zType>
+    <en-US>{0} to only show this unit type</en-US>
+    <it-IT>{0} per mostrare solo questo tipo di unità.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNITLIST_FILTER_RESET</zType>
+    <en-US>{0} to reset all filters</en-US>
+    <it-IT>{0} per azzerare tutti i filtri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RELIGION_NOT_FOUNDED</zType>
+    <en-US>Not yet founded</en-US>
+    <it-IT>Non ancora fondato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS</zType>
+    <en-US>Followers</en-US>
+    <it-IT>Seguaci</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_THEOLOGIES</zType>
+    <en-US>Theology</en-US>
+    <it-IT>Teologia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_THEOLOGY</zType>
+    <en-US>Tier {0}</en-US>
+    <it-IT>Livello {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_NO_THEOLOGY_ADOPTED</zType>
+    <en-US>None</en-US>
+    <it-IT>Nessuno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_NATIONS</zType>
+    <en-US>Nations</en-US>
+    <it-IT>Nazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_FAMILIES</zType>
+    <en-US>Families</en-US>
+    <it-IT>Le famiglie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_RELIGION_FOLLOWERS_TRIBES</zType>
+    <en-US>Tribes</en-US>
+    <it-IT>Tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_NATION</zType>
+    <en-US>Selected Nation</en-US>
+    <it-IT>Nazione selezionata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_FAMILY</zType>
+    <en-US>Selected Family</en-US>
+    <it-IT>Famiglia selezionata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_ARCHETYPE</zType>
+    <en-US>Selected Archetype</en-US>
+    <it-IT>Archetipo selezionato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SELECTED_DYNASTY</zType>
+    <en-US>Selected Dynasty</en-US>
+    <it-IT>Dinastia selezionata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CLICK_TO_SELECT</zType>
+    <en-US>Click to select...</en-US>
+    <it-IT>Fare clic per selezionare...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_SCREENSHOT_FAIL</zType>
+    <en-US>Please close all active screens to take a terrain screenshot</en-US>
+    <it-IT>Chiudere tutte le schermate attive per effettuare uno screenshot del terreno.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_STATS_RECORDS</zType>
+    <en-US>Records</en-US>
+    <it-IT>Registrazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_STATS_YOUR_TOTAL</zType>
+    <en-US>Your Total</en-US>
+    <it-IT>Totale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_STATS_RANK</zType>
+    <en-US>Rank</en-US>
+    <it-IT>Classifica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SURRENDER_DIALOG</zType>
+    <en-US>Confirm Surrender?</en-US>
+    <it-IT>Confermare la resa?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EXIT_DIALOG</zType>
+    <en-US>Are you sure you want to exit?
+Any unsaved progress will be lost.
+		</en-US>
+    <it-IT>Siete sicuri di voler uscire?
+Tutti i progressi non salvati andranno persi.
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOAD_DIALOG</zType>
+    <en-US>Are you sure you want to load another game?
+Any unsaved progress will be lost.
+		</en-US>
+    <it-IT>Sei sicuro di voler caricare un altro gioco?
+Tutti i progressi non salvati andranno persi.
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RESTART_DIALOG</zType>
+    <en-US>Are you sure you want to restart? 
+Any unsaved progress will be lost.</en-US>
+    <it-IT>Siete sicuri di voler riavviare? 
+Tutti i progressi non salvati andranno persi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CLOUD_CONTINUE_DIALOG</zType>
+    <en-US>Are you sure you want to continue this game on the cloud?
+The network connection will be terminated.
+		</en-US>
+    <it-IT>Siete sicuri di voler continuare il gioco sul cloud?
+La connessione di rete verrà interrotta.
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_KICK_DIALOG</zType>
+    <en-US>Are you sure you want to remove this player from the game?</en-US>
+    <it-IT>Sei sicuro di voler rimuovere questo giocatore dalla partita?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SURRENDER_CONFIRM</zType>
+    <en-US>Yes</en-US>
+    <it-IT>Sì</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_KICK_CONFIRM</zType>
+    <en-US>Kick</en-US>
+    <it-IT>Calcio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_RESUME_BUTTON</zType>
+    <en-US>Resume</en-US>
+    <it-IT>Il curriculum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_TUTORIAL_BUTTON</zType>
+    <en-US>Learn to Play</en-US>
+    <it-IT>Imparare a giocare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_SP_BUTTON</zType>
+    <en-US>Single Player</en-US>
+    <it-IT>Giocatore singolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_MP_BUTTON</zType>
+    <en-US>Multiplayer</en-US>
+    <it-IT>Multigiocatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_MOD_MANAGER_BUTTON</zType>
+    <en-US>Mods</en-US>
+    <it-IT>Mods</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_EXTRAS_BUTTON</zType>
+    <en-US>Extras</en-US>
+    <it-IT>Extra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_OPTIONS_BUTTON</zType>
+    <en-US>Options</en-US>
+    <it-IT>Opzioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_QUIT_BUTTON</zType>
+    <en-US>Exit to Desktop</en-US>
+    <it-IT>Esci dal desktop</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEWSLETTER</zType>
+    <en-US>Newsletter</en-US>
+    <it-IT>Newsletter</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEWSLETTER_SUBSCRIBED</zType>
+    <en-US>Subscribed</en-US>
+    <it-IT>Abbonati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEWSLETTER_INPUT</zType>
+    <en-US>Enter email and submit...</en-US>
+    <it-IT>Inserire l'e-mail e inviare...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEWSLETTER_SUBSCRIBE_FAILURE</zType>
+    <en-US><![CDATA[<color=#cc0d0dff>Subscription Failed!</color>]]></en-US>
+    <it-IT><![CDATA[<color=#cc0d0dff>Iscrizione fallita!</color>]]></it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_NEWSLETTER_DESC</zType>
+    <en-US>Subscribe to the Mohawk Games newsletter by submitting your email</en-US>
+    <it-IT>Iscriviti alla newsletter di Mohawk Games inviando il tuo indirizzo e-mail.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MENU_SCREEN_GAME_OF_THE_WEEK_NO_MODS</zType>
+    <en-US>Unload mods and play the Game of the Week</en-US>
+    <it-IT>Scaricate le mod e giocate al gioco della settimana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_FAMILYCLASSES</zType>
+    <en-US>Family Classes</en-US>
+    <it-IT>Corsi per famiglie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_FAMILYCLASSES_LABEL</zType>
+    <en-US>(Family Class)</en-US>
+    <it-IT>(Family Class)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_CONCEPTS</zType>
+    <en-US>Concepts</en-US>
+    <it-IT>Concetti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_CONCEPTS_LABEL</zType>
+    <en-US>(Concept)</en-US>
+    <it-IT>(Concept)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_YIELDS</zType>
+    <en-US>Yields</en-US>
+    <it-IT>Rendimenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_YIELDS_LABEL</zType>
+    <en-US>(Yield)</en-US>
+    <it-IT>(Yield)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TECHNOLOGIES</zType>
+    <en-US>Technologies</en-US>
+    <it-IT>Tecnologie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TECHNOLOGIES_LABEL</zType>
+    <en-US>(Technology)</en-US>
+    <it-IT>(Technology)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_UNITS</zType>
+    <en-US>Units</en-US>
+    <it-IT>Unità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_UNITS_LABEL</zType>
+    <en-US>(Unit)</en-US>
+    <it-IT>(Unit)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_SPECIALISTS</zType>
+    <en-US>Specialists</en-US>
+    <it-IT>Specialisti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_SPECIALISTS_LABEL</zType>
+    <en-US>(Specialist)</en-US>
+    <it-IT>(Specialist)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_PROJECTS</zType>
+    <en-US>Projects</en-US>
+    <it-IT>Progetti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_PROJECTS_LABEL</zType>
+    <en-US>(Project)</en-US>
+    <it-IT>(Project)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_LAWS</zType>
+    <en-US>Laws</en-US>
+    <it-IT>Leggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_LAWS_LABEL</zType>
+    <en-US>(Law)</en-US>
+    <it-IT>(Law)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RELIGIONS</zType>
+    <en-US>Religions</en-US>
+    <it-IT>Religioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RELIGIONS_LABEL</zType>
+    <en-US>(Religion)</en-US>
+    <it-IT>(Religion)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_NATIONS</zType>
+    <en-US>Nations</en-US>
+    <it-IT>Nazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_NATIONS_LABEL</zType>
+    <en-US>(Nation)</en-US>
+    <it-IT>(Nation)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_DYNASTIES</zType>
+    <en-US>Dynasties</en-US>
+    <it-IT>Dinastie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_DYNASTIES_LABEL</zType>
+    <en-US>(Dynasty)</en-US>
+    <it-IT>(Dynasty)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TRIBES</zType>
+    <en-US>Tribes</en-US>
+    <it-IT>Tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TRIBES_LABEL</zType>
+    <en-US>(Tribe)</en-US>
+    <it-IT>(Tribe)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_COGNOMEN</zType>
+    <en-US>Cognomen</en-US>
+    <it-IT>Cognomen</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_COGNOMEN_LABEL</zType>
+    <en-US>(Cognomen)</en-US>
+    <it-IT>(Cognomen)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_CHARACTERS</zType>
+    <en-US>Characters</en-US>
+    <it-IT>Personaggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_CHARACTERS_LABEL</zType>
+    <en-US>(Character)</en-US>
+    <it-IT>(Character)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_IMPROVEMENTS</zType>
+    <en-US>Improvements (General)</en-US>
+    <it-IT>Miglioramenti (General)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_IMPROVEMENTS_LABEL</zType>
+    <en-US>(Improvement)</en-US>
+    <it-IT>(Improvement)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RESOURCES</zType>
+    <en-US>Resources</en-US>
+    <it-IT>Risorse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RESOURCES_LABEL</zType>
+    <en-US>(Resource)</en-US>
+    <it-IT>(Resource)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_VEGETATION</zType>
+    <en-US>Vegetation</en-US>
+    <it-IT>Vegetazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_VEGETATION_LABEL</zType>
+    <en-US>(Vegetation)</en-US>
+    <it-IT>(Vegetation)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_HEIGHTS</zType>
+    <en-US>Heights</en-US>
+    <it-IT>Altezze</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_HEIGHTS_LABEL</zType>
+    <en-US>(Height)</en-US>
+    <it-IT>(Height)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RATINGS</zType>
+    <en-US>Ratings</en-US>
+    <it-IT>Valutazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RATINGS_LABEL</zType>
+    <en-US>(Rating)</en-US>
+    <it-IT>(Rating)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TERRAIN</zType>
+    <en-US>Terrain</en-US>
+    <it-IT>Terreno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TERRAIN_LABEL</zType>
+    <en-US>(Terrain)</en-US>
+    <it-IT>(Terrain)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_ARCHETYPES</zType>
+    <en-US>Traits (Archetypes)</en-US>
+    <it-IT>Tratti (Archetypes)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_ARCHETYPES_LABEL</zType>
+    <en-US>(Archetype)</en-US>
+    <it-IT>(Archetype)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_COUNCILS</zType>
+    <en-US>Councilors</en-US>
+    <it-IT>Consiglieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_COUNCILS_LABEL</zType>
+    <en-US>(Councilor)</en-US>
+    <it-IT>(Councilor)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_WONDERS</zType>
+    <en-US>Improvements (Wonders)</en-US>
+    <it-IT>Miglioramenti (Wonders)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_WONDERS_LABEL</zType>
+    <en-US>(Wonder)</en-US>
+    <it-IT>(Wonder)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_MISSIONS</zType>
+    <en-US>Missions</en-US>
+    <it-IT>Missioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_MISSIONS_LABEL</zType>
+    <en-US>(Mission)</en-US>
+    <it-IT>(Mission)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RELIGIOUSIMPROVEMENTS</zType>
+    <en-US>Improvements (Religion)</en-US>
+    <it-IT>Miglioramenti (Religion)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RELIGIOUSIMPROVEMENTS_LABEL</zType>
+    <en-US>(Improvement)</en-US>
+    <it-IT>(Improvement)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TRAITS</zType>
+    <en-US>Traits (Other)</en-US>
+    <it-IT>Tratti (Other)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TRAITS_LABEL</zType>
+    <en-US>(Trait)</en-US>
+    <it-IT>(Trait)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_HINTTEXTS</zType>
+    <en-US>Hints</en-US>
+    <it-IT>Suggerimenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_HINTTEXTS_LABEL</zType>
+    <en-US>(Hint)</en-US>
+    <it-IT>(Hint)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_PROMOTIONS</zType>
+    <en-US>Promotions</en-US>
+    <it-IT>Promozioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_PROMOTIONS_LABEL</zType>
+    <en-US>(Promotion)</en-US>
+    <it-IT>(Promotion)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_UNITEFFECTS</zType>
+    <en-US>Unit Effects</en-US>
+    <it-IT>Effetti dell'unità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_UNITEFFECTS_LABEL</zType>
+    <en-US>(Unit Effect)</en-US>
+    <it-IT>(Unit Effect)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TRAITSADJECTIVES</zType>
+    <en-US>Traits (Adjectives)</en-US>
+    <it-IT>Tratti (Adjectives)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TRAITSADJECTIVES_LABEL</zType>
+    <en-US>(Trait)</en-US>
+    <it-IT>(Trait)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_THEOLOGIES</zType>
+    <en-US>Theologies</en-US>
+    <it-IT>Teologie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_THEOLOGIES_LABEL</zType>
+    <en-US>(Theology)</en-US>
+    <it-IT>(Theology)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TUTORIALS</zType>
+    <en-US>Tutorials</en-US>
+    <it-IT>Tutorial</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_TUTORIALS_LABEL</zType>
+    <en-US>(Tutorial)</en-US>
+    <it-IT>(Tutorial)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_DIFFICULTYLEVELS</zType>
+    <en-US>Difficulty Levels</en-US>
+    <it-IT>Livelli di difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_DIFFICULTYLEVELS_LABEL</zType>
+    <en-US>(Difficulty Level)</en-US>
+    <it-IT>(Difficulty Level)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_VICTORYTYPES</zType>
+    <en-US>Victory Types</en-US>
+    <it-IT>Tipi di vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_VICTORYTYPES_LABEL</zType>
+    <en-US>(Victory Type)</en-US>
+    <it-IT>(Victory Type)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_SCENARIOCONCEPTS</zType>
+    <en-US>Scenario Concepts</en-US>
+    <it-IT>Concetti di scenario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_SCENARIOCONCEPTS_LABEL</zType>
+    <en-US>(Scenario Concept)</en-US>
+    <it-IT>(Scenario Concept)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_HEADING_HINTS</zType>
+    <en-US>Hints {0}-{1}</en-US>
+    <it-IT>Suggerimenti {0}-{1}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_HEADING_CATEGORIES</zType>
+    <en-US>Categories</en-US>
+    <it-IT>Categorie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WORKER_FILTERS_LABEL</zType>
+    <en-US>Filters</en-US>
+    <it-IT>Filtri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_SORT_LABEL</zType>
+    <en-US>Sort</en-US>
+    <it-IT>Ordinamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MANAGE_LUXURIES</zType>
+    <en-US>Manage link(CONCEPT_LUXURY)</en-US>
+    <it-IT>Gestire link(CONCEPT_LUXURY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MANAGE_LUXURIES_DESC</zType>
+    <en-US>Send or Stop Sending link(CONCEPT_LUXURY)</en-US>
+    <it-IT>Inviare o interrompere l'invio link(CONCEPT_LUXURY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_START_SENDING_LUXURY</zType>
+    <en-US>Send {0}{true_1: (x{1})}</en-US>
+    <it-IT>Invia {0}{true_1: (x{1})}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STOP_SENDING_LUXURY</zType>
+    <en-US>Return {0}</en-US>
+    <it-IT>Restituzione {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MANAGE_LUXURY</zType>
+    <en-US>Manage</en-US>
+    <it-IT>Gestire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MANAGE_LUXURIES</zType>
+    <en-US>Manage Luxuries</en-US>
+    <it-IT>Gestire i lussi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MANAGE_LUXURIES_PLAYER</zType>
+    <en-US>Manage Nations</en-US>
+    <it-IT>Gestire le nazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MANAGE_LUXURIES_TRIBE</zType>
+    <en-US>Manage Tribes</en-US>
+    <it-IT>Gestire le tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MANAGE_LUXURIES_FAMILY</zType>
+    <en-US>Manage Family</en-US>
+    <it-IT>Gestire la famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MANAGE_LUXURIES_CITY</zType>
+    <en-US>Manage Cities</en-US>
+    <it-IT>Gestire le città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OUTGOING_LUXURIES</zType>
+    <en-US>Outgoing: {0_quantity}</en-US>
+    <it-IT>In uscita: {0_quantity}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OUTGOING_LUXURIES_LIST</zType>
+    <en-US>Outgoing: {LIST}</en-US>
+    <it-IT>In uscita: {LIST}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OUTGOING_LUXURY_TITLE</zType>
+    <en-US>Outgoing {0_luxuryName}: {1_quantity}</en-US>
+    <it-IT>In uscita {0_luxuryName}: {1_quantity}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_AVAILABLE_LUXURIES</zType>
+    <en-US>Available: {0_numLuxuries}</en-US>
+    <it-IT>Disponibile: {0_numLuxuries}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RETURN_TO_LUXURY_OVERVIEW</zType>
+    <en-US>Return to Overview</en-US>
+    <it-IT>Torna alla panoramica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GIFT_YIELD</zType>
+    <en-US>Send Goods</en-US>
+    <it-IT>Inviare merci</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AGENT_MISSIONS</zType>
+    <en-US>Agent Missions</en-US>
+    <it-IT>Missioni dell'agente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ASSIGN_CHARACTER_AGENTS</zType>
+    <en-US>Agent Networks</en-US>
+    <it-IT>Reti di agenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_MISSIONS_AVAILABLE</zType>
+    <en-US>{0_character} is idle and can be sent on a mission</en-US>
+    <it-IT>{0_character} è inattivo e può essere inviato in missione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_MISSIONS_AVAILABLE_HEAD</zType>
+    <en-US>{0_character} (Head of {1_head}) is idle and can be sent on a mission</en-US>
+    <it-IT>{0_character} (Head of {1_head}) è inattivo e può essere mandato in missione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_MISSIONS_AVAILABLE_LEADER</zType>
+    <en-US>{0_character} is idle and can be sent on a mission</en-US>
+    <it-IT>{0_character} è inattivo e può essere inviato in missione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TUTOR_AVAILABLE</zType>
+    <en-US>{0_character} can be tutored</en-US>
+    <it-IT>{0_character} può essere addestrato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISMISS_REMINDER</zType>
+    <en-US>{TEXT_HOTKEY_RIGHT_CLICK} to dismiss this reminder.{true_0: This reminder will not reappear unless a new candidate becomes available.}</en-US>
+    <it-IT>{TEXT_HOTKEY_RIGHT_CLICK} per annullare questo promemoria.{true_0: This reminder will not reappear unless a new candidate becomes available.}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AGENT_MISSION_NAME</zType>
+    <en-US><![CDATA[{0_missionLink} <color=#e3c08c>({1_cityLink})</color>]]></en-US>
+    <it-IT><![CDATA[{0_missionLink} <color=#e3c08c>({1_cityLink})</color>]]></it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+    <en-US>New Game</en-US>
+    <it-IT>Nuovo gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_LOADGAME_BUTTON</zType>
+    <en-US>Load Game</en-US>
+    <it-IT>Caricare il gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_SCEN_BUTTON</zType>
+    <en-US>Scenario</en-US>
+    <it-IT>Scenario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_GOFTW_BUTTON</zType>
+    <en-US>Game of the Week</en-US>
+    <it-IT>Il gioco della settimana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_BACK_BUTTON</zType>
+    <en-US>Back</en-US>
+    <it-IT>Indietro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_MENU_SCREEN_NEXT_BUTTON</zType>
+    <en-US>Next</en-US>
+    <it-IT>Avanti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_KICK_ACTIVE_PLAYER</zType>
+    <en-US>Kick the current player?</en-US>
+    <it-IT>Calciare il giocatore attuale?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SKIP_ACTIVE_PLAYER</zType>
+    <en-US>Skip the current player's turn?</en-US>
+    <it-IT>Saltare il turno del giocatore corrente?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_DELETE_CLOUD_SAVE</zType>
+    <en-US>Delete this save ({0_gameName})?</en-US>
+    <it-IT>Cancellare questo salvataggio ({0_gameName})?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_JOIN_BUTTON</zType>
+    <en-US>Join</en-US>
+    <it-IT>Unirsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_NEWGAME_BUTTON</zType>
+    <en-US>New Game</en-US>
+    <it-IT>Nuovo gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_LOADGAME_BUTTON</zType>
+    <en-US>Load Game</en-US>
+    <it-IT>Caricare il gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_BACK_BUTTON</zType>
+    <en-US>Back</en-US>
+    <it-IT>Indietro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_HOSTGAME_BUTTON</zType>
+    <en-US>Host</en-US>
+    <it-IT>Ospite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_JOIN_BUTTON_ONLINE</zType>
+    <en-US>Join (Online)</en-US>
+    <it-IT>Unirsi a (Online)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_MENU_SCREEN_JOIN_BUTTON_LAN</zType>
+    <en-US>Join (LAN)</en-US>
+    <it-IT>Unirsi a (LAN)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_BACK_BUTTON</zType>
+    <en-US>Back</en-US>
+    <it-IT>Indietro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_KICK_ACTIVE_PLAYER</zType>
+    <en-US>Kick Active Player</en-US>
+    <it-IT>Calciatore attivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_SKIP_ACTIVE_PLAYER</zType>
+    <en-US>Skip Active Player</en-US>
+    <it-IT>Salta il lettore attivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_REWIND_TO_PLAYER</zType>
+    <en-US>Rewind To Player</en-US>
+    <it-IT>Riavvolgi al lettore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_DOWNLOAD_SAVE</zType>
+    <en-US>Download</en-US>
+    <it-IT>Scaricare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_DELETE_GAME</zType>
+    <en-US>Delete</en-US>
+    <it-IT>Cancellare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_SET_MESSAGE</zType>
+    <en-US>Set Message</en-US>
+    <it-IT>Imposta messaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_AWAY_BUTTON_SET</zType>
+    <en-US>Set</en-US>
+    <it-IT>Set</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_AWAY_BUTTON_CLEAR</zType>
+    <en-US>Clear</en-US>
+    <it-IT>Libero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_AWAY_BUTTON_UPDATE</zType>
+    <en-US>Update</en-US>
+    <it-IT>Aggiornamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_STATUS_MESSAGE</zType>
+    <en-US>Status Message</en-US>
+    <it-IT>Messaggio di stato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_MESSAGE_PROMPT</zType>
+    <en-US>Enter Status Message</en-US>
+    <it-IT>Inserire il messaggio di stato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_APPLY_MESSAGE</zType>
+    <en-US>Apply to All</en-US>
+    <it-IT>Applicare a tutti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_SAVE_MESSAGE</zType>
+    <en-US>Save</en-US>
+    <it-IT>Risparmiare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_HOST_CONTROLS</zType>
+    <en-US>Host Controls</en-US>
+    <it-IT>Controlli host</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_HOST</zType>
+    <en-US>Host</en-US>
+    <it-IT>Ospite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_NOTIFICATION_URL</zType>
+    <en-US>Notification URL</en-US>
+    <it-IT>URL di notifica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_USER_TITLE</zType>
+    <en-US>Cloud Games</en-US>
+    <it-IT>Giochi in cloud</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CLOUD_SCREEN_JOIN_AS_NETWORK</zType>
+    <en-US>Network Host</en-US>
+    <it-IT>Host di rete</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE</zType>
+    <en-US>Play against online opponents in real time</en-US>
+    <it-IT>Giocate contro avversari online in tempo reale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_PLAY_BY_CLOUD_MODE</zType>
+    <en-US>Take turns in a game that is stored on the cloud for the next player</en-US>
+    <it-IT>Fare i turni in un gioco che viene memorizzato sul cloud per il giocatore successivo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_HOTSEAT_MODE</zType>
+    <en-US>Take turns playing on the same device</en-US>
+    <it-IT>Giocare a turno sullo stesso dispositivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE</zType>
+    <en-US>Host a game on a remote server</en-US>
+    <it-IT>Ospitare una partita su un server remoto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE_BUTTON</zType>
+    <en-US>Network</en-US>
+    <it-IT>Rete</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_NETWORK_HOST_BUTTON</zType>
+    <en-US>Online</en-US>
+    <it-IT>In linea</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_SERVER_HOST_BUTTON</zType>
+    <en-US>Persistent Server</en-US>
+    <it-IT>Server persistente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_LAN_MODE</zType>
+    <en-US>Play against opponents on your local area network</en-US>
+    <it-IT>Giocate contro avversari sulla vostra rete locale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_LAN_MODE_BUTTON</zType>
+    <en-US>LAN</en-US>
+    <it-IT>LAN</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_PLAY_BY_CLOUD_MODE_BUTTON</zType>
+    <en-US>Play By Cloud</en-US>
+    <it-IT>Giocare con la nuvola</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_HOTSEAT_MODE_BUTTON</zType>
+    <en-US>Hotseat</en-US>
+    <it-IT>Sedile caldo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE_BUTTON</zType>
+    <en-US>Server Mode</en-US>
+    <it-IT>Modalità server</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_BACK_BUTTON</zType>
+    <en-US>Back</en-US>
+    <it-IT>Indietro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_SCREEN_NO_NETWORK_CONNECTION</zType>
+    <en-US>Unavailable because no network connection could be found</en-US>
+    <it-IT>Non disponibile perché non è stato possibile trovare una connessione di rete</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_WIZARD_NETWORK_MODE</zType>
+    <en-US>Play against opponents over a network connection</en-US>
+    <it-IT>Giocare contro gli avversari attraverso una connessione di rete</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_GAME_SCREEN_BUTTON</zType>
+    <en-US>Multiplayer</en-US>
+    <it-IT>Multigiocatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_GAME_SCREEN_BROWSER_BUTTON</zType>
+    <en-US>Game Browser</en-US>
+    <it-IT>Browser di gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_GAME_SCREEN_TEAM_NAME</zType>
+    <en-US>Team {0}</en-US>
+    <it-IT>Squadra {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SERVERS_SCREEN_TITLE</zType>
+    <en-US>Servers</en-US>
+    <it-IT>Server</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SERVERS_SCREEN_HELP</zType>
+    <en-US>Remote servers are listed here. To launch a game, enter the server password and select a server to set up a multiplayer game. The launched game is sent to the remote server where it functions just like any other network game. Multiple games may be hosted on the same server. To launch a local server, run the OldWorldServer batch file that is in the same location as the OldWorld executable file. To control the remotely hosted game and change some parameters while it is running, enter the server password on the nation selection screen after joining.</en-US>
+    <it-IT>I server remoti sono elencati qui. Per lanciare una partita, immettere la password del server e selezionare un server per impostare una partita multigiocatore. Il gioco lanciato viene inviato al server remoto dove funziona come qualsiasi altro gioco di rete. È possibile ospitare più giochi sullo stesso server. Per lanciare un server locale, eseguire il file batch OldWorldServer che si trova nella stessa posizione del file eseguibile di OldWorld. Per controllare il gioco ospitato in remoto e modificare alcuni parametri mentre è in esecuzione, inserire la password del server nella schermata di selezione della nazione dopo l'iscrizione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SERVER_PASSWORD_HELP</zType>
+    <en-US>Enter the password to join this remotely hosted game as the host. Hosts have the ability to change game parameters, such as turn timer and turn style, they can continue the game on the cloud, and they can remove other players from the game.</en-US>
+    <it-IT>Immettere la password per partecipare a questa partita ospitata in remoto come host. Gli host hanno la possibilità di modificare i parametri di gioco, come il timer dei turni e lo stile dei turni, possono continuare la partita sul cloud e possono rimuovere altri giocatori dalla partita.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SERVER_HOST_CONTROLS_HELP</zType>
+    <en-US>Access some host functionality without joining the game. Enter the host password first.</en-US>
+    <it-IT>Accedere ad alcune funzionalità dell'host senza unirsi alla partita. Immettere prima la password dell'host.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_NAME_CELL</zType>
+    <en-US>Name</en-US>
+    <it-IT>Nome</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_PLAYERS_CELL</zType>
+    <en-US>Players</en-US>
+    <it-IT>Giocatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_SERVER_CELL</zType>
+    <en-US>Server</en-US>
+    <it-IT>Server</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_VERSION_CELL</zType>
+    <en-US>Version</en-US>
+    <it-IT>Versione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HEADER_PASSWORD_CELL</zType>
+    <en-US>Password</en-US>
+    <it-IT>Password</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_GAME_SEARCH</zType>
+    <en-US>Game Search</en-US>
+    <it-IT>Ricerca del gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_REFRESH</zType>
+    <en-US>Refresh</en-US>
+    <it-IT>Aggiornare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_PLAYERS_SCREEN_OBSERVE_BUTTON</zType>
+    <en-US>Join as observer</en-US>
+    <it-IT>Partecipa come osservatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_PLAYERS_SCREEN_BACK_BUTTON</zType>
+    <en-US>Back</en-US>
+    <it-IT>Indietro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_PLAYER_DISCONNECTED</zType>
+    <en-US>{0} has disconnected from the server</en-US>
+    <it-IT>{0} si è disconnesso dal server</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_ACHIEVEMENT_BUTTON</zType>
+    <en-US>View Achievements</en-US>
+    <it-IT>Visualizza i risultati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_GAME_BUTTON</zType>
+    <en-US>View Games</en-US>
+    <it-IT>Visualizza i giochi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_NUMBER</zType>
+    <en-US>#</en-US>
+    <it-IT>#</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_SCENARIO</zType>
+    <en-US>Scenario</en-US>
+    <it-IT>Scenario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_LEADER</zType>
+    <en-US>Leader</en-US>
+    <it-IT>Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_LEADERS</zType>
+    <en-US>Leaders</en-US>
+    <it-IT>I leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_NATION</zType>
+    <en-US>Nation</en-US>
+    <it-IT>Nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_VICTORY_TYPE</zType>
+    <en-US>Victory Type</en-US>
+    <it-IT>Tipo di vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_VICTORY_SCENARIO</zType>
+    <en-US>Scenario Victory</en-US>
+    <it-IT>Scenario Vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_DEFEAT_SCENARIO</zType>
+    <en-US>Scenario Defeat</en-US>
+    <it-IT>Scenario Sconfitta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_DEFEAT</zType>
+    <en-US>Defeat</en-US>
+    <it-IT>Sconfitta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_VICTORY</zType>
+    <en-US>Victory</en-US>
+    <it-IT>La vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_DEFEAT_BY</zType>
+    <en-US>Defeat by {0}</en-US>
+    <it-IT>Sconfitta da {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_AMBITIONS</zType>
+    <en-US>Ambitions</en-US>
+    <it-IT>Ambizioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_VP</zType>
+    <en-US>VPs</en-US>
+    <it-IT>VP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_LEGITIMACY</zType>
+    <en-US>icon(YIELD_LEGITIMACY)</en-US>
+    <it-IT>icon(YIELD_LEGITIMACY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_LOAD</zType>
+    <en-US>Load</en-US>
+    <it-IT>Carico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_DELETE</zType>
+    <en-US>Delete</en-US>
+    <it-IT>Cancellare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_DETAILS</zType>
+    <en-US>Game Details</en-US>
+    <it-IT>Dettagli del gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_LOAD_HELP</zType>
+    <en-US>Load the game to explore the final state of play.</en-US>
+    <it-IT>Caricare il gioco per esplorare lo stato finale del gioco.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_DELETE_HELP</zType>
+    <en-US>Delete the game from the Hall of Fame.</en-US>
+    <it-IT>Cancellare il gioco dalla Hall of Fame.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_GAME_COMPLETED_ON</zType>
+    <en-US>Game completed on {0}</en-US>
+    <it-IT>Gioco completato su {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_ACHIEVEMENTS_UNLOCKED</zType>
+    <en-US>Achievements Unlocked</en-US>
+    <it-IT>Obiettivi sbloccati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_ACHIEVEMENTS_LOCKED</zType>
+    <en-US>Achievements Locked</en-US>
+    <it-IT>Risultati bloccati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HALL_OF_STATS</zType>
+    <en-US>Player Stats</en-US>
+    <it-IT>Statistiche dei giocatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_STATS_NONE</zType>
+    <en-US>Win a game to generate stats</en-US>
+    <it-IT>Vincere una partita per generare statistiche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_STATS_VICTORY</zType>
+    <en-US>Most Common Victory: </en-US>
+    <it-IT>Vittoria più comune: </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_STATS_NATION</zType>
+    <en-US>Favorite Nation: </en-US>
+    <it-IT>Nazione preferita: </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_STATS_MAPCLASS</zType>
+    <en-US>Favorite Map: </en-US>
+    <it-IT>Mappa preferita: </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_STATS_LEGITIMACY</zType>
+    <en-US>Highest Legitimacy: </en-US>
+    <it-IT>Massima legittimità: </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_STATS_POINTS</zType>
+    <en-US>Highest Victory Points: </en-US>
+    <it-IT>Punti vittoria più alti: </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_STATS_ACHIEVEMENTS</zType>
+    <en-US>Achievements Unlocked: </en-US>
+    <it-IT>Obiettivi sbloccati: </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_STATS_GAMES_WON</zType>
+    <en-US>Games Won: </en-US>
+    <it-IT>Giochi vinti: </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HALL_OF_GREATS</zType>
+    <en-US>Hall of the Greats</en-US>
+    <it-IT>Sala dei Grandi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_HALL_OF_FAME_BUTTON</zType>
+    <en-US>Hall of Fame</en-US>
+    <it-IT>Sala della Fama</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_BUTTON</zType>
+    <en-US>Map Editor</en-US>
+    <it-IT>Editor di mappe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_GENERIC_NATION</zType>
+    <en-US>Generic</en-US>
+    <it-IT>Generico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_VOLCANO</zType>
+    <en-US>Volcanoes</en-US>
+    <it-IT>Vulcani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_MOUNTAIN_RANGE</zType>
+    <en-US>Mountain Ranges</en-US>
+    <it-IT>Gamme di montagna</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_PEAK</zType>
+    <en-US>Peaks</en-US>
+    <it-IT>Picchi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_RIVER</zType>
+    <en-US>Rivers</en-US>
+    <it-IT>Fiumi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_FOREST</zType>
+    <en-US>Forests</en-US>
+    <it-IT>Foreste</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_HEATH</zType>
+    <en-US>Heaths</en-US>
+    <it-IT>Brughiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_PLAINS</zType>
+    <en-US>Plains</en-US>
+    <it-IT>Pianure</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_DESERT</zType>
+    <en-US>Deserts</en-US>
+    <it-IT>Deserti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_PLATEAU</zType>
+    <en-US>Plateaus</en-US>
+    <it-IT>Altopiani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_VALLEY</zType>
+    <en-US>Valleys</en-US>
+    <it-IT>Valli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_OCEAN</zType>
+    <en-US>Oceans</en-US>
+    <it-IT>Oceani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_SEA</zType>
+    <en-US>Seas</en-US>
+    <it-IT>I mari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_BAY</zType>
+    <en-US>Bays</en-US>
+    <it-IT>Baie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_LAKE</zType>
+    <en-US>Lakes</en-US>
+    <it-IT>Laghi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ELEMENT_ISLAND</zType>
+    <en-US>Islands</en-US>
+    <it-IT>Isole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_MENU_CLOSE</zType>
+    <en-US>Close</en-US>
+    <it-IT>Chiudere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_MENU_NEW</zType>
+    <en-US>New</en-US>
+    <it-IT>Nuovo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_MENU_SAVE</zType>
+    <en-US>Save</en-US>
+    <it-IT>Risparmiare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_MENU_SAVE_AS</zType>
+    <en-US>Save As</en-US>
+    <it-IT>Salva con nome</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_MENU_LOAD</zType>
+    <en-US>Load</en-US>
+    <it-IT>Carico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_MENU_MAIN_MENU</zType>
+    <en-US>Main Menu</en-US>
+    <it-IT>Menu principale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_MENU_HEADING</zType>
+    <en-US>Menu</en-US>
+    <it-IT>Menu</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_TERRAIN</zType>
+    <en-US>Terrain</en-US>
+    <it-IT>Terreno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_HEIGHT</zType>
+    <en-US>Height</en-US>
+    <it-IT>Altezza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_RESOURCES</zType>
+    <en-US>Resources</en-US>
+    <it-IT>Risorse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_VEGETATION</zType>
+    <en-US>Vegetation</en-US>
+    <it-IT>Vegetazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_IMPROVEMENTS</zType>
+    <en-US>Improvements</en-US>
+    <it-IT>Miglioramenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_TERRITORIES</zType>
+    <en-US>Territories</en-US>
+    <it-IT>Territori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_RIVERS</zType>
+    <en-US>Rivers</en-US>
+    <it-IT>Fiumi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_ROADS</zType>
+    <en-US>Roads</en-US>
+    <it-IT>Strade</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_BOUNDARIES</zType>
+    <en-US>Boundaries</en-US>
+    <it-IT>Confini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_NAME</zType>
+    <en-US>Name</en-US>
+    <it-IT>Nome</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_TOOL_NAME_LIST</zType>
+    <en-US>Name List</en-US>
+    <it-IT>Elenco dei nomi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ERASE</zType>
+    <en-US>Erase</en-US>
+    <it-IT>Cancellare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_FILL</zType>
+    <en-US>Fill</en-US>
+    <it-IT>Riempimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_PAINT</zType>
+    <en-US>Paint</en-US>
+    <it-IT>Vernice</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UNDO</zType>
+    <en-US>Undo</en-US>
+    <it-IT>Annullamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_REDO</zType>
+    <en-US>Redo</en-US>
+    <it-IT>Rifare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_BRUSH_SIZE_UP</zType>
+    <en-US>Brush Size Up</en-US>
+    <it-IT>Dimensione del pennello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_BRUSH_SIZE_DOWN</zType>
+    <en-US>Brush Size Down</en-US>
+    <it-IT>Dimensione del pennello in basso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_RAISE_ELEVATION</zType>
+    <en-US>Raise Elevation</en-US>
+    <it-IT>Aumentare l'elevazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_LOWER_ELEVATION</zType>
+    <en-US>Lower Elevation</en-US>
+    <it-IT>Elevazione inferiore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_CITY_SITE</zType>
+    <en-US>City Site</en-US>
+    <it-IT>Sito della città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_CITY_SITE_START</zType>
+    <en-US>{0_nation} Start</en-US>
+    <it-IT>{0_nation} Inizio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_CITY_SITE_RESERVED</zType>
+    <en-US>{0_nationOrTribe} Reserved</en-US>
+    <it-IT>{0_nationOrTribe} Riservato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ERROR_MAP_TOO_SMALL_TITLE</zType>
+    <en-US>Unable to Save: Map is too small!</en-US>
+    <it-IT>Impossibile salvare: La mappa è troppo piccola!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_ERROR_MAP_TOO_SMALL</zType>
+    <en-US>Map Dimensions: {0_width}x{1_height}
+Valid Dimensions: {2_min}x{2_min}-{3_max}x{3_max}</en-US>
+    <it-IT>Dimensioni della mappa: {0_width}x{1_height}
+Dimensioni valide: {2_min}x{2_min}-{3_max}x{3_max}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_MAP_SAVED</zType>
+    <en-US>Map Saved</en-US>
+    <it-IT>Mappa salvata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_PLAYER_UI_START</zType>
+    <en-US>Player Start</en-US>
+    <it-IT>Inizio del giocatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_PLAYER_NAME</zType>
+    <en-US>Name:</en-US>
+    <it-IT>Nome:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_AUTO_SIZE</zType>
+    <en-US>Auto Size</en-US>
+    <it-IT>Dimensione automatica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_START</zType>
+    <en-US>Start</en-US>
+    <it-IT>Inizio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_MAP_SIZE</zType>
+    <en-US>Map Size</en-US>
+    <it-IT>Dimensione della mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_CENTER_DIMENSIONS</zType>
+    <en-US>Center Dimensions</en-US>
+    <it-IT>Dimensioni del centro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_GENERATE_MAP</zType>
+    <en-US>Generate Map</en-US>
+    <it-IT>Generare la mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_OFFSET</zType>
+    <en-US>Offset</en-US>
+    <it-IT>Offset</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_APPLY</zType>
+    <en-US>Apply</en-US>
+    <it-IT>Applicare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_PROJECTOR</zType>
+    <en-US>Projector</en-US>
+    <it-IT>Proiettore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_OPACITY</zType>
+    <en-US>Opacity</en-US>
+    <it-IT>Opacità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_FIT_TO_BOUNDS</zType>
+    <en-US>Fit to Bounds</en-US>
+    <it-IT>In linea con i limiti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_PROJECTOR_START</zType>
+    <en-US>Projector Start</en-US>
+    <it-IT>Avvio del proiettore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_PROJECTOR_SIZE</zType>
+    <en-US>Projector Size</en-US>
+    <it-IT>Dimensioni del proiettore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_PRESERVE_ASPECT_RATIO</zType>
+    <en-US>Preserve Aspect Ratio</en-US>
+    <it-IT>Preservare il rapporto d'aspetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_MAP_EDGES_SAFE</zType>
+    <en-US>Map Edges Safe</en-US>
+    <it-IT>Bordi della mappa sicuri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_EVENT_BROWSER_BUTTON</zType>
+    <en-US>Event Browser</en-US>
+    <it-IT>Browser eventi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_ENCYCLOPEDIA_BUTTON</zType>
+    <en-US>Encyclopedia</en-US>
+    <it-IT>Enciclopedia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MANUAL_BUTTON</zType>
+    <en-US>Manual</en-US>
+    <it-IT>Manuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_CREDITS_BUTTON</zType>
+    <en-US>Credits</en-US>
+    <it-IT>Crediti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_CREDITS_EXTRAS</zType>
+    <en-US>Extras</en-US>
+    <it-IT>Extra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_BACK_BUTTON</zType>
+    <en-US>Back</en-US>
+    <it-IT>Indietro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_SCREEN_BACK_BUTTON</zType>
+    <en-US>Back</en-US>
+    <it-IT>Indietro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_HEADER_GOTW</zType>
+    <en-US>Game Of The Week</en-US>
+    <it-IT>Il gioco della settimana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOF_VICTORY</zType>
+    <en-US>{0_victory} Victory</en-US>
+    <it-IT>{0_victory} Vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SEC_BUTTON_BACK</zType>
+    <en-US>Back</en-US>
+    <it-IT>Indietro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SEC_BUTTON_ADVANCED</zType>
+    <en-US>Schedule</en-US>
+    <it-IT>Programma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SERVERPASSWORD</zType>
+    <en-US>Server Password</en-US>
+    <it-IT>Password del server</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_LOBBY</zType>
+    <en-US>Lobby</en-US>
+    <it-IT>Lobby</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_JOIN_SLOT</zType>
+    <en-US>Choose a slot to join</en-US>
+    <it-IT>Scegliere uno slot per partecipare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMENAME</zType>
+    <en-US>Game Name</en-US>
+    <it-IT>Nome del gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_GAMEPASSWORD</zType>
+    <en-US>Game Password</en-US>
+    <it-IT>Password di gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SHOW_PASSWORD</zType>
+    <en-US>Show Password</en-US>
+    <it-IT>Mostra password</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_HOSTPASSWORD</zType>
+    <en-US>Host Password</en-US>
+    <it-IT>Password dell'host</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_PLAYERS_SCREEN_HOST_CONTROL_BUTTON</zType>
+    <en-US>Host Controls</en-US>
+    <it-IT>Controlli host</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURN_URL</zType>
+    <en-US>Turn Notification URL</en-US>
+    <it-IT>Attivazione dell'URL di notifica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_PLAYERS</zType>
+    <en-US>Players</en-US>
+    <it-IT>Giocatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAMS</zType>
+    <en-US>Teams</en-US>
+    <it-IT>Squadre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SCENARIO</zType>
+    <en-US>Scenario</en-US>
+    <it-IT>Scenario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TRIBAL_STRENGTH</zType>
+    <en-US>Tribal Strength</en-US>
+    <it-IT>Forza tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_AGGRESSION</zType>
+    <en-US>AI Aggression</en-US>
+    <it-IT>Aggressività dell'IA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_ADVANTAGE</zType>
+    <en-US>AI Handicap</en-US>
+    <it-IT>Handicap AI</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_AI_DEVELOPMENT</zType>
+    <en-US>AI Development</en-US>
+    <it-IT>Sviluppo dell'intelligenza artificiale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION</zType>
+    <en-US>Succession Gender</en-US>
+    <it-IT>Successione di genere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SUCCESSION_ORDER</zType>
+    <en-US>Succession Order</en-US>
+    <it-IT>Ordine di successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MORTALITY</zType>
+    <en-US>Mortality</en-US>
+    <it-IT>Mortalità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_EVENTLEVEL</zType>
+    <en-US>Event Level</en-US>
+    <it-IT>Livello dell'evento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNTIMER</zType>
+    <en-US>Turn Timer</en-US>
+    <it-IT>Timer dei Turni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURNSTYLE</zType>
+    <en-US>Turn Style</en-US>
+    <it-IT>Stile dei Truni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TURN_SCALE</zType>
+    <en-US>Turn Scale</en-US>
+    <it-IT>Scala dei Trun</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SIMULTURNS</zType>
+    <en-US>Simultaneous Turns</en-US>
+    <it-IT>Turni simultanei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_TEAM_NATIONS</zType>
+    <en-US>Nations</en-US>
+    <it-IT>Nazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE</zType>
+    <en-US>Map Type</en-US>
+    <it-IT>Tipo di mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_RANDOM</zType>
+    <en-US>Random Map</en-US>
+    <it-IT>Mappa casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAPTYPE_PREMADE</zType>
+    <en-US>Premade Map</en-US>
+    <it-IT>Mappa preconfezionata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP</zType>
+    <en-US>Map</en-US>
+    <it-IT>Mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_FILE</zType>
+    <en-US>Map File</en-US>
+    <it-IT>File mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_MAP_SIZE</zType>
+    <en-US>Map Size</en-US>
+    <it-IT>Dimensione della mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SETUP_GAMEOPTIONS_LABEL_MAP_ASPECT_RATIO</zType>
+    <en-US>Map Aspect Ratio</en-US>
+    <it-IT>Rapporto d'aspetto della mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SEED</zType>
+    <en-US>Seed</en-US>
+    <it-IT>Seme</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SHOW_HIDDEN_SCRIPTS</zType>
+    <en-US>Show Hidden Map Scripts</en-US>
+    <it-IT>Mostra gli script delle mappe nascoste</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_USE_OTHER_MODS</zType>
+    <en-US>Use Mods</en-US>
+    <it-IT>Utilizzare i Mods</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_FORCEMARCH</zType>
+    <en-US>Forced March</en-US>
+    <it-IT>Marcia forzata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_BUTTON_LABEL_MOD_SELECTION</zType>
+    <en-US>Select Mods</en-US>
+    <it-IT>Selezionare i Mods</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_BUTTON_LABEL_DLC_SELECTION</zType>
+    <en-US>Select DLC</en-US>
+    <it-IT>Selezionare il DLC</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_MOD_SELECTION_TITLE</zType>
+    <en-US>Mods</en-US>
+    <it-IT>Mods</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_MOD_SELECTION_CUSTOM_OPTIONS_LABEL</zType>
+    <en-US>Custom Options</en-US>
+    <it-IT>Opzioni personalizzate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_HOST_CONTROLS_SCREEN_TITLE</zType>
+    <en-US>Host Controls</en-US>
+    <it-IT>Controlli host</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_HUMAN</zType>
+    <en-US>Human</en-US>
+    <it-IT>Umano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_GAMEOPTIONS_AI</zType>
+    <en-US>AI</en-US>
+    <it-IT>AI</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_INVALID_START</zType>
+    <en-US>Cannot Start Game</en-US>
+    <it-IT>Impossibile avviare il gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_INVALID_START_NATIONS</zType>
+    <en-US>There are more players than unique nations, or duplicate nations have been selected.</en-US>
+    <it-IT>Ci sono più giocatori che nazioni uniche, oppure sono state selezionate nazioni doppie.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_INVALID_START_TEAMS</zType>
+    <en-US>There are teams without any players assigned to them.</en-US>
+    <it-IT>Ci sono squadre senza giocatori assegnati.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_INVALID_START_MAP</zType>
+    <en-US>"Premade Map" is selected, but no map file has been specified</en-US>
+    <it-IT>È stato selezionato "Mappa preconfezionata", ma non è stato specificato alcun file di mappa.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_NO_HUMANS</zType>
+    <en-US>There are no human players</en-US>
+    <it-IT>Non ci sono giocatori umani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_NAME</zType>
+    <en-US>Name</en-US>
+    <it-IT>Nome</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_NATION</zType>
+    <en-US>Nation</en-US>
+    <it-IT>Nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_ARCHETYPE</zType>
+    <en-US>Archetype</en-US>
+    <it-IT>Archetipo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_DIFFICULTY</zType>
+    <en-US>Difficulty</en-US>
+    <it-IT>Difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_TEAM</zType>
+    <en-US>Team</en-US>
+    <it-IT>Squadra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_CONTROL</zType>
+    <en-US>Control</en-US>
+    <it-IT>Controllo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_EMAIL</zType>
+    <en-US>Email</en-US>
+    <it-IT>Email</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_USERNAME</zType>
+    <en-US>Username</en-US>
+    <it-IT>Nome utente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_SCHEDULING</zType>
+    <en-US>Scheduling</en-US>
+    <it-IT>Programmazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_START</zType>
+    <en-US>Pause Start</en-US>
+    <it-IT>Pausa Avvio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_END</zType>
+    <en-US>Pause End</en-US>
+    <it-IT>Pausa Fine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_ADD</zType>
+    <en-US>Add Pause</en-US>
+    <it-IT>Aggiungi pausa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_SCHEDULE_PAUSE_CLEAR</zType>
+    <en-US>Clear Pauses</en-US>
+    <it-IT>Azzeramento delle pause</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_PLAYERS_DYNASTY</zType>
+    <en-US>Dynasty</en-US>
+    <it-IT>Dinastia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_OPTIONS</zType>
+    <en-US>Options</en-US>
+    <it-IT>Opzioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_GENERAL</zType>
+    <en-US>General</en-US>
+    <it-IT>Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_GRAPHICS</zType>
+    <en-US>Graphics</en-US>
+    <it-IT>Grafica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_AUDIO</zType>
+    <en-US>Audio</en-US>
+    <it-IT>Audio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_UI</zType>
+    <en-US>UI</en-US>
+    <it-IT>UI</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_ACCESSIBILITY</zType>
+    <en-US>Accessibility</en-US>
+    <it-IT>Accessibilità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_TITLEBAR_CONTROLS</zType>
+    <en-US>Controls</en-US>
+    <it-IT>Controlli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ANNOUNCEMENTS_TITLEBAR</zType>
+    <en-US>ANNOUNCEMENTS</en-US>
+    <it-IT>ANNUNCI</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_AUDIO_CONTROLS</zType>
+    <en-US>Audio Controls</en-US>
+    <it-IT>Controlli audio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_MUSIC_TRACK_CUSTOMIZATION</zType>
+    <en-US>Music Track Customization</en-US>
+    <it-IT>Personalizzazione della traccia musicale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_CONTROLS_CLEAR_HOTKEY</zType>
+    <en-US>Clear</en-US>
+    <it-IT>Libero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_CONTROLS_HOTKEY_INVALID</zType>
+    <en-US>Hotkey combination invalid (must contain a key other than Alt, Ctrl, or Shift). Change will not be applied.</en-US>
+    <it-IT>Combinazione di tasti di scelta rapida non valida (must contain a key other than Alt, Ctrl, or Shift). La modifica non verrà applicata.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_CONTROLS_HOTKEY_CONFLICT</zType>
+    <en-US>Hotkey combination already assigned to {0_hotkey}. Change will not be applied.</en-US>
+    <it-IT>Combinazione di tasti di scelta rapida già assegnata a {0_hotkey}. La modifica non verrà applicata.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_CONTROLS_SAVE</zType>
+    <en-US>Save</en-US>
+    <it-IT>Risparmiare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_CONTROLS_RESET</zType>
+    <en-US>Reset</en-US>
+    <it-IT>Reset</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_REQUIRES_RESTART_DIALOG</zType>
+    <en-US>The game must be restarted to apply this change.</en-US>
+    <it-IT>Il gioco deve essere riavviato per applicare questa modifica.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OPTIONS_MENU_ULTRAWIDE_SCALING</zType>
+    <en-US>HUD elements may appear larger than expected on ultrawide resolutions. HUD scaling can be adjusted on the Accessibility tab.</en-US>
+    <it-IT>Gli elementi dell'HUD possono apparire più grandi del previsto su risoluzioni ultralarge. Il ridimensionamento dell'HUD può essere regolato nella scheda Accessibilità.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_NEWSCENARIO</zType>
+    <en-US>New Scenario</en-US>
+    <it-IT>Nuovo scenario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_NATION</zType>
+    <en-US>Nation</en-US>
+    <it-IT>Nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_ARCHETYPE</zType>
+    <en-US>Leader Archetype</en-US>
+    <it-IT>Archetipo del leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_OPPONENTS</zType>
+    <en-US>Opponents</en-US>
+    <it-IT>Gli oppositori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_TRIBE</zType>
+    <en-US>Tribes</en-US>
+    <it-IT>Tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_ADVANTAGE</zType>
+    <en-US>AI Handicap</en-US>
+    <it-IT>Handicap AI</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_DIFFICULTY</zType>
+    <en-US>Difficulty</en-US>
+    <it-IT>Difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_SHOW_OPTIONS</zType>
+    <en-US>Show Options</en-US>
+    <it-IT>Mostra opzioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_SHOW_DESC</zType>
+    <en-US>Show Description</en-US>
+    <it-IT>Mostra Descrizione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_FILE_BROWSE</zType>
+    <en-US>Browse</en-US>
+    <it-IT>Sfogliare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_CONTINUE_FROM_FILE</zType>
+    <en-US>Continue from file</en-US>
+    <it-IT>Continua dal file</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_FILE_LOADED</zType>
+    <en-US>{0} Loaded</en-US>
+    <it-IT>{0} Caricato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_STARTGAME</zType>
+    <en-US>Start Game</en-US>
+    <it-IT>Avvio del gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_LOCKED_PREREQ</zType>
+    <en-US>Achieve victory on {0_scenario} to unlock</en-US>
+    <it-IT>Ottenere la vittoria su {0_scenario} per sbloccare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_SETUP_DYNASTY</zType>
+    <en-US>Dynasty</en-US>
+    <it-IT>Dinastia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_BIO</zType>
+    <en-US>Bio</en-US>
+    <it-IT>Bio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_STATS</zType>
+    <en-US>Stats</en-US>
+    <it-IT>Statistiche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_SIMPLE</zType>
+    <en-US>Simple Setup</en-US>
+    <it-IT>Impostazione semplice</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_ADVANCED</zType>
+    <en-US>Advanced Setup</en-US>
+    <it-IT>Impostazione avanzata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_STATS_STARTSWITH</zType>
+    <en-US>Starts With</en-US>
+    <it-IT>Inizia con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_UNIQUE</zType>
+    <en-US>Unique</en-US>
+    <it-IT>Unico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_FAMILIES</zType>
+    <en-US>Families</en-US>
+    <it-IT>Le famiglie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_TABS_SETUP_ARCHETYPE</zType>
+    <en-US>Leader link(CONCEPT_ARCHETYPE)</en-US>
+    <it-IT>Leader link(CONCEPT_ARCHETYPE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_RANDOM</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_DIFFICULTY</zType>
+    <en-US>Difficulty</en-US>
+    <it-IT>Difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_MAPTYPE</zType>
+    <en-US>Map Type</en-US>
+    <it-IT>Tipo di mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_RANDOM_MAP</zType>
+    <en-US>Random Map</en-US>
+    <it-IT>Mappa casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_PREMADE_MAP</zType>
+    <en-US>Premade Map</en-US>
+    <it-IT>Mappa preconfezionata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_MAPSIZE</zType>
+    <en-US>Map Size</en-US>
+    <it-IT>Dimensione della mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_GAME_OPTION_PRESETS</zType>
+    <en-US>Option Presets</en-US>
+    <it-IT>Opzioni preimpostate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_NATION</zType>
+    <en-US>Nation</en-US>
+    <it-IT>Nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_ARCHETYPE</zType>
+    <en-US>Leader Archetype</en-US>
+    <it-IT>Archetipo del leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS</zType>
+    <en-US>Number of Opponents</en-US>
+    <it-IT>Numero di avversari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_NUMOPPS_OPTION</zType>
+    <en-US>{0_count} {singular_0:Opponent:Opponents}</en-US>
+    <it-IT>{0_count} {singular_0:Opponent:Opponents}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_ARCHETYPES</zType>
+    <en-US>Initial Leader Archetype</en-US>
+    <it-IT>Archetipo del leader iniziale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_MORTALITY</zType>
+    <en-US>Mortality</en-US>
+    <it-IT>Mortalità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_TURN_SCALE</zType>
+    <en-US>Turn Scale</en-US>
+    <it-IT>Scala dei Turni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_EVENTLEVEL</zType>
+    <en-US>Event Level</en-US>
+    <it-IT>Livello dell'evento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION</zType>
+    <en-US>Succession Gender</en-US>
+    <it-IT>Successione di genere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_SUCCESSION_ORDER</zType>
+    <en-US>Succession Order</en-US>
+    <it-IT>Ordine di successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_DIFFICULTY</zType>
+    <en-US>Difficulty</en-US>
+    <it-IT>Difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_TRIBE_LEVEL</zType>
+    <en-US>Tribal Strength</en-US>
+    <it-IT>Forza tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_AI_AGGRESSION</zType>
+    <en-US>AI Aggression</en-US>
+    <it-IT>Aggressività dell'IA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_AI_ADVANTAGE</zType>
+    <en-US>AI Handicap</en-US>
+    <it-IT>Handicap AI</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_AI_DEVELOPMENT</zType>
+    <en-US>AI Development</en-US>
+    <it-IT>Sviluppo dell'intelligenza artificiale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_SEED</zType>
+    <en-US>Seed</en-US>
+    <it-IT>Seme</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_VICTORY_POINT_THRESHOLD</zType>
+    <en-US>Points to Win</en-US>
+    <it-IT>Punti per vincere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_ADVANCED_FORCEMARCH</zType>
+    <en-US>Forced March</en-US>
+    <it-IT>Marcia forzata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SHOW_HIDDEN_SCRIPTS</zType>
+    <en-US>Show Hidden Map Scripts</en-US>
+    <it-IT>Mostra gli script delle mappe nascoste</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_DYNASTY</zType>
+    <en-US>Dynasty</en-US>
+    <it-IT>Dinastia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_CHARACTERS</zType>
+    <en-US>Characters</en-US>
+    <it-IT>Personaggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_SPOUSE</zType>
+    <en-US>Spouse</en-US>
+    <it-IT>Coniuge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_SUCCESSION</zType>
+    <en-US>Succession</en-US>
+    <it-IT>Successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_CHARTAB_COURT_COURTIERS</zType>
+    <en-US>Courtiers</en-US>
+    <it-IT>Cortigiani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_RELATIONSTAB_RELIGIONS</zType>
+    <en-US>Religions</en-US>
+    <it-IT>Religioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_RELATIONSTAB_STATE_RELIGION</zType>
+    <en-US>link(CONCEPT_STATE_RELIGION)</en-US>
+    <it-IT>link(CONCEPT_STATE_RELIGION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_RELATIONSTAB_OTHER_RELIGIONS</zType>
+    <en-US>Other Religions</en-US>
+    <it-IT>Altre religioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_RELATIONSTAB_FAMILIES</zType>
+    <en-US>Families</en-US>
+    <it-IT>Le famiglie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_NATIONS</zType>
+    <en-US>Nations</en-US>
+    <it-IT>Nazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_TRIBES</zType>
+    <en-US>Tribes</en-US>
+    <it-IT>Tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_CITIES</zType>
+    <en-US>Cities{true_0: by {0_filter}}</en-US>
+    <it-IT>Città{true_0: by {0_filter}}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_AGENTS</zType>
+    <en-US>Agent Cities{true_0: by {0_filter}}</en-US>
+    <it-IT>Città agente{true_0: by {0_filter}}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYSORT_PRODUCTION</zType>
+    <en-US>Production</en-US>
+    <it-IT>Produzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYSORT_GOVERNOR</zType>
+    <en-US>Governor Status</en-US>
+    <it-IT>Stato del governatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYSORT_FAMILY</zType>
+    <en-US>Family</en-US>
+    <it-IT>Famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYSORT_RELIGION</zType>
+    <en-US>City Religions</en-US>
+    <it-IT>Religioni cittadine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYSORT_POPULATION</zType>
+    <en-US>Population (Citizens + Specialists)</en-US>
+    <it-IT>Popolazione (Citizens + Specialists)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYTAB_CITIES_MODE</zType>
+    <en-US>Show Your Cities</en-US>
+    <it-IT>Mostra le tue città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_CITYTAB_AGENTS_MODE</zType>
+    <en-US>Show Cities with link(CONCEPT_AGENT_NETWORK,2)</en-US>
+    <it-IT>Mostra le città con link(CONCEPT_AGENT_NETWORK,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAB_PANEL_DIPLOTAB_UNITS</zType>
+    <en-US>Units</en-US>
+    <it-IT>Unità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_REQUIREMENTS</zType>
+    <en-US>Requirements</en-US>
+    <it-IT>Requisiti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_COST</zType>
+    <en-US>Construction</en-US>
+    <it-IT>Costruzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_UNLOCKBONUS</zType>
+    <en-US>Unlock Bonus</en-US>
+    <it-IT>Sbloccare il bonus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_EFFECT</zType>
+    <en-US>Effect</en-US>
+    <it-IT>Effetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_UNLOCKS</zType>
+    <en-US>Unlocks</en-US>
+    <it-IT>Sblocca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_REQUIRES</zType>
+    <en-US>Requires</en-US>
+    <it-IT>Richiede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_BONUSCARDS</zType>
+    <en-US>Bonus Cards</en-US>
+    <it-IT>Carte bonus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_RESEARCHING</zType>
+    <en-US>Researching</en-US>
+    <it-IT>Ricerca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_AVAILABLE</zType>
+    <en-US>Available</en-US>
+    <it-IT>Disponibile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_DRAWPILE</zType>
+    <en-US>Draw Pile</en-US>
+    <it-IT>Pile di estrazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOOL_TIPS_DISCARDPILE</zType>
+    <en-US>Discard Pile</en-US>
+    <it-IT>Mucchio di scarto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOP_BAR_BUY</zType>
+    <en-US>Buy</en-US>
+    <it-IT>Acquista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOP_BAR_SELL</zType>
+    <en-US>Sell</en-US>
+    <it-IT>Vendere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_CITIES</zType>
+    <en-US>Cities</en-US>
+    <it-IT>Città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_CITY</zType>
+    <en-US>City</en-US>
+    <it-IT>Città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_PRODUCTION</zType>
+    <en-US>Production</en-US>
+    <it-IT>Produzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_GOVERNOR</zType>
+    <en-US>Governor</en-US>
+    <it-IT>Governatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_FAMILY</zType>
+    <en-US>Family</en-US>
+    <it-IT>Famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_RELIGION</zType>
+    <en-US>Religion</en-US>
+    <it-IT>La religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_POPULATION</zType>
+    <en-US>Population</en-US>
+    <it-IT>Popolazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_SORT</zType>
+    <en-US>{TEXT_HOTKEY_LEFT_CLICK} to sort by {0_yield} production rate</en-US>
+    <it-IT>{TEXT_HOTKEY_LEFT_CLICK} per ordinare in base al tasso di produzione di {0_yield}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_SORT_LEVEL</zType>
+    <en-US>{TEXT_HOTKEY_CTRL_CLICK} to sort by {0_yield} level</en-US>
+    <it-IT>{TEXT_HOTKEY_CTRL_CLICK} per ordinare in base al livello di {0_yield}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_LIST_SORT_DIRECTION</zType>
+    <en-US>{TEXT_HOTKEY_LEFT_CLICK} to change sort direction</en-US>
+    <it-IT>{TEXT_HOTKEY_LEFT_CLICK} per cambiare la direzione di ordinamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_SCREEN_GOALS</zType>
+    <en-US>{true_0:Ambitions and Score:Score List}</en-US>
+    <it-IT>{true_0:Ambitions and Score:Score List}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_SCREEN_PROGRESS</zType>
+    <en-US>Victory Progress</en-US>
+    <it-IT>Progresso della vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_SCREEN_SCENARIO</zType>
+    <en-US>Scenario Info</en-US>
+    <it-IT>Scenario Info</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_CURRENT_LEADER</zType>
+    <en-US>Current Leader:</en-US>
+    <it-IT>Leader attuale:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_TIME_PROGRESS</zType>
+    <en-US>Turns Remaining: {0}</en-US>
+    <it-IT>Turni rimanenti: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_CONQUEST_PROGRESS</zType>
+    <en-US>Remaining Opponent Teams: {0}</en-US>
+    <it-IT>Squadre avversarie rimanenti: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_VICTORY_DOUBLE_PROGRESS</zType>
+    <en-US>Victory Points Required: {0}</en-US>
+    <it-IT>Punti Vittoria richiesti: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_MAPOPTIONS</zType>
+    <en-US>Map Options</en-US>
+    <it-IT>Opzioni mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_REGION</zType>
+    <en-US>Region</en-US>
+    <it-IT>Regione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_BORDERS</zType>
+    <en-US>Borders</en-US>
+    <it-IT>Confini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_TRADENETWORK</zType>
+    <en-US>Trade Network</en-US>
+    <it-IT>Rete commerciale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_DANGER</zType>
+    <en-US>Danger</en-US>
+    <it-IT>Pericolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_ZOC</zType>
+    <en-US>Zone of Control</en-US>
+    <it-IT>Zona di controllo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_MARKERS</zType>
+    <en-US>Markers</en-US>
+    <it-IT>Marcatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_UNITS</zType>
+    <en-US>Units</en-US>
+    <it-IT>Unità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_RESOURCES</zType>
+    <en-US>Resources</en-US>
+    <it-IT>Risorse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_CITYSITES</zType>
+    <en-US>link(IMPROVEMENT_CITY_SITE,2)</en-US>
+    <it-IT>link(IMPROVEMENT_CITY_SITE,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_OTHER</zType>
+    <en-US>Other</en-US>
+    <it-IT>Altro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OVERVIEW_MAP_WORLDEXTENTS</zType>
+    <en-US>World Extents</en-US>
+    <it-IT>Estensioni del mondo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE</zType>
+    <en-US>Inheritance</en-US>
+    <it-IT>Eredità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_CURRENT_HEIR</zType>
+    <en-US>Current Heir</en-US>
+    <it-IT>Erede attuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_NAME</zType>
+    <en-US>Name</en-US>
+    <it-IT>Nome</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_TECHS</zType>
+    <en-US>Tech Tree</en-US>
+    <it-IT>Albero tecnico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_TECHS_COMPACT</zType>
+    <en-US>Mini Tree</en-US>
+    <it-IT>Mini albero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_SHOW_NAMES</zType>
+    <en-US>Toggle Names</en-US>
+    <it-IT>Nomi a levetta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_SHOW_NAMES_TOOLTIP</zType>
+    <en-US>Hold [ALT] to temporarily show technology names</en-US>
+    <it-IT>Tenere premuto [ALT] per visualizzare temporaneamente i nomi delle tecnologie.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_TECHS_FULL</zType>
+    <en-US>Detailed Tree</en-US>
+    <it-IT>Albero dettagliato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_COMPLETED</zType>
+    <en-US>Completed</en-US>
+    <it-IT>Completato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_LOCKED</zType>
+    <en-US>Locked</en-US>
+    <it-IT>Bloccato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_RESEARCHING</zType>
+    <en-US>Researching</en-US>
+    <it-IT>Ricerca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_AVAILABLE</zType>
+    <en-US>Available</en-US>
+    <it-IT>Disponibile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_DISCARD</zType>
+    <en-US>Discard Pile</en-US>
+    <it-IT>Mucchio di scarto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_DECK</zType>
+    <en-US>In Deck</en-US>
+    <it-IT>In coperta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_KEY</zType>
+    <en-US>Key</en-US>
+    <it-IT>Chiave</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SELECTED_UNIT_UPGRADE</zType>
+    <en-US>Upgrade</en-US>
+    <it-IT>Aggiornamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SELECTED_UNIT_CARAVAN</zType>
+    <en-US>Start Caravan Mission</en-US>
+    <it-IT>Avviare la missione della carovana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SELECTED_CITY_CHOOSE</zType>
+    <en-US>Choose what to work on</en-US>
+    <it-IT>Scegliere su cosa lavorare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SELECTED_CITY_GOVERNOR</zType>
+    <en-US>Governor</en-US>
+    <it-IT>Governatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SELECTED_CITY_CLOSE</zType>
+    <en-US>Close</en-US>
+    <it-IT>Chiudere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SELECTED_CHARACTER_ACTIONS</zType>
+    <en-US>Actions</en-US>
+    <it-IT>Azioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_CONDITIONS</zType>
+    <en-US>Victory Conditions</en-US>
+    <it-IT>Condizioni di vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_PROGRESS</zType>
+    <en-US>Victory Progress</en-US>
+    <it-IT>Progresso della vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_SCENARIO</zType>
+    <en-US>Scenario Info</en-US>
+    <it-IT>Info sullo scenario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_AMBITIONS</zType>
+    <en-US>Ambitions</en-US>
+    <it-IT>Ambizioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_VICTORY_SCORE</zType>
+    <en-US>Score</en-US>
+    <it-IT>Punteggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_PINGS_SUBMIT</zType>
+    <en-US>Submit</en-US>
+    <it-IT>Invia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_PINGS_CANCEL</zType>
+    <en-US>Cancel</en-US>
+    <it-IT>Annullamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_PINGS_TEXT</zType>
+    <en-US>Ping Text</en-US>
+    <it-IT>Testo ping</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_PINGS_REMIND</zType>
+    <en-US>Remind Turn</en-US>
+    <it-IT>Ricorda di girare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_PINGS_REMINDER</zType>
+    <en-US>Ping Reminder: </en-US>
+    <it-IT>Promemoria Ping: </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_LAWS</zType>
+    <en-US>Laws</en-US>
+    <it-IT>Leggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INPUT_TITLE</zType>
+    <en-US>Title</en-US>
+    <it-IT>Titolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INPUT_DESC</zType>
+    <en-US>Description Text</en-US>
+    <it-IT>Descrizione Testo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_DEFAULT_TITLE</zType>
+    <en-US>Title</en-US>
+    <it-IT>Titolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_DEFAULT_DESC</zType>
+    <en-US>Description Text</en-US>
+    <it-IT>Descrizione Testo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_POPUP_NO_REPLAY</zType>
+    <en-US>Replay disabled.</en-US>
+    <it-IT>Replay disabilitato.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_POPUP_REPLAY_ENABLED</zType>
+    <en-US>Replay support enabled. Turn replay will be available next turn.</en-US>
+    <it-IT>Supporto per il replay abilitato. Il replay del turno sarà disponibile il prossimo turno.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LEADER_INFO_GOALS</zType>
+    <en-US>Goals:</en-US>
+    <it-IT>Obiettivi:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_TOGGLE_ALPHA_SORT</zType>
+    <en-US>{true_0:Disable:Enable} alphabetical sort</en-US>
+    <it-IT>{true_0:Disable:Enable} ordinamento alfabetico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_HP</zType>
+    <en-US>HP</en-US>
+    <it-IT>HP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_MOV</zType>
+    <en-US>MOV</en-US>
+    <it-IT>MOV</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_STR</zType>
+    <en-US>STR</en-US>
+    <it-IT>STR</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_RNG</zType>
+    <en-US>RNG</en-US>
+    <it-IT>RNG</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_STATS_VIS</zType>
+    <en-US>VIS</en-US>
+    <it-IT>VIS</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELP_SCREEN_OTHER</zType>
+    <en-US>Other</en-US>
+    <it-IT>Altro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG</zType>
+    <en-US>Timeline: {1_turn}</en-US>
+    <it-IT>Linea temporale: {1_turn}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_LEADERS</zType>
+    <en-US>Leaders</en-US>
+    <it-IT>I leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_LOG</zType>
+    <en-US>Game Log</en-US>
+    <it-IT>Diario di gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_TOGGLE_FOG</zType>
+    <en-US>Toggle Fog</en-US>
+    <it-IT>Nebbia a levetta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_EXPORT</zType>
+    <en-US>Export GIF</en-US>
+    <it-IT>Esportazione GIF</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_EXPORT_SAVED</zType>
+    <en-US>GIF saved to {0_filePath}</en-US>
+    <it-IT>GIF salvata in {0_filePath}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_SHOW_MAP</zType>
+    <en-US>Map View</en-US>
+    <it-IT>Vista sulla mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_SHOW_TREE</zType>
+    <en-US>Family Tree View</en-US>
+    <it-IT>Vista dell'albero genealogico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_TIMELINE</zType>
+    <en-US>Timeline</en-US>
+    <it-IT>Linea temporale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOG_DEBUG</zType>
+    <en-US>Debug Log</en-US>
+    <it-IT>Registro di debug</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CYCLE_IDLE_BUY</zType>
+    <en-US>Buy</en-US>
+    <it-IT>Acquista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CYCLE_IDLE_SELL</zType>
+    <en-US>Sell</en-US>
+    <it-IT>Vendere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENT_EDITOR_BAR_MF</zType>
+    <en-US>M/F</en-US>
+    <it-IT>M/F</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENT_EDITOR_BAR_GO</zType>
+    <en-US>GO</en-US>
+    <it-IT>VAI</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHOOSE_RESEARCH_TREE</zType>
+    <en-US>View Tech Tree</en-US>
+    <it-IT>Visualizza l'albero tecnico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHOOSE_RESEARCH_UNLOCKS</zType>
+    <en-US>Unlocks</en-US>
+    <it-IT>Sblocca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHOOSE_CHARACTER</zType>
+    <en-US>Choose</en-US>
+    <it-IT>Scegliere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHOOSE_CHARACTER_ASSIGNED_CANDIDATES</zType>
+    <en-US>Candidates with Jobs ({0_number})</en-US>
+    <it-IT>Candidati con lavori ({0_number})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHOOSE_CHARACTER_IDLE_CANDIDATES</zType>
+    <en-US>Idle Candidates ({0_number})</en-US>
+    <it-IT>Candidati inattivi ({0_number})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_LIST</zType>
+    <en-US>Characters</en-US>
+    <it-IT>Personaggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEBUG_LOG</zType>
+    <en-US>Debug Log</en-US>
+    <it-IT>Registro di debug</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_CURRENTHEIR</zType>
+    <en-US>Current Heir</en-US>
+    <it-IT>Erede attuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_NEWHEIR</zType>
+    <en-US>New Heir</en-US>
+    <it-IT>Nuovo erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_CURRENTLAW</zType>
+    <en-US>Current Law</en-US>
+    <it-IT>Legge attuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_CHOOSELAW</zType>
+    <en-US>Choose Law</en-US>
+    <it-IT>Scegliere la legge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_INHERITANCE_WIDGET_CHANGELAWS</zType>
+    <en-US>Change Laws</en-US>
+    <it-IT>Cambiare le leggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIDGET_CITY_IDLE</zType>
+    <en-US>Idle</en-US>
+    <it-IT>Inattivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AMBITION_SKIP_DECISION</zType>
+    <en-US>I don't feel ambitious right now.</en-US>
+    <it-IT>Non mi sento ambizioso in questo momento.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_FAMILY_DECISION</zType>
+    <en-US>{0_family} ({1_class}, {2_opinion}, {singular_3:1 City:{3} Cities})</en-US>
+    <it-IT>{0_family} ({1_class}, {2_opinion}, {singular_3:1 City:{3} Cities})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_CAPITAL_FAMILY_DECISION</zType>
+    <en-US>{0_family} ({1_class})</en-US>
+    <it-IT>{0_family} ({1_class})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_RAZE_DECISION</zType>
+    <en-US>Raze the city</en-US>
+    <it-IT>Radere al suolo la città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITY_NO_RAZE_DECISION</zType>
+    <en-US>Spare the city</en-US>
+    <it-IT>Risparmiare la città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>
+    <en-US>Upgrade: +1 {0_ratingtype} ({1_startrating} to {2_endrating})</en-US>
+    <it-IT>Potenziamento: +1 {0_ratingtype} ({1_startrating} to {2_endrating})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_UPGRADE_DECISION_TRAIT</zType>
+    <en-US>Upgrade: {0_trait}</en-US>
+    <it-IT>Aggiornamento: {0_trait}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_OVERRIDE_CURRENT_RESEARCH</zType>
+    <en-US>{TEXT_HOTKEY_CTRL_CLICK} to switch active research</en-US>
+    <it-IT>{TEXT_HOTKEY_CTRL_CLICK} per passare alla ricerca attiva</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_OVERRIDE_TARGET_RESEARCH</zType>
+    <en-US>{TEXT_HOTKEY_LEFT_CLICK} to set as a target</en-US>
+    <it-IT>{TEXT_HOTKEY_LEFT_CLICK} da impostare come obiettivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_TREE_BONUS_CARD_DISCARDED</zType>
+    <en-US>Permanently trashed when discarded</en-US>
+    <it-IT>Cestinati in modo permanente quando vengono gettati via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_STATS</zType>
+    <en-US>Stats</en-US>
+    <it-IT>Statistiche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_OTHER</zType>
+    <en-US>Miscellaneous</en-US>
+    <it-IT>Varie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_TURN_AXIS_LABEL</zType>
+    <en-US>Turn</en-US>
+    <it-IT>Turno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_PRODUCTION</zType>
+    <en-US>Resource Production</en-US>
+    <it-IT>Produzione di risorse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_YIELD</zType>
+    <en-US>{0_yield} Production</en-US>
+    <it-IT>{0_yield} Produzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_MILITARY</zType>
+    <en-US>Military Score</en-US>
+    <it-IT>Punteggio militare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_TERRITORY</zType>
+    <en-US>Territory Owned</en-US>
+    <it-IT>Territorio di proprietà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_TURN</zType>
+    <en-US>Turn {0_turnNumber}</en-US>
+    <it-IT>Girare {0_turnNumber}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_TILES_OWNED</zType>
+    <en-US>{0_numTiles} Tiles</en-US>
+    <it-IT>{0_numTiles} Piastrelle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_EXPLORATION</zType>
+    <en-US>Territory Explored</en-US>
+    <it-IT>Territorio esplorato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_POINTS</zType>
+    <en-US>Victory Points</en-US>
+    <it-IT>Punti vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_PRICES</zType>
+    <en-US>Resource Prices</en-US>
+    <it-IT>Prezzi delle risorse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_GRAPHS_FAMILIES</zType>
+    <en-US>Family Opinion</en-US>
+    <it-IT>Opinione della famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_RESOURCE_VALUE</zType>
+    <en-US>National Wealth</en-US>
+    <it-IT>Ricchezza nazionale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_POPULATION</zType>
+    <en-US>Total Population</en-US>
+    <it-IT>Popolazione totale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_SPECIALISTS</zType>
+    <en-US>Specialists</en-US>
+    <it-IT>Specialisti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_TOTAL_TECHS</zType>
+    <en-US>Technologies Discovered</en-US>
+    <it-IT>Tecnologie scoperte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_BEST_LEADER</zType>
+    <en-US>Longest Reign</en-US>
+    <it-IT>Il regno più lungo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_TOTAL_IMPROVEMENTS</zType>
+    <en-US>Improvements Controlled</en-US>
+    <it-IT>Miglioramenti controllati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_WONDERS</zType>
+    <en-US>Wonders Controlled</en-US>
+    <it-IT>Meraviglie controllate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_LAWS_ADOPTED</zType>
+    <en-US>Laws Adopted</en-US>
+    <it-IT>Leggi adottate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_TOTAL_WORKERS</zType>
+    <en-US>Workers Produced</en-US>
+    <it-IT>Lavoratori prodotti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_UNITS_LOST</zType>
+    <en-US>Units Lost</en-US>
+    <it-IT>Unità perse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_UNITS_KILLED</zType>
+    <en-US>Units Killed</en-US>
+    <it-IT>Unità uccise</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_TRIBE_CLEARED</zType>
+    <en-US>Camps Cleared</en-US>
+    <it-IT>Campi sgomberati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_COURTIERS</zType>
+    <en-US>Courtiers Recruited</en-US>
+    <it-IT>Cortigiani reclutati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_RUINS_EXPLORED</zType>
+    <en-US>Ruins Explored</en-US>
+    <it-IT>Rovine esplorate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_STAT_RANK</zType>
+    <en-US>{0_rank}. {1_player}: {2_value}</en-US>
+    <it-IT>{0_rank}. {1_player}: {2_value}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_TOTAL_MILITARY</zType>
+    <en-US>Military Units Produced</en-US>
+    <it-IT>Unità militari prodotte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_TOTAL_VALUE</zType>
+    <en-US>Total Value: {0_moneyValue}</en-US>
+    <it-IT>Valore totale: {0_moneyValue}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAIN_MENU_ACTIVE_MODS</zType>
+    <en-US><![CDATA[Active <color=#e3c08ccc>Mods</color>]]></en-US>
+    <it-IT><![CDATA[Attivi <color=#e3c08ccc>Mods</color>]]></it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAIN_MENU_CURRENT_GAMES</zType>
+    <en-US>Current Games</en-US>
+    <it-IT>Giochi attuali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_UNPAUSE_GAME</zType>
+    <en-US>Unpause Game</en-US>
+    <it-IT>Disattivare il gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_PAUSE_GAME</zType>
+    <en-US>Pause Game</en-US>
+    <it-IT>Metti in pausa il gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_UNLOAD_GAME</zType>
+    <en-US>Unload Game</en-US>
+    <it-IT>Gioco di scarico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_LOAD_GAME</zType>
+    <en-US>Load Game</en-US>
+    <it-IT>Caricare il gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_SAVE_GAME</zType>
+    <en-US>Save Game</en-US>
+    <it-IT>Salva il gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_WAITING_FOR_GAME_START</zType>
+    <en-US>Waiting for game to start</en-US>
+    <it-IT>In attesa dell'inizio della partita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_STATUS_ACTIVE_TURN</zType>
+    <en-US>{0_time} Active turn:</en-US>
+    <it-IT>{0_time} Turno attivo:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_STATUS_PAUSE</zType>
+    <en-US>Pause: {0}</en-US>
+    <it-IT>Pausa: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_STATUS_UNPAUSE</zType>
+    <en-US>Unpause: {0}</en-US>
+    <it-IT>Disattivare: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_NEW_GAME_NAME</zType>
+    <en-US>New Game</en-US>
+    <it-IT>Nuovo gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_PICK_NATION_AT_SETTLE</zType>
+    <en-US>Pick your nation when you settle the first city</en-US>
+    <it-IT>Scegliere la propria nazione quando si stabilisce la prima città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_GAME_PICKS_NATION</zType>
+    <en-US>Let the game choose a nation for you.</en-US>
+    <it-IT>Lasciate che il gioco scelga una nazione per voi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_PICK_ARCHETYPE_AT_START</zType>
+    <en-US>Pick a Leader Archetype after the game has started</en-US>
+    <it-IT>Scegliere un Archetipo di Leader dopo l'inizio della partita.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_GAME_PICKS_ARCHETYPE</zType>
+    <en-US>Let the game choose an Archetype for the first ruler.</en-US>
+    <it-IT>Lasciate che il gioco scelga un Archetipo per il primo sovrano.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_ARCHETYPE_PRESET</zType>
+    <en-US>Start the game with the nation's preset character.</en-US>
+    <it-IT>Iniziare la partita con il personaggio preimpostato della nazione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_START_SIMULTANEOUS_TURNS</zType>
+    <en-US>Play the first turns in simultaneous turn style</en-US>
+    <it-IT>Giocare i primi turni in stile turno simultaneo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_START_TURN_SCALE</zType>
+    <en-US>Each turn is a {0_turnScale}</en-US>
+    <it-IT>Ogni turno è un {0_turnScale}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MP_SETUP_CREATE_GAME</zType>
+    <en-US>Create Game</en-US>
+    <it-IT>Crea gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_START_GAME_NETWORK</zType>
+    <en-US>Creates a game lobby that others can join via the Join option on the Network submenu</en-US>
+    <it-IT>Crea una lobby di gioco a cui gli altri possono unirsi tramite l'opzione Partecipa del sottomenu Rete.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_START_GAME_CLOUD</zType>
+    <en-US>Creates and starts an asynchronous cloud game with yourself and the players with specified usernames (same platform only)</en-US>
+    <it-IT>Crea e avvia un gioco cloud asincrono con se stessi e i giocatori con i nomi utente specificati (same platform only).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_CLOUD_EMAIL_HELP</zType>
+    <en-US>Optional email to send new turn notifications to (can be changed in the in-game menu)</en-US>
+    <it-IT>Email opzionale a cui inviare le notifiche dei nuovi turni (can be changed in the in-game menu)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_SETUP_CLOUD_USERNAME_HELP</zType>
+    <en-US>The other players' platform display name. This is required to be filled in for every player to start a game and only works for players on the same platform. Cross-platform cloud games can be started by converting network games.</en-US>
+    <it-IT>Il nome visualizzato della piattaforma degli altri giocatori. Deve essere compilato da ogni giocatore per iniziare una partita e funziona solo per i giocatori della stessa piattaforma. I giochi cloud multipiattaforma possono essere avviati convertendo i giochi di rete.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_SKIP_ALL</zType>
+    <en-US>None</en-US>
+    <it-IT>Nessuno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR</zType>
+    <en-US>War</en-US>
+    <it-IT>La guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_WAR_OR_TRUCE</zType>
+    <en-US>War or Truce</en-US>
+    <it-IT>Guerra o tregua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PANEL_CAMERA_FOLLOW_AI_ALL</zType>
+    <en-US>All</en-US>
+    <it-IT>Tutti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_POWERED_BY_MODIO_TOOLTIP</zType>
+    <en-US>Powered by mod.io</en-US>
+    <it-IT>Alimentato da mod.io</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_POWERED_BY_WORKSHOP_TOOLTIP</zType>
+    <en-US>Powered by Workshop</en-US>
+    <it-IT>Alimentato da Workshop</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SORTING_TOOLTIP</zType>
+    <en-US>Mods sorted by </en-US>
+    <it-IT>Mods ordinati per </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SORTING_1</zType>
+    <en-US>oldest to newest.</en-US>
+    <it-IT>dal più vecchio al più recente.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SORTING_2</zType>
+    <en-US>newest to oldest.</en-US>
+    <it-IT>dal più recente al più vecchio.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SORTING_3</zType>
+    <en-US>alphabetical A-Z.</en-US>
+    <it-IT>alfabetico A-Z.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SORTING_4</zType>
+    <en-US>alphabetical Z-A.</en-US>
+    <it-IT>alfabetico Z-A.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SORTING_5</zType>
+    <en-US>oldest to newest, with installed on top.</en-US>
+    <it-IT>dal più vecchio al più recente, con l'installazione in cima.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SORTING_6</zType>
+    <en-US>newest to oldest, with installed on top.</en-US>
+    <it-IT>dal più recente al più vecchio, con l'installazione in cima.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SORTING_7</zType>
+    <en-US>alphabetical A-Z, with installed on top.</en-US>
+    <it-IT>alfabetico dalla A alla Z, con l'installazione in cima.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SORTING_8</zType>
+    <en-US>alphabetical Z-A, with installed on top.</en-US>
+    <it-IT>alfabetico Z-A, con l'installazione in cima.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_BACK_TO_MENU</zType>
+    <en-US>Main Menu</en-US>
+    <it-IT>Menu principale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_TITLE</zType>
+    <en-US>Mods</en-US>
+    <it-IT>Mods</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MANAGE_TAB</zType>
+    <en-US>Manage</en-US>
+    <it-IT>Gestire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_INSTALL_TAB</zType>
+    <en-US>Install</en-US>
+    <it-IT>Installare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_UPLOAD_TAB</zType>
+    <en-US>Upload</en-US>
+    <it-IT>Caricare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_ALL</zType>
+    <en-US>All</en-US>
+    <it-IT>Tutti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_SINGLEPLAYER</zType>
+    <en-US>Singleplayer</en-US>
+    <it-IT>Giocatore singolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_MULTIPLAYER</zType>
+    <en-US>Multiplayer</en-US>
+    <it-IT>Multigiocatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_TRANSLATIONS</zType>
+    <en-US>Translations</en-US>
+    <it-IT>Traduzioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_MAPS</zType>
+    <en-US>Maps</en-US>
+    <it-IT>Mappe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_MAP_SCRIPTS</zType>
+    <en-US>Map Scripts</en-US>
+    <it-IT>Script di mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_NATIONS</zType>
+    <en-US>Mods with Nations</en-US>
+    <it-IT>Mods con nazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_TRIBES</zType>
+    <en-US>Mods with Tribes</en-US>
+    <it-IT>Mods con Tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_CHARACTERS</zType>
+    <en-US>Mods with Characters</en-US>
+    <it-IT>Mods con personaggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_FAMILIES</zType>
+    <en-US>Mods with Families</en-US>
+    <it-IT>Mods con famiglie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_GAMEINFOS</zType>
+    <en-US>Mods with GameInfos</en-US>
+    <it-IT>Mods con GameInfos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_EVENTS</zType>
+    <en-US>Mods with Events</en-US>
+    <it-IT>Mods con eventi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_SCENARIOS</zType>
+    <en-US>Mods with Scenarios</en-US>
+    <it-IT>Mods con scenari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_AI</zType>
+    <en-US>Mods with AI changes</en-US>
+    <it-IT>Mods con modifiche all'IA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_UI</zType>
+    <en-US>Mods with UI changes</en-US>
+    <it-IT>Mods con modifiche all'interfaccia utente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_WORKSHOP_TOGGLE_LABEL</zType>
+    <en-US>Steam Workshop</en-US>
+    <it-IT>Laboratorio di vapore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FILTER_CONVERSION</zType>
+    <en-US>Conversion Mods</en-US>
+    <it-IT>Modi di conversione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_CONVERSION_TAG</zType>
+    <en-US>[Conversion]</en-US>
+    <it-IT>[Conversione]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_CONVERSION_TOGGLE_LABEL</zType>
+    <en-US>Conversion:</en-US>
+    <it-IT>Conversione:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_INCLUDE_INTERNAL_TOGGLE_LABEL</zType>
+    <en-US>Include Internal</en-US>
+    <it-IT>Includere l'interno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_NEW_MOD_BUTTON</zType>
+    <en-US>New Mod</en-US>
+    <it-IT>Nuovo Mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_RESOURCES</zType>
+    <en-US>Resources</en-US>
+    <it-IT>Risorse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_VERSION_LABEL</zType>
+    <en-US>Mod Version:</en-US>
+    <it-IT>Versione Mod:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_AUTHOR_LABEL</zType>
+    <en-US>Author:</en-US>
+    <it-IT>Autore:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_HOMEPAGE_LABEL</zType>
+    <en-US>Homepage:</en-US>
+    <it-IT>Homepage:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_PLATFORM_LABEL</zType>
+    <en-US>Mod Platform:</en-US>
+    <it-IT>Piattaforma Mod:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_BUILD_LABEL</zType>
+    <en-US>Built For:</en-US>
+    <it-IT>Costruito per:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_INFO_HEADER</zType>
+    <en-US>Mod Info</en-US>
+    <it-IT>Mod Info</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_TYPE_HEADER</zType>
+    <en-US>Mod Type</en-US>
+    <it-IT>Tipo di mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_TAGS_HEADER</zType>
+    <en-US>Mod Tags</en-US>
+    <it-IT>Tag Mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_TAGS_HEADER_TEXT</zType>
+    <en-US>(Choose all that apply)</en-US>
+    <it-IT>(Choose all that apply)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_OPTIONS_HEADER</zType>
+    <en-US>Mod Options</en-US>
+    <it-IT>Opzioni Mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_NAME_LABEL</zType>
+    <en-US>Mod Name:</en-US>
+    <it-IT>Nome del Mod:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_FILENAME_LABEL</zType>
+    <en-US>File Name:</en-US>
+    <it-IT>Nome del file:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_PICTURE_LABEL</zType>
+    <en-US>Mod Picture:</en-US>
+    <it-IT>Immagine mod:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_CHOOSE_PICTURE</zType>
+    <en-US>Choose Picture</en-US>
+    <it-IT>Scegliere l'immagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_DESCRIPTION_LABEL</zType>
+    <en-US>Description:</en-US>
+    <it-IT>Descrizione:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_CHANGELOG_LABEL</zType>
+    <en-US>Changelog Notes:</en-US>
+    <it-IT>Note sul changelog:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_CHANGELOG_LABEL_TOOLTIP</zType>
+    <en-US>This text will appear on the mod.io website as well as on the discord bot's mod update notifications</en-US>
+    <it-IT>Questo testo apparirà sul sito web di mod.io e sulle notifiche di aggiornamento delle mod del bot di discordia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SINGLEPLAYER_TOGGLE_LABEL</zType>
+    <en-US>Singleplayer:</en-US>
+    <it-IT>Giocatore singolo:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_MULTIPLAYER_TOGGLE_LABEL</zType>
+    <en-US>Multiplayer:</en-US>
+    <it-IT>Multigiocatore:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_TRANSLATION_TOGGLE_LABEL</zType>
+    <en-US>Translation:</en-US>
+    <it-IT>Traduzione:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_NATION_TOGGLE_LABEL</zType>
+    <en-US>Nation:</en-US>
+    <it-IT>Nazione:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_TRIBE_TOGGLE_LABEL</zType>
+    <en-US>Tribe:</en-US>
+    <it-IT>Tribù:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_CHARACTER_TOGGLE_LABEL</zType>
+    <en-US>Character:</en-US>
+    <it-IT>Personaggio:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_FAMILY_TOGGLE_LABEL</zType>
+    <en-US>Family:</en-US>
+    <it-IT>Famiglia:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_GAMEINFO_TOGGLE_LABEL</zType>
+    <en-US>GameInfo:</en-US>
+    <it-IT>Informazioni sul gioco:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_EVENT_TOGGLE_LABEL</zType>
+    <en-US>Event:</en-US>
+    <it-IT>Evento:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_SCENARIO_TOGGLE_LABEL</zType>
+    <en-US>Scenario:</en-US>
+    <it-IT>Scenario:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_AI_TOGGLE_LABEL</zType>
+    <en-US>AI:</en-US>
+    <it-IT>AI:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_UI_TOGGLE_LABEL</zType>
+    <en-US>UI:</en-US>
+    <it-IT>UI:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_SINGLEPLAYER_TAG</zType>
+    <en-US>[Singleplayer]</en-US>
+    <it-IT>[Singleplayer]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MULTIPLAYER_TAG</zType>
+    <en-US>[Multiplayer]</en-US>
+    <it-IT>[Multiplayer]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_TRANSLATION_TAG</zType>
+    <en-US>[Translation]</en-US>
+    <it-IT>[Traduzione]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MAP_TAG</zType>
+    <en-US>[Map]</en-US>
+    <it-IT>[Mappa]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MAP_SCRIPT_TAG</zType>
+    <en-US>[Map Script]</en-US>
+    <it-IT>[Map Script]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_NATION_TAG</zType>
+    <en-US>[Nation]</en-US>
+    <it-IT>[Nazione]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_TRIBE_TAG</zType>
+    <en-US>[Tribe]</en-US>
+    <it-IT>[Tribù]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_CHARACTER_TAG</zType>
+    <en-US>[Character]</en-US>
+    <it-IT>[Personaggio]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_FAMILY_TAG</zType>
+    <en-US>[Family]</en-US>
+    <it-IT>[Famiglia]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_GAMEINFO_TAG</zType>
+    <en-US>[GameInfo]</en-US>
+    <it-IT>[GameInfo]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_EVENT_TAG</zType>
+    <en-US>[Event]</en-US>
+    <it-IT>[Evento]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_SCENARIO_TAG</zType>
+    <en-US>[Scenario]</en-US>
+    <it-IT>[Scenario]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_AI_TAG</zType>
+    <en-US>[AI]</en-US>
+    <it-IT>[AI]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_UI_TAG</zType>
+    <en-US>[UI]</en-US>
+    <it-IT>[UI]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_FILES</zType>
+    <en-US>Files:</en-US>
+    <it-IT>File:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_ADD_FILES</zType>
+    <en-US>Add Files</en-US>
+    <it-IT>Aggiungi file</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_DEPENDENCIES</zType>
+    <en-US>Dependencies:</en-US>
+    <it-IT>Dipendenze:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_INCOMPATIBILITIES</zType>
+    <en-US>Incompatibilities:</en-US>
+    <it-IT>Incompatibilità:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_DEPENDENCIES_TOOLTIP</zType>
+    <en-US>List of mods required by this mod to work properly. These mods will always load before this mod.</en-US>
+    <it-IT>Elenco delle mod necessarie a questa mod per funzionare correttamente. Queste mod verranno sempre caricate prima di questa mod.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_INCOMPATIBILITIES_TOOLTIP</zType>
+    <en-US>List of mods that are not compatible with this mod.</en-US>
+    <it-IT>Elenco delle mod non compatibili con questa mod.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_RELATIONS_FORMAT_EXPLANATION</zType>
+    <en-US>each in the format: mod_name,modio_id,modfile_id{br}where mod_name is the only required field. modio_id is the number id for the mod on mod.io. And modfile_id is the specific version file id.</en-US>
+    <it-IT>ciascuno nel formato: mod_name,modio_id,modfile_id{br} dove mod_name è l'unico campo obbligatorio. modio_id è l'id numerico della mod su mod.io. E modfile_id è l'id del file della versione specifica.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_OPEN_MOD_FOLDER_BUTTON</zType>
+    <en-US>Open Mod Folder</en-US>
+    <it-IT>Aprire la cartella Mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_SAVE_LOCAL_CHANGES_BUTTON</zType>
+    <en-US>Save Local Changes</en-US>
+    <it-IT>Salva le modifiche locali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_UPLOAD_MODIO_BUTTON</zType>
+    <en-US>Upload to mod.io</en-US>
+    <it-IT>Caricare su mod.io</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_UPLOAD_WORKSHOP_BUTTON</zType>
+    <en-US>Upload to Workshop</en-US>
+    <it-IT>Caricare su Workshop</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_CLEAR_MOD_SELECTION_BUTTON</zType>
+    <en-US>Clear Mods</en-US>
+    <it-IT>Modifiche chiare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_REVERT_SELECTION_BUTTON</zType>
+    <en-US>Revert Selections</en-US>
+    <it-IT>Invertire le selezioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PLAY_WITH_MODS_BUTTON</zType>
+    <en-US>Play with Mods</en-US>
+    <it-IT>Giocare con i Mods</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_INTERNAL_MOD</zType>
+    <en-US>{0_modName} (Internal)</en-US>
+    <it-IT>{0_modName} (Internal)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_MOD_PROFILE_BUTTON</zType>
+    <en-US>Create mod.io Profile</en-US>
+    <it-IT>Creare un profilo mod.io</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_PROFILE_BUTTON</zType>
+    <en-US>Update mod.io Profile</en-US>
+    <it-IT>Aggiornare il profilo di mod.io</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_BUTTON</zType>
+    <en-US>Update</en-US>
+    <it-IT>Aggiornamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UNINSTALL_MOD_BUTTON</zType>
+    <en-US>Uninstall</en-US>
+    <it-IT>Disinstallare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_DOWNLOAD_MOD_BUTTON</zType>
+    <en-US>Download</en-US>
+    <it-IT>Scaricare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_REQUEST_ERROR_POPUP_TITLE</zType>
+    <en-US>Request Error</en-US>
+    <it-IT>Errore di richiesta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SECURITY_CODE_SENT_POPUP_TITLE</zType>
+    <en-US>Security Code Sent</en-US>
+    <it-IT>Codice di sicurezza inviato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_LOG_OUT_BUTTON</zType>
+    <en-US>Log Out</en-US>
+    <it-IT>Disconnettersi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SIGN_IN_BUTTON</zType>
+    <en-US>Sign In</en-US>
+    <it-IT>Accedi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_DIFF</zType>
+    <en-US>{0_modName} - installed: {1}, available ({2}): {3}{br}</en-US>
+    <it-IT>{0_modName} - installato: {1}, disponibile ({2}): {3}{br}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_NOTIFICATION1</zType>
+    <en-US>The following mods have an update available to install from the Manage Mods menu.{br}{br}</en-US>
+    <it-IT>Le seguenti mod hanno un aggiornamento disponibile per l'installazione dal menu Gestione mods.{br}{br}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_NOTIFICATION2</zType>
+    <en-US>icon(bullet) {0_modName} ({1}){br}</en-US>
+    <it-IT>icona(bullet) {0_modName} ({1}){br}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_MODS_POPUP_TITLE</zType>
+    <en-US>Update Mods</en-US>
+    <it-IT>Aggiornamento Mods</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_UPDATED_CONFIRMED_POPUP_TITLE</zType>
+    <en-US>Mods Updated</en-US>
+    <it-IT>Mods aggiornati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_DOWNLOAD_COMPLETE_POPUP_TITLE</zType>
+    <en-US>Download Complete</en-US>
+    <it-IT>Scaricare Completo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_DOWNLOAD_COMPLETE_POPUP_BODY</zType>
+    <en-US>Finished downloading {LIST}</en-US>
+    <it-IT>Finito di scaricare {LIST}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ENTER_EMAIL_POPUP_TITLE</zType>
+    <en-US>Enter Email</en-US>
+    <it-IT>Inserire l'e-mail</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_VALIDATION_ERROR_POPUP_TITLE</zType>
+    <en-US>Validation Error</en-US>
+    <it-IT>Errore di convalida</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_MOD_NOT_BLANK</zType>
+    <en-US>Mod name cannot be blank</en-US>
+    <it-IT>Il nome del mod non può essere vuoto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_DUPLICATE_MOD_NAME</zType>
+    <en-US>Duplicate mod name</en-US>
+    <it-IT>Nome mod duplicato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_TITLE</zType>
+    <en-US>Reserved Mod Name</en-US>
+    <it-IT>Nome del modulo riservato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_BODY</zType>
+    <en-US>The mod name "{0_modName}" is reserved for internal use only</en-US>
+    <it-IT>Il nome del mod "{0_modName}" è riservato all'uso interno.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATING_MOD_PROFILE</zType>
+    <en-US>Updating Mod Profile...</en-US>
+    <it-IT>Aggiornamento del profilo del mod...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPLOADING_MOD_PROFILE</zType>
+    <en-US>Uploading Mod Profile...</en-US>
+    <it-IT>Caricamento del profilo del mod...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPLOADING_BUILD</zType>
+    <en-US>Uploading Build...</en-US>
+    <it-IT>Caricamento della build...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_HAS_NO_PROFILE_POPUP_TITLE</zType>
+    <en-US>Mod does not have mod profile</en-US>
+    <it-IT>Il mod non ha un profilo mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_HAS_NO_PROFILE_POPUP_BODY</zType>
+    <en-US>How would you like to procede?</en-US>
+    <it-IT>Come volete procedere?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_PROFILE_POPUP_OPTION</zType>
+    <en-US>Create New Mod Profile</en-US>
+    <it-IT>Crea nuovo profilo mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_PROFILE_CHANGES_COMPLETE_POPUP_TITLE</zType>
+    <en-US>Mod Profile Changes Complete</en-US>
+    <it-IT>Modifiche al profilo completate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_FILE_UPLOADED_POPUP_TITLE</zType>
+    <en-US>Mod File Uploaded</en-US>
+    <it-IT>File mod caricato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_FILE_UPLOADED_POPUP_BODY</zType>
+    <en-US>Your Mod has now been uploaded. Please note that it could take up to 15 minutes before it is available for players to download.</en-US>
+    <it-IT>La tua mod è stata caricata. Si prega di notare che potrebbero essere necessari fino a 15 minuti prima che sia disponibile per il download da parte dei giocatori.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_DEFAULT_DESCRIPTION</zType>
+    <en-US>Enter Description here...</en-US>
+    <it-IT>Inserire qui la descrizione...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_TITLE</zType>
+    <en-US>Mods Set</en-US>
+    <it-IT>Set di Mods</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY</zType>
+    <en-US>The following mods are active:</en-US>
+    <it-IT>Sono attivi i seguenti mod:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_INCOMPAT</zType>
+    <en-US>{br}{br}The following mods are incompatible and now disabled:</en-US>
+    <it-IT>{br}{br}Le seguenti mod sono incompatibili e ora disabilitate:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_DEPENDENT</zType>
+    <en-US>{br}{br}The following mods are dependencies and now active:</en-US>
+    <it-IT>{br}{br}Le seguenti mod sono dipendenti e ora attive:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_SCRIPTS</zType>
+    <en-US>{br}{br}The following mods have scripts and are now disabled. Place them in the Scripts folder:</en-US>
+    <it-IT>{br}{br}Le seguenti mod hanno degli script e sono ora disabilitate. Inserirli nella cartella Scripts:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_BLOCK</zType>
+    <en-US>{br}{br}The following mods have been blocked by the active mod:</en-US>
+    <it-IT>{br}{br}I seguenti mod sono stati bloccati dal mod attivo:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_BLOCK_LABEL</zType>
+    <en-US>This Mod blocks other mods</en-US>
+    <it-IT>Questa mod blocca altre mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_NO_WHITELIST</zType>
+    <en-US>No Whitelist</en-US>
+    <it-IT>Nessuna Whitelist</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_BLOCKING_TOGGLE_LABEL</zType>
+    <en-US>Blocks other Mods</en-US>
+    <it-IT>Blocca altre mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_HAS_WHITELIST</zType>
+    <en-US>Has Whitelist</en-US>
+    <it-IT>Ha una lista bianca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_WHITELIST</zType>
+    <en-US>Whitelist:</en-US>
+    <it-IT>Whitelist:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_MOD_WHITELIST_TOOLTIP</zType>
+    <en-US>List of mods allowed to run with this mod.</en-US>
+    <it-IT>Elenco dei mod autorizzati a funzionare con questo mod.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_NEW_GAME_SINGLEPLAYER_OR_MULTIPLAYER_POPUP_TITLE</zType>
+    <en-US>Singleplayer or Multiplayer?</en-US>
+    <it-IT>Singleplayer o Multiplayer?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_NEW_GAME_SINGLEPLAYER_POPUP_OPTION</zType>
+    <en-US>Singleplayer</en-US>
+    <it-IT>Giocatore singolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_NEW_GAME_MULTIPLAYER_POPUP_OPTION</zType>
+    <en-US>Multiplayer</en-US>
+    <it-IT>Multigiocatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_LOGGED_OUT_TITLE</zType>
+    <en-US>Successfully Logged Out</en-US>
+    <it-IT>Disconnessione riuscita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_POPUP_TITLE</zType>
+    <en-US>Create New Mod</en-US>
+    <it-IT>Crea nuova mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_POPUP_BODY</zType>
+    <en-US>Enter mod name</en-US>
+    <it-IT>Inserire il nome del mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SAVE_LOCAL_CHANGES_TOOLTIP</zType>
+    <en-US>Save local changes to your {0_filename} file</en-US>
+    <it-IT>Salvare le modifiche locali nel file {0_filename}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_SAVE_LOCAL_CHANGES_NOT_AVAILABLE_TOOLTIP</zType>
+    <en-US>Cannot save local modinfo of Map and MapScript mods, must update/create the online profile</en-US>
+    <it-IT>Non è possibile salvare le modinfo locali di Map e MapScript, è necessario aggiornare/creare il profilo online.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_CREATE_NEW_MOD_PROFILE_TOOLTIP</zType>
+    <en-US>Create a new mod profile on mod.io</en-US>
+    <it-IT>Creare un nuovo profilo mod su mod.io</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UPDATE_MOD_PROFILE_TOOLTIP</zType>
+    <en-US>Update your mod's mod.io profile</en-US>
+    <it-IT>Aggiornare il profilo mod.io della propria mod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_PUBLISH_NEW_BUILD_TOOLTIP</zType>
+    <en-US>Create and Publish a new build file for your mod{br}Required items:{br}icon(bullet)Mod Name{br}icon(bullet)File Name (should automatically generate from Mod Name){br}icon(bullet)Mod Picture (Check picture requirements){br}icon(bullet)Description{br}icon(bullet)Author</en-US>
+    <it-IT>Crea e pubblica un nuovo file di build per la tua mod{br}Oggetti richiesti:{br}icon(bullet)Nome della mod{br}icon(bullet)Nome del file (should automatically generate from Mod Name){br}icon(bullet)Immagine della mod (Check picture requirements){br}icon(bullet)Descrizione{br}icon(bullet)Autore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_PUBLISH_NEW_WORKSHOP_TOOLTIP</zType>
+    <en-US>Create and Publish a new build file for your mod{br}Required items:{br}icon(bullet)Mod Name{br}icon(bullet)File Name (should automatically generate from Mod Name){br}icon(bullet)Mod Picture (Check picture requirements){br}icon(bullet)Description{br}icon(bullet)Author</en-US>
+    <it-IT>Crea e pubblica un nuovo file di build per la tua mod{br}Oggetti richiesti:{br}icon(bullet)Nome della mod{br}icon(bullet)Nome del file (should automatically generate from Mod Name){br}icon(bullet)Immagine della mod (Check picture requirements){br}icon(bullet)Descrizione{br}icon(bullet)Autore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_VERSION_NOT_LATEST_TOOLTIP</zType>
+    <en-US>Version not up to date.{br}downloaded: {0}{br}latest: {1}</en-US>
+    <it-IT>Versione non aggiornata.{br}scaricata: {0}{br}più recente: {1}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_UP_TO_DATE_TOOLTIP</zType>
+    <en-US>Downloaded and up to date!</en-US>
+    <it-IT>Scaricato e aggiornato!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_PICTURE_TOOLTIP</zType>
+    <en-US>Mod.io requirements:{br}icon(bullet)1280x720 or larger recommended{br}icon(bullet)16:9 aspect ratio recommended{br}icon(bullet)Less than 8MB file size{br}icon(bullet)GIFs will be converted to PNG</en-US>
+    <it-IT>Requisiti di Mod.io:{br}icon(bullet)1280x720 o più grande raccomandato{br}icon(bullet)16:9 rapporto d'aspetto raccomandato{br}icon(bullet)Meno di 8MB dimensione del file{br}icon(bullet)GIF saranno convertite in PNG</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MOD_PICTURE_WORKSHOP_TOOLTIP</zType>
+    <en-US>Mod.io requirements:{br}icon(bullet)1280x720 or larger recommended{br}icon(bullet)16:9 aspect ratio recommended{br}icon(bullet)Less than 8MB file size{br}icon(bullet)GIFs will be converted to PNG{br}{br}Workshop requirements:{br}icon(bullet)256x256 or larger recommended{br}icon(bullet)Less than 1MB file size{br}icon(bullet)PNG or JPG image</en-US>
+    <it-IT>Requisiti di Mod.io:{br}icon(bullet)1280x720 o più grande raccomandato{br}icon(bullet)Rapporto d'aspetto 16:9 raccomandato{br}icon(bullet)Meno di 8MB di dimensione del file{br}icon(bullet)Le GIF saranno convertite in PNG{br}{br}Requisiti diWorkshop:{br}icon(bullet)256x256 o più grande raccomandato{br}icon(bullet)Meno di 1MB di dimensione del file{br}icon(bullet)PNG o immagine JPG</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_HELP_POPUP_BUTTON</zType>
+    <en-US>Help</en-US>
+    <it-IT>Aiuto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_HELP_POPUP_TITLE</zType>
+    <en-US>Mod Browser Help</en-US>
+    <it-IT>Aiuto del browser delle modifiche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_HELP_POPUP_TEXT</zType>
+    <en-US>The Mod Browser allows you to install, manage, and play with Mods created by the Old World Community. Old World Mods are hosted by mod.io which is available in all versions of Old World. An explanation of each section of the Mod Browser follows.
+MANAGE - Mods which are installed and ready to use. To activate a Mod toggle the switch on the left to ON. You may now play a game with these Mods active. To uninstall a Mod, select the Mod then click the UNINSTALL button. Note: Maps and Mapscripts are always active so you do not need to turn them on.
+UPLOAD - Share your creations with other players of Old World. Mod creators are able to set the details of their Mods and upload them to mod.io so other players may play them. The Steam version of Old World allows uploading to Workshop as well.
+INSTALL - Search for and download Mods to play from mod.io. The Steam version of Old World includes a switch to show Workshop mods instead. Select a Mod, then click DOWNLOAD to install. Mods already downloaded are listed with a tick. You may also UPDATE Mods when Mod creators upload new versions of their creations.</en-US>
+    <it-IT>Il Mod Browser consente di installare, gestire e giocare con i Mod creati dalla comunità di Old World. Le mod di Old World sono ospitate da mod.io, disponibile in tutte le versioni di Old World. Segue una spiegazione di ogni sezione del Mod Browser.
+GESTIONE - Mod installate e pronte all'uso. Per attivare una mod, spostare l'interruttore a sinistra su ON. A questo punto è possibile giocare con queste mod attive. Per disinstallare una mod, selezionarla e fare clic sul pulsante UNINSTALL. Nota: le Mappe e i Mappamondi sono sempre attivi, quindi non è necessario attivarli.
+CARICAMENTO - Condividi le tue creazioni con altri giocatori di Old World. I creatori di mod possono impostare i dettagli delle loro mod e caricarle su mod.io in modo che altri giocatori possano giocarci. La versione Steam di Old World consente anche il caricamento su Workshop.
+INSTALLA - Cerca e scarica le mod da giocare da mod.io. La versione Steam di Old World include un interruttore per mostrare invece le mod di Workshop. Selezionare una mod, quindi fare clic su DOWNLOAD per installarla. Le mod già scaricate sono elencate con un segno di spunta. È anche possibile AGGIORNARE le mod quando i creatori delle mod caricano nuove versioni delle loro creazioni.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_COMPATIBILITY_TITLE</zType>
+    <en-US>WARNING! MOD COMPATIBILITY</en-US>
+    <it-IT>ATTENZIONE! COMPATIBILITÀ CON LE MOD</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_COMPATIBILITY_TEXT</zType>
+    <en-US>
+This Mod has been created in a different version of Old World. Using this Mod is not recommended as it may not be compatible with your version of Old World.
+Click OKAY to continue downloading the Mod, or CANCEL to return to the Mod Browser.</en-US>
+    <it-IT>
+Questa mod è stata creata in una versione diversa di Old World. L'uso di questa mod è sconsigliato perché potrebbe non essere compatibile con la vostra versione di Old World.
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_REPORT_TOOLTIP</zType>
+    <en-US>Report mod content for violating mod.io's {0_tosLink}</en-US>
+    <it-IT>Segnala il contenuto della mod per aver violato il {0_tosLink} di mod.io.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_TERMS_OF_USE_LINK_TEXT</zType>
+    <en-US>Terms of Use</en-US>
+    <it-IT>Condizioni di utilizzo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_CHECK_SUBSCRIBED</zType>
+    <en-US>Please wait, checking {0} Workshop subscribed mods</en-US>
+    <it-IT>Attendere prego, controllo {0} Mods iscritti all'officina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOAD_GAME_MODS_NOT_FOUND_POPUP_TITLE</zType>
+    <en-US>Mods Not Found!</en-US>
+    <it-IT>Mods non trovati!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOAD_GAME_MODS_NOT_FOUND_POPUP_BODY</zType>
+    <en-US>The following mods were not found on your system, would you like to go to the Mod install screen?</en-US>
+    <it-IT>Le seguenti mod non sono state trovate nel tuo sistema, vuoi andare alla schermata di installazione delle mod?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_DOWNLOADING_MODS_POPUP_TITLE</zType>
+    <en-US>Downloading mods, please wait.</en-US>
+    <it-IT>Download di mods, attendere prego.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MOD_DOWNLOADS_COMPLETE_POPUP_TRY_LOAD_AGAIN_BUTTON</zType>
+    <en-US>Try Loading Game Again</en-US>
+    <it-IT>Prova a caricare di nuovo il gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_NOT_FOUND_ON_SERVER_POPUP_TITLE</zType>
+    <en-US>The requested mods were not found on the mod.io servers</en-US>
+    <it-IT>Le mod richieste non sono state trovate sui server di mod.io</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_NOT_DOWNLOADED_WORKSHOP_TITLE</zType>
+    <en-US>Workshop Error</en-US>
+    <it-IT>Errore di officina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_NOT_DOWNLOADED_WORKSHOP_BODY</zType>
+    <en-US>Failed to download mod from Workshop</en-US>
+    <it-IT>Impossibile scaricare la mod dal Workshop</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_CODE_MOD_INCOMPATIBLE</zType>
+    <en-US>The mod {0} failed to load. It contains custom source code that is incompatible with this version of Old World. The mod needs to be updated by the author in order to work again.
+{0} has been unloaded and disabled. It is recommended that you restart Old World before playing.</en-US>
+    <it-IT>Il mod {0} non è stato caricato. Contiene codice sorgente personalizzato che è incompatibile con questa versione di Old World. La mod deve essere aggiornata dall'autore per poter funzionare di nuovo.
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LATEST_PATCH_NOTES_TITLE</zType>
+    <en-US>Latest patch notes</en-US>
+    <it-IT>Ultime note della patch</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_CHOOSE_LEADER</zType>
+    <en-US>Choose a Leader</en-US>
+    <it-IT>Scegliere un leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_MAPSCRIPT</zType>
+    <en-US>Map Script</en-US>
+    <it-IT>Mappa Script</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_SIMPLE_MAPFILE</zType>
+    <en-US>Map File</en-US>
+    <it-IT>File mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SP_SETUP_MAP_SETTINGS</zType>
+    <en-US>Map Settings</en-US>
+    <it-IT>Impostazioni della mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SP_SETUP_START_GAME</zType>
+    <en-US>Start Game</en-US>
+    <it-IT>Avvio del gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_SP_SETUP_UNKNOWN_LEADER</zType>
+    <en-US>Unknown</en-US>
+    <it-IT>Sconosciuto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOADING_MANAGER_LOADING</zType>
+    <en-US>Loading</en-US>
+    <it-IT>Caricamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOADING_MANAGER_LOADING_MAIN_GAME</zType>
+    <en-US>Loading MainGame</en-US>
+    <it-IT>Caricamento di MainGame</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOADING_MANAGER_CREATING_GAME</zType>
+    <en-US>Creating Game</en-US>
+    <it-IT>Creare il gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOADING_MANAGER_INITIALIZING_RENDERER</zType>
+    <en-US>Initializing Renderer</en-US>
+    <it-IT>Inizializzazione del renderer</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOADING_MANAGER_INITIALIZING_UI</zType>
+    <en-US>Initializing UI</en-US>
+    <it-IT>Inizializzazione dell'interfaccia utente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOADING_MANAGER_FINISHING_TASKS</zType>
+    <en-US>Finishing Tasks {0_num}</en-US>
+    <it-IT>Compiti finali {0_num}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LOADING_MANAGER_FINISHED</zType>
+    <en-US>Finished</en-US>
+    <it-IT>Finito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_MINIMUM</zType>
+    <en-US>Minimum</en-US>
+    <it-IT>Minimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_LOW</zType>
+    <en-US>Low</en-US>
+    <it-IT>Basso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_MEDIUM</zType>
+    <en-US>Medium</en-US>
+    <it-IT>Medio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_HIGH</zType>
+    <en-US>High</en-US>
+    <it-IT>Alto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_CUSTOM</zType>
+    <en-US>Custom</en-US>
+    <it-IT>Personalizzato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_ERROR</zType>
+    <en-US>Error</en-US>
+    <it-IT>Errore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_NONE</zType>
+    <en-US>None</en-US>
+    <it-IT>Nessuno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_DEUTERANOPIA</zType>
+    <en-US>Deuteranopia</en-US>
+    <it-IT>Deuteranopia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_PROTANOPIA</zType>
+    <en-US>Protanopia</en-US>
+    <it-IT>Protanopia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_TRITANOPIA</zType>
+    <en-US>Tritanopia</en-US>
+    <it-IT>Tritanopia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_FPS_NO_LIMIT</zType>
+    <en-US>No Limit</en-US>
+    <it-IT>Nessun limite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_FPS_100</zType>
+    <en-US>100FPS</en-US>
+    <it-IT>100FPS</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_FPS_60</zType>
+    <en-US>60FPS</en-US>
+    <it-IT>60FPS</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_FPS_30</zType>
+    <en-US>30FPS</en-US>
+    <it-IT>30FPS</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_FPS_V1</zType>
+    <en-US>V-Sync (1 Interval)</en-US>
+    <it-IT>V-Sync (1 Interval)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_FPS_V2</zType>
+    <en-US>V-Sync (2 Interval)</en-US>
+    <it-IT>V-Sync (2 Interval)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_FPS_8</zType>
+    <en-US>8FPS (Debug)</en-US>
+    <it-IT>8FPS (Debug)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_SCREENMODE_EXCLUSIVE_FULLSCREEN</zType>
+    <en-US>Exclusive Fullscreen</en-US>
+    <it-IT>Esclusivo a schermo intero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_SCREENMODE_BORDERLESS_WINDOW</zType>
+    <en-US>Borderless Windowed</en-US>
+    <it-IT>Senza bordi e con finestre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_SCREENMODE_WINDOWED</zType>
+    <en-US>Windowed</en-US>
+    <it-IT>A finestra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_ON</zType>
+    <en-US>On</en-US>
+    <it-IT>Su</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OPTIONS_OFF</zType>
+    <en-US>Off</en-US>
+    <it-IT>Spento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OCCURRENCE_SOLO</zType>
+    <en-US>{0_occurrence}</en-US>
+    <it-IT>{0_occurrence}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_OCCURRENCE_WARNING</zType>
+    <en-US>Warning: {0_occurrence}!</en-US>
+    <it-IT>Attenzione: {0_occurrence}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_X_STARTED</zType>
+    <en-US>[{0} Started]</en-US>
+    <it-IT>[{0} Avviato]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_X_ENDED</zType>
+    <en-US>[{0} Ended]</en-US>
+    <it-IT>[{0} Finito]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_LAPTOP_BATTERY_PERFORMANCE_WARNING</zType>
+    <en-US>You are playing on a laptop that is running on battery. Depending on your computer's settings, it may limit performance to ensure longer battery life.
+On some laptops, these power saving features may result in very long waiting times between turns. If you encounter such issues, consider switching your laptop's power plan to a "Maximum Performance" setting or similar.</en-US>
+    <it-IT>Si sta giocando su un computer portatile che funziona a batteria. A seconda delle impostazioni del computer, le prestazioni potrebbero essere limitate per garantire una maggiore durata della batteria.
+</it-IT>
+  </Entry>
+</Root>

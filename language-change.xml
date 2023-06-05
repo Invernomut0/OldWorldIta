@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType>LANGUAGE_TRANSLATION</zType>
+        <Name>TEXT_LANGUAGE_ITALIAN</Name>
+        <zFieldName>it-IT</zFieldName>
+        <zFieldNameSecondary>Invernomuto</zFieldNameSecondary>
+        <zISOCode>it</zISOCode>
+        <iExportColumn>3</iExportColumn>
+        <bPublicBuild>1</bPublicBuild>
+        <zSingularExpression>x==1</zSingularExpression>
+		<zThousandsSeparator>.</zThousandsSeparator>
+		<zDecimalSeparator>,</zDecimalSeparator>
+		<zCurrencyPrefix>€</zCurrencyPrefix>
+		<zThousandPostfix>K</zThousandPostfix>
+		<zMillionPostfix>M</zMillionPostfix>
+	</Entry>
+</Root>

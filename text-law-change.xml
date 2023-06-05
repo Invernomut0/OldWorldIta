@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_LAW_PRIMOGENITURE</zType>
+    <en-US>Primogeniture</en-US>
+    <it-IT>Primogenitura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_ULTIMOGENITURE</zType>
+    <en-US>Ultimogeniture</en-US>
+    <it-IT>Ultimogeniture</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_LATERAL</zType>
+    <en-US>Lateral</en-US>
+    <it-IT>Laterale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_DYNASTIC</zType>
+    <en-US>Dynastic</en-US>
+    <it-IT>Dinastico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_SENIORITY</zType>
+    <en-US>Seniority</en-US>
+    <it-IT>Anzianità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_EPICS</zType>
+    <en-US>Epics</en-US>
+    <it-IT>Epopee</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_EXPLORATION</zType>
+    <en-US>Exploration</en-US>
+    <it-IT>Esplorazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_SLAVERY</zType>
+    <en-US>Slavery</en-US>
+    <it-IT>Schiavitù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_FREEDOM</zType>
+    <en-US>Freedom</en-US>
+    <it-IT>Libertà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_CENTRALIZATION</zType>
+    <en-US>Centralization</en-US>
+    <it-IT>Centralizzazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_VASSALAGE</zType>
+    <en-US>Vassalage</en-US>
+    <it-IT>Vassallaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_TYRANNY</zType>
+    <en-US>Tyranny</en-US>
+    <it-IT>Tirannia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_CONSTITUTION</zType>
+    <en-US>Constitution</en-US>
+    <it-IT>Costituzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_COLONIES</zType>
+    <en-US>Colonies</en-US>
+    <it-IT>Colonie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_SERFDOM</zType>
+    <en-US>Serfdom</en-US>
+    <it-IT>Servitù della gleba</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_MONOTHEISM</zType>
+    <en-US>Monotheism</en-US>
+    <it-IT>Monoteismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_POLYTHEISM</zType>
+    <en-US>Polytheism</en-US>
+    <it-IT>Politeismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_DIVINE_RULE</zType>
+    <en-US>Divine Rule</en-US>
+    <it-IT>Regola divina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_LEGAL_CODE</zType>
+    <en-US>Legal Code</en-US>
+    <it-IT>Codice legale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_TOLERANCE</zType>
+    <en-US>Tolerance</en-US>
+    <it-IT>Tolleranza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_ORTHODOXY</zType>
+    <en-US>Orthodoxy</en-US>
+    <it-IT>Ortodossia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_PROFESSIONAL_ARMY</zType>
+    <en-US>Professional Army</en-US>
+    <it-IT>Esercito professionale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_VOLUNTEERS</zType>
+    <en-US>Volunteers</en-US>
+    <it-IT>Volontari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_PHILOSOPHY</zType>
+    <en-US>Philosophy</en-US>
+    <it-IT>Filosofia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_ENGINEERING</zType>
+    <en-US>Engineering</en-US>
+    <it-IT>Ingegneria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_ICONOGRAPHY</zType>
+    <en-US>Iconography</en-US>
+    <it-IT>Iconografia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_CALLIGRAPHY</zType>
+    <en-US>Calligraphy</en-US>
+    <it-IT>Calligrafia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_PILGRIMAGE</zType>
+    <en-US>Pilgrimage</en-US>
+    <it-IT>Pellegrinaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_HOLY_WAR</zType>
+    <en-US>Holy War</en-US>
+    <it-IT>Guerra Santa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_GUILDS</zType>
+    <en-US>Guilds</en-US>
+    <it-IT>Gilde</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_ELITES</zType>
+    <en-US>Elites</en-US>
+    <it-IT>Elites</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_AUTARKY</zType>
+    <en-US>Autarky</en-US>
+    <it-IT>Autarchia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_TRADE_LEAGUE</zType>
+    <en-US>Trade League</en-US>
+    <it-IT>Lega commerciale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_COIN_DEBASEMENT</zType>
+    <en-US>Coin Debasement</en-US>
+    <it-IT>Svalutazione della moneta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAW_MONETARY_REFORM</zType>
+    <en-US>Monetary Reform</en-US>
+    <it-IT>Riforma monetaria</it-IT>
+  </Entry>
+</Root>

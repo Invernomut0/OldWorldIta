@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_NATION_ASSYRIA</zType>
+    <en-US>Assyria~Assyrian~an Assyrian~Assyrians</en-US>
+    <it-IT>Assiria~Assiro~un assiro~Assiri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_ASSYRIA_F</zType>
+    <en-US>Assyria~Assyrian~an Assyrian~Assyrians</en-US>
+    <it-IT>Assiria~Assiro~un assiro~Assiri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_BABYLONIA</zType>
+    <en-US>Babylonia~Babylonian~a Babylonian~Babylonians</en-US>
+    <it-IT>Babilonia~Babilonese~un babilonese~Babilonesi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_BABYLONIA_F</zType>
+    <en-US>Babylonia~Babylonian~a Babylonian~Babylonians</en-US>
+    <it-IT>Babilonia~Babilonese~un babilonese~Babilonesi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_CARTHAGE</zType>
+    <en-US>Carthage~Carthaginian~a Carthaginian~Carthaginians</en-US>
+    <it-IT>Cartagine~Cartaginese~un cartaginese~Cartaginesi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_CARTHAGE_F</zType>
+    <en-US>Carthage~Carthaginian~a Carthaginian~Carthaginians</en-US>
+    <it-IT>Cartagine~Cartaginese~un cartaginese~Cartaginesi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_EGYPT</zType>
+    <en-US>Egypt~Egyptian~an Egyptian~Egyptians</en-US>
+    <it-IT>Egitto~Egiziano~un egiziano~Egiziani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_EGYPT_F</zType>
+    <en-US>Egypt~Egyptian~an Egyptian~Egyptians</en-US>
+    <it-IT>Egitto~Egiziano~un egiziano~Egiziani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_GREECE</zType>
+    <en-US>Greece~Greek~a Greek~Greeks</en-US>
+    <it-IT>Grecia~Greco~un greco~Greci</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_GREECE_F</zType>
+    <en-US>Greece~Greek~a Greek~Greeks</en-US>
+    <it-IT>Grecia~Greco~un greco~Greci</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_PERSIA</zType>
+    <en-US>Persia~Persian~a Persian~Persians</en-US>
+    <it-IT>Persia~Persiano~un Persiano~Persiani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_PERSIA_F</zType>
+    <en-US>Persia~Persian~a Persian~Persians</en-US>
+    <it-IT>Persia~Persiano~un Persiano~Persiani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_PHOENICIA</zType>
+    <en-US>Phoenicia~Phoenician~a Phoenician~Phoenicians</en-US>
+    <it-IT>Fenicia~Fenicio~un Fenicio~I Fenici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_PHOENICIA_F</zType>
+    <en-US>Phoenicia~Phoenician~a Phoenician~Phoenicians</en-US>
+    <it-IT>Fenicia~Fenicio~un Fenicio~I Fenici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_ROME</zType>
+    <en-US>Rome~Roman~a Roman~Romans</en-US>
+    <it-IT>Roma~Romano~un Romano~Romani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_ROME_F</zType>
+    <en-US>Rome~Roman~a Roman~Romans</en-US>
+    <it-IT>Roma~Romano~un rRmano~Romani</it-IT>
+  </Entry>
+</Root>

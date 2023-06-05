@@ -1,0 +1,388 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_MISCOPTION_EMAIL_NAME</zType>
+    <en-US>Email</en-US>
+    <it-IT>Email</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_EMAIL_DESC</zType>
+    <en-US>Your email address will be used for play by cloud games, or to contact you if necessary when you submit bugs.</en-US>
+    <it-IT>Il vostro indirizzo e-mail sarà utilizzato per i giochi cloud o per contattarvi, se necessario, quando inviate dei bug.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_CAMERA_FOLLOW_AI_MOVES_NAME</zType>
+    <en-US>Follow AI Moves</en-US>
+    <it-IT>Segui le mosse di AI</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_CAMERA_FOLLOW_AI_MOVES_DESC</zType>
+    <en-US>When should the camera follow AI moves?</en-US>
+    <it-IT>Quando la telecamera deve seguire i movimenti dell'IA?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_RESOLUTION_NAME</zType>
+    <en-US>Resolution</en-US>
+    <it-IT>Risoluzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_FULLSCREENMODE_NAME</zType>
+    <en-US>Display Mode</en-US>
+    <it-IT>Modalità di visualizzazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_FULLSCREENMODE_DESC</zType>
+    <en-US>FullScreen Mode</en-US>
+    <it-IT>Modalità a schermo intero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_MONITOR_NAME</zType>
+    <en-US>Monitor</en-US>
+    <it-IT>Monitor</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_MONITOR_DESC</zType>
+    <en-US>Requires game restart</en-US>
+    <it-IT>Richiede il riavvio del gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_FRAME_LIMIT_NAME</zType>
+    <en-US>Frame Limit</en-US>
+    <it-IT>Limite del telaio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_FRAME_LIMIT_DESC</zType>
+    <en-US>Set the frame limit</en-US>
+    <it-IT>Impostare il limite della cornice</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_GRAPHICS_PRESET_NAME</zType>
+    <en-US>Graphics Preset</en-US>
+    <it-IT>Preset grafico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_GRAPHICS_PRESET_DESC</zType>
+    <en-US>Graphics Presets for all options</en-US>
+    <it-IT>Preset grafici per tutte le opzioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_LOD_QUALITY_NAME</zType>
+    <en-US>Building Quality</en-US>
+    <it-IT>Qualità dell'edificio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_LOD_QUALITY_DESC</zType>
+    <en-US>Building quality and level of detail</en-US>
+    <it-IT>Qualità dell'edificio e livello di dettaglio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_RENDERING_QUALITY_NAME</zType>
+    <en-US>Rendering Quality</en-US>
+    <it-IT>Qualità del rendering</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_RENDERING_QUALITY_DESC</zType>
+    <en-US>Rendering Quality Presets</en-US>
+    <it-IT>Preset della qualità di rendering</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_TERRAIN_QUALITY_NAME</zType>
+    <en-US>Terrain Quality</en-US>
+    <it-IT>Qualità del terreno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_TERRAIN_QUALITY_DESC</zType>
+    <en-US>Terrain rendering quality and memory usage</en-US>
+    <it-IT>Qualità del rendering del terreno e utilizzo della memoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_FOW_QUALITY_NAME</zType>
+    <en-US>FOW Quality</en-US>
+    <it-IT>Qualità FOW</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_FOW_QUALITY_DESC</zType>
+    <en-US>FOW rendering quality</en-US>
+    <it-IT>Qualità del rendering FOW</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_NAME</zType>
+    <en-US>Colorblind Filter</en-US>
+    <it-IT>Filtro daltonico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_DESC</zType>
+    <en-US>Color blind filters for a range of types</en-US>
+    <it-IT>Filtri daltonici per un'ampia gamma di tipi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_STRENGTH_NAME</zType>
+    <en-US>Filter Strength</en-US>
+    <it-IT>Forza del filtro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_COLORBLIND_FILTER_STRENGTH_DESC</zType>
+    <en-US>Adjust the amount of the colorblind filter</en-US>
+    <it-IT>Regolare la quantità di filtro daltonico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_CAMERA_SPEED_NAME</zType>
+    <en-US>Camera Speed</en-US>
+    <it-IT>Velocità della telecamera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_CAMERA_SPEED_DESC</zType>
+    <en-US>Camera scroll speed</en-US>
+    <it-IT>Velocità di scorrimento della telecamera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_ANTIALIASING_NAME</zType>
+    <en-US>Antialiasing</en-US>
+    <it-IT>Antialiasing</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_ANTIALIASING_DESC</zType>
+    <en-US>Enable FXAA antialiasing</en-US>
+    <it-IT>Abilita l'antialiasing FXAA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_AMBIENT_OCCLUSION_NAME</zType>
+    <en-US>Ambient Occlusion</en-US>
+    <it-IT>Occlusione ambientale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_AMBIENT_OCCLUSION_DESC</zType>
+    <en-US>Enable Ambient Occlusion post-process</en-US>
+    <it-IT>Abilita il post-processo di occlusione ambientale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_BLOOM_NAME</zType>
+    <en-US>Bloom</en-US>
+    <it-IT>Fiore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_BLOOM_DESC</zType>
+    <en-US>Enable Bloom post-process</en-US>
+    <it-IT>Abilita il post-processo Bloom</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_VIGNETTE_NAME</zType>
+    <en-US>Vignette</en-US>
+    <it-IT>Vignetta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_VIGNETTE_DESC</zType>
+    <en-US>Enable Vignette camera effect</en-US>
+    <it-IT>Abilita l'effetto vignetta della fotocamera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_MOTION_BLUR_NAME</zType>
+    <en-US>Motion Blur</en-US>
+    <it-IT>Sfocatura del movimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_MOTION_BLUR_DESC</zType>
+    <en-US>Enable Motion Blur post-process</en-US>
+    <it-IT>Abilita la post-processazione della sfocatura di movimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_DEPTH_OF_FIELD_NAME</zType>
+    <en-US>Depth of Field</en-US>
+    <it-IT>Profondità di campo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_DEPTH_OF_FIELD_DESC</zType>
+    <en-US>Enable blur effect at the top of the screen</en-US>
+    <it-IT>Abilita l'effetto sfocatura nella parte superiore dello schermo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_COLOR_CORRECTION_NAME</zType>
+    <en-US>Color Correction</en-US>
+    <it-IT>Correzione del colore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_COLOR_CORRECTION_DESC</zType>
+    <en-US>Enable Color correction post-process</en-US>
+    <it-IT>Abilita il post-processo di correzione del colore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_ANIMATION_LOD_NAME</zType>
+    <en-US>Reduce Animation Detail</en-US>
+    <it-IT>Ridurre il dettaglio dell'animazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_ANIMATION_LOD_DESC</zType>
+    <en-US>Reduce the level of detail of animated objects when the camera is zoomed out</en-US>
+    <it-IT>Ridurre il livello di dettaglio degli oggetti animati quando la telecamera è ridotta.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_GPU_UNIT_ANIMATIONS_NAME</zType>
+    <en-US>GPU Unit Animations</en-US>
+    <it-IT>Animazioni dell'unità GPU</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_GPU_UNIT_ANIMATIONS_DESC</zType>
+    <en-US>Speed up rendering of units by calculating animations on the GPU</en-US>
+    <it-IT>Velocizzare il rendering delle unità calcolando le animazioni sulla GPU</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_SINGLE_OBJECTS_NAME</zType>
+    <en-US>Show Single Objects</en-US>
+    <it-IT>Mostra oggetti singoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_SINGLE_OBJECTS_DESC</zType>
+    <en-US>Display single units and resources instead of groups</en-US>
+    <it-IT>Visualizzare singole unità e risorse invece di gruppi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_REDUCE_FRAMERATE_WHEN_UNFOCUSED_NAME</zType>
+    <en-US>Reduce Framerate When Unfocused</en-US>
+    <it-IT>Riduzione del framerate in caso di mancata messa a fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_REDUCE_FRAMERATE_WHEN_UNFOCUSED_DESC</zType>
+    <en-US>Reduce framerate to lessen GPU usage when the application is not focused</en-US>
+    <it-IT>Ridurre il framerate per diminuire l'utilizzo della GPU quando l'applicazione non è focalizzata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_MUSIC_VOLUME_NAME</zType>
+    <en-US>Music Volume</en-US>
+    <it-IT>Volume della musica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_SFX_VOLUME_NAME</zType>
+    <en-US>Effects Volume</en-US>
+    <it-IT>Volume degli effetti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_SFX_VOLUME_DESC</zType>
+    <en-US>Effects volume level</en-US>
+    <it-IT>Livello del volume degli effetti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_HUD_SCALE_NAME</zType>
+    <en-US>HUD Scale</en-US>
+    <it-IT>Scala HUD</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_HUD_SCALE_DESC</zType>
+    <en-US>Change the size of UI elements on the main game screen</en-US>
+    <it-IT>Modifica delle dimensioni degli elementi dell'interfaccia utente nella schermata principale del gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_TOOLTIP_SCALE_NAME</zType>
+    <en-US>Tooltip Scale</en-US>
+    <it-IT>Scala della barra degli strumenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_TOOLTIP_SCALE_DESC</zType>
+    <en-US>Change the size of tooltips</en-US>
+    <it-IT>Modifica delle dimensioni dei tooltip</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_OVERRIDE_MAX_SCALING_NAME</zType>
+    <en-US>Override Scaling Limit</en-US>
+    <it-IT>Annullamento del limite di scala</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_OVERRIDE_MAX_SCALING_DESC</zType>
+    <en-US><![CDATA[Increases the maximum value for HUD scaling on the slider<br><color=#ff0000>Warning: Enabling this setting may cause various UI elements to overlap or layouts to otherwise break</color>]]></en-US>
+    <it-IT><![CDATA[Aumenta il valore massimo per il ridimensionamento dell'HUD sul cursore<br><color=#ff0000>Attenzione: L'attivazione di questa impostazione può causare la sovrapposizione di vari elementi dell'interfaccia utente o la rottura dei layout</color>.]]></it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_TOOLTIP_DELAY_NAME</zType>
+    <en-US>Tooltip Delay</en-US>
+    <it-IT>Ritardo del Tooltip</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_TOOLTIP_DELAY_DESC</zType>
+    <en-US>Hover time required before tooltip appears</en-US>
+    <it-IT>Tempo necessario al passaggio del mouse prima che venga visualizzato il tooltip</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_TEAM_COLOR_INTENSITY_NAME</zType>
+    <en-US>Team Color Intensity</en-US>
+    <it-IT>Intensità del colore della squadra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_TEAM_COLOR_INTENSITY_DESC</zType>
+    <en-US>How saturated team colors should be on units and buildings</en-US>
+    <it-IT>Quanto devono essere saturi i colori della squadra sulle unità e sugli edifici?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_LANGUAGE_NAME</zType>
+    <en-US>Language</en-US>
+    <it-IT>Lingua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_LANGUAGE_DESC</zType>
+    <en-US>Change the language of game text</en-US>
+    <it-IT>Cambiare la lingua del testo del gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_NEWSLETTER</zType>
+    <en-US>Subscribe</en-US>
+    <it-IT>Abbonarsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_FIRSTNAME_NAME</zType>
+    <en-US>First name</en-US>
+    <it-IT>Nome</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_FIRSTNAME_DESC</zType>
+    <en-US>Enter your first name for the newsletter subscription</en-US>
+    <it-IT>Inserite il vostro nome per l'iscrizione alla newsletter</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_LASTNAME_NAME</zType>
+    <en-US>Last name</en-US>
+    <it-IT>Cognome</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_LASTNAME_DESC</zType>
+    <en-US>Enter your last name for the newsletter subscription</en-US>
+    <it-IT>Inserite il vostro cognome per l'iscrizione alla newsletter</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_NEWSLETTER_STATUS</zType>
+    <en-US>Newsletter subscription status:</en-US>
+    <it-IT>Stato dell'iscrizione alla newsletter:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_NEWSLETTER_SUCCEEDED</zType>
+    <en-US>Your subscription has succeeded!</en-US>
+    <it-IT>L'abbonamento è andato a buon fine!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_NEWSLETTER_FAILED</zType>
+    <en-US>Error - Please provide email and try again.</en-US>
+    <it-IT>Errore - Indicare l'e-mail e riprovare.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_USE_SANS_SERIF_NAME</zType>
+    <en-US>Use Sans Serif Fonts</en-US>
+    <it-IT>Utilizzate caratteri Sans Serif</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_USE_SANS_SERIF_DESC</zType>
+    <en-US>Change all text that uses serif fonts to use sans serif fonts instead (requires restart)</en-US>
+    <it-IT>Cambia tutto il testo che utilizza caratteri serif in font sans serif (requires restart)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_POPUP_TEXT_SCALE_NAME</zType>
+    <en-US>Popup Text Size</en-US>
+    <it-IT>Dimensione del testo a comparsa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_POPUP_TEXT_SCALE_DESC</zType>
+    <en-US>Font size scaling for most text on popups</en-US>
+    <it-IT>Ridimensionamento della dimensione dei caratteri per la maggior parte del testo sui popup</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_HIDE_HEX_GRID</zType>
+    <en-US>Hide Hex Grid</en-US>
+    <it-IT>Nascondi griglia esagonale</it-IT>
+  </Entry>
+</Root>

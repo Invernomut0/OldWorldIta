@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_PROMOTION_COMBAT1</zType>
+    <en-US>Combat I</en-US>
+    <it-IT>Combattimento I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_COMBAT2</zType>
+    <en-US>Combat II</en-US>
+    <it-IT>Combattimento II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_COMBAT3</zType>
+    <en-US>Combat III</en-US>
+    <it-IT>Combattimento III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_STRIKE1</zType>
+    <en-US>Strike I</en-US>
+    <it-IT>Sciopero I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_STRIKE2</zType>
+    <en-US>Strike II</en-US>
+    <it-IT>Sciopero II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_STRIKE3</zType>
+    <en-US>Strike III</en-US>
+    <it-IT>Sciopero III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_GUARD1</zType>
+    <en-US>Guard I</en-US>
+    <it-IT>Guardia I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_GUARD2</zType>
+    <en-US>Guard II</en-US>
+    <it-IT>Guardia II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_GUARD3</zType>
+    <en-US>Guard III</en-US>
+    <it-IT>Guardia III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_FOCUS1</zType>
+    <en-US>Focus I</en-US>
+    <it-IT>Focus I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_FOCUS2</zType>
+    <en-US>Focus II</en-US>
+    <it-IT>Focus II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_FOCUS3</zType>
+    <en-US>Focus III</en-US>
+    <it-IT>Focus III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_TRACKER</zType>
+    <en-US>Tracker</en-US>
+    <it-IT>Inseguitore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SWIFT</zType>
+    <en-US>Swift</en-US>
+    <it-IT>Swift</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_EAGLE_EYE</zType>
+    <en-US>Eagle Eye</en-US>
+    <it-IT>Occhio di falco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_MARKSMAN</zType>
+    <en-US>Marksman</en-US>
+    <it-IT>Marksman</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_AMPHIBIOUS</zType>
+    <en-US>Amphibious</en-US>
+    <it-IT>Anfibio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_MARINES</zType>
+    <en-US>Marines</en-US>
+    <it-IT>Marines</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_BESIEGER</zType>
+    <en-US>Besieger</en-US>
+    <it-IT>Besieger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_WARDEN</zType>
+    <en-US>Warden</en-US>
+    <it-IT>Direttore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_TOUGH</zType>
+    <en-US>Tough</en-US>
+    <it-IT>Difficile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_BLOODTHIRSTY</zType>
+    <en-US>Bloodthirsty</en-US>
+    <it-IT>Sanguinario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_HECKLER</zType>
+    <en-US>Heckler</en-US>
+    <it-IT>Heckler</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_STEADFAST</zType>
+    <en-US>Steadfast</en-US>
+    <it-IT>Saldezza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_HERBALIST</zType>
+    <en-US>Herbalist</en-US>
+    <it-IT>Erborista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_HEALER</zType>
+    <en-US>Healer</en-US>
+    <it-IT>Guaritore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_HIGHLANDER</zType>
+    <en-US>Highlander</en-US>
+    <it-IT>Highlander</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_RANGER</zType>
+    <en-US>Ranger</en-US>
+    <it-IT>Ranger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_BRAVE</zType>
+    <en-US>Brave</en-US>
+    <it-IT>Coraggioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SHIELDBEARER</zType>
+    <en-US>Shieldbearer</en-US>
+    <it-IT>Portatore di scudi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_FIERCE</zType>
+    <en-US>Fierce</en-US>
+    <it-IT>Feroce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_HORSEBANE</zType>
+    <en-US>Horsebane</en-US>
+    <it-IT>Cavallo di ritorno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_ENGINEER</zType>
+    <en-US>Engineer</en-US>
+    <it-IT>Ingegnere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SHRAPNEL</zType>
+    <en-US>Shrapnel</en-US>
+    <it-IT>Schegge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_COCKSWAIN</zType>
+    <en-US>Cockswain</en-US>
+    <it-IT>Cocchiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_GRAPPLER</zType>
+    <en-US>Grappler</en-US>
+    <it-IT>Ramponiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SEABORN</zType>
+    <en-US>Seaborn</en-US>
+    <it-IT>Seaborn</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_OVERWHELM</zType>
+    <en-US>Overwhelm</en-US>
+    <it-IT>Sopraffazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_FIRESHIP</zType>
+    <en-US>Fireship</en-US>
+    <it-IT>Nave da fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_LADING</zType>
+    <en-US>Lading</en-US>
+    <it-IT>Sbarco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_MANEUVERS</zType>
+    <en-US>Maneuvers</en-US>
+    <it-IT>Manovre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_INGENUITY</zType>
+    <en-US>Ingenuity</en-US>
+    <it-IT>Ingegno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SADDLEBORN</zType>
+    <en-US>Saddleborn</en-US>
+    <it-IT>Saddleborn</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SENTINEL</zType>
+    <en-US>Sentinel</en-US>
+    <it-IT>Sentinella</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_SURVEYOR</zType>
+    <en-US>Surveyor</en-US>
+    <it-IT>Geometra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_ADEPT</zType>
+    <en-US>Adept</en-US>
+    <it-IT>Adepto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROMOTION_NOMAD</zType>
+    <en-US>Nomad</en-US>
+    <it-IT>Nomade</it-IT>
+  </Entry>
+</Root>

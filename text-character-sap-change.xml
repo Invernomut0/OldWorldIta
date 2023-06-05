@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_CLERGY_ZOROASTRIAN</zType>
+    <en-US>Magus</en-US>
+    <it-IT>Magus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_CLERGY_ZOROASTRIAN_F</zType>
+    <en-US>Magus</en-US>
+    <it-IT>Magus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_CLERGY_JEWISH</zType>
+    <en-US>Kohen</en-US>
+    <it-IT>Kohen</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_CLERGY_JEWISH_F</zType>
+    <en-US>Kohen</en-US>
+    <it-IT>Kohen</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_CLERGY_CHRISTIAN</zType>
+    <en-US>Bishop</en-US>
+    <it-IT>Vescovo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_CLERGY_CHRISTIAN_F</zType>
+    <en-US>Bishop</en-US>
+    <it-IT>Vescovo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_CLERGY_MANICHAEAN</zType>
+    <en-US>Elect</en-US>
+    <it-IT>Eletto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_CLERGY_MANICHAEAN_F</zType>
+    <en-US>Elect</en-US>
+    <it-IT>Eletto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_CLERGY_PAGAN</zType>
+    <en-US>Priest</en-US>
+    <it-IT>Sacerdote</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_CLERGY_PAGAN_F</zType>
+    <en-US>Priestess</en-US>
+    <it-IT>Sacerdotessa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_FALSE_LEADER</zType>
+    <en-US>False Leader</en-US>
+    <it-IT>Falso leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_FALSE_LEADER_F</zType>
+    <en-US>False Leader</en-US>
+    <it-IT>Falso leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_SAINT</zType>
+    <en-US>Saint</en-US>
+    <it-IT>Santo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_SAINT_F</zType>
+    <en-US>Saint</en-US>
+    <it-IT>Santo</it-IT>
+  </Entry>
+</Root>

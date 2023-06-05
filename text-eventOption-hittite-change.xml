@@ -1,0 +1,278 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_CHARIOT_COMBAT_OPTION_0</zType>
+    <en-US>{G1:He:She} should prepare {G1:himself:herself} to lead our cavalry to glorious victories!</en-US>
+    <it-IT>{G1:Lui:Lei} dovrebbe preparare {G1:himself:herself} a guidare la nostra cavalleria verso gloriose vittorie!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_CHARIOT_COMBAT_OPTION_1</zType>
+    <en-US>{G1:He:She} should master effective tactics to defeat our enemy's cavalry.</en-US>
+    <it-IT>{G1:Lui:Lei} deve padroneggiare tattiche efficaci per sconfiggere la cavalleria del nostro nemico.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_RICHES_OF_THE_HILLS_OPTION_0</zType>
+    <en-US>I shall find the iron and the stone!</en-US>
+    <it-IT>Troverò il ferro e la pietra!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_RICHES_OF_THE_HILLS_OPTION_1</zType>
+    <en-US>No enemy will ever dare set foot in our country!</en-US>
+    <it-IT>Nessun nemico oserà mai mettere piede nel nostro Paese!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_THE_FAIREST_OF_LAWS_OPTION_0</zType>
+    <en-US>Because our laws protect even the humblest of the king's subjects.</en-US>
+    <it-IT>Perché le nostre leggi proteggono anche il più umile dei sudditi del re.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_THE_FAIREST_OF_LAWS_OPTION_1</zType>
+    <en-US>Because our laws avoid punishment by death whenever possible.</en-US>
+    <it-IT>Perché le nostre leggi evitano, quando possibile, la pena di morte.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_A_THOUSAND_GODS_OPTION_0</zType>
+    <en-US>We should strive to never offend any of the gods, for they hold our fate in their hands.</en-US>
+    <it-IT>Dovremmo sforzarci di non offendere mai nessuno degli dei, perché hanno il nostro destino nelle loro mani.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_A_THOUSAND_GODS_OPTION_1</zType>
+    <en-US>We must respect the faith of each of our people, for their strength is our strength.</en-US>
+    <it-IT>Dobbiamo rispettare la fede di ciascuno dei nostri popoli, perché la loro forza è la nostra forza.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_THE_CITY_GATES_OPTION_0</zType>
+    <en-US>The Lions Gate, stressing the courage of our warriors.</en-US>
+    <it-IT>The Lions Gate, che sottolinea il coraggio dei nostri guerrieri.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_THE_CITY_GATES_OPTION_1</zType>
+    <en-US>The Sphinx Gate, emphasizing vigilance and the long sight of our people.</en-US>
+    <it-IT>La Porta della Sfinge, che sottolinea la vigilanza e la vista lunga del nostro popolo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_THE_CITY_GATES_OPTION_2</zType>
+    <en-US>The King's Gate, drawing attention to the resilience of our leaders.</en-US>
+    <it-IT>The King's Gate, che richiama l'attenzione sulla resilienza dei nostri leader.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ARINNITTI_OPTION_0</zType>
+    <en-US>So it shall be!</en-US>
+    <it-IT>Così sarà!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ARINNITTI_OPTION_1</zType>
+    <en-US>Alas, I must honor Arinnitti from afar, the affairs of state demand every minute of daylight.</en-US>
+    <it-IT>Ahimè, devo onorare Arinnitti da lontano, gli affari di Stato richiedono ogni minuto di luce.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ARINNITTI_OPTION_0</zType>
+    <en-US>Of course, it shall be my honor.</en-US>
+    <it-IT>Naturalmente, sarà un onore per me.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ARINNITTI_OPTION_1</zType>
+    <en-US>I fear I must decline, men as well as gods demand my attention.</en-US>
+    <it-IT>Temo di dover rifiutare, gli uomini e gli dei richiedono la mia attenzione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ARINNITTI_OPTION_0</zType>
+    <en-US>I have been remiss. Please, accept my attendance and these sacrifices for the ceremony.</en-US>
+    <it-IT>Sono stato negligente. Vi prego di accettare la mia presenza e questi sacrifici per la cerimonia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ARINNITTI_OPTION_1</zType>
+    <en-US>You presume too much. Be glad I yet suffer you to live, with such traitorous words in your mouth. Begone!</en-US>
+    <it-IT>Hai troppa presunzione. Sii felice che io ti lasci ancora vivere, con parole così traditrici in bocca. Andatevene!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_TARHUN_OPTION_0</zType>
+    <en-US>I have been remiss. Please, accept my attendance and these sacrifices for the ceremony.</en-US>
+    <it-IT>Sono stato negligente. Vi prego di accettare la mia presenza e questi sacrifici per la cerimonia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_TARHUN_OPTION_1</zType>
+    <en-US>You cut close to the talk of traitors. Now let me pass, or we shall see who is to be slain by their own hubris.</en-US>
+    <it-IT>Sei vicino ai discorsi dei traditori. Ora lasciatemi passare, o vedremo chi sarà ucciso dalla sua stessa arroganza.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_KAMRUSEPA_OPTION_0</zType>
+    <en-US>I shall seek forgiveness. Please, accept my attendance and these sacrifices for the ceremony.</en-US>
+    <it-IT>Chiederò perdono. Vi prego di accettare la mia presenza e questi sacrifici per la cerimonia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_KAMRUSEPA_OPTION_1</zType>
+    <en-US>I too smell the stench of rot in this court, and it billows out from priestly robes. Now begone!</en-US>
+    <it-IT>Anch'io sento il fetore della putrefazione in questa corte, che si diffonde dalle vesti sacerdotali. Ora andatevene!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_HALKI_OPTION_0</zType>
+    <en-US>I shall seek forgiveness. Please, accept my attendance and these sacrifices for the ceremony.</en-US>
+    <it-IT>Chiederò perdono. Vi prego di accettare la mia presenza e questi sacrifici per la cerimonia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_HALKI_OPTION_1</zType>
+    <en-US>The gods may be mighty, but you are but an inflated blowfly. Begone!</en-US>
+    <it-IT>Gli dei possono essere potenti, ma tu non sei che un mosca gonfiabile. Andatevene!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_TARHUN_OPTION_0</zType>
+    <en-US>The gods must be respected, we shall attend.</en-US>
+    <it-IT>Gli dei devono essere rispettati, noi parteciperemo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_TARHUN_OPTION_1</zType>
+    <en-US>I fear I must decline, men as well as gods demand my attention.</en-US>
+    <it-IT>Temo di dover rifiutare, gli uomini e gli dei richiedono la mia attenzione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_KAMRUSEPA_OPTION_0</zType>
+    <en-US>The gods must be respected, we shall attend.</en-US>
+    <it-IT>Gli dei devono essere rispettati, noi parteciperemo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_KAMRUSEPA_OPTION_1</zType>
+    <en-US>I fear I must decline, men as well as gods demand my attention.</en-US>
+    <it-IT>Temo di dover rifiutare, gli uomini e gli dei richiedono la mia attenzione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_HALKI_OPTION_0</zType>
+    <en-US>The gods must be respected, we shall attend.</en-US>
+    <it-IT>Gli dei devono essere rispettati, noi parteciperemo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_HALKI_OPTION_1</zType>
+    <en-US>I fear I must decline, men as well as gods demand my attention.</en-US>
+    <it-IT>Temo di dover rifiutare, gli uomini e gli dei richiedono la mia attenzione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_TARHUN_OPTION_0</zType>
+    <en-US>So it shall be!</en-US>
+    <it-IT>Così sarà!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_TARHUN_OPTION_1</zType>
+    <en-US>Alas, I must beg Tarhun's patience. There is much else to be done.</en-US>
+    <it-IT>Ahimè, devo implorare la pazienza di Tarhun. C'è molto altro da fare.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_KAMRUSEPA_OPTION_0</zType>
+    <en-US>This is wise counsel.</en-US>
+    <it-IT>È un consiglio saggio.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_KAMRUSEPA_OPTION_1</zType>
+    <en-US>Alas, a dream is but a dream and there is much else to be done.</en-US>
+    <it-IT>Ahimè, un sogno è solo un sogno e c'è molto altro da fare.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_HALKI_OPTION_0</zType>
+    <en-US>I shall attend, let us drink to the greatness of Halki!</en-US>
+    <it-IT>Parteciperò, brindiamo alla grandezza di Halki!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_HALKI_OPTION_1</zType>
+    <en-US>Alas, other matters are most pressing.</en-US>
+    <it-IT>Ahimè, altre questioni sono più urgenti.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_SALT_OF_THE_EARTH_OPTION_0</zType>
+    <en-US>Well in that case, we should certainly keep a closer eye on its exploitation.</en-US>
+    <it-IT>In questo caso, dovremmo sicuramente tenere d'occhio il suo sfruttamento.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_SALT_OF_THE_EARTH_OPTION_1</zType>
+    <en-US>By royal charter the {FAMILY-3} will have the exclusivity of link(RESOURCE_SALT) trade!</en-US>
+    <it-IT>Per statuto reale il {FAMILY-3} avrà l'esclusiva del commercio del link(RESOURCE_SALT)!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_SALT_OF_THE_EARTH_OPTION_2</zType>
+    <en-US>Is that so? Benefits from the trade of link(RESOURCE_SALT) shall go to the royal coffers!</en-US>
+    <it-IT>È così? I benefici del commercio di link(RESOURCE_SALT) andranno alle casse reali!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_GREATEST_CAVALRY_BATTLE_OF_ALL_TIMES_WINNER_LEADER</zType>
+    <en-US>I found the mass of chariots in whose midst I was, scattering them before my horses!</en-US>
+    <it-IT>Ho trovato la massa dei carri in mezzo ai quali mi trovavo, disperdendoli davanti ai miei cavalli!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WORTHY_OPPONENTS_PEACE_OFFER_GRANTED</zType>
+    <en-US>We welcome peace with {PLAYER-0}.</en-US>
+    <it-IT>Accogliamo con favore la pace con {PLAYER-0}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WORTHY_OPPONENTS_PEACE_OFFER_DENIED</zType>
+    <en-US>We beat them. We don't need treaties!</en-US>
+    <it-IT>Li abbiamo battuti. Non abbiamo bisogno di trattati!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WORTHY_OPPONENTS_TRUCE_GRANTED</zType>
+    <en-US>Agreed! Let us put an end to the fighting for now.</en-US>
+    <it-IT>Concordo! Mettiamo fine ai combattimenti per ora.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WORTHY_OPPONENTS_TRUCE_DENIED</zType>
+    <en-US>No.</en-US>
+    <it-IT>No.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HITTITE_CONTACT_BABYLON_KINGMAKERS_OPTION_0</zType>
+    <en-US>Let them remember: They owe us!</en-US>
+    <it-IT>Che si ricordino: Sono in debito con noi!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HITTITE_CONTACT_BABYLON_KINGMAKERS_OPTION_1</zType>
+    <en-US>Actually, if they could pay back the favor now...</en-US>
+    <it-IT>In realtà, se potessero restituire il favore ora...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HITTITE_CONTACT_BABYLON_WOULDBE_KINGMAKERS_OPTION_0</zType>
+    <en-US>I'm sure they'll forgive our intervention, in time...</en-US>
+    <it-IT>Sono sicuro che perdoneranno il nostro intervento, col tempo...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HITTITE_CONTACT_BABYLON_WOULDBE_KINGMAKERS_OPTION_1</zType>
+    <en-US>Let us bring gifts, to salve old grudges.</en-US>
+    <it-IT>Portiamo doni, per sanare vecchi rancori.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_EVENTSTORY_BABYLON_CONTACT_HITTITE_ANCIENT_SACK_OPTION_0</zType>
+    <en-US>And the {FAMILY-4,3} have ruled the city wisely ever since.</en-US>
+    <it-IT>E da allora i {FAMILY-4,3} governano saggiamente la città.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_EVENTSTORY_BABYLON_CONTACT_HITTITE_ANCIENT_SACK_OPTION_1</zType>
+    <en-US>We will not easily forget this agression!</en-US>
+    <it-IT>Non dimenticheremo facilmente questa aggressione!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_EVENTSTORY_BABYLON_CONTACT_HITTITE_ANCIENT_SACK_OPTION_2</zType>
+    <en-US>This is ancient history now.</en-US>
+    <it-IT>Questa è ormai storia antica.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_EDUCATION_AT_THE_PANKUS_OPTION_0</zType>
+    <en-US>There is no better school of eloquence.</en-US>
+    <it-IT>Non esiste una scuola di eloquenza migliore.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_EDUCATION_AT_THE_PANKUS_OPTION_1</zType>
+    <en-US>Respect of the law is crucial to the education of all!</en-US>
+    <it-IT>Il rispetto della legge è fondamentale per l'educazione di tutti!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HITTITE_UNIT_YES</zType>
+    <en-US>{TEXT_EVENTOPTION_GREEK_UNIT_YES}</en-US>
+    <it-IT>{TEXT_EVENTOPTION_GREEK_UNIT_YES}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NAMED_UNIT_MESEDI</zType>
+    <en-US>And their leader should be honored too!</en-US>
+    <it-IT>E anche il loro leader dovrebbe essere onorato!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NAMED_UNIT_GOLDEN_SPEARMEN</zType>
+    <en-US>Let them shine in our name!</en-US>
+    <it-IT>Che risplendano nel nostro nome!</it-IT>
+  </Entry>
+</Root>

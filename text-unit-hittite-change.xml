@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_UNIT_HITTITE_CHARIOT_1</zType>
+    <en-US>Heavy Chariot~a Heavy Chariot~Heavy Chariots</en-US>
+    <it-IT>Carro pesante~un carro pesante~Carri pesanti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_HITTITE_CHARIOT_2</zType>
+    <en-US>Three Man Chariot~a Three Man Chariot~Three Man Chariots</en-US>
+    <it-IT>Carro a tre uomini~un carro a tre uomini~Carri a tre uomini</it-IT>
+  </Entry>
+</Root>

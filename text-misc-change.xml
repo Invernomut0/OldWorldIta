@@ -1,0 +1,423 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_MAINMENU_HIRING_NOTICE</zType>
+    <en-US>Mohawk Games is Hiring!</en-US>
+    <it-IT>Mohawk Games sta assumendo!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_ADJECTIVE</zType>
+    <en-US>{0,1_TribeAdjective}</en-US>
+    <it-IT>{0,1_TribeAdjective}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_SITE</zType>
+    <en-US>{0,1_TribeAdjective} Site</en-US>
+    <it-IT>{0,1_TribeAdjective} Sito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_SITE</zType>
+    <en-US>{0,1_NationAdjective} Site</en-US>
+    <it-IT>{0,1_NationAdjective} Sito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYER_NUMBER</zType>
+    <en-US>Player {0_number}</en-US>
+    <it-IT>Giocatore {0_number}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_PLUS_SPACE_TWO</zType>
+    <en-US>{0_key} + {1_key}</en-US>
+    <it-IT>{0_key} + {1_key}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_PLUS_TWO</zType>
+    <en-US>{0_key}+{1_key}</en-US>
+    <it-IT>{0_key}+{1_key}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_LEFT_CLICK</zType>
+    <en-US>[LEFT-CLICK]</en-US>
+    <it-IT>[LEFT-CLICK]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_RIGHT_CLICK</zType>
+    <en-US>[RIGHT-CLICK]</en-US>
+    <it-IT>[CLIC DESTRO]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_CLICK</zType>
+    <en-US>[CTRL+CLICK]</en-US>
+    <it-IT>[CTRL+CLICK]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_RIGHT_CLICK</zType>
+    <en-US>[CTRL+RIGHT-CLICK]</en-US>
+    <it-IT>[CTRL+CLIC DESTRO]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
+    <en-US>[SHIFT+CLICK]</en-US>
+    <it-IT>[SHIFT+CLICK]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
+    <en-US>[CTRL+SHIFT+CLICK]</en-US>
+    <it-IT>[CTRL+SHIFT+CLICK]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHIFT</zType>
+    <en-US>[SHIFT]</en-US>
+    <it-IT>[SHIFT]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_CTRL</zType>
+    <en-US>[CTRL]</en-US>
+    <it-IT>[CTRL]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_ALT</zType>
+    <en-US>[ALT]</en-US>
+    <it-IT>[ALT]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_F1</zType>
+    <en-US>[F1]</en-US>
+    <it-IT>[F1]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
+    <en-US>Resource Density</en-US>
+    <it-IT>Densità delle risorse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
+    <en-US>Mirror Map</en-US>
+    <it-IT>Mappa a specchio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
+    <en-US>Resources</en-US>
+    <it-IT>Risorse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
+    <en-US>Water Size</en-US>
+    <it-IT>Dimensione dell'acqua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
+    <en-US>Water Location</en-US>
+    <it-IT>Posizione dell'acqua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
+    <en-US>Player Start Location</en-US>
+    <it-IT>Posizione di partenza del giocatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_TRIBES</zType>
+    <en-US>Tribes</en-US>
+    <it-IT>Tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
+    <en-US>Terrain Variation</en-US>
+    <it-IT>Variazione del terreno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TERRAIN_STAMP_VOLCANO_7</zType>
+    <en-US>Volcano 7</en-US>
+    <it-IT>Vulcano 7</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
+    <en-US>Tribal Lands</en-US>
+    <it-IT>Terre tribali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
+    <en-US>Extreme Terrain</en-US>
+    <it-IT>Terreno estremo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENTS</zType>
+    <en-US>Continents</en-US>
+    <it-IT>Continenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS</zType>
+    <en-US>Islands Size</en-US>
+    <it-IT>Dimensioni delle isole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER</zType>
+    <en-US>Number of Continents</en-US>
+    <it-IT>Numero di continenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_KING_OF_THE_HILL</zType>
+    <en-US>King of the Hill</en-US>
+    <it-IT>Il re della collina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_GOOD_PLAYER_START_RESOURCES</zType>
+    <en-US>Balanced Starting Resources</en-US>
+    <it-IT>Risorse di partenza equilibrate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTRELATION_TRIBE_WAR_ALLIANCE</zType>
+    <en-US>At link(DIPLOMACY_WAR) with their link(CONCEPT_ALLIANCE_TRIBE,4)</en-US>
+    <it-IT>A link(DIPLOMACY_WAR) con il loro link(CONCEPT_ALLIANCE_TRIBE,4)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTRELATION_MIN_CONFLICT_TURNS</zType>
+    <en-US>Shorter than int(MIN_TREATY_TURNS) Turns since last link(DIPLOMACY_WAR)</en-US>
+    <it-IT>Più breve di int(MIN_TREATY_TURNS) Giri dall'ultimo link(DIPLOMACY_WAR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTRELATION_RELIGION_PLAYER</zType>
+    <en-US>City with this Religion</en-US>
+    <it-IT>Città con questa religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COUNCIL_AMBASSADOR</zType>
+    <en-US>Ambassador~an Ambassador</en-US>
+    <it-IT>Ambasciatore~un ambasciatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COUNCIL_AMBASSADOR_F</zType>
+    <en-US>Ambassador~an Ambassador</en-US>
+    <it-IT>Ambasciatore~un ambasciatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COUNCIL_CHANCELLOR</zType>
+    <en-US>Chancellor~a Chancellor</en-US>
+    <it-IT>Cancelliere~un Cancelliere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COUNCIL_CHANCELLOR_F</zType>
+    <en-US>Chancellor~a Chancellor</en-US>
+    <it-IT>Cancelliere~un Cancelliere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COUNCIL_SPYMASTER</zType>
+    <en-US>Spymaster~a Spymaster</en-US>
+    <it-IT>Spymaster~un maestro di spionaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COUNCIL_SPYMASTER_F</zType>
+    <en-US>Spymaster~a Spymaster</en-US>
+    <it-IT>Spymaster~un maestro di spionaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAPCLASS_RANDOM</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAPCLASS_RANDOM_HELP</zType>
+    <en-US>Random map script</en-US>
+    <it-IT>Script mappa casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RUINS_CITY</zType>
+    <en-US>{0_city} Ruins</en-US>
+    <it-IT>{0_city} Rovine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RUINS_SPACE</zType>
+    <en-US> Ruins</en-US>
+    <it-IT> Rovine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OF_CITY</zType>
+    <en-US>of {0_city}</en-US>
+    <it-IT>di {0_city}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_QUEUE_ROAD</zType>
+    <en-US>Road</en-US>
+    <it-IT>Strada</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_QUEUE_REPAIR</zType>
+    <en-US>Repair</en-US>
+    <it-IT>Riparazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONNECTION_LOST</zType>
+    <en-US>Lost connection to server.</en-US>
+    <it-IT>Si è persa la connessione al server.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_USERNAME_TIMEOUT</zType>
+    <en-US>Connection timed out while looking up the user display name.</en-US>
+    <it-IT>La connessione si è interrotta durante la ricerca del nome utente.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURN</zType>
+    <en-US>Turn {0}</en-US>
+    <it-IT>Girare {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURN_SUMMARY</zType>
+    <en-US>-Summary-</en-US>
+    <it-IT>-Riassunto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURN_COMBAT</zType>
+    <en-US>-Combat-</en-US>
+    <it-IT>-Combattimento.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURN_COMBAT_ATTACKED</zType>
+    <en-US>Your units were attacked by {2} {1} time{true_0:s}!</en-US>
+    <it-IT>Le tue unità sono state attaccate da {2} {1} tempo{true_0:s}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURN_COMBAT_OCCURRENCE_UNITS_DAMAGED</zType>
+    <en-US>{0_count} of your units {singular_0:was:were} damaged by {1,1_occurrence}!</en-US>
+    <it-IT>{0_count} delle tue unità {singular_0:was:were} danneggiate da {1,1_occurrence}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURN_ECONOMY</zType>
+    <en-US>-Economy-</en-US>
+    <it-IT>-Economia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURN_SCIENCE</zType>
+    <en-US>-Science-</en-US>
+    <it-IT>-Scienza.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURN_GOAL</zType>
+    <en-US>-Goals and Ambitions-</en-US>
+    <it-IT>-Obiettivi e ambizioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURN_RELIGION</zType>
+    <en-US>-Religion-</en-US>
+    <it-IT>-Religione-</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_START_GAME</zType>
+    <en-US>Failed to generate a new game: please try different settings</en-US>
+    <it-IT>Non è stato possibile generare una nuova partita: provare con altre impostazioni.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_JOIN_GAME</zType>
+    <en-US>Failed to join game: {0}</en-US>
+    <it-IT>Impossibile unirsi alla partita: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_PLATFORM_NOT_CONNECTED</zType>
+    <en-US>Online platform not connected</en-US>
+    <it-IT>Piattaforma online non collegata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_ENTER_DISPLAY_NAME</zType>
+    <en-US>Enter a display name for each player</en-US>
+    <it-IT>Inserire un nome di visualizzazione per ogni giocatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_INVALID_DISPLAY_NAME</zType>
+    <en-US>Invalid display name: {0}</en-US>
+    <it-IT>Nome visualizzato non valido: {0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_JOIN_SERVER</zType>
+    <en-US>Failed to join server</en-US>
+    <it-IT>Impossibile unirsi al server</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_INVALID_GAME_PASSWORD</zType>
+    <en-US>Invalid game password</en-US>
+    <it-IT>Password di gioco non valida</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_INVALID_HOST_PASSWORD</zType>
+    <en-US>Invalid host password</en-US>
+    <it-IT>Password host non valida</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_LOAD_SCENARIO_MAP</zType>
+    <en-US>Failed to load scenario map ({0})</en-US>
+    <it-IT>Impossibile caricare la mappa dello scenario ({0})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_LOAD_SCENARIO_SCRIPT</zType>
+    <en-US>Failed to load scenario script ({0})</en-US>
+    <it-IT>Impossibile caricare lo script dello scenario ({0})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_LOAD_SCENARIO_MAP_DATA</zType>
+    <en-US>Failed to assign scenario map data ({0})</en-US>
+    <it-IT>Impossibile assegnare i dati della mappa dello scenario ({0})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_INITIALIZE_SCENARIO_SCRIPT</zType>
+    <en-US>Failed to initialize scenario script ({0})</en-US>
+    <it-IT>Impossibile inizializzare lo script dello scenario ({0})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_INITIALIZE_MAP_DATA</zType>
+    <en-US>Failed to initialize map data ({0})</en-US>
+    <it-IT>Impossibile inizializzare i dati della mappa ({0})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_LOAD_MAP</zType>
+    <en-US>Failed to load map ({0})</en-US>
+    <it-IT>Non è riuscito a caricare la mappa ({0})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_INITIALIZE_MAP</zType>
+    <en-US>Failed to load map ({0})</en-US>
+    <it-IT>Non è riuscito a caricare la mappa ({0})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_ASSIGN_MAP</zType>
+    <en-US>Failed to assign map ({0})</en-US>
+    <it-IT>Impossibile assegnare la mappa ({0})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_TO_GENERATE_MAP</zType>
+    <en-US>Failed to generate map ({0})</en-US>
+    <it-IT>Impossibile generare la mappa ({0})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_FAILED_CONNECT_SERVER</zType>
+    <en-US>Failed to connect to the server</en-US>
+    <it-IT>Impossibile connettersi al server</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_DEMO_INVALID_SCENARIO</zType>
+    <en-US>This scenario is not available in the demo.</en-US>
+    <it-IT>Questo scenario non è disponibile nella demo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_DEMO_INVALID_SAVE</zType>
+    <en-US>This save is not valid for the demo</en-US>
+    <it-IT>Questo salvataggio non è valido per la demo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_INVALID_DISPLAY_NAME_STEAM</zType>
+    <en-US>Could not find a player with the name {0}. The player has to be on your Steam friends list to start a cloud game. If the player has the game on a non-Steam platform, you cannot start a cloud game with them directly but you can start a network game and convert it to a cloud game: save the network game once all players have joined and load it as a cloud game.</en-US>
+    <it-IT>Impossibile trovare un giocatore con il nome {0}. Il giocatore deve essere presente nell'elenco degli amici di Steam per avviare una partita cloud. Se il giocatore ha il gioco su una piattaforma diversa da Steam, non è possibile avviare direttamente una partita cloud con lui, ma è possibile avviare una partita in rete e convertirla in una partita cloud: salvare la partita in rete una volta che tutti i giocatori si sono uniti e caricarla come partita cloud.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EMAIL_SUBJECT_YOUR_TURN</zType>
+    <en-US>Old World {0} - Your turn</en-US>
+    <it-IT>Vecchio Mondo {0} - Tocca a te</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EMAIL_SUBJECT_DEFEAT</zType>
+    <en-US>Old World {0} - You have been defeated</en-US>
+    <it-IT>Vecchio Mondo {0} - Sei stato sconfitto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_SCREENSHOT_TAKEN</zType>
+    <en-US>Screenshot taken</en-US>
+    <it-IT>Schermata presa</it-IT>
+  </Entry>
+</Root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ARINNITTI</zType>
+    <en-US>Shrine of Arinnitti~a Shrine of Arinnitti</en-US>
+    <it-IT>Santuario di Arinnitti~un Santuario di Arinnitti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_TARHUN</zType>
+    <en-US>Shrine of Tarhun~a Shrine of Tarhun</en-US>
+    <it-IT>Santuario di Tarhun~un Santuario di Tarhun</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_KAMRUSEPA</zType>
+    <en-US>Shrine of Kamrusepa~a Shrine of Kamrusepa</en-US>
+    <it-IT>Santuario di Kamrusepa~un Santuario di Kamrusepa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_HALKI</zType>
+    <en-US>Shrine of Halki~a Shrine of Halki</en-US>
+    <it-IT>Santuario di Halki~un Santuario di Halki</it-IT>
+  </Entry>
+</Root>

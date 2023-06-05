@@ -1,0 +1,1428 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_NO_UNDO_TITLE</zType>
+    <en-US>No Undo</en-US>
+    <it-IT>Nessun annullamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS_TITLE</zType>
+    <en-US>Randomized Leaders</en-US>
+    <it-IT>Leader randomizzati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES_TITLE</zType>
+    <en-US>Randomized Families</en-US>
+    <it-IT>Famiglie randomizzate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_ROLE_PLAYING_TITLE</zType>
+    <en-US>Role-Playing</en-US>
+    <it-IT>Gioco di ruolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE_TITLE</zType>
+    <en-US>One City Challenge</en-US>
+    <it-IT>La sfida di una città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_NO_CHARACTERS_TITLE</zType>
+    <en-US>No Characters</en-US>
+    <it-IT>Nessun personaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_ALL_NATIONS_TITLE</zType>
+    <en-US>All Nations</en-US>
+    <it-IT>Tutte le nazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_POINTS_TITLE</zType>
+    <en-US>Points Victory</en-US>
+    <it-IT>Punti Vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_DOUBLE_TITLE</zType>
+    <en-US>Double Victory</en-US>
+    <it-IT>Doppia vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_AMBITION_TITLE</zType>
+    <en-US>Ambition Victory</en-US>
+    <it-IT>Ambizione Vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_TIME_TITLE</zType>
+    <en-US>Time Victory</en-US>
+    <it-IT>Vittoria del tempo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_CONQUEST_TITLE</zType>
+    <en-US>Conquest Victory</en-US>
+    <it-IT>Vittoria della conquista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ALLIANCE_VICTORY_TITLE</zType>
+    <en-US>Alliance Victory</en-US>
+    <it-IT>Vittoria dell'Alleanza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_EVENTLEVEL_HIGH_TITLE</zType>
+    <en-US>Event Level High</en-US>
+    <it-IT>Livello dell'evento Alto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_MORTALITY_REALISTIC_TITLE</zType>
+    <en-US>Realistic Mortality</en-US>
+    <it-IT>Mortalità realistica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_ABLE_TITLE</zType>
+    <en-US>Able Difficulty</en-US>
+    <it-IT>Difficoltà di Abilità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_JUST_TITLE</zType>
+    <en-US>Just Difficulty</en-US>
+    <it-IT>Solo difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_GOOD_TITLE</zType>
+    <en-US>Good Difficulty</en-US>
+    <it-IT>Buona Difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_STRONG_TITLE</zType>
+    <en-US>Strong Difficulty</en-US>
+    <it-IT>Difficoltà forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_NOBLE_TITLE</zType>
+    <en-US>Noble Difficulty</en-US>
+    <it-IT>Nobile difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_GLORIOUS_TITLE</zType>
+    <en-US>Glorious Difficulty</en-US>
+    <it-IT>Difficoltà gloriosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_MAGNIFICENT_TITLE</zType>
+    <en-US>Magnificent Difficulty</en-US>
+    <it-IT>Magnifica difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_GREAT_TITLE</zType>
+    <en-US>Great Difficulty</en-US>
+    <it-IT>Grande difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_ASSYRIA_TITLE</zType>
+    <en-US>Assyria</en-US>
+    <it-IT>Assiria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_BABYLONIA_TITLE</zType>
+    <en-US>Babylonia</en-US>
+    <it-IT>Babilonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_CARTHAGE_TITLE</zType>
+    <en-US>Carthage</en-US>
+    <it-IT>Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_EGYPT_TITLE</zType>
+    <en-US>Egypt</en-US>
+    <it-IT>Egitto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_GREECE_TITLE</zType>
+    <en-US>Greece</en-US>
+    <it-IT>Grecia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_PERSIA_TITLE</zType>
+    <en-US>Persia</en-US>
+    <it-IT>Persia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_ROME_TITLE</zType>
+    <en-US>Rome</en-US>
+    <it-IT>Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_LANDOWNERS_TITLE</zType>
+    <en-US>Landowners</en-US>
+    <it-IT>Proprietari terrieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_CHAMPIONS_TITLE</zType>
+    <en-US>Champions</en-US>
+    <it-IT>Campioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_STATESMEN_TITLE</zType>
+    <en-US>Statesmen</en-US>
+    <it-IT>Statisti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_PATRONS_TITLE</zType>
+    <en-US>Patrons</en-US>
+    <it-IT>Patroni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_CLERICS_TITLE</zType>
+    <en-US>Clerics</en-US>
+    <it-IT>Chierici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_SAGES_TITLE</zType>
+    <en-US>Sages</en-US>
+    <it-IT>Saggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_TRADERS_TITLE</zType>
+    <en-US>Traders</en-US>
+    <it-IT>Commercianti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_ARTISANS_TITLE</zType>
+    <en-US>Artisans</en-US>
+    <it-IT>Artigiani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_RIDERS_TITLE</zType>
+    <en-US>Riders</en-US>
+    <it-IT>Cavalieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_HUNTERS_TITLE</zType>
+    <en-US>Hunters</en-US>
+    <it-IT>Cacciatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GOTW_TITLE</zType>
+    <en-US>Game of the Week</en-US>
+    <it-IT>Il gioco della settimana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_HARDCORE_TITLE</zType>
+    <en-US>Hardcore</en-US>
+    <it-IT>Hardcore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_WARRIOR_TITLE</zType>
+    <en-US>Warrior</en-US>
+    <it-IT>Guerriero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_BRAVE_TITLE</zType>
+    <en-US>Drillmaster</en-US>
+    <it-IT>Drillmaster</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_VALIANT_TITLE</zType>
+    <en-US>Valiant</en-US>
+    <it-IT>Valiant</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_MIGHTY_TITLE</zType>
+    <en-US>Mighty</en-US>
+    <it-IT>Potente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_VICTORIOUS_TITLE</zType>
+    <en-US>Victorious</en-US>
+    <it-IT>Vittorioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_LION_TITLE</zType>
+    <en-US>Lion</en-US>
+    <it-IT>Leone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_INVINCIBLE_TITLE</zType>
+    <en-US>Invincible</en-US>
+    <it-IT>Invincibile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_CAPABLE_TITLE</zType>
+    <en-US>Capable</en-US>
+    <it-IT>Capace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_READY_TITLE</zType>
+    <en-US>Ready</en-US>
+    <it-IT>Pronto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_DESTROYER_TITLE</zType>
+    <en-US>Destroyer</en-US>
+    <it-IT>Distruttore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_AVENGER_TITLE</zType>
+    <en-US>Avenger</en-US>
+    <it-IT>Vendicatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_WHITE_DEATH_TITLE</zType>
+    <en-US>White Death</en-US>
+    <it-IT>Morte Bianca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_INTERCESSOR_TITLE</zType>
+    <en-US>Intercessor</en-US>
+    <it-IT>Intercessore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_PEACEMAKER_TITLE</zType>
+    <en-US>Peacemaker</en-US>
+    <it-IT>Il costruttore di pace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_CONQUEROR_TITLE</zType>
+    <en-US>Conqueror</en-US>
+    <it-IT>Conquistatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_SUBJUGATOR_TITLE</zType>
+    <en-US>Subjugator</en-US>
+    <it-IT>Soggiogatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_RESTORER_TITLE</zType>
+    <en-US>Restorer</en-US>
+    <it-IT>Restauratore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_LIBERATOR_TITLE</zType>
+    <en-US>Liberator</en-US>
+    <it-IT>Liberatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_SETTLER_TITLE</zType>
+    <en-US>Settler</en-US>
+    <it-IT>Colono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_PIONEER_TITLE</zType>
+    <en-US>Pioneer</en-US>
+    <it-IT>Pioniere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_AMBITIOUS_TITLE</zType>
+    <en-US>Ambitious</en-US>
+    <it-IT>Ambizioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_BRILLIANT_TITLE</zType>
+    <en-US>Brilliant</en-US>
+    <it-IT>Brillante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_BELOVED_TITLE</zType>
+    <en-US>Beloved</en-US>
+    <it-IT>Amato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_REBUILDER_TITLE</zType>
+    <en-US>Rebuilder</en-US>
+    <it-IT>Ricostruttore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_MASON_TITLE</zType>
+    <en-US>Mason</en-US>
+    <it-IT>Muratore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_ARCHITECT_TITLE</zType>
+    <en-US>Architect</en-US>
+    <it-IT>Architetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_KEYSTONE_TITLE</zType>
+    <en-US>Keystone</en-US>
+    <it-IT>Chiave di volta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD_TITLE</zType>
+    <en-US>Fountainhead</en-US>
+    <it-IT>Testa di fontana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_DEVOUT_TITLE</zType>
+    <en-US>Devout</en-US>
+    <it-IT>Devoto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_HOLY_TITLE</zType>
+    <en-US>Holy</en-US>
+    <it-IT>Santo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_EXPLORER_TITLE</zType>
+    <en-US>Explorer</en-US>
+    <it-IT>Esploratore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_INTREPID_TITLE</zType>
+    <en-US>Intrepid</en-US>
+    <it-IT>Intrepido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_LEARNED_TITLE</zType>
+    <en-US>Learned</en-US>
+    <it-IT>Imparato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_ENLIGHTENED_TITLE</zType>
+    <en-US>Enlightened</en-US>
+    <it-IT>Illuminato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_WISE_TITLE</zType>
+    <en-US>Wise</en-US>
+    <it-IT>Saggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_OLD_TITLE</zType>
+    <en-US>Old</en-US>
+    <it-IT>Vecchio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_ANCIENT_TITLE</zType>
+    <en-US>Ancient</en-US>
+    <it-IT>Antico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_ABLE_TITLE</zType>
+    <en-US>Able</en-US>
+    <it-IT>Abile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_JUST_TITLE</zType>
+    <en-US>Just</en-US>
+    <it-IT>Solo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_GOOD_TITLE</zType>
+    <en-US>Good</en-US>
+    <it-IT>Buono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_STRONG_TITLE</zType>
+    <en-US>Strong</en-US>
+    <it-IT>Forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_NOBLE_TITLE</zType>
+    <en-US>Noble</en-US>
+    <it-IT>Nobile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_GLORIOUS_TITLE</zType>
+    <en-US>Glorious</en-US>
+    <it-IT>Glorioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_MAGNIFICENT_TITLE</zType>
+    <en-US>Magnificent</en-US>
+    <it-IT>Magnifico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_GREAT_TITLE</zType>
+    <en-US>Great</en-US>
+    <it-IT>Grande</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_ZOROASTRIANISM_TITLE</zType>
+    <en-US>Zoroastrianism</en-US>
+    <it-IT>Zoroastrismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_JUDAISM_TITLE</zType>
+    <en-US>Judaism</en-US>
+    <it-IT>Ebraismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_CHRISTIANITY_TITLE</zType>
+    <en-US>Christianity</en-US>
+    <it-IT>Cristianesimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_MANICHAEISM_TITLE</zType>
+    <en-US>Manichaeism</en-US>
+    <it-IT>Manicheismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA_TITLE</zType>
+    <en-US>Assyrian Paganism</en-US>
+    <it-IT>Paganesimo assiro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA_TITLE</zType>
+    <en-US>Babylonian Paganism</en-US>
+    <it-IT>Paganesimo babilonese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE_TITLE</zType>
+    <en-US>Carthaginian Paganism</en-US>
+    <it-IT>Paganesimo cartaginese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_EGYPT_TITLE</zType>
+    <en-US>Egyptian Paganism</en-US>
+    <it-IT>Paganesimo egiziano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_GREECE_TITLE</zType>
+    <en-US>Greek Paganism</en-US>
+    <it-IT>Paganesimo greco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_PERSIA_TITLE</zType>
+    <en-US>Persian Paganism</en-US>
+    <it-IT>Paganesimo persiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_ROME_TITLE</zType>
+    <en-US>Roman Paganism</en-US>
+    <it-IT>Paganesimo romano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_MYTHOLOGY_TITLE</zType>
+    <en-US>Mythology</en-US>
+    <it-IT>Mitologia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_VENERATION_TITLE</zType>
+    <en-US>Veneration</en-US>
+    <it-IT>Venerazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_LEGALISM_TITLE</zType>
+    <en-US>Legalism</en-US>
+    <it-IT>Legalismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_REVELATION_TITLE</zType>
+    <en-US>Revelation</en-US>
+    <it-IT>Rivelazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_DUALISM_TITLE</zType>
+    <en-US>Dualism</en-US>
+    <it-IT>Dualismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_GNOSTICISM_TITLE</zType>
+    <en-US>Gnosticism</en-US>
+    <it-IT>Gnosticismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_REDEMPTION_TITLE</zType>
+    <en-US>Redemption</en-US>
+    <it-IT>La redenzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT_TITLE</zType>
+    <en-US>Enlightenment</en-US>
+    <it-IT>Illuminazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ONE_TRUE_FAITH_TITLE</zType>
+    <en-US>One True Faith</en-US>
+    <it-IT>Un'unica vera fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM_TITLE</zType>
+    <en-US>Adur Burzen-Mihr</en-US>
+    <it-IT>Adur Burzen-Mihr</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM_TITLE</zType>
+    <en-US>Temple of Solomon</en-US>
+    <it-IT>Tempio di Salomone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY_TITLE</zType>
+    <en-US>Church of the Holy Sepulchre</en-US>
+    <it-IT>Chiesa del Santo Sepolcro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM_TITLE</zType>
+    <en-US>Cao'an</en-US>
+    <it-IT>Cao'an</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_PYRAMIDS_TITLE</zType>
+    <en-US>Pyramids</en-US>
+    <it-IT>Piramidi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT_TITLE</zType>
+    <en-US>Great Ziggurat</en-US>
+    <it-IT>Grande Ziggurat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_ORACLE_TITLE</zType>
+    <en-US>Oracle</en-US>
+    <it-IT>Oracolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS_TITLE</zType>
+    <en-US>Hanging Gardens</en-US>
+    <it-IT>Giardini pensili</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_NECROPOLIS_TITLE</zType>
+    <en-US>Necropolis</en-US>
+    <it-IT>Necropoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE_TITLE</zType>
+    <en-US>Ishtar Gate</en-US>
+    <it-IT>Porta di Ishtar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE_TITLE</zType>
+    <en-US>Lighthouse</en-US>
+    <it-IT>Faro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_APADANA_TITLE</zType>
+    <en-US>Apadana</en-US>
+    <it-IT>Apadana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM_TITLE</zType>
+    <en-US>Mausoleum</en-US>
+    <it-IT>Mausoleo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_ACROPOLIS_TITLE</zType>
+    <en-US>Acropolis</en-US>
+    <it-IT>Acropoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_COLOSSUS_TITLE</zType>
+    <en-US>Colossus</en-US>
+    <it-IT>Colosso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_MUSAEUM_TITLE</zType>
+    <en-US>Musaeum</en-US>
+    <it-IT>Musaeum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS_TITLE</zType>
+    <en-US>Circus Maximus</en-US>
+    <it-IT>Circo Massimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_PANTHEON_TITLE</zType>
+    <en-US>Pantheon</en-US>
+    <it-IT>Pantheon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA_TITLE</zType>
+    <en-US>Hagia Sophia</en-US>
+    <it-IT>Santa Sofia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK_TITLE</zType>
+    <en-US>Via Recta Souk</en-US>
+    <it-IT>Via Recta Souk</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS_TITLE</zType>
+    <en-US>Industrial Progress</en-US>
+    <it-IT>Progresso industriale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_TECH_MILITARY_PRESTIGE_TITLE</zType>
+    <en-US>Military Prestige</en-US>
+    <it-IT>Prestigio militare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_TECH_ECONOMIC_REFORM_TITLE</zType>
+    <en-US>Economic Reform</en-US>
+    <it-IT>Riforma economica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_SIEGE_TOWER_TITLE</zType>
+    <en-US>Siege Tower</en-US>
+    <it-IT>Torre d'assedio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER_TITLE</zType>
+    <en-US>Cimmerian Archer</en-US>
+    <it-IT>Arciere cimmero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_TURRETED_ELEPHANT_TITLE</zType>
+    <en-US>Turreted Elephant</en-US>
+    <it-IT>Elefante turrito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_KUSHITE_CAVALRY_TITLE</zType>
+    <en-US>Kushite Cavalry</en-US>
+    <it-IT>Cavalleria kushita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_PHALANGITE_TITLE</zType>
+    <en-US>Phalangite</en-US>
+    <it-IT>Falangite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER_TITLE</zType>
+    <en-US>Cataphract Archer</en-US>
+    <it-IT>Arciere catafratto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_LEGIONARY_TITLE</zType>
+    <en-US>Legionary</en-US>
+    <it-IT>Legionario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CULTURE_DEVELOPING_TITLE</zType>
+    <en-US>Developing Cities</en-US>
+    <it-IT>Città in via di sviluppo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CULTURE_STRONG_TITLE</zType>
+    <en-US>Strong Cities</en-US>
+    <it-IT>Città forti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CULTURE_LEGENDARY_TITLE</zType>
+    <en-US>Legendary Cities</en-US>
+    <it-IT>Città leggendarie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED_TITLE</zType>
+    <en-US>Capturing Cities</en-US>
+    <it-IT>Catturare le città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME_TITLE</zType>
+    <en-US>Naming Landmarks</en-US>
+    <it-IT>Denominazione dei punti di riferimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_STAT_TEN_LEADERS_TITLE</zType>
+    <en-US>Ten Crowns</en-US>
+    <it-IT>Dieci corone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_STAT_SEVEN_WONDERS_TITLE</zType>
+    <en-US>Building Wonders</en-US>
+    <it-IT>Costruire meraviglie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_TRADE_CARAVAN_TITLE</zType>
+    <en-US>Trade Caravan</en-US>
+    <it-IT>Carovana commerciale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER_TITLE</zType>
+    <en-US>Regicide</en-US>
+    <it-IT>Regicidio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ASSASSINATED_HEIR_TITLE</zType>
+    <en-US>Future Regicide</en-US>
+    <it-IT>Regicidio futuro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ASSASSINATED_BY_HEIR_TITLE</zType>
+    <en-US>Bad Heir Day</en-US>
+    <it-IT>Il giorno del cattivo erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BLADE_OF_THE_MONKEY_TITLE</zType>
+    <en-US>Blade of the Monkey</en-US>
+    <it-IT>La lama della scimmia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_1_TITLE</zType>
+    <en-US>Learn to Play 1</en-US>
+    <it-IT>Imparare a suonare 1</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_2_TITLE</zType>
+    <en-US>Learn to Play 2</en-US>
+    <it-IT>Imparare a giocare 2</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_3_TITLE</zType>
+    <en-US>Learn to Play 3</en-US>
+    <it-IT>Imparare a giocare 3</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_4_TITLE</zType>
+    <en-US>Learn to Play 4</en-US>
+    <it-IT>Imparare a giocare 4</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_5_TITLE</zType>
+    <en-US>Learn to Play 5</en-US>
+    <it-IT>Imparare a giocare 5</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BARBARIAN_INVASION_TITLE</zType>
+    <en-US>Barbarian Horde</en-US>
+    <it-IT>Orda di barbari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BARBARIAN_INVASION_GREAT_RAGING_TITLE</zType>
+    <en-US>The Great Raging Horde</en-US>
+    <it-IT>La Grande Orda Infuriata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BARBARIAN_INVASION_MULTIPLAYER_TITLE</zType>
+    <en-US>United Against The Horde</en-US>
+    <it-IT>Uniti contro l'orda</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_1_TITLE</zType>
+    <en-US>Carthage - Ox Hide</en-US>
+    <it-IT>Carthage - Pelle di bue</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_1_BRONZE_TITLE</zType>
+    <en-US>Bronze Victory (Carthage 1)</en-US>
+    <it-IT>Vittoria di bronzo (Carthage 1)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_1_SILVER_TITLE</zType>
+    <en-US>Silver Victory (Carthage 1)</en-US>
+    <it-IT>Vittoria d'Argento (Carthage 1)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_1_GOLD_TITLE</zType>
+    <en-US>Gold Victory (Carthage 1)</en-US>
+    <it-IT>Vittoria d'oro (Carthage 1)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_1_EPIC_TITLE</zType>
+    <en-US>Epic Victory (Carthage 1)</en-US>
+    <it-IT>Vittoria epica (Carthage 1)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_2_TITLE</zType>
+    <en-US>Carthage - Riches and Influence</en-US>
+    <it-IT>Cartagine - Ricchezza e influenza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_2_BRONZE_TITLE</zType>
+    <en-US>Bronze Victory (Carthage 2)</en-US>
+    <it-IT>Vittoria di bronzo (Carthage 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_2_SILVER_TITLE</zType>
+    <en-US>Silver Victory (Carthage 2)</en-US>
+    <it-IT>Vittoria d'Argento (Carthage 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_2_GOLD_TITLE</zType>
+    <en-US>Gold Victory (Carthage 2)</en-US>
+    <it-IT>Vittoria d'oro (Carthage 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_2_EPIC_TITLE</zType>
+    <en-US>Epic Victory (Carthage 2)</en-US>
+    <it-IT>Vittoria epica (Carthage 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_3_TITLE</zType>
+    <en-US>Carthage - Rise of Rome</en-US>
+    <it-IT>Cartagine - L'ascesa di Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_3_BRONZE_TITLE</zType>
+    <en-US>Bronze Victory (Carthage 3)</en-US>
+    <it-IT>Vittoria di bronzo (Carthage 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_3_SILVER_TITLE</zType>
+    <en-US>Silver Victory (Carthage 3)</en-US>
+    <it-IT>Vittoria d'Argento (Carthage 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_3_GOLD_TITLE</zType>
+    <en-US>Gold Victory (Carthage 3)</en-US>
+    <it-IT>Vittoria d'oro (Carthage 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_3_EPIC_TITLE</zType>
+    <en-US>Epic Victory (Carthage 3)</en-US>
+    <it-IT>Vittoria epica (Carthage 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_4_TITLE</zType>
+    <en-US>Carthage - Seizing Destiny</en-US>
+    <it-IT>Cartagine - Cogliere il destino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_4_BRONZE_TITLE</zType>
+    <en-US>Bronze Victory (Carthage 4)</en-US>
+    <it-IT>Vittoria di bronzo (Carthage 4)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_4_SILVER_TITLE</zType>
+    <en-US>Silver Victory (Carthage 4)</en-US>
+    <it-IT>Vittoria d'Argento (Carthage 4)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_4_GOLD_TITLE</zType>
+    <en-US>Gold Victory (Carthage 4)</en-US>
+    <it-IT>Vittoria d'oro (Carthage 4)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_4_EPIC_TITLE</zType>
+    <en-US>Epic Victory (Carthage 4)</en-US>
+    <it-IT>Vittoria epica (Carthage 4)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_CAMPAIGN_TITLE</zType>
+    <en-US>Carthage Campaign</en-US>
+    <it-IT>Campagna di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_100_YEARS_TITLE</zType>
+    <en-US>Centenarian</en-US>
+    <it-IT>Centenario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ROMAN_PAPACY_TITLE</zType>
+    <en-US>Roman Papacy</en-US>
+    <it-IT>Papato romano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILY_FRIENDLY_TITLE</zType>
+    <en-US>Friendly Family</en-US>
+    <it-IT>Famiglia amica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILY_FURIOUS_TITLE</zType>
+    <en-US>Furious Family</en-US>
+    <it-IT>Famiglia Furiosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_MEMPHIS_PYRAMIDS_TITLE</zType>
+    <en-US>Pyramids in Menefer</en-US>
+    <it-IT>Piramidi a Menefer</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UR_GREAT_ZIGGURAT_TITLE</zType>
+    <en-US>Great Ziggurat in Ur</en-US>
+    <it-IT>Grande Ziggurat di Ur</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DELPHI_ORACLE_TITLE</zType>
+    <en-US>Oracle in Delphi</en-US>
+    <it-IT>Oracle in Delphi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BABYLON_HANGING_GARDENS_TITLE</zType>
+    <en-US>Hanging Gardens in Babylon</en-US>
+    <it-IT>Giardini pensili a Babilonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WASET_NECROPOLIS_TITLE</zType>
+    <en-US>Necropolis in Waset</en-US>
+    <it-IT>Necropoli di Waset</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BABYLON_ISHTAR_GATE_TITLE</zType>
+    <en-US>Ishtar Gate in Babylon</en-US>
+    <it-IT>Porta di Ishtar a Babilonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ALEXANDRIA_LIGHTHOUSE_TITLE</zType>
+    <en-US>Lighthouse in Alexandria</en-US>
+    <it-IT>Faro di Alessandria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PERSEPOLIS_APADANA_TITLE</zType>
+    <en-US>Apadana in Parsa</en-US>
+    <it-IT>Apadana a Parsa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_HALICARNASSUS_MAUSOLEUM_TITLE</zType>
+    <en-US>Mausoleum in Halicarnassus</en-US>
+    <it-IT>Mausoleo di Alicarnasso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ATHENS_ACROPOLIS_TITLE</zType>
+    <en-US>Acropolis in Athenai</en-US>
+    <it-IT>Acropoli di Atene</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RHODES_COLOSSUS_TITLE</zType>
+    <en-US>Colossus in Rhodes</en-US>
+    <it-IT>Colosso a Rodi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ALEXANDRIA_MUSAEUM_TITLE</zType>
+    <en-US>Musaeum in Alexandria</en-US>
+    <it-IT>Musaeum ad Alessandria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ROMA_CIRCUS_MAXIMUS_TITLE</zType>
+    <en-US>Circus Maximus in Roma</en-US>
+    <it-IT>Circo Massimo a Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ROMA_PANTHEON_TITLE</zType>
+    <en-US>Pantheon in Roma</en-US>
+    <it-IT>Pantheon a Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BYZANTIUM_HAGIA_SOPHIA_TITLE</zType>
+    <en-US>Hagia Sophia in Byzantion</en-US>
+    <it-IT>Santa Sofia a Bisanzio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK_TITLE</zType>
+    <en-US>Via Recta Souk in Damascus</en-US>
+    <it-IT>Il souk di Via Recta a Damasco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_OLD_WORLD_ORDER_TITLE</zType>
+    <en-US>Old World Order</en-US>
+    <it-IT>Ordine del Vecchio Mondo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_POWER_TO_THE_PEOPLE_TITLE</zType>
+    <en-US>Power to the People</en-US>
+    <it-IT>Potere al popolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PANTHEON_OF_GODS_TITLE</zType>
+    <en-US>Pantheon of Gods</en-US>
+    <it-IT>Pantheon degli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THE_WORD_OF_GOD_TITLE</zType>
+    <en-US>Word of God</en-US>
+    <it-IT>Parola di Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ELEPHANTINE_ELEPHANT_TITLE</zType>
+    <en-US>Elephant in Elephantine</en-US>
+    <it-IT>Elefante in Elefantina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ALEXANDER_THE_GREAT_TITLE</zType>
+    <en-US>Alexander the Great</en-US>
+    <it-IT>Alessandro Magno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PUNIC_WARS_TITLE</zType>
+    <en-US>Punic Wars</en-US>
+    <it-IT>Guerre puniche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_MACEDONIAN_WARS_TITLE</zType>
+    <en-US>Macedonian Wars</en-US>
+    <it-IT>Guerre macedoni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BATTLE_OF_OPIS_TITLE</zType>
+    <en-US>Battle of Opis</en-US>
+    <it-IT>Battaglia di Opis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_MEDOBABYLONIAN_CONQUEST_TITLE</zType>
+    <en-US>Medo-Babylonian Conquest</en-US>
+    <it-IT>Conquista medo-babilonese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FERTILE_CRESCENT_TITLE</zType>
+    <en-US>Battle of the Fertile Crescent</en-US>
+    <it-IT>Battaglia della Mezzaluna Fertile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CLEOPATRAS_LOVE_TITLE</zType>
+    <en-US>Cleopatra's Love</en-US>
+    <it-IT>L'amore di Cleopatra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ALEXANDER_THE_WHO_TITLE</zType>
+    <en-US>Alexander the who?</en-US>
+    <it-IT>Alessandro chi?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_MERCHANTS_LEVANT_TITLE</zType>
+    <en-US>Merchants of the Levant</en-US>
+    <it-IT>Mercanti del Levante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BEFORE_MONGOL_HORDE_TITLE</zType>
+    <en-US>Before the Mongol Horde</en-US>
+    <it-IT>Prima dell'orda mongola</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_KNOWLEDGE_ANCIENTS_TITLE</zType>
+    <en-US>Knowledge of the Ancients</en-US>
+    <it-IT>La conoscenza degli antichi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COUNCIL_OF_MADNESS_TITLE</zType>
+    <en-US>Council of Madness</en-US>
+    <it-IT>Consiglio della follia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ET_TU_BRUTUS_TITLE</zType>
+    <en-US>Et tu Brutus?</en-US>
+    <it-IT>Et tu Brutus?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FIVE_ROUTS_TITLE</zType>
+    <en-US>Five Routs</en-US>
+    <it-IT>Cinque percorsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ETHNIC_DIVERSITY_TITLE</zType>
+    <en-US>Ethnic Diversity</en-US>
+    <it-IT>Diversità etnica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE1_RUN_TITLE</zType>
+    <en-US>Run, Pheidippides, Run!</en-US>
+    <it-IT>Corri, Fidippide, corri!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE1_WIN_TITLE</zType>
+    <en-US>Nenikekamen</en-US>
+    <it-IT>Nenikekamen</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE1_ALTERNATE_WIN_TITLE</zType>
+    <en-US>That Also Works</en-US>
+    <it-IT>Anche questo funziona</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE1_LOSE_TITLE</zType>
+    <en-US>Defend Where?</en-US>
+    <it-IT>Difendere dove?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_10_TITLE</zType>
+    <en-US>A Good Start</en-US>
+    <it-IT>Un buon inizio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_20_TITLE</zType>
+    <en-US>Like a Lion</en-US>
+    <it-IT>Come un leone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_30_TITLE</zType>
+    <en-US>Still Fighting</en-US>
+    <it-IT>Ancora in lotta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_40_TITLE</zType>
+    <en-US>They Shall Not Pass</en-US>
+    <it-IT>Non passeranno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_50_TITLE</zType>
+    <en-US>THIS IS SPARTA!!</en-US>
+    <it-IT>QUESTO È SPARTA!!!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_WIN_TITLE</zType>
+    <en-US>Tell the Spartans</en-US>
+    <it-IT>Dite agli Spartani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_SALAMIS_WIN_TITLE</zType>
+    <en-US>The Turning Point</en-US>
+    <it-IT>Il punto di svolta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_SALAMIS_PERFECT_TITLE</zType>
+    <en-US>Not a Chance</en-US>
+    <it-IT>Non c'è possibilità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_PLATAEA_WIN_TITLE</zType>
+    <en-US>Get the Hellas Out</en-US>
+    <it-IT>Fate uscire l'Hellas</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_PAIONIA_TITLE</zType>
+    <en-US>Those Were Mine</en-US>
+    <it-IT>Quelli erano miei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_THRACIANS_TITLE</zType>
+    <en-US>What's 'hubris' in Greek?</en-US>
+    <it-IT>Cosa significa "hubris" in greco?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_ATHENS_TITLE</zType>
+    <en-US>I am the Archon Now</en-US>
+    <it-IT>Io sono l'Arconte Ora</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_SPARTA_TITLE</zType>
+    <en-US>If? Then!</en-US>
+    <it-IT>Se? Allora!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_NO_WOUND_TITLE</zType>
+    <en-US>Not a Scratch</en-US>
+    <it-IT>Neanche un graffio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_THREE_WIVES_TITLE</zType>
+    <en-US>Three's a Crowd</en-US>
+    <it-IT>Tre è una folla</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_OLYMPICS_TITLE</zType>
+    <en-US>The Olive Wreath</en-US>
+    <it-IT>La corona di ulivi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_ALEXANDER_KILL_TITLE</zType>
+    <en-US>Shape of Things to Come</en-US>
+    <it-IT>La forma delle cose che verranno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY_TITLE</zType>
+    <en-US>Unfinished Business</en-US>
+    <it-IT>Affari incompiuti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY_BRONZE_TITLE</zType>
+    <en-US>Philip's Bronze Crown</en-US>
+    <it-IT>Corona di bronzo di Filippo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY_SILVER_TITLE</zType>
+    <en-US>Philip's Silver Crown</en-US>
+    <it-IT>Corona d'argento di Filippo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY_GOLD_TITLE</zType>
+    <en-US>Philip's Golden Crown</en-US>
+    <it-IT>La corona d'oro di Filippo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE4_INTRIGUE_TITLE</zType>
+    <en-US>Queen of Intrigue</en-US>
+    <it-IT>La regina dell'intrigo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE4_CITIES_TITLE</zType>
+    <en-US>Queen of Politics</en-US>
+    <it-IT>Regina della politica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE4_WIN_OLYMPIAS_STORYLINE_TITLE</zType>
+    <en-US>Queen of Lies</en-US>
+    <it-IT>La regina delle bugie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE4_WIN_PAUSANIAS_STORYLINE_TITLE</zType>
+    <en-US>Queen of Opportunity</en-US>
+    <it-IT>Regina delle opportunità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE4_WIN_PERSIA_STORYLINE_TITLE</zType>
+    <en-US>Queen of War</en-US>
+    <it-IT>Regina della guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_BUCEPHALUS_10_KILLS_TITLE</zType>
+    <en-US>Mighty Bucephalus</en-US>
+    <it-IT>Potente Bucefalo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_TYRE_TITLE</zType>
+    <en-US>A Tyresome Siege</en-US>
+    <it-IT>Un assedio di pneumatici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_PHARAOH_TITLE</zType>
+    <en-US>Pharaoh</en-US>
+    <it-IT>Faraone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_GORDIAN_KNOT_TITLE</zType>
+    <en-US>Knot So Hard</en-US>
+    <it-IT>Un nodo così forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_PERSIAN_GATE_TITLE</zType>
+    <en-US>Gate to Victory</en-US>
+    <it-IT>Porta della vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_VICTORY_TITLE</zType>
+    <en-US>Alexander the Mediocre</en-US>
+    <it-IT>Alessandro il Mediocre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_VICTORY_BETTER_TITLE</zType>
+    <en-US>Alexander the Alright</en-US>
+    <it-IT>Alessandro Magno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_VICTORY_BEST_TITLE</zType>
+    <en-US>Alexander the Great</en-US>
+    <it-IT>Alessandro Magno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE6_MACEDONIA_TITLE</zType>
+    <en-US>Toppling the Giants</en-US>
+    <it-IT>Rovesciare i giganti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE6_PTOLEMY_TITLE</zType>
+    <en-US>Rule of Pharaohs</en-US>
+    <it-IT>Il governo dei faraoni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE6_ANTIGONID_TITLE</zType>
+    <en-US>Youth Prevails</en-US>
+    <it-IT>La gioventù prevale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE6_SELEUCUS_TITLE</zType>
+    <en-US>The Eastern Empire</en-US>
+    <it-IT>L'Impero d'Oriente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_HITTITE_TITLE</zType>
+    <en-US>Hatti</en-US>
+    <it-IT>Hatti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_HITTITE_TITLE</zType>
+    <en-US>Hittite Paganism</en-US>
+    <it-IT>Paganesimo ittita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_HITTITE_CHARIOT_TITLE</zType>
+    <en-US>Three Man Chariot</en-US>
+    <it-IT>Carro a tre uomini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_HITTITE_IRON_TITLE</zType>
+    <en-US>Hittite Iron</en-US>
+    <it-IT>Ferro ittita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FIRST_PEACE_TREATY_TITLE</zType>
+    <en-US>The Eternal Treaty</en-US>
+    <it-IT>Il trattato eterno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LBP1_TITLE</zType>
+    <en-US>Learn By Playing 1 - Able</en-US>
+    <it-IT>Imparare giocando 1 - Abile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LBP2_TITLE</zType>
+    <en-US>Learn By Playing 2 - Just</en-US>
+    <it-IT>Imparare giocando 2 - Solo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LBP3_TITLE</zType>
+    <en-US>Learn By Playing 3 - Good</en-US>
+    <it-IT>Imparare giocando 3 - Buono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LBP4_TITLE</zType>
+    <en-US>Learn By Playing 4 - Strong</en-US>
+    <it-IT>Imparare giocando 4 - Forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_SINGLEPLAYER_TITLE</zType>
+    <en-US>Play a Single Player Game</en-US>
+    <it-IT>Giocare una partita a giocatore singolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_NETWORK_TITLE</zType>
+    <en-US>Play a Network Game</en-US>
+    <it-IT>Giocare a un gioco di rete</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_LAN_TITLE</zType>
+    <en-US>Play a LAN Game</en-US>
+    <it-IT>Giocare una partita LAN</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_PLAYBYCLOUD_TITLE</zType>
+    <en-US>Play a Play-By-Cloud Game</en-US>
+    <it-IT>Giocare a un gioco ad alta voce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_HOTSEAT_TITLE</zType>
+    <en-US>Play a Hotseat Game</en-US>
+    <it-IT>Giocare a un gioco Hotseat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_FFA_TITLE</zType>
+    <en-US>Play a Free-For-All Game ({gt}2 Players)</en-US>
+    <it-IT>Giocare una partita libera ({gt}2 Players)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_MPTEAMS_TITLE</zType>
+    <en-US>Play a MP Teams Game</en-US>
+    <it-IT>Giocare una partita a squadre MP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_1V1_TITLE</zType>
+    <en-US>Play a 1-v-1 Game</en-US>
+    <it-IT>Giocare una partita 1-v-1</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_SINGLEPLAYER_TITLE</zType>
+    <en-US>Win a Single Player Game</en-US>
+    <it-IT>Vincere una partita a giocatore singolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_NETWORK_TITLE</zType>
+    <en-US>Win a Network Game</en-US>
+    <it-IT>Vincere un gioco di rete</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_LAN_TITLE</zType>
+    <en-US>Win a LAN Game</en-US>
+    <it-IT>Vincere una partita LAN</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_PLAYBYCLOUD_TITLE</zType>
+    <en-US>Win a Play-By-Cloud Game</en-US>
+    <it-IT>Vinci un gioco Play-By-Cloud</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_HOTSEAT_TITLE</zType>
+    <en-US>Win a Hotseat Game</en-US>
+    <it-IT>Vincere un gioco Hotseat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_FFA_TITLE</zType>
+    <en-US>Win a Free-For-All Game ({gt}2 Players)</en-US>
+    <it-IT>Vincere una partita libera ({gt}2 Players)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_MPTEAMS_TITLE</zType>
+    <en-US>Win a MP Teams Game</en-US>
+    <it-IT>Vincere una partita a squadre MP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_1V1_TITLE</zType>
+    <en-US>Win a 1-v-1 Game</en-US>
+    <it-IT>Vincere una partita 1-v-1</it-IT>
+  </Entry>
+</Root>

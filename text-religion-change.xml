@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_RELIGION_ZOROASTRIANISM</zType>
+    <en-US>Zoroastrianism~Zoroastrian~a Zoroastrian~Zoroastrians~Zoroastrian</en-US>
+    <it-IT>Zoroastriano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_ZOROASTRIANISM_F</zType>
+    <en-US>Zoroastrianism~Zoroastrian~a Zoroastrian~Zoroastrians~Zoroastrian</en-US>
+    <it-IT>Zoroastriano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_JUDAISM</zType>
+    <en-US>Judaism~Jewish~a Jewish~Jews~Jew</en-US>
+    <it-IT>Ebreo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_JUDAISM_F</zType>
+    <en-US>Judaism~Jewish~a Jewish~Jews~Jew</en-US>
+    <it-IT>Ebreo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_CHRISTIANITY</zType>
+    <en-US>Christianity~Christian~a Christian~Christians~Christian</en-US>
+    <it-IT>Cristiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_CHRISTIANITY_F</zType>
+    <en-US>Christianity~Christian~a Christian~Christians~Christian</en-US>
+    <it-IT>Cristiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_MANICHAEISM</zType>
+    <en-US>Manichaeism~Manichaean~a Manichaean~Manichaeans~Manichaean</en-US>
+    <it-IT>manicheo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_MANICHAEISM_F</zType>
+    <en-US>Manichaeism~Manichaean~a Manichaean~Manichaeans~Manichaean</en-US>
+    <it-IT>manicheo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN</zType>
+    <en-US>Paganism~Pagan~a Pagan~Pagans~Pagan</en-US>
+    <it-IT>Pagano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_F</zType>
+    <en-US>Paganism~Pagan~a Pagan~Pagans~Pagan</en-US>
+    <it-IT>Pagano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_ASSYRIA</zType>
+    <en-US>Assyrian Paganism~Assyrian Pagan~an Assyrian Pagan~Assyrian Pagans~Assyrian Pagan</en-US>
+    <it-IT>Pagano assiro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_ASSYRIA_F</zType>
+    <en-US>Assyrian Paganism~Assyrian Pagan~an Assyrian Pagan~Assyrian Pagans~Assyrian Pagan</en-US>
+    <it-IT>Pagano assiro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_BABYLONIA</zType>
+    <en-US>Babylonian Paganism~Babylonian Pagan~a Babylonian Pagan~Babylonian Pagans~Babylonian Pagan</en-US>
+    <it-IT>Pagano babilonese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_BABYLONIA_F</zType>
+    <en-US>Babylonian Paganism~Babylonian Pagan~a Babylonian Pagan~Babylonian Pagans~Babylonian Pagan</en-US>
+    <it-IT>Pagano babilonese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_CARTHAGE</zType>
+    <en-US>Carthaginian Paganism~Carthaginian Pagan~a Carthaginian Pagan~Carthaginian Pagans~Carthaginian Pagan</en-US>
+    <it-IT>Pagano cartaginese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_CARTHAGE_F</zType>
+    <en-US>Carthaginian Paganism~Carthaginian Pagan~a Carthaginian Pagan~Carthaginian Pagans~Carthaginian Pagan</en-US>
+    <it-IT>Pagano cartaginese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_EGYPT</zType>
+    <en-US>Egyptian Paganism~Egyptian Pagan~a Egyptian Pagan~Egyptian Pagans~Egyptian Pagan</en-US>
+    <it-IT>Pagano egiziano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_EGYPT_F</zType>
+    <en-US>Egyptian Paganism~Egyptian Pagan~a Egyptian Pagan~Egyptian Pagans~Egyptian Pagan</en-US>
+    <it-IT>Pagano egiziano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_GREECE</zType>
+    <en-US>Greek Paganism~Greek Pagan~a Greek Pagan~Greek Pagans~Greek Pagan</en-US>
+    <it-IT>Pagano greco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_GREECE_F</zType>
+    <en-US>Greek Paganism~Greek Pagan~a Greek Pagan~Greek Pagans~Greek Pagan</en-US>
+    <it-IT>Pagano greco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_ROME</zType>
+    <en-US>Roman Paganism~Roman Pagan~a Roman Pagan~Roman Pagans~Roman Pagan</en-US>
+    <it-IT>Romano Pagano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_ROME_F</zType>
+    <en-US>Roman Paganism~Roman Pagan~a Roman Pagan~Roman Pagans~Roman Pagan</en-US>
+    <it-IT>Romano Pagano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_PERSIA</zType>
+    <en-US>Persian Paganism~Persian Pagan~a Persian Pagan~Persian Pagans~Persian Pagan</en-US>
+    <it-IT>Pagano persiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_PAGAN_PERSIA_F</zType>
+    <en-US>Persian Paganism~Persian Pagan~a Persian Pagan~Persian Pagans~Persian Pagan</en-US>
+    <it-IT>Pagano persiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_CUSTOM</zType>
+    <en-US>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~a(n) {RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}(s)</en-US>
+    <it-IT>{RELIGION-ADJECTIVE}(s)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_CUSTOM_F</zType>
+    <en-US>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~a(n) {RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}(s)</en-US>
+    <it-IT>{RELIGION-ADJECTIVE}(s)</it-IT>
+  </Entry>
+</Root>

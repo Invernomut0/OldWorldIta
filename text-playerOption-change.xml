@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_NO_TUTORIAL</zType>
+    <en-US>Disable Tutorial</en-US>
+    <it-IT>Disattivare l'esercitazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_NO_TUTORIAL_DESC</zType>
+    <en-US>Tutorial Events do not occur</en-US>
+    <it-IT>Gli eventi tutorial non si verificano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_INSTANT_UNIT_MOVEMENT</zType>
+    <en-US>Instant Unit Movement</en-US>
+    <it-IT>Movimento istantaneo delle unità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_INSTANT_UNIT_MOVEMENT_DESC</zType>
+    <en-US>Don't animate your team's Unit movement</en-US>
+    <it-IT>Non animare il movimento dell'unità della squadra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_UNIT_CYCLING</zType>
+    <en-US>Unit Cycling</en-US>
+    <it-IT>Unità Ciclismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_UNIT_CYCLING_DESC</zType>
+    <en-US>After taking a Cooldown action, automatically cycle to next link(CONCEPT_IDLE) Unit</en-US>
+    <it-IT>Dopo aver effettuato un'azione di Cooldown, passa automaticamente alla prossima link(CONCEPT_IDLE) Unità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_FATIGUE_CYCLING</zType>
+    <en-US>Fatigued Unit Cycling</en-US>
+    <it-IT>Unità affaticata in bicicletta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_FATIGUE_CYCLING_DESC</zType>
+    <en-US>Fatigued Units included in selection cycling</en-US>
+    <it-IT>Unità affaticate incluse nel ciclo di selezione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_DISABLE_EDGE_SCROLLING</zType>
+    <en-US>Disable Edge Scrolling</en-US>
+    <it-IT>Disattivare lo scorrimento dei bordi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_DISABLE_EDGE_SCROLLING_DESC</zType>
+    <en-US>Do not scroll the map when the mouse is at a screen edge (fullscreen mode only)</en-US>
+    <it-IT>Non scorrere la mappa quando il mouse si trova su un bordo dello schermo (fullscreen mode only)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SHOW_ORDERS_COST</zType>
+    <en-US>Show Orders Cost</en-US>
+    <it-IT>Costo degli ordini della mostra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SHOW_ORDERS_COST_DESC</zType>
+    <en-US>Show Orders Cost instead of Orders left for each move</en-US>
+    <it-IT>Mostra il costo degli ordini invece degli ordini rimanenti per ogni mossa.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_MINI_TECH_CARDS</zType>
+    <en-US>Use Minimized Tech Cards</en-US>
+    <it-IT>Utilizzare schede tecniche ridotte al minimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_MINI_TECH_CARDS_DESC</zType>
+    <en-US>Always use mini tech card display instead of choose research popup</en-US>
+    <it-IT>Usare sempre la mini scheda tecnica invece di scegliere il popup di ricerca.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SHOW_SYSTEM_TIME</zType>
+    <en-US>Show System Time</en-US>
+    <it-IT>Mostra l'ora del sistema</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SHOW_SYSTEM_TIME_DESC</zType>
+    <en-US>Show system time in the interface</en-US>
+    <it-IT>Mostra l'ora del sistema nell'interfaccia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_HIDE_LANDMARK_NAMES</zType>
+    <en-US>Hide Landmark Names</en-US>
+    <it-IT>Nascondi i nomi dei punti di riferimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_HIDE_LANDMARK_NAMES_DESC</zType>
+    <en-US>Hide map element names (e.g. Mountains, Volcanoes, etc.)</en-US>
+    <it-IT>Nascondere i nomi degli elementi della mappa (e.g. Mountains, Volcanoes, etc.)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_DEFAULT_LANDMARK_NAMES</zType>
+    <en-US>Default Landmark Names</en-US>
+    <it-IT>Nomi predefiniti dei punti di riferimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_DEFAULT_LANDMARK_NAMES_DESC</zType>
+    <en-US>Skip the prompt for renaming discovered landmarks</en-US>
+    <it-IT>Saltare la richiesta di rinominare i punti di riferimento scoperti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_FLIP_UNIT_COLORS</zType>
+    <en-US>Flip Unit Colors</en-US>
+    <it-IT>Colori dell'unità Flip</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_FLIP_UNIT_COLORS_DESC</zType>
+    <en-US>Flip unit primary and secondary colors</en-US>
+    <it-IT>Unità di ribaltamento dei colori primari e secondari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SHOW_RIVAL_FAMILY_COLORS</zType>
+    <en-US>Show Foreign Family Colors</en-US>
+    <it-IT>Mostra i colori della famiglia straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SHOW_RIVAL_FAMILY_COLORS_DESC</zType>
+    <en-US>Show Family colors for Foreign Units</en-US>
+    <it-IT>Mostra i colori della famiglia per le unità straniere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_HIDE_UNIT_MOVEMENT_STEPS</zType>
+    <en-US>Hide Unit Movement Steps</en-US>
+    <it-IT>Nascondere le fasi di movimento dell'unità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_HIDE_UNIT_MOVEMENT_STEPS_DESC</zType>
+    <en-US>Hide the movement range for each step of the selected Unit</en-US>
+    <it-IT>Nascondere l'intervallo di movimento per ogni passo dell'unità selezionata.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_MUTE_AUDIO</zType>
+    <en-US>Mute</en-US>
+    <it-IT>Muto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_MUTE_AUDIO_DESC</zType>
+    <en-US>Don't play any audio</en-US>
+    <it-IT>Non riprodurre alcun audio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_PLAY_AUDIO</zType>
+    <en-US>Play</en-US>
+    <it-IT>Gioco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SHUFFLE_TO_NEXT_TRACK</zType>
+    <en-US>Shuffle to Next Track</en-US>
+    <it-IT>Passa alla traccia successiva</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SKIP_LICENSED_MUSIC_TRACKS</zType>
+    <en-US>Music: Recording and Streaming
+Copyright Safety Mode</en-US>
+    <it-IT>Musica: Registrazione e streaming
+Modalità di sicurezza per il copyright</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SKIP_LICENSED_MUSIC_TRACKS_DESC</zType>
+    <en-US>For players who are livestreaming or recording video: When enabled, the game will skip any licensed music tracks with known copyright flagging issues on video sharing websites. This helps to reduce music-related content issues in your videos.</en-US>
+    <it-IT>Per i giocatori che fanno livestreaming o registrano video: Quando è abilitato, il gioco salta tutti i brani musicali su licenza con problemi di copyright noti sui siti web di condivisione video. Ciò contribuisce a ridurre i problemi di contenuto musicale nei video.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_JUKEBOX_EXPLANATION</zType>
+    <en-US>In-game music begins when you research link(TECH_DRAMA). 
+Below, you can play or disable specific music tracks.</en-US>
+    <it-IT>La musica di gioco inizia quando si ricerca link(TECH_DRAMA). 
+Di seguito, è possibile riprodurre o disattivare brani musicali specifici.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_DONT_MUTE_FOCUS</zType>
+    <en-US>Play Sound without Focus</en-US>
+    <it-IT>Riproduzione del suono senza messa a fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_DONT_MUTE_FOCUS_DESC</zType>
+    <en-US>Game audio continues playing in the background even when switching to another application (useful for streaming or recording purposes).</en-US>
+    <it-IT>L'audio del gioco continua a essere riprodotto in background anche quando si passa a un'altra applicazione (useful for streaming or recording purposes).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_AZERTY_KEYBOARD</zType>
+    <en-US>AZERTY Keyboard</en-US>
+    <it-IT>Tastiera AZERTY</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_AZERTY_KEYBOARD_DESC</zType>
+    <en-US>Map hotkeys to their locations in an AZERTY keyboard</en-US>
+    <it-IT>Mappatura dei tasti di scelta rapida in base alla loro posizione in una tastiera AZERTY</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SLOW</zType>
+    <en-US>Slow AI</en-US>
+    <it-IT>IA lenta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_SLOW_DESC</zType>
+    <en-US>AI computations do not utilize all CPU cores so that cycles are available for other tasks between turns</en-US>
+    <it-IT>I calcoli dell'intelligenza artificiale non utilizzano tutti i core della CPU, in modo che i cicli siano disponibili per altre attività tra un turno e l'altro.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_DEBUG_HELP</zType>
+    <en-US>Debug help</en-US>
+    <it-IT>Guida al debug</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_DEBUG_HELP_DESC</zType>
+    <en-US>Enable tooltips for debugging</en-US>
+    <it-IT>Abilita i tooltip per il debug</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_DISABLE_CORSAIR_ICUE_HELP</zType>
+    <en-US>Disable Corsair iCUE</en-US>
+    <it-IT>Disattivare Corsair iCUE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_DISABLE_CORSAIR_ICUE_HELP_DESC</zType>
+    <en-US>Disables synchronization of gameplay and iCUE lighting effects</en-US>
+    <it-IT>Disabilita la sincronizzazione del gameplay e degli effetti di luce di iCUE</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_HIDE_NEW_ANNOUNCEMENTS</zType>
+    <en-US>Hide Announcements</en-US>
+    <it-IT>Nascondi Annunci</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAYEROPTION_HIDE_NEW_ANNOUNCEMENTS_DESC</zType>
+    <en-US>New announcements will not be shown on the main screen by default</en-US>
+    <it-IT>Per impostazione predefinita, i nuovi annunci non vengono visualizzati nella schermata principale.</it-IT>
+  </Entry>
+</Root>

@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_PROJECT_DISSENT_RELIGION</zType>
+    <en-US>Religious Dissent</en-US>
+    <it-IT>Dissenso religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DISSENT_ZOROASTRIANISM</zType>
+    <en-US>Zoroastrian Dissent</en-US>
+    <it-IT>Dissenso zoroastriano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DISSENT_JUDAISM</zType>
+    <en-US>Jewish Dissent</en-US>
+    <it-IT>Dissenso ebraico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DISSENT_CHRISTIANITY</zType>
+    <en-US>Christian Dissent</en-US>
+    <it-IT>Dissenso cristiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DISSENT_MANICHAEISM</zType>
+    <en-US>Manichaean Dissent</en-US>
+    <it-IT>Dissenso manicheo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM</zType>
+    <en-US>Suppress link(RELIGION_ZOROASTRIANISM,1) Dissent</en-US>
+    <it-IT>Sopprimere link(RELIGION_ZOROASTRIANISM,1) Dissenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SUPPRESS_DISSENT_JUDAISM</zType>
+    <en-US>Suppress link(RELIGION_JUDAISM,1) Dissent</en-US>
+    <it-IT>Sopprimere link(RELIGION_JUDAISM,1) Dissenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SUPPRESS_DISSENT_CHRISTIANITY</zType>
+    <en-US>Suppress link(RELIGION_CHRISTIANITY,1) Dissent</en-US>
+    <it-IT>Sopprimere link(RELIGION_CHRISTIANITY,1) Dissenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SUPPRESS_DISSENT_MANICHAEISM</zType>
+    <en-US>Suppress link(RELIGION_MANICHAEISM,1) Dissent</en-US>
+    <it-IT>Sopprimere link(RELIGION_MANICHAEISM,1) Dissenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MONASTIC_TRADITIONS</zType>
+    <en-US>Reformed Monastic Traditions</en-US>
+    <it-IT>Tradizioni monastiche riformate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DIVINE_STEED</zType>
+    <en-US>Divine-Bred Horses</en-US>
+    <it-IT>Cavalli allevati in modo divino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_UNTAXED_TEMPLES</zType>
+    <en-US>Untaxed temples</en-US>
+    <it-IT>Templi non tassati</it-IT>
+  </Entry>
+</Root>

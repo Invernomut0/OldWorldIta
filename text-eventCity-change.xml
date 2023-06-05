@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EVENTCITY_POPULATION_BOOM</zType>
+    <en-US>{CITY} has experienced a baby boom</en-US>
+    <it-IT>{CITY} ha registrato un boom di bambini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_CIVICS_BOOM</zType>
+    <en-US>{CITY} has experienced a civics boom</en-US>
+    <it-IT>{CITY} ha sperimentato un boom civico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_TRAINING_BOOM</zType>
+    <en-US>{CITY} has experienced a training boom</en-US>
+    <it-IT>{CITY} ha sperimentato un boom formativo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_SCIENCE_BOOM</zType>
+    <en-US>{CITY} has experienced a scientific renaissance</en-US>
+    <it-IT>{CITY} ha conosciuto una rinascita scientifica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_MONEY_BOOM</zType>
+    <en-US>{CITY} has experienced an economic boom</en-US>
+    <it-IT>{CITY} ha conosciuto un boom economico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_ORDERS_BOOM</zType>
+    <en-US>{CITY} has experienced a burst of activity</en-US>
+    <it-IT>{CITY} ha registrato un'esplosione di attività</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_GREAT_SOLDIER</zType>
+    <en-US>A link(COURTIER_SOLDIER) has emerged from {CITY}</en-US>
+    <it-IT>Un link(COURTIER_SOLDIER) è emerso da {CITY}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_GREAT_MINISTER</zType>
+    <en-US>A link(COURTIER_MINISTER) has emerged from {CITY}</en-US>
+    <it-IT>Un link(COURTIER_MINISTER) è emerso da {CITY}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_GREAT_MERCHANT</zType>
+    <en-US>A link(COURTIER_MERCHANT) has emerged from {CITY}</en-US>
+    <it-IT>Un link(COURTIER_MERCHANT) è emerso da {CITY}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_GREAT_SCIENTIST</zType>
+    <en-US>A link(COURTIER_SCIENTIST) has emerged from {CITY}</en-US>
+    <it-IT>Un link(COURTIER_SCIENTIST) è emerso da {CITY}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_POPULATION_BOOM_NAME</zType>
+    <en-US>link(YIELD_GROWTH) Boom</en-US>
+    <it-IT>link(YIELD_GROWTH) Boom</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_CIVICS_BOOM_NAME</zType>
+    <en-US>link(YIELD_CIVICS) Boom</en-US>
+    <it-IT>link(YIELD_CIVICS) Boom</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_TRAINING_BOOM_NAME</zType>
+    <en-US>link(YIELD_TRAINING) Boom</en-US>
+    <it-IT>link(YIELD_TRAINING) Boom</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_SCIENCE_BOOM_NAME</zType>
+    <en-US>link(YIELD_SCIENCE) Boom</en-US>
+    <it-IT>link(YIELD_SCIENCE) Boom</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_MONEY_BOOM_NAME</zType>
+    <en-US>link(YIELD_MONEY) Boom</en-US>
+    <it-IT>link(YIELD_MONEY) Boom</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_ORDERS_BOOM_NAME</zType>
+    <en-US>link(YIELD_ORDERS) Boom</en-US>
+    <it-IT>link(YIELD_ORDERS) Boom</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_GREAT_SOLDIER_NAME</zType>
+    <en-US>New link(COURTIER_SOLDIER)</en-US>
+    <it-IT>Nuovo link(COURTIER_SOLDIER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_GREAT_MINISTER_NAME</zType>
+    <en-US>New link(COURTIER_MINISTER)</en-US>
+    <it-IT>Nuovo link(COURTIER_MINISTER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_GREAT_MERCHANT_NAME</zType>
+    <en-US>New link(COURTIER_MERCHANT)</en-US>
+    <it-IT>Nuovo link(COURTIER_MERCHANT)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTCITY_GREAT_SCIENTIST_NAME</zType>
+    <en-US>New link(COURTIER_SCIENTIST)</en-US>
+    <it-IT>Nuovo link(COURTIER_SCIENTIST)</it-IT>
+  </Entry>
+</Root>

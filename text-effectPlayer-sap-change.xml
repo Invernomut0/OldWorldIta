@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_IMPIOUS</zType>
+    <en-US>link(TRAIT_IMPIOUS) Leader</en-US>
+    <it-IT>link(TRAIT_IMPIOUS) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_PIOUS</zType>
+    <en-US>link(TRAIT_PIOUS) Leader</en-US>
+    <it-IT>link(TRAIT_PIOUS) Leader</it-IT>
+  </Entry>
+</Root>

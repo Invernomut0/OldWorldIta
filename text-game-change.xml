@@ -1,0 +1,1463 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_GAME_GAINED_TEAM_ALLIANCE</zType>
+    <en-US>{0_team} is now in a link(CONCEPT_ALLIANCE_PLAYER) with {1_team}.</en-US>
+    <it-IT>{0_team} è ora in una link(CONCEPT_ALLIANCE_PLAYER) con {1_team}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_GAINED_TEAM_ALLIANCE_PLAYER</zType>
+    <en-US>You are now in a link(CONCEPT_ALLIANCE_PLAYER) with {0_team}.</en-US>
+    <it-IT>Ora siete in un link(CONCEPT_ALLIANCE_PLAYER) con {0_team}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOST_TEAM_ALLIANCE</zType>
+    <en-US>{0_team} is no longer in a link(CONCEPT_ALLIANCE_PLAYER) with {1_team}.</en-US>
+    <it-IT>{0_team} non è più in una link(CONCEPT_ALLIANCE_PLAYER) con {1_team}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOST_TEAM_ALLIANCE_PLAYER</zType>
+    <en-US>You are no longer in a link(CONCEPT_ALLIANCE_PLAYER) with {0_team}.</en-US>
+    <it-IT>Non siete più in un link(CONCEPT_ALLIANCE_PLAYER) con {0_team}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_GAINED_TRIBE_ALLIANCE</zType>
+    <en-US>{0_team} is now in a link(CONCEPT_ALLIANCE_TRIBE) with the {1_tribe}.</en-US>
+    <it-IT>{0_team} è ora in un link(CONCEPT_ALLIANCE_TRIBE) con il {1_tribe}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_GAINED_TRIBE_ALLIANCE_PLAYER</zType>
+    <en-US>You are now in a link(CONCEPT_ALLIANCE_TRIBE) with the {0_tribe}.</en-US>
+    <it-IT>Ora siete in un link(CONCEPT_ALLIANCE_TRIBE) con il {0_tribe}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOST_TRIBE_ALLIANCE</zType>
+    <en-US>{0_team} is no longer in a link(CONCEPT_ALLIANCE_TRIBE) with the {1_tribe}.</en-US>
+    <it-IT>{0_team} non è più in un link(CONCEPT_ALLIANCE_TRIBE) con il {1_tribe}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LOST_TRIBE_ALLIANCE_PLAYER</zType>
+    <en-US>You are no longer in a link(CONCEPT_ALLIANCE_TRIBE) with the {0_tribe}.</en-US>
+    <it-IT>Non siete più in un link(CONCEPT_ALLIANCE_TRIBE) con il {0_tribe}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_MET_TRIBE</zType>
+    <en-US>You have met the {0_tribe}.</en-US>
+    <it-IT>Avete incontrato il {0_tribe}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TRIBE_NEW_DIPLOMACY</zType>
+    <en-US>{0_team} is now at {1_newDiplomacy} with the {2_tribe}.</en-US>
+    <it-IT>{0_team} è ora a {1_newDiplomacy} con il {2_tribe}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TRIBE_DIPLOMACY_LOG_DATA</zType>
+    <en-US>{0_tribe}: {1_newDiplomacy}</en-US>
+    <it-IT>{0_tribe}: {1_newDiplomacy}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TEAM_CONTACT_LOG_DATA</zType>
+    <en-US>You have met {0_team}.</en-US>
+    <it-IT>Avete incontrato {0_team}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TEAM_NEW_DIPLOMACY</zType>
+    <en-US>{true_3:{0_team} declares {1_newDiplomacy} on {2_team}.:{0_team} is now at {1_newDiplomacy} with {2_team}.}</en-US>
+    <it-IT>{true_3:{0_team} dichiara {1_newDiplomacy} su {2_team}.:{0_team} è ora a {1_newDiplomacy} con {2_team}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TEAM_FROM_DIPLOMACY_LOG_DATA</zType>
+    <en-US>{true_2:Declared {1_newDiplomacy} on {0_team}:Made {1_newDiplomacy} with {0_team}}</en-US>
+    <it-IT>{true_2:Declared {1_newDiplomacy} su {0_team}:Fatto {1_newDiplomacy} con {0_team}}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TEAM_TO_DIPLOMACY_LOG_DATA</zType>
+    <en-US>{true_2:{0_team} Declared {1_newDiplomacy} on us:Made {1_newDiplomacy} with {0_team}}</en-US>
+    <it-IT>{true_2:{0_team} Dichiarato {1_newDiplomacy} su di noi:Fatto {1_newDiplomacy} con {0_team}}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TEAM_ALLIANCE_WAR</zType>
+    <en-US>Because of a link(CONCEPT_ALLIANCE_PLAYER) with {0_team}, {1_player} responds to the {3_diplomacy} Declaration by {2_team} with {3_diplomacy}!</en-US>
+    <it-IT>A causa di un link(CONCEPT_ALLIANCE_PLAYER) con {0_team}, {1_player} risponde alla {3_diplomacy} di {2_team} con {3_diplomacy}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TRIBE_ALLIANCE_WAR</zType>
+    <en-US>Because of a link(CONCEPT_ALLIANCE_TRIBE) with {0_team}, {1_tribe} responds to the {3_diplomacy} Declaration by {2_team} with {3_diplomacy}!</en-US>
+    <it-IT>A causa di un link(CONCEPT_ALLIANCE_TRIBE) con {0_team}, {1_tribe} risponde alla {3_diplomacy} di {2_team} con {3_diplomacy}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_RELIGION_THEOLOGY</zType>
+    <en-US>{0_religion} has established {1_theology} Theology.</en-US>
+    <it-IT>{0_religion} ha stabilito {1_theology} Teologia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_GAME_OVER_POPUP</zType>
+    <en-US>You have reached the end of the game.</en-US>
+    <it-IT>Avete raggiunto la fine del gioco.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TEAM_VICTORY</zType>
+    <en-US>{0_team} has won {1,1_victory}!</en-US>
+    <it-IT>{0_team} ha vinto {1,1_victory}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TEAM_DEFEAT_POPUP</zType>
+    <en-US>The nation of {0_player} has been eliminated!</en-US>
+    <it-IT>La nazione di {0_player} è stata eliminata!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TEAM_DEFEAT_POPUP_NO_HEIR</zType>
+    <en-US>The royal dynasty of {0_player} has come to an end!</en-US>
+    <it-IT>La dinastia reale di {0_player} è giunta al termine!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_SURRENDER_POPUP</zType>
+    <en-US>{0_player} has surrendered!</en-US>
+    <it-IT>{0_player} si è arreso!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_RELIGION_FOUNDED</zType>
+    <en-US>{0_religion} founded in {1_city}.</en-US>
+    <it-IT>{0_religion} fondata in {1_city}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_RELIGION_HEAD</zType>
+    <en-US>{0_character} is now the Head of {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} to {3_opinion}.)}</en-US>
+    <it-IT>{0_character} è ora la testa di {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} a {3_opinion}.)}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_RELIGION_FAMILY</zType>
+    <en-US>The {0_family} Family has converted to {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} to {3_opinion}.)}</en-US>
+    <it-IT>La famiglia {0_family} si è convertita in {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} in {3_opinion}).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_RELIGION_TRIBE</zType>
+    <en-US>The {0_tribe} have converted to {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} to {3_opinion}.)}</en-US>
+    <it-IT>I {0_tribe} si sono convertiti in {1_religion}, i {true_2: (Their Opinion of you has gone from {2_opinion} in {3_opinion}).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_RELIGION_PLAYER_US</zType>
+    <en-US>{0_player} has adopted {1_religion} as its link(CONCEPT_STATE_RELIGION).</en-US>
+    <it-IT>{0_player} ha adottato {1_religion} come suo link(CONCEPT_STATE_RELIGION).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_RELIGION_PLAYER</zType>
+    <en-US>{0_player} has converted to {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} to {3_opinion}.)}</en-US>
+    <it-IT>{0_player} si è convertito in {1_religion}.{true_2: (Their Opinion of you has gone from {2_opinion} in {3_opinion}).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_NO_RELIGION_PLAYER</zType>
+    <en-US>{0_player} no longer has a State Religion.{true_1: (Their Opinion of you has gone from {1_opinion} to {2_opinion}.)}</en-US>
+    <it-IT>{0_player} non ha più una religione di Stato.{true_1: (Their Opinion of you has gone from {1_opinion} a {2_opinion}.)}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_FAMILY_HEAD</zType>
+    <en-US>{0_character} is now Head of the {1_family} Family.{true_2: (Their Opinion of you has gone from {2_opinion} to {3_opinion}.)}</en-US>
+    <it-IT>{0_character} è ora capo della famiglia {1_family} Famiglia.{true_2: (Their Opinion of you has gone from {2_opinion} a {3_opinion}.)}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_IMPROVEMENT_PILLAGED</zType>
+    <en-US>{0_improvement} will disappear in {1_turns} {2_turnScale}!</en-US>
+    <it-IT>{0_improvement} scomparirà in {1_turns} {2_turnScale}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_IMPROVEMENT_STARTED</zType>
+    <en-US>{0_player} has begun construction of {1_improvement}.</en-US>
+    <it-IT>{0_player} ha iniziato la costruzione di {1_improvement}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_IMPROVEMENT_SCRAPPED</zType>
+    <en-US>Construction of {1_improvement} by {0_player} has been scrapped.</en-US>
+    <it-IT>La costruzione di {1_improvement} da parte di {0_player} è stata scartata.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_IMPROVEMENT_COMPLETED</zType>
+    <en-US>{0_improvement} completed by {1_player}!</en-US>
+    <it-IT>{0_improvement} completato da {1_player}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_RELIGION_SPREAD_TO_CITY</zType>
+    <en-US>{0_religion} spreads to {1_city}.</en-US>
+    <it-IT>{0_religion} si diffonde a {1_city}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_RELIGION_SPREAD_TO_CITY_DISCIPLE</zType>
+    <en-US>A Disciple arriving from {2_player} has spread {0_religion} to {1_city}.</en-US>
+    <it-IT>Un Discepolo che arriva da {2_player} ha diffuso {0_religion} a {1_city}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DOOMED_POPUP</zType>
+    <en-US>Your doctors and diviners have warned you that the end is near! Time to get your affairs in order.</en-US>
+    <it-IT>I medici e gli indovini vi hanno avvertito che la fine è vicina! È ora di mettere ordine nei vostri affari.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_ABDICATION</zType>
+    <en-US>{0_oldLeader} has abdicated the throne.</en-US>
+    <it-IT>{0_oldLeader} ha abdicato al trono.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_NEW_RULER</zType>
+    <en-US>A new ruler, {0_newLeader}, has taken the throne.</en-US>
+    <it-IT>Un nuovo sovrano, {0_newLeader}, è salito al trono.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_POPUP</zType>
+    <en-US>News arrives from {0_player} that {1_oldLeader} is dead. A new ruler, {2_newLeader}, has taken the throne. {true_3: (Their Opinion of you is now {3_opinion}.)}</en-US>
+    <it-IT>Da {0_player} arriva la notizia che {1_oldLeader} è morto. Un nuovo sovrano, {2_newLeader}, è salito al trono. {true_3: (Their Opinion of you is now {3_opinion}.)}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_ABDICATE_POPUP</zType>
+    <en-US>News arrives from {0_player} that {1_oldLeader} has abdicated. A new ruler, {2_newLeader}, has taken the throne.{true_3: (Their Opinion of you is now {3_opinion}.)}</en-US>
+    <it-IT>Da {0_player} arriva la notizia che {1_oldLeader} ha abdicato. Un nuovo sovrano, {2_newLeader}, è salito al trono.)}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TRIBE_NEW_RULER_POPUP</zType>
+    <en-US>News arrives from abroad that {0_oldLeader} is dead. {1_newLeader} now leads the {2_tribe}.</en-US>
+    <it-IT>Dall'estero arriva la notizia che {0_oldLeader} è morto. {1_newLeader} ora guida il {2_tribe}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_NEW_LAW_FOR_HEIR_POPUP</zType>
+    <en-US>Because, under the old laws, your dynasty has no legitimate heir, it switches to {0_law} to enable the ascension of {1_character}.</en-US>
+    <it-IT>Poiché, secondo le vecchie leggi, la vostra dinastia non ha eredi legittimi, passa a {0_law} per consentire l'ascesa di {1_character}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_START_AMBITION</zType>
+    <en-US>{0_character} has started a new link(CONCEPT_AMBITION): {1_ambition}</en-US>
+    <it-IT>{0_character} ha avviato una nuova link(CONCEPT_AMBITION): {1_ambition}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_START_GOAL</zType>
+    <en-US>You have started a Goal: {0_goal}{true_1: (within {1_turns} turns)}</en-US>
+    <it-IT>Hai iniziato un Obiettivo: {0_goal}{true_1: (within {1_turns} turni)}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_FINISH_AMBITION</zType>
+    <en-US>You have completed an link(CONCEPT_AMBITION): {0_ambition}</en-US>
+    <it-IT>Avete completato un link(CONCEPT_AMBITION): {0_ambition}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_FINISH_LEGACY</zType>
+    <en-US>You have completed {true_1:the link(CONCEPT_LEGACY) of {1_character}:a link(CONCEPT_LEGACY)}: {0_legacy}</en-US>
+    <it-IT>Hai completato {true_1:the link(CONCEPT_LEGACY) of {1_character}:a link(CONCEPT_LEGACY)}: {0_legacy}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_FINISH_GOAL</zType>
+    <en-US>You have completed a Goal: {0_goal}</en-US>
+    <it-IT>Avete completato un Obiettivo: {0_goal}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_FAIL_AMBITION</zType>
+    <en-US>You have failed {true_1:a link(CONCEPT_LEGACY):an link(CONCEPT_AMBITION)}: {0_ambition}</en-US>
+    <it-IT>Hai fallito {true_1:a link(CONCEPT_LEGACY):an link(CONCEPT_AMBITION)}: {0_ambition}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_FAIL_GOAL</zType>
+    <en-US>You have failed a Goal: {0_goal}</en-US>
+    <it-IT>Hai fallito un Obiettivo: {0_goal}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_MAKE_LEGACY</zType>
+    <en-US>An old link(CONCEPT_AMBITION), {0_ambition}, is now a link(CONCEPT_LEGACY). You will have {1_turns} {2_turnScale} to complete it.</en-US>
+    <it-IT>Un vecchio link(CONCEPT_AMBITION), {0_ambition}, è ora un link(CONCEPT_LEGACY). Avrete {1_turns} {2_turnScale} per completarlo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_MAKE_LEGACIES</zType>
+    <en-US>The following link(CONCEPT_AMBITION,2) are now link(CONCEPT_LEGACY,2):</en-US>
+    <it-IT>I seguenti link(CONCEPT_AMBITION,2) sono ora link(CONCEPT_LEGACY,2):</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_MAKE_LEGACIES_GOAL</zType>
+    <en-US>{0_goal} ({1_turns} {2_turnScale} Left)</en-US>
+    <it-IT>{0_goal} ({1_turns} {2_turnScale} Left)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_AMBITION_IMPOSSIBLE</zType>
+    <en-US>This {true_1:link(CONCEPT_LEGACY):link(CONCEPT_AMBITION)} is now impossible and has been removed: {0_ambition}</en-US>
+    <it-IT>Questo {true_1:link(CONCEPT_LEGACY):link(CONCEPT_AMBITION)} è ora impossibile ed è stato rimosso: {0_ambition}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_GOAL_IMPOSSIBLE</zType>
+    <en-US>This Goal is now impossible and has been removed: {0_goal}</en-US>
+    <it-IT>Questo Obiettivo è ora impossibile ed è stato rimosso: {0_goal}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_COURTIER_JOINED_POPUP</zType>
+    <en-US>{0_character} has joined your Court.</en-US>
+    <it-IT>{0_character} si è unito alla vostra Corte.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHARACTER_TUTORS_AGE</zType>
+    <en-US>{0_character} is now old enough to be link(CONCEPT_TUTOR,3) by {1,2_Courtier}.</en-US>
+    <it-IT>{0_character} è ora abbastanza vecchio da essere link(CONCEPT_TUTOR,3) di {1,2_Courtier}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHARACTER_ADULT_POPUP</zType>
+    <en-US>{0_character} is now an adult (Age {1_age}).</en-US>
+    <it-IT>{0_character} è ora un adulto (Age {1_age}).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHARACTER_MARRIAGE</zType>
+    <en-US>{0_character} has married {1_character}.</en-US>
+    <it-IT>{0_character} ha sposato {1_character}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHARACTER_CHOOSES_RELIGION</zType>
+    <en-US>{0_character} has converted to {1_religion}.</en-US>
+    <it-IT>{0_character} si è convertito in {1_religion}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_COVER_DEBTS_LOG_DATA</zType>
+    <en-US>Sold {0_goodsList} to cover debts.</en-US>
+    <it-IT>Venduto {0_goodsList} per coprire i debiti.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_SHORTFALL_LOG_DATA</zType>
+    <en-US>{0_project} built in {1_city} to avoid {2_yield} shortfall.</en-US>
+    <it-IT>{0_project} costruito in {1_city} per evitare il deficit di {2_yield}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_QUEUED_BUILD_BUY_GOODS_LOG_DATA</zType>
+    <en-US>Queued action: Spent {0_money} to buy {1_yields} ({2_improvement})</en-US>
+    <it-IT>Azione in coda: Speso {0_money} per comprare {1_yields} ({2_improvement})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_FOUNDED_CITY_LOG_DATA</zType>
+    <en-US>Founded {0_city}</en-US>
+    <it-IT>Fondato {0_city}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DISCOVERED_TECH_LOG_DATA</zType>
+    <en-US>Discovered {0_tech}</en-US>
+    <it-IT>Scoperto {0_tech}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_FINISHED_PROJECT_LOG_DATA</zType>
+    <en-US>{0_city} finished a link(CONCEPT_PROJECT): {1_project}</en-US>
+    <it-IT>{0_city} ha terminato un link(CONCEPT_PROJECT): {1_project}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_DEVELOPED_SPECIALIST_LOG_DATA</zType>
+    <en-US>{0_city} developed a link(CONCEPT_SPECIALIST): {1_specialist}</en-US>
+    <it-IT>{0_city} ha sviluppato un link(CONCEPT_SPECIALIST): {1_specialist}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_TRAINED_UNIT_LOG_DATA</zType>
+    <en-US>{0_city} trained a Unit: {1_unit}</en-US>
+    <it-IT>{0_city} ha addestrato un'unità: {1_unit}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHARACTER_GAINS_TRAIT</zType>
+    <en-US>{0_character} now has the {1_trait} trait.</en-US>
+    <it-IT>{0_character} ora ha il tratto {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHARACTER_LOSES_TRAIT</zType>
+    <en-US>{0_character} no longer has the {1_trait} trait.</en-US>
+    <it-IT>{0_character} non ha più il tratto {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHARACTER_RATING_CHANGE</zType>
+    <en-US>{0_character}: {1_value} {2_rating}</en-US>
+    <it-IT>{0_character}: {1_value} {2_rating}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LANDMARK_DISCOVERED</zType>
+    <en-US>Landmark Discovered: {0_name}</en-US>
+    <it-IT>Scoperto un punto di riferimento: {0_name}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LANDMARK_DISCOVERED_NEW</zType>
+    <en-US>New Landmark Discovered: {0_name}</en-US>
+    <it-IT>Scoperto un nuovo punto di riferimento: {0_name}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LANDMARK_NAMED</zType>
+    <en-US>You are the first to discover this Landmark. What will you name it?</en-US>
+    <it-IT>Siete i primi a scoprire questo punto di riferimento. Come lo chiamerete?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TRIBE_RAID_WARNING</zType>
+    <en-US>Reports of a link(CONCEPT_TRIBE_RAID) from {0,2_tribe} {1_improvement} near {2_city}!</en-US>
+    <it-IT>Segnalazione di un link(CONCEPT_TRIBE_RAID) da {0,2_tribe} {1_improvement} vicino a {2_city}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_BOUNDARY_RAID_WARNING</zType>
+    <en-US>Reports of a link(CONCEPT_TRIBE_RAID) from distant lands near {0_city}!</en-US>
+    <it-IT>Segnalazioni di un link(CONCEPT_TRIBE_RAID) da terre lontane vicino a {0_city}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_GIVE_BIRTH_LOG_DATA</zType>
+    <en-US>{0_childName} was born.</en-US>
+    <it-IT>È nato {0_childName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_GIVE_BIRTH_LEADER</zType>
+    <en-US>{true_0:You have:Your wife has} given birth to a {masculine_1:son:daughter}, {1_childName}!</en-US>
+    <it-IT>{true_0:You have:Your wife has} ha dato vita a un {masculine_1:son:daughter}, {1_childName}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_GIVE_BIRTH_LEADER_ILLEGITIMATE</zType>
+    <en-US>You have a new illegitimate {masculine_1:son:daughter}, {1_childName}!</en-US>
+    <it-IT>Abbiamo un nuovo {masculine_1:son:daughter} illegittimo, {1_childName}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_GIVE_BIRTH_NON_LEADER</zType>
+    <en-US>{0_father} and {1_mother} have given birth to a {masculine_2:son:daughter}, {2_childName}!</en-US>
+    <it-IT>{0_father} e {1_mother} hanno dato vita a {masculine_2:son:daughter}, {2_childName}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_GIVE_BIRTH_NON_LEADER_ILLEGITIMATE</zType>
+    <en-US>{0_father} has a new illegitimate {masculine_1:son:daughter}, {1_childName}!</en-US>
+    <it-IT>{0_father} ha un nuovo {masculine_1:son:daughter} illegittimo, {1_childName}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_EVENT_CITY_LOG_DATA</zType>
+    <en-US>{0_event} in {1_city}</en-US>
+    <it-IT>{0_event} in {1_city}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TEAM</zType>
+    <en-US>Team {0_teamNum}</en-US>
+    <it-IT>Squadra {0_teamNum}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_RETIRING_GENERAL_TITLE</zType>
+    <en-US>Retiring link(CONCEPT_GENERAL)</en-US>
+    <it-IT>In pensione link(CONCEPT_GENERAL)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_RETIRING_GENERAL</zType>
+    <en-US>{0_character}, link(CONCEPT_GENERAL) of the {1_unit}, is too old and has retired from the field.</en-US>
+    <it-IT>{0_character}, link(CONCEPT_GENERAL) del {1_unit}, è troppo vecchio e si è ritirato dal campo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_RETIRING_GENERAL_PROMPT</zType>
+    <en-US>Choose New link(CONCEPT_GENERAL)</en-US>
+    <it-IT>Scegliere Nuovo link(CONCEPT_GENERAL)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_COUNCIL_TITLE</zType>
+    <en-US>Death of {0_council}</en-US>
+    <it-IT>Morte di {0_council}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_COUNCIL</zType>
+    <en-US>{0_character}, our {1_council}, has died in office.</en-US>
+    <it-IT>{0_character}, il nostro {1_council}, è morto in carica.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_COUNCIL_PROMPT</zType>
+    <en-US>Choose New {0_council}</en-US>
+    <it-IT>Scegliere Nuovo {0_council}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_GENERAL</zType>
+    <en-US>{0_character}, link(CONCEPT_GENERAL) of the {1_unit}, has died in the field.</en-US>
+    <it-IT>{0_character}, link(CONCEPT_GENERAL) del {1_unit}, è morto sul campo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_GOVERNOR_TITLE</zType>
+    <en-US>Death of link(CONCEPT_GOVERNOR)</en-US>
+    <it-IT>Morte di link(CONCEPT_GOVERNOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_GOVERNOR</zType>
+    <en-US>{0_character}, link(CONCEPT_GOVERNOR) of {1_city}, has died in office.</en-US>
+    <it-IT>{0_character}, link(CONCEPT_GOVERNOR) di {1_city}, è morto in carica.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_GOVERNOR_PROMPT</zType>
+    <en-US>Choose New link(CONCEPT_GOVERNOR)</en-US>
+    <it-IT>Scegliere Nuovo link(CONCEPT_GOVERNOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_AGENT_TITLE</zType>
+    <en-US>Death of link(CONCEPT_AGENT)</en-US>
+    <it-IT>Morte di link(CONCEPT_AGENT)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_AGENT</zType>
+    <en-US>{0_character}, link(CONCEPT_AGENT) in {1_city}, has died while still serving.</en-US>
+    <it-IT>{0_character}, link(CONCEPT_AGENT) in {1_city}, è morto mentre era ancora in servizio.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_AGENT_PROMPT</zType>
+    <en-US>Choose New link(CONCEPT_AGENT)</en-US>
+    <it-IT>Scegliere Nuovo link(CONCEPT_AGENT)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_PLAYERS</zType>
+    <en-US>All Nations: {0_memory}, {1_value} Opinion</en-US>
+    <it-IT>Tutte le nazioni: {0_memory}, {1_value} Opinione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_TRIBES</zType>
+    <en-US>All Tribes: {0_memory}, {1_value} Opinion</en-US>
+    <it-IT>Tutte le tribù: {0_memory}, {1_value} Opinione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MEMORY_ALL_FAMILIES</zType>
+    <en-US>All Families: {0_memory}, {1_value} Opinion</en-US>
+    <it-IT>Tutte le famiglie: {0_memory}, {1_value} Opinione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MEMORY_SUBJECT</zType>
+    <en-US>{0_subject}: {1_memory}, {2_value} Opinion</en-US>
+    <it-IT>{0_subject}: {1_memory}, {2_value} Opinione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MEMORY_SUBJECT_TURNS</zType>
+    <en-US>{0_turns} {1_turnScale}</en-US>
+    <it-IT>{0_turns} {1_turnScale}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_FORGET_SUBJECT</zType>
+    <en-US>{0_subject}: Forgets {1_memory} (Currently {2_value} Opinion)</en-US>
+    <it-IT>{0_subject}: Dimentica {1_memory} (Currently {2_value} Opinion)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_RENAME</zType>
+    <en-US>Renamed {0_name}</en-US>
+    <it-IT>Rinominato {0_name}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_END_ALLIANCE</zType>
+    <en-US>Ends {0_alliance} with {1_subject}</en-US>
+    <it-IT>Termina {0_alliance} con {1_subject}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_DIPLOMACY_WITH_PLAYER</zType>
+    <en-US>{0_diplomacy} with {1_player}</en-US>
+    <it-IT>{0_diplomacy} con {1_player}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_DIPLOMACY_HOSTILE_FROM</zType>
+    <en-US>Declares {0_diplomacy} on {1_player}</en-US>
+    <it-IT>Dichiara {0_diplomacy} su {1_player}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_DIPLOMACY_HOSTILE_TO</zType>
+    <en-US>{1_player} declares {0_diplomacy}</en-US>
+    <it-IT>{1_player} dichiara {0_diplomacy}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_ALLIANCE_WITH</zType>
+    <en-US>{0_player} in Alliance with {1_other}</en-US>
+    <it-IT>{0_player} in alleanza con {1_other}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_OTHER_PLAYER</zType>
+    <en-US>Gain {0_yield} from {1_player}</en-US>
+    <it-IT>Guadagnare {0_yield} da {1_player}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_SEND_PLAYER</zType>
+    <en-US>Send {0_yield} to {1_player}</en-US>
+    <it-IT>Inviare {0_yield} a {1_player}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_OTHER_PLAYER_DIPLOMACY</zType>
+    <en-US>{0_other} at {1_diplomacy} with {2_target}</en-US>
+    <it-IT>{0_other} a {1_diplomacy} con {2_target}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_DIPLOMACY_TRIBE</zType>
+    <en-US>{0_diplomacy} with {1_tribe}</en-US>
+    <it-IT>{0_diplomacy} con {1_tribe}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_TRIBE_DIPLOMACY_PLAYER</zType>
+    <en-US>{0_tribe}: {1_diplomacy} with {2_player}</en-US>
+    <it-IT>{0_tribe}: {1_diplomacy} con {2_player}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_ADOPT_RELIGION</zType>
+    <en-US>Adopts {0_religion} as link(CONCEPT_STATE_RELIGION)</en-US>
+    <it-IT>Adotta {0_religion} come link(CONCEPT_STATE_RELIGION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_SPREAD_RELIGION</zType>
+    <en-US>{0_religion} Spreads to {1_city}</en-US>
+    <it-IT>{0_religion} Si estende a {1_city}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_REMOVE_RELIGION</zType>
+    <en-US>Removes {0_religion} from {1_city}</en-US>
+    <it-IT>Rimuove {0_religion} da {1_city}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CONVERT_RELIGION</zType>
+    <en-US>{0_character} Converts {true_1:to {1_religion}:link(CONCEPT_RELIGION)}</en-US>
+    <it-IT>{0_character} Converte {true_1:to {1_religion}:link(CONCEPT_RELIGION)}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_UNIT_CONVERT_RELIGION</zType>
+    <en-US>{0_unit} Converts {true_1:to {1_religion}:link(CONCEPT_RELIGION)}</en-US>
+    <it-IT>{0_unit} Converte {true_1:to {1_religion}:link(CONCEPT_RELIGION)}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_HEAD_RELIGION</zType>
+    <en-US>{0_character} Becomes Head of {1_religion}</en-US>
+    <it-IT>{0_character} Diventa capo di {1_religion}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_HEAD_FAMILY</zType>
+    <en-US>{0_character} Becomes Head of {1_family}</en-US>
+    <it-IT>{0_character} Diventa capo di {1_family}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_FAMILY_LAW</zType>
+    <en-US>{0_family}: {1_law} Opinion {2_value}</en-US>
+    <it-IT>{0_family}: {1_law} Opinione {2_value}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_START_LAW</zType>
+    <en-US>Start {0_law}</en-US>
+    <it-IT>Avvio {0_law}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_FREE_LAW</zType>
+    <en-US>Free {0_law}</en-US>
+    <it-IT>Libero {0_law}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_FREE_THEOLOGY</zType>
+    <en-US>Free {0_theology} ({1_religion})</en-US>
+    <it-IT>Libero {0_theology} ({1_religion})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION_CITY</zType>
+    <en-US>Found {0_religion}</en-US>
+    <it-IT>Trovato {0_religion}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_ADD_X</zType>
+    <en-US>Add {0_improvementOrResource}</en-US>
+    <it-IT>Aggiungere {0_improvementOrResource}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_ADD_RANDOM_X</zType>
+    <en-US>Add Random {0_improvementOrResource}</en-US>
+    <it-IT>Aggiungere Casuale {0_improvementOrResource}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CITIZENS</zType>
+    <en-US>{0_value} {singular_0:{1_citizenLink}:{1,2_citizenLink}}</en-US>
+    <it-IT>{0_value} {singular_0:{1_citizenLink}:{1,2_citizenLink}}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_BORDER_GROWTH</zType>
+    <en-US>{0_value} Border {singular_0:Tile:Tiles}</en-US>
+    <it-IT>{0_value} Bordo {singular_0:Tile:Tiles}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CULTURE_LEVELS</zType>
+    <en-US>{0_value} {singular_0:{1_culture}:{1,2_culture}}</en-US>
+    <it-IT>{0_value} {singular_0:{1_culture}:{1,2_culture}}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_HAPPINESS_LEVELS</zType>
+    <en-US>{0_value} link(YIELD_HAPPINESS) {singular_0:Level:Levels}</en-US>
+    <it-IT>{0_value} link(YIELD_HAPPINESS) {singular_0:Level:Levels}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_YIELD_LEVELS</zType>
+    <en-US>{0_value} {1_yield} {singular_0:Level:Levels}</en-US>
+    <it-IT>{0_value} {1_yield} {singular_0:Level:Levels}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_REBEL_UNITS</zType>
+    <en-US>{0_value} {1_rebel} {singular_0:Unit:Units}</en-US>
+    <it-IT>{0_value} {1_rebel} {singular_0:Unit:Units}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_IMPROVEMENTS_DESTROYED</zType>
+    <en-US>{0_value} {singular_0:Improvement:Improvements} Destroyed</en-US>
+    <it-IT>{0_value} {singular_0:Improvement:Improvements} Distrutto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_HP</zType>
+    <en-US>{0_damage} HP {true_1:(to {1_final} HP)}</en-US>
+    <it-IT>{0_damage} HP {true_1:(to {1_final} HP)}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_AGENT_CITY</zType>
+    <en-US>{0_character} becomes link(CONCEPT_AGENT)</en-US>
+    <it-IT>{0_character} diventa link(CONCEPT_AGENT)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_DISTANT_RAID</zType>
+    <en-US>Distant link(CONCEPT_TRIBE_RAID)</en-US>
+    <it-IT>Distante link(CONCEPT_TRIBE_RAID)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_ADD_AGENT_NETWORK</zType>
+    <en-US>Add link(CONCEPT_AGENT_NETWORK)</en-US>
+    <it-IT>Aggiungere link(CONCEPT_AGENT_NETWORK)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_LOSE_AGENT_NETWORK</zType>
+    <en-US>Lose link(CONCEPT_AGENT_NETWORK)</en-US>
+    <it-IT>Perdere link(CONCEPT_AGENT_NETWORK)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_PLUS_ONE</zType>
+    <en-US>+1 {0_projectOrSpecialist}</en-US>
+    <it-IT>+1 {0_projectOrSpecialist}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MINUS_ONE</zType>
+    <en-US>-1 {0_project}</en-US>
+    <it-IT>-1 {0_project}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MEMORY_CHARACTER</zType>
+    <en-US>{0_memory}, {1_value} Opinion</en-US>
+    <it-IT>{0_memory}, {1_value} Opinione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_FORGET_CHARACTER</zType>
+    <en-US>Forgets {0_memory} (Currently {1_value} Opinion)</en-US>
+    <it-IT>Dimentica {0_memory} (Currently {1_value} Opinion)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_RANDOM_RELATIONSHIP_LEADER</zType>
+    <en-US>{0_character} is now {1_relationship} {2_leader}</en-US>
+    <it-IT>{0_character} è ora {1_relationship} {2_leader}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_GAINS</zType>
+    <en-US>Becomes {0_trait}</en-US>
+    <it-IT>Diventa {0_trait}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_LOSES</zType>
+    <en-US>No longer {0_trait}</en-US>
+    <it-IT>Non più {0_trait}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_STARTS_MISSION</zType>
+    <en-US>{0_character} Starts Mission: {1_mission}</en-US>
+    <it-IT>{0_character} Inizia la missione: {1_mission}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_STARTS_MISSION_FREE</zType>
+    <en-US>Free</en-US>
+    <it-IT>Gratuito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_DEFEAT</zType>
+    <en-US>Player Defeat</en-US>
+    <it-IT>Sconfitta del giocatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_ADD_COURTIER_OTHER</zType>
+    <en-US>{0,1_player} {1_courtier}</en-US>
+    <it-IT>{0,1_player} {1_courtier}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
+    <en-US>{0_player}: Start {1_law}</en-US>
+    <it-IT>{0_player}: Avvio {1_law}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
+    <en-US>{0_player}: End {1_law}</en-US>
+    <it-IT>{0_player}: Fine {1_law}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_LAW</zType>
+    <en-US>{0_player}: Free {1_law}</en-US>
+    <it-IT>{0_player}: Libero {1_law}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MAKE_GOVERNOR</zType>
+    <en-US>link(CONCEPT_GOVERNOR) of {0_city}</en-US>
+    <it-IT>link(CONCEPT_GOVERNOR) di {0_city}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MAKE_GENERAL</zType>
+    <en-US>link(CONCEPT_GENERAL) of {0_unit}</en-US>
+    <it-IT>link(CONCEPT_GENERAL) di {0_unit}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_ADOPTION</zType>
+    <en-US>Adopted by {0_parent}</en-US>
+    <it-IT>Adottato da {0_parent}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CONVERTED_BY</zType>
+    <en-US>Converts {true_0:to {0_religion}:link(CONCEPT_RELIGION)}</en-US>
+    <it-IT>Converte {true_0:to {0_religion}:link(CONCEPT_RELIGION)}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MARRIES</zType>
+    <en-US>Marries {0_suitor}</en-US>
+    <it-IT>Sposa {0_suitor}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_DIVORCED_BY</zType>
+    <en-US>{0_relationship} {1_spouse}</en-US>
+    <it-IT>{0_relationship} {1_spouse}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_BIRTH_WITH</zType>
+    <en-US>Has Child with {0_parent}</en-US>
+    <it-IT>Ha un figlio con {0_parent}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_ABDICATES</zType>
+    <en-US>Abdicates</en-US>
+    <it-IT>Abdica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CHOSEN_HEIR</zType>
+    <en-US>Is Chosen Heir</en-US>
+    <it-IT>È l'erede prescelto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_KILL_CHARACTER</zType>
+    <en-US>Dies</en-US>
+    <it-IT>Morire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_HAS_ILLEGITIMATE_CHILD</zType>
+    <en-US>Has an Illegitimate Child</en-US>
+    <it-IT>Ha un figlio illegittimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD_REMOVE</zType>
+    <en-US>{0_relationship} (Removes {1_listOfRelationships})</en-US>
+    <it-IT>{0_relationship} (Removes {1_listOfRelationships})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_REMOVE</zType>
+    <en-US>No longer {0_relationship} {1_character}</en-US>
+    <it-IT>Non più {0_relationship} {1_character}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CHARACTER_NAME_CHANGE</zType>
+    <en-US>Now known as {0_character}</en-US>
+    <it-IT>Ora noto come {0_character}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CHARACTER_TITLE_CHANGE</zType>
+    <en-US>Granted the title of {0_title}</en-US>
+    <it-IT>Concesso il titolo di {0_title}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_XP</zType>
+    <en-US>{0_value} XP</en-US>
+    <it-IT>{0_value} XP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_KILL_UNIT</zType>
+    <en-US>Dies</en-US>
+    <it-IT>Morire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_REVEAL_RANGE</zType>
+    <en-US>Reveals Map Within {0_dist} {singular_0:Tile:Tiles}</en-US>
+    <it-IT>Rivela la mappa all'interno di {0_dist} {singular_0:Tile:Tiles}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_SET_VEGETATION</zType>
+    <en-US>Set {0_vegetation} on {1_tile}</en-US>
+    <it-IT>Imposta {0_vegetation} su {1_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_SET_TERRAIN</zType>
+    <en-US>Set {0_terrain} on {1_tile}</en-US>
+    <it-IT>Imposta {0_terrain} su {1_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_SET_RESOURCE</zType>
+    <en-US>Set {0_resource} on {1_tile}</en-US>
+    <it-IT>Imposta {0_resource} su {1_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_SET_IMPROVEMENT</zType>
+    <en-US>Set {0_improvement} on {1_tile}</en-US>
+    <it-IT>Imposta {0_improvement} su {1_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_SET_SPECIALIST</zType>
+    <en-US>Set {0_specialist} on {1_tile}</en-US>
+    <it-IT>Imposta {0_specialist} su {1_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_REMOVE_VEGETATION</zType>
+    <en-US>Remove {0_vegetation} from {1_tile}</en-US>
+    <it-IT>Rimuovere {0_vegetation} da {1_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CLEAR_IMPROVEMENT</zType>
+    <en-US>Clear {0_improvement} from {1_tile}</en-US>
+    <it-IT>Cancellare {0_improvement} da {1_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_PILLAGE_IMPROVEMENT</zType>
+    <en-US>Pillage {0_improvement} on {1_tile}</en-US>
+    <it-IT>Saccheggiare {0_improvement} su {1_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_REPAIR_IMPROVEMENT</zType>
+    <en-US>Repair {0_improvement} on {1_tile}</en-US>
+    <it-IT>Riparazione di {0_improvement} su {1_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_TRIBE_RAID</zType>
+    <en-US>link(CONCEPT_TRIBE_RAID) from {0,1_tribe} {1_improvement} from {2_tile}</en-US>
+    <it-IT>link(CONCEPT_TRIBE_RAID) da {0,1_tribe} {1_improvement} da {2_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_THEOLOGY</zType>
+    <en-US>{0_player}: Free {1_theology} ({2_religion})</en-US>
+    <it-IT>{0_player}: Libero {1_theology} ({2_religion})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_HOLY_CITY_AGENTS</zType>
+    <en-US>{0_player}: Free link(CONCEPT_AGENT) in all Holy Cities</en-US>
+    <it-IT>{0_player}: Libero link(CONCEPT_AGENT) in tutte le Città Sante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION</zType>
+    <en-US>{0_player}: Found {1_religion}</en-US>
+    <it-IT>{0_player}: Trovato {1_religion}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_STATE_RELIGION_END</zType>
+    <en-US>{0_player}: End link(CONCEPT_STATE_RELIGION) ({1_religion})</en-US>
+    <it-IT>{0_player}: Fine link(CONCEPT_STATE_RELIGION) ({1_religion})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_TECH</zType>
+    <en-US>{0_player}: {1_tech} (Tech)</en-US>
+    <it-IT>{0_player}: {1_tech} (Tech)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_POPUP_BONUS_TECH</zType>
+    <en-US>{0_player} discovers a new technology: {1_tech}.</en-US>
+    <it-IT>{0_player} scopre una nuova tecnologia: {1_tech}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_LOG_DATA</zType>
+    <en-US>[{0}]</en-US>
+    <it-IT>[{0}]</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_GAINS_DELAY</zType>
+    <en-US>becomes {LIST} (Next {0_turn})</en-US>
+    <it-IT>diventa {LIST} (Next {0_turn})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_LIST_WITH_DELAY</zType>
+    <en-US>{LIST} (Next {0_turn})</en-US>
+    <it-IT>{LIST} (Next {0_turn})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_LIST_WITHOUT_DELAY</zType>
+    <en-US>{LIST}</en-US>
+    <it-IT>{LIST}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_GAINS_WITHOUT_DELAY</zType>
+    <en-US>Becomes {LIST}</en-US>
+    <it-IT>Diventa {LIST}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_GAINS_WITH_DELAY</zType>
+    <en-US>Becomes {LIST} (Next {0_turn})</en-US>
+    <it-IT>Diventa {LIST} (Next {0_turn})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_GAINS_ITEMS_WITHOUT_DELAY</zType>
+    <en-US>Acquires {LIST}</en-US>
+    <it-IT>Acquisisce {LIST}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_GAINS_ITEMS_WITH_DELAY</zType>
+    <en-US>Acquires {LIST} (Next {0_turn})</en-US>
+    <it-IT>Acquisisce {LIST} (Next {0_turn})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_GAINS_ITEM</zType>
+    <en-US>Acquires {0_trait}</en-US>
+    <it-IT>Acquisisce {0_trait}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_LOSES_ITEM</zType>
+    <en-US>Loses {0_trait}</en-US>
+    <it-IT>Perde {0_trait}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_OCCURRENCE_START</zType>
+    <en-US>{0_occurrence} begins</en-US>
+    <it-IT>{0_occurrence} inizia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_OCCURRENCE_END</zType>
+    <en-US>{0_occurrence} ends</en-US>
+    <it-IT>{0_occurrence} termina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHARACTER_MISSION_NO_EFFECT</zType>
+    <en-US>{0_character}: {1_mission} has no effect</en-US>
+    <it-IT>{0_character}: {1_mission} non ha effetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_ATTACK_CRITICAL</zType>
+    <en-US>Critical!</en-US>
+    <it-IT>Critico!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_ATTACK_CRITICAL_CHANCE</zType>
+    <en-US>icon(CRITICAL_STRIKE) {0_criticalPercent}</en-US>
+    <it-IT>icona(CRITICAL_STRIKE) {0_criticalPercent}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_ATTACK_DAMAGE</zType>
+    <en-US>-{0_damage} HP</en-US>
+    <it-IT>-{0_damage} HP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_ATTACK_ENLISTED</zType>
+    <en-US>Enlisted!</en-US>
+    <it-IT>Arruolati!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_ATTACK_ENLIST_CHANCE</zType>
+    <en-US>Enlist: {0_percentChance}</en-US>
+    <it-IT>Arruolare: {0_percentChance}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_ATTACKED_LOG_DATA</zType>
+    <en-US>{0_city} Attacked by {1,2_owner} {2_unit}. ({3_discontent})</en-US>
+    <it-IT>{0_city} Attaccato da {1,2_owner} {2_unit}. ({3_discontent})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_DAMAGED_OCCURRENCE_LOG_DATA</zType>
+    <en-US>{0_city} Damaged by {1,1_occurrence}.</en-US>
+    <it-IT>{0_city} danneggiato da {1,1_occurrence}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CAMP_DESTROYED_LOG_DATA</zType>
+    <en-US>{0_tribe} {1_improvement} Destroyed.</en-US>
+    <it-IT>{0_tribe} {1_improvement} Distrutto.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_RAZED_LOG_DATA</zType>
+    <en-US>{0_city} has been razed!</en-US>
+    <it-IT>{0_city} è stato distrutto!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_CAPTURED_LOG_DATA</zType>
+    <en-US>{0_city} captured by {1_player}</en-US>
+    <it-IT>{0_city} catturato da {1_player}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_CANCEL_BUILD_LOG_DATA</zType>
+    <en-US>{0_build} canceled in {1_city}</en-US>
+    <it-IT>{0_build} annullato in {1_city}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_HAPPINESS_CHANGE_LOG_DATA</zType>
+    <en-US>{0_level} link(YIELD_DISCONTENT) {singular_0:Level:Levels} in {1_city}</en-US>
+    <it-IT>{0_level} link(YIELD_DISCONTENT) {singular_0:Level:Levels} in {1_city}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_DAMAGED_OCCURRENCE_LOG_DATA</zType>
+    <en-US>{0_unit} Damaged by {1,1_occurrence}.</en-US>
+    <it-IT>{0_unit} danneggiato da {1,1_occurrence}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_ATTACKED_LOG_DATA</zType>
+    <en-US>{0_unit} Attacked by {1,2_owner} {2_unit} ({3_hp} HP Left).</en-US>
+    <it-IT>{0_unit} Attaccato da {1,2_owner} {2_unit} ({3_hp} HP Left).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_CRITICAL_LOG_DATA</zType>
+    <en-US>{0_unit} link(CONCEPT_CRITICAL_HIT) by {1,2_owner} {2_unit} ({3_hp} HP Left).</en-US>
+    <it-IT>{0_unit} link(CONCEPT_CRITICAL_HIT) da {1,2_owner} {2_unit} ({3_hp} HP Left).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_KILLED_LOG_DATA</zType>
+    <en-US>{0_unit} Killed by {1,2_owner} {2_unit}.</en-US>
+    <it-IT>{0_unit} Ucciso da {1,2_owner} {2_unit}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_CAPTURED_LOG_DATA</zType>
+    <en-US>{0_unit} Captured by {1,2_owner} {2_unit}.</en-US>
+    <it-IT>{0_unit} Catturato da {1,2_owner} {2_unit}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_SEEN</zType>
+    <en-US>Hostile {0_owner} {1_unit} seen.</en-US>
+    <it-IT>Ostile {0_owner} {1_unit} visto.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_MOVE_CANCELLED</zType>
+    <en-US>{0_unit} canceled auto-move</en-US>
+    <it-IT>{0_unit} annullato il movimento automatico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LAUNCH_OFFENSIVE</zType>
+    <en-US>Offensive!</en-US>
+    <it-IT>Offensivo!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_LAUNCH_OFFENSIVE_LOG_DATA</zType>
+    <en-US>{0,1_player} {1_unit} launches an Offensive!</en-US>
+    <it-IT>{0,1_player} {1_unit} lancia un'Offensiva!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_ESTABLISH_THEOLOGY_LOG_DATA</zType>
+    <en-US>{0,1_religion} {1_theology} established by {2_player}.</en-US>
+    <it-IT>{0,1_religion} {1_theology} stabilito da {2_player}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HUMAN_DIPLOMACY_PROPOSAL_TRUCE</zType>
+    <en-US>{PLAYER-MISSION} has sent you an envoy with a link(DIPLOMACY_TRUCE) Proposal.</en-US>
+    <it-IT>{PLAYER-MISSION} vi ha inviato un inviato con una link(DIPLOMACY_TRUCE) Proposta.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HUMAN_DIPLOMACY_PROPOSAL_PEACE</zType>
+    <en-US>{PLAYER-MISSION} has sent you an envoy with a link(DIPLOMACY_PEACE) Proposal.</en-US>
+    <it-IT>{PLAYER-MISSION} vi ha inviato un inviato con una link(DIPLOMACY_PEACE) Proposta.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_HUMAN_DIPLOMACY_PROPOSAL_ALLIANCE</zType>
+    <en-US>{PLAYER-MISSION} has sent you an envoy with a link(CONCEPT_ALLIANCE_PLAYER) Proposal.</en-US>
+    <it-IT>{PLAYER-MISSION} vi ha inviato un inviato con una link(CONCEPT_ALLIANCE_PLAYER) Proposta.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TILE_CITY_SITE</zType>
+    <en-US>link(CONCEPT_CITY_SITE)</en-US>
+    <it-IT>link(CONCEPT_CITY_SITE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UPLOADING_GAME_POPUP</zType>
+    <en-US>Game uploading...</en-US>
+    <it-IT>Caricamento del gioco...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_SAVED</zType>
+    <en-US>Game Saved</en-US>
+    <it-IT>Gioco salvato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_FAILED_TO_SAVE</zType>
+    <en-US>Failed to Save</en-US>
+    <it-IT>Impossibile salvare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHAT_ALL_TAG</zType>
+    <en-US>ALL</en-US>
+    <it-IT>TUTTI</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHAT_TEAM_TAG</zType>
+    <en-US>TEAM</en-US>
+    <it-IT>SQUADRA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHAT_MESSAGE_FORMAT</zType>
+    <en-US>{0_fromPlayer}[{1_tag}]: {2_msg}</en-US>
+    <it-IT>{0_fromPlayer}[{1_tag}]: {2_msg}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TILE_STUNNED</zType>
+    <en-US>Stunned</en-US>
+    <it-IT>Stordito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TILE_NOT_UNLIMBERED</zType>
+    <en-US>Not Unlimbered</en-US>
+    <it-IT>Non è un'attività illimitata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TILE_REQUIRES_ANCHORED</zType>
+    <en-US>Requires Anchored Ship</en-US>
+    <it-IT>Richiede una nave ancorata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_TILE_DAMAGE</zType>
+    <en-US>{0_hp} HP</en-US>
+    <it-IT>{0_hp} HP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_TILE_LEVEL_UP</zType>
+    <en-US>{0_levelInt} Level</en-US>
+    <it-IT>{0_levelInt} Livello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_TILE_GAIN_XP</zType>
+    <en-US>{0_xp} XP</en-US>
+    <it-IT>{0_xp} XP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_TILE_JOIN_CITY</zType>
+    <en-US>{0_populationInt} {1,2_citizenLink}</en-US>
+    <it-IT>{0_populationInt} {1,2_citizenLink}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_BURNED_IMPROVEMENT_LOG_DATA</zType>
+    <en-US>{0_improvement} Burned by {1_owner} {2_unit}.</en-US>
+    <it-IT>{0_improvement} Bruciato da {1_owner} {2_unit}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_PILLAGED_IMPROVEMENT_LOG_DATA</zType>
+    <en-US>{0_improvement} Pillaged by {1_owner} {2_unit}.</en-US>
+    <it-IT>{0_improvement} Saccheggiato da {1_owner} {2_unit}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_IMPROVEMENT_PILLAGED_OCCURRENCE_LOG_DATA</zType>
+    <en-US>{0_improvement} Pillaged by {1,1_occurrence} near {2_city}.</en-US>
+    <it-IT>{0_improvement} Saccheggiata da {1,1_occurrence} vicino a {2_city}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_IMPROVEMENT_PILLAGED_NUMBER_OCCURRENCE_LOG_DATA</zType>
+    <en-US>{0_value} {singular_0:Improvement:Improvements} Pillaged by {1,1_occurrence} near {2_city}.</en-US>
+    <it-IT>{0_value} {singular_0:Improvement:Improvements} Saccheggiata da {1,1_occurrence} vicino a {2_city}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_FINISHED_CARAVAN_MISSION_MONEY</zType>
+    <en-US>link(CONCEPT_CARAVAN_MISSION) with {0_player} complete: {1_money}</en-US>
+    <it-IT>link(CONCEPT_CARAVAN_MISSION) con {0_player} completo: {1_money}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_FINISHED_CARAVAN_MISSION_MEMORY</zType>
+    <en-US>{1_memory} in {0_player}: +{2_value} Opinion for {3_value} </en-US>
+    <it-IT>{1_memory} in {0_player}: +{2_value} Opinione per {3_value} </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_RECEIVED_CARAVAN_MISSION</zType>
+    <en-US>link(CONCEPT_CARAVAN_MISSION) arrives from {0_player}: {1_money}</en-US>
+    <it-IT>link(CONCEPT_CARAVAN_MISSION) arriva da {0_player}: {1_money}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_UNIT_STUNNED</zType>
+    <en-US>Stunned</en-US>
+    <it-IT>Stordito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_YIELD_FROM_CULTURE_EVENT</zType>
+    <en-US>From link(CONCEPT_CULTURE_EVENT): {0_bonusText}</en-US>
+    <it-IT>Da link(CONCEPT_CULTURE_EVENT): {0_bonusText}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_REBEL_UNITS_NEAR_CITY</zType>
+    <en-US>link(TRIBE_REBELS) have formed {0,1_unit} near {1_city}!</en-US>
+    <it-IT>link(TRIBE_REBELS) hanno formato {0,1_unit} vicino a {1_city}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_FAMILY_REBEL_UNITS_NEAR_CITY</zType>
+    <en-US>{0_family} link(TRIBE_REBELS), {1_opinion} with your rule of {2_city}, have formed {3,1_unit} near the city!</en-US>
+    <it-IT>{0_family} link(TRIBE_REBELS), {1_opinion} con il tuo dominio di {2_city}, hanno formato {3,1_unit} vicino alla città!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_CURRY_POPULATION_CITIZENS_COST</zType>
+    <en-US>{0_populationInt} Citizen(s)</en-US>
+    <it-IT>{0_populationInt} Cittadino(s)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_ACHIEVEMENT_UNLOCKED</zType>
+    <en-US>Achievement Unlocked: {0_achievement}</en-US>
+    <it-IT>Obiettivo sbloccato: {0_achievement}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_RESOURCE_SHORTFALL</zType>
+    <en-US>Resource Shortfall: Spent {0_money} to buy {1_resource}</en-US>
+    <it-IT>Mancanza di risorse: Speso {0_money} per acquistare {1_resource}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_MISSION_CANCELLED</zType>
+    <en-US>{0_character}'s Mission is Canceled: {1_mission}</en-US>
+    <it-IT>La missione di {0_character} è annullata: {1_mission}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_YIELD_ORDERS_SOLD_FOR_YIELD</zType>
+    <en-US>{0_orders} is sold for {1_money}</en-US>
+    <it-IT>{0_orders} viene venduto per {1_money}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_YIELD_YIELD_CONVERTED_TO_ORDERS</zType>
+    <en-US>{0_yield} is converted into {1_yield}</en-US>
+    <it-IT>{0_yield} viene convertito in {1_yield}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_MAP_REVEALED</zType>
+    <en-US>Map revealed near {0_tile}</en-US>
+    <it-IT>Mappa rivelata vicino a {0_tile}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_SAVE_AND_RELOAD_TO_PLAY_POPUP</zType>
+    <en-US>No user ID found: Save and reload to play as next player.</en-US>
+    <it-IT>Nessun ID utente trovato: Salva e ricarica per giocare come prossimo giocatore.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_FAILED_TO_UPLOAD_TO_CLOUD_POPUP</zType>
+    <en-US>Failed to upload. Please exit and replay your turn.</en-US>
+    <it-IT>Caricamento fallito. Si prega di uscire e di rigiocare il turno.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_YIELD_GIFT_RECIEVED</zType>
+    <en-US>{0_amount} {1_resource} received from {2_player}</en-US>
+    <it-IT>{0_amount} {1_resource} ricevuto da {2_player}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_UNIT_GIFT_RECIEVED</zType>
+    <en-US>{0_unit} received from {1_player}</en-US>
+    <it-IT>{0_unit} ricevuto da {1_player}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_CITY_GIFT_RECIEVED</zType>
+    <en-US>{0_player} has granted you control of {1_city}</en-US>
+    <it-IT>{0_player} ti ha concesso il controllo di {1_city}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_DECLARED_WAR_ON</zType>
+    <en-US>Declared war on {0_strength} {1_tribeOrNation}</en-US>
+    <it-IT>Dichiarato guerra a {0_strength} {1_tribeOrNation}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_TRUCE_WITH</zType>
+    <en-US>Declared truce with {0_strength} {1_player}</en-US>
+    <it-IT>Dichiarato tregua con {0_strength} {1_player}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_AI_ORDERS_TO_TEAMMATES</zType>
+    <en-US>{0_player} gifts you {1_ordersInt} unused {2_yield}</en-US>
+    <it-IT>{0_player} ti regala {1_ordersInt} inutilizzato {2_yield}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_OCCURRENCE_START_LOG_DATA</zType>
+    <en-US>{sentencecase:{0,1_occurrence}} has {true_1:started:occurred}!</en-US>
+    <it-IT>{sentencecase:{0,1_occurrence}} ha {true_1:started:occurred}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_OCCURRENCE_END_LOG_DATA</zType>
+    <en-US>{sentencecase:{0,1_occurrence}} has ended.</en-US>
+    <it-IT>{sentencecase:{0,1_occurrence}} è terminato.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_WISDOM_GAIN_1</zType>
+    <en-US>{0_character} has recently proven {masculine_0:his:her} good sense and insight. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>{0_character} ha recentemente dimostrato {masculine_0:his:her} buon senso e intuito. {masculine_0:Lui:Lei} ha ottenuto {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_WISDOM_GAIN_2</zType>
+    <en-US>{0_character} has reflected on {masculine_0:his:her} recent experiences and absorbed many important lessons. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>{0_character} ha riflettuto sulle recenti esperienze di {masculine_0:his:her} e ha assorbito molte lezioni importanti. {masculine_0:Lui:Lei} ha acquisito {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_WISDOM_LOSS_1</zType>
+    <en-US>The recent actions of {0_character} have called into question the soundness of {masculine_0:his:her} judgment. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>Le recenti azioni di {0_character} hanno messo in dubbio la solidità del giudizio di {masculine_0:his:her}. {masculine_0:Lui:Lei} ha perso {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_WISDOM_LOSS_2</zType>
+    <en-US>{0_character} has made one mistake after another as of late, and many have begun to question {masculine_0:his:her} judgment. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>{0_character} ha commesso un errore dopo l'altro negli ultimi tempi e molti hanno iniziato a mettere in dubbio il giudizio di {masculine_0:his:her}. {masculine_0:Lui:Lei} ha perso {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_CHARISMA_GAIN_1</zType>
+    <en-US>{0_character} has grown more confident and charming. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>{0_character} è diventato più sicuro e affascinante. {masculine_0:Lui:Lei} ha guadagnato {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_CHARISMA_GAIN_2</zType>
+    <en-US>Self-assured and assertive, {0_character} exudes an aura of confidence. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>Sicuro di sé e assertivo, {0_character} emana un'aura di fiducia. {masculine_0:Lui:Lei} ha ottenuto {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_CHARISMA_LOSS_1</zType>
+    <en-US>{0_character} has lost some of {masculine_0:his:her} confidence and ability to charm. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>{0_character} ha perso parte della sicurezza e della capacità di affascinare di {masculine_0:his:her}. {masculine_0:Lui:Lei} ha perso {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_CHARISMA_LOSS_2</zType>
+    <en-US>Recent events have shaken the confidence of {0_character}, and {masculine_0:he:she} has lost some of {masculine_0:his:her} charm. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>Gli eventi recenti hanno scosso la fiducia di {0_character} e {masculine_0:he:she} ha perso parte del fascino di {masculine_0:his:her}. {masculine_0:Lui:Lei} ha perso il fascino di {1_ratingInt}. {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_COURAGE_GAIN_1</zType>
+    <en-US>{0_character} still feels fear, as does any sane {masculine_0:man:woman}, but {masculine_0:he:she} never lets it stop {masculine_0:him:her}. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>{0_character} prova ancora paura, come qualsiasi {masculine_0:man:woman} sano di mente, ma {masculine_0:he:she} non si lascia fermare da {masculine_0:him:her}. {masculine_0:Lui:Lei} ha guadagnato {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_COURAGE_GAIN_2</zType>
+    <en-US>More confident than ever in the face of danger, {0_character} has gained {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>Più fiducioso che mai di fronte al pericolo, {0_character} ha guadagnato {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_COURAGE_LOSS_1</zType>
+    <en-US>{0_character} has been overcome by fear and has lost {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>{0_character} è stato sopraffatto dalla paura e ha perso {1_ratingInt}. {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_COURAGE_LOSS_2</zType>
+    <en-US>After recent exposures to danger, {0_character} has acquired new phobias and lost {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>In seguito a recenti esposizioni al pericolo, {0_character} ha acquisito nuove fobie e ha perso {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_DISCIPLINE_GAIN_1</zType>
+    <en-US>{0_character} follows a strict regime, never taking the easy way if it is not the best way. {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>{0_character} segue un regime rigoroso, non scegliendo mai la via più facile se non è la migliore. {masculine_0:Lui:Lei} ha guadagnato {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_DISCIPLINE_GAIN_2</zType>
+    <en-US>There is no easy day in the life of {0_character}! {masculine_0:He:She} has gained {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>Non ci sono giorni facili nella vita di {0_character}! {masculine_0:Lui:Lei} ha guadagnato {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_DISCIPLINE_LOSS_1</zType>
+    <en-US>{0_character} gives into {masculine_0:his:her} basic desires more often lately. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>Ultimamente {0_character} cede più spesso ai desideri di base di {masculine_0:his:her}. {masculine_0:Lui:Lei} ha perso {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RATING_DISCIPLINE_LOSS_2</zType>
+    <en-US>Ever more slothful and lazy, {0_character} has stopped following {masculine_0:his:her} strict regimen of diet and exercise. {masculine_0:He:She} has lost {1_ratingInt} {2_ratingName}.</en-US>
+    <it-IT>Sempre più pigro e svogliato, {0_character} ha smesso di seguire il rigido regime di dieta ed esercizio fisico di {masculine_0:his:her}. {masculine_0:Lui:Lei} ha perso {1_ratingInt} {2_ratingName}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISCORD_PLAYINGMP_1</zType>
+    <en-US>Battling other Humans</en-US>
+    <it-IT>Combattere altri umani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISCORD_PLAYINGMP_2</zType>
+    <en-US>MP Mode</en-US>
+    <it-IT>Modalità MP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISCORD_PLAYINGMP_3</zType>
+    <en-US>HotSeat Mode</en-US>
+    <it-IT>Modalità HotSeat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISCORD_PLAYINGSP_1</zType>
+    <en-US>Conquering AIs</en-US>
+    <it-IT>Conquistare le IA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISCORD_PLAYINGSP_2</zType>
+    <en-US>SP Mode</en-US>
+    <it-IT>Modalità SP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISCORD_MENUS</zType>
+    <en-US>Old World Menus</en-US>
+    <it-IT>Menu del Vecchio Mondo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISCORD_PLAYING_LEADER</zType>
+    <en-US>{0_leader} {1_cognomen}</en-US>
+    <it-IT>{0_leader} {1_cognomen}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISCORD_PLAYING_NATION</zType>
+    <en-US>{0_nation}</en-US>
+    <it-IT>{0_nation}</it-IT>
+  </Entry>
+</Root>

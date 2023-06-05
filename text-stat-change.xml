@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_STAT_AMBITION_ACHIEVED</zType>
+    <en-US>{singular_0:Ambition:Ambitions} Achieved</en-US>
+    <it-IT>{singular_0:Ambition:Ambitions} Raggiunto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_LEGACY_ACHIEVED</zType>
+    <en-US>{singular_0:Legacy:Legacies} Achieved</en-US>
+    <it-IT>{singular_0:Legacy:Legacies} Raggiunto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_TRIBE_CONTACTED</zType>
+    <en-US>{singular_0:Tribe:Tribes} Contacted</en-US>
+    <it-IT>{singular_0:Tribe:Tribes} Contattato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_TRIBE_CLEARED</zType>
+    <en-US>Tribal {singular_0:Site:Sites} Cleared</en-US>
+    <it-IT>Tribale {singular_0:Site:Sites} Eliminato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_TRIBE_PEACE</zType>
+    <en-US>Tribal Peace</en-US>
+    <it-IT>Pace tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_TRIBE_ALLIANCE</zType>
+    <en-US>Tribal {singular_0:Alliance:Alliances} Formed</en-US>
+    <it-IT>Tribale {singular_0:Alliance:Alliances} Formato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_MERCENARIES_RECRUITED</zType>
+    <en-US>{singular_0:Mercenary:Mercenaries} Recruited</en-US>
+    <it-IT>{singular_0:Mercenary:Mercenaries} Reclutato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_MERCENARIES_HIRED</zType>
+    <en-US>{singular_0:Mercenary:Mercenaries} Hired</en-US>
+    <it-IT>{singular_0:Mercenary:Mercenaries} Assunto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_TEAM_CONTACTED</zType>
+    <en-US>{singular_0:Nation:Nations} Contacted</en-US>
+    <it-IT>{singular_0:Nation:Nations} Contattato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_TEAM_DECLARED_WAR</zType>
+    <en-US>Declared War on {singular_0:Nation:Nations}</en-US>
+    <it-IT>Dichiarato guerra a {singular_0:Nation:Nations}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_TEAM_PEACE</zType>
+    <en-US>National Peace</en-US>
+    <it-IT>Pace nazionale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_TEAM_ALLIANCE</zType>
+    <en-US>National {singular_0:Alliance:Alliances} Formed</en-US>
+    <it-IT>Nazionale {singular_0:Alliance:Alliances} Costituito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_CARAVAN_ARRIVED</zType>
+    <en-US>{singular_0:Caravan:Caravans} Arrived</en-US>
+    <it-IT>{singular_0:Caravan:Caravans} Arrivato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_CAPITAL_CAPTURED</zType>
+    <en-US>{singular_0:Capital:Capitals} Captured</en-US>
+    <it-IT>{singular_0:Capital:Capitals} Catturato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_CITY_FOUNDED</zType>
+    <en-US>{singular_0:City:Cities} Founded</en-US>
+    <it-IT>{singular_0:City:Cities} Fondato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_CITY_CAPTURED</zType>
+    <en-US>{singular_0:City:Cities} Captured</en-US>
+    <it-IT>{singular_0:City:Cities} Catturato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_CITY_RECAPTURED</zType>
+    <en-US>{singular_0:City:Cities} Recaptured</en-US>
+    <it-IT>{singular_0:City:Cities} Ricatturato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_CITY_LOST</zType>
+    <en-US>{singular_0:City:Cities} Lost</en-US>
+    <it-IT>{singular_0:City:Cities} Perso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_COURTIER_ADDED</zType>
+    <en-US>{singular_0:Courtier:Courtiers} Added</en-US>
+    <it-IT>{singular_0:Courtier:Courtiers} Aggiunto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_IMPROVEMENT_FINISHED</zType>
+    <en-US>{singular_0:Improvement:Improvements} Finished</en-US>
+    <it-IT>{singular_0:Improvement:Improvements} Finito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_IMPROVEMENT_REPAIRED</zType>
+    <en-US>{singular_0:Improvement:Improvements} Repaired</en-US>
+    <it-IT>{singular_0:Improvement:Improvements} Riparato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_LANDMARK_DISCOVERED</zType>
+    <en-US>{singular_0:Landmark:Landmarks} Discovered</en-US>
+    <it-IT>{singular_0:Landmark:Landmarks} Scoperto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_LANDMARK_NAMED</zType>
+    <en-US>{singular_0:Landmark:Landmarks} Named</en-US>
+    <it-IT>{singular_0:Landmark:Landmarks} Nominato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_LEADER_COUNT</zType>
+    <en-US>Leader Count</en-US>
+    <it-IT>Conteggio leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_NATION_FOUNDED</zType>
+    <en-US>Nation Founded</en-US>
+    <it-IT>Nazione fondata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_WORLD_RELIGION_FOUNDED</zType>
+    <en-US>World {singular_0:Religion:Religions} Founded</en-US>
+    <it-IT>Mondo {singular_0:Religion:Religions} Fondato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_RELIGION_SPREAD</zType>
+    <en-US>Religion Spread</en-US>
+    <it-IT>Diffusione della religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_RUINS_EXPLORED</zType>
+    <en-US>Ruins Explored</en-US>
+    <it-IT>Rovine esplorate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_SPECIALIST_PRODUCED</zType>
+    <en-US>{singular_0:Specialist:Specialists} Trained</en-US>
+    <it-IT>{singular_0:Specialist:Specialists} Addestrato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_TECH_DISCOVERED</zType>
+    <en-US>{singular_0:Tech:Techs} Discovered</en-US>
+    <it-IT>{singular_0:Tech:Techs} Scoperto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_THEOLOGY_ESTABLISHED</zType>
+    <en-US>{singular_0:Theology:Theologies} Established</en-US>
+    <it-IT>{singular_0:Theology:Theologies} Stabilito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_TILES_REVEALED</zType>
+    <en-US>{singular_0:Tile:Tiles} Revealed</en-US>
+    <it-IT>{singular_0:Tile:Tiles} Rivelato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_UNIT_TRAINED</zType>
+    <en-US>{singular_0:Unit:Units} Trained</en-US>
+    <it-IT>{singular_0:Unit:Units} Addestrato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_UNIT_PROMOTED</zType>
+    <en-US>{singular_0:Unit:Units} Promoted</en-US>
+    <it-IT>{singular_0:Unit:Units} Promosso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_UNIT_MILITARY_KILLED</zType>
+    <en-US>Military {singular_0:Unit:Units} Killed</en-US>
+    <it-IT>Militare {singular_0:Unit:Units} Ucciso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_UNIT_MILITARY_KILLED_GENERAL</zType>
+    <en-US>Military {singular_0:Unit:Units} Killed (as General)</en-US>
+    <it-IT>Militare {singular_0:Unit:Units} Ucciso (as General)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_UNIT_LOST</zType>
+    <en-US>{singular_0:Unit:Units} Lost</en-US>
+    <it-IT>{singular_0:Unit:Units} Perso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_VEGETATION_REMOVED</zType>
+    <en-US>Vegetation Removed</en-US>
+    <it-IT>Vegetazione rimossa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_WONDER_FINISHED</zType>
+    <en-US>{singular_0:Wonder:Wonders} Finished</en-US>
+    <it-IT>{singular_0:Wonder:Wonders} Finito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_YEARS_REIGNED</zType>
+    <en-US>Years Reigned</en-US>
+    <it-IT>Anni di regno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_SCHOLARS_RECRUITED</zType>
+    <en-US>Scholars Recruited</en-US>
+    <it-IT>Studiosi reclutati</it-IT>
+  </Entry>
+</Root>

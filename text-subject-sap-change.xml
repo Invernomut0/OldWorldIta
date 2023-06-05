@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_SUBJECT_RELIGIOUS_CLERGY</zType>
+    <en-US>Clergy</en-US>
+    <it-IT>Clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_RELIGIOUS_CLERGY_PAGAN</zType>
+    <en-US>Pagan Clergy</en-US>
+    <it-IT>Clero pagano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_RELIGIOUS_CLERGY_WORLD</zType>
+    <en-US>Religious Clergy</en-US>
+    <it-IT>Clero religioso</it-IT>
+  </Entry>
+</Root>

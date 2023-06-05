@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_PAGAN_STATUE_TEMPLE</zType>
+    <en-US>Temple of the Statue</en-US>
+    <it-IT>Tempio della Statua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_OF_VICTORY</zType>
+    <en-US>Shrine of Victory</en-US>
+    <it-IT>Santuario della Vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_OF_THE_HERO</zType>
+    <en-US>Hero Cult of the Protector</en-US>
+    <it-IT>Eroe Culto del Protettore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_OF_THE_FALLEN_GODDESS</zType>
+    <en-US>Cult of the Fallen Goddess</en-US>
+    <it-IT>Culto della Dea Caduta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CAVALRY_CULT</zType>
+    <en-US>Cavalry Cult</en-US>
+    <it-IT>Culto della cavalleria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_AMAZON_CULT</zType>
+    <en-US>Amazon Cult</en-US>
+    <it-IT>Culto di Amazon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MARTYR_CULT</zType>
+    <en-US>Cult of the Martyr</en-US>
+    <it-IT>Culto del martire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_DUAL_CULT</zType>
+    <en-US>Cult of the Joined Gods</en-US>
+    <it-IT>Culto degli dei uniti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CULT_OF_THE_ANGELIC_DIVINE</zType>
+    <en-US>Cult of the Angelic Divine</en-US>
+    <it-IT>Culto del Divino Angelico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_ECSTATIC_CULT</zType>
+    <en-US>Ecstatic Cult</en-US>
+    <it-IT>Culto estatico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CULT_OF_THE_MOTHER</zType>
+    <en-US>Cult of the Mother</en-US>
+    <it-IT>Culto della Madre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CULT_OF_ISIS_AND_SERAPIS</zType>
+    <en-US>Cult of Isis and Serapis</en-US>
+    <it-IT>Culto di Iside e Serapide</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CULT_OF_MITHRAS</zType>
+    <en-US>Cult of Mithras</en-US>
+    <it-IT>Culto di Mitra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CULT_OF_THE_HEALER</zType>
+    <en-US>Cult of the Healer</en-US>
+    <it-IT>Culto del guaritore</it-IT>
+  </Entry>
+</Root>

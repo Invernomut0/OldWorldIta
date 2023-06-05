@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EP_RELIGION_HINT_1</zType>
+    <en-US>The link(TRAIT_CLERGY_ZOROASTRIAN), link(TRAIT_CLERGY_JEWISH), link(TRAIT_CLERGY_CHRISTIAN) and link(TRAIT_CLERGY_MANICHAEAN) traits mark out characters as link(CONCEPT_CLERGY) of their respective link(CONCEPT_RELIGION).</en-US>
+    <it-IT>I tratti link(TRAIT_CLERGY_ZOROASTRIAN), link(TRAIT_CLERGY_JEWISH), link(TRAIT_CLERGY_CHRISTIAN) e link(TRAIT_CLERGY_MANICHAEAN) contraddistinguono i caratteri come link(CONCEPT_CLERGY) dei rispettivi link(CONCEPT_RELIGION).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EP_RELIGION_HINT_2</zType>
+    <en-US>A member of the link(CONCEPT_CLERGY) can remove link(CONCEPT_RELIGIOUS_DISSENT) from a city with the link(MISSION_QUELL_DISSENT_ZOROASTRIANISM) Mission.</en-US>
+    <it-IT>Un membro del link(CONCEPT_CLERGY) può rimuovere il link(CONCEPT_RELIGIOUS_DISSENT) da una città con la missione link(MISSION_QUELL_DISSENT_ZOROASTRIANISM). Missione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EP_RELIGION_HINT_3</zType>
+    <en-US>A link(CONCEPT_GOVERNOR) can remove link(CONCEPT_RELIGIOUS_DISSENT) from their city with the link(PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM) Mission.</en-US>
+    <it-IT>Un link(CONCEPT_GOVERNOR) può rimuovere link(CONCEPT_RELIGIOUS_DISSENT) dalla propria città con la link(PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM) Missione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EP_RELIGION_HINT_4</zType>
+    <en-US>Characters can be given link(CONCEPT_CLERGY) traits by the Head of your link(CONCEPT_STATE_RELIGION)'s link(MISSION_MAKE_CLERGY) Mission.</en-US>
+    <it-IT>I personaggi possono ricevere tratti link(CONCEPT_CLERGY) dal Capo della link(CONCEPT_STATE_RELIGION) della link(MISSION_MAKE_CLERGY) missione. Missione.</it-IT>
+  </Entry>
+</Root>

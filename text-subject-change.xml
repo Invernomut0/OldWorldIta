@@ -1,0 +1,743 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_HUMAN_DIPLOMACY_FOUND</zType>
+    <en-US>Active Diplomatic Mission</en-US>
+    <it-IT>Missione diplomatica attiva</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_WAR</zType>
+    <en-US>link(DIPLOMACY_WAR)</en-US>
+    <it-IT>link(DIPLOMACY_WAR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_TRUCE</zType>
+    <en-US>link(DIPLOMACY_TRUCE)</en-US>
+    <it-IT>link(DIPLOMACY_TRUCE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_PEACE</zType>
+    <en-US>link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_PEACE_OR_TRUCE</zType>
+    <en-US>link(DIPLOMACY_PEACE) or link(DIPLOMACY_TRUCE)</en-US>
+    <it-IT>link(DIPLOMACY_PEACE) o link(DIPLOMACY_TRUCE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_NO_ALLIANCE</zType>
+    <en-US>No link(CONCEPT_ALLIANCE_PLAYER)</en-US>
+    <it-IT>No link(CONCEPT_ALLIANCE_PLAYER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_PEACE_FRIENDLY</zType>
+    <en-US>link(DIPLOMACY_PEACE) and Min link(OPINIONPLAYER_FRIENDLY)</en-US>
+    <it-IT>link(DIPLOMACY_PEACE) e Min link(OPINIONPLAYER_FRIENDLY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MAX_ANGRY</zType>
+    <en-US>Max link(OPINIONPLAYER_ANGRY)</en-US>
+    <it-IT>Max link(OPINIONPLAYER_ANGRY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MAX_UPSET</zType>
+    <en-US>Max link(OPINIONPLAYER_UPSET)</en-US>
+    <it-IT>Max link(OPINIONPLAYER_UPSET)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MAX_CAUTIOUS</zType>
+    <en-US>Max link(OPINIONPLAYER_CAUTIOUS)</en-US>
+    <it-IT>Max link(OPINIONPLAYER_CAUTIOUS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MAX_PLEASED</zType>
+    <en-US>Max link(OPINIONPLAYER_PLEASED)</en-US>
+    <it-IT>Max link(OPINIONPLAYER_PLEASED)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MIN_ANGRY</zType>
+    <en-US>Min link(OPINIONPLAYER_ANGRY)</en-US>
+    <it-IT>Min link(OPINIONPLAYER_ANGRY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MIN_UPSET</zType>
+    <en-US>Min link(OPINIONPLAYER_UPSET)</en-US>
+    <it-IT>Min link(OPINIONPLAYER_UPSET)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MIN_CAUTIOUS</zType>
+    <en-US>Min link(OPINIONPLAYER_CAUTIOUS)</en-US>
+    <it-IT>Min link(OPINIONPLAYER_CAUTIOUS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MIN_PLEASED</zType>
+    <en-US>Min link(OPINIONPLAYER_PLEASED)</en-US>
+    <it-IT>Min link(OPINIONPLAYER_PLEASED)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MIN_FRIENDLY</zType>
+    <en-US>Min link(OPINIONPLAYER_FRIENDLY)</en-US>
+    <it-IT>Min link(OPINIONPLAYER_FRIENDLY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_ANGRY_PLEASED</zType>
+    <en-US>link(OPINIONPLAYER_ANGRY) to link(OPINIONPLAYER_PLEASED)</en-US>
+    <it-IT>da link(OPINIONPLAYER_ANGRY) a link(OPINIONPLAYER_PLEASED)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_ANGRY_CAUTIOUS</zType>
+    <en-US>link(OPINIONPLAYER_ANGRY) to link(OPINIONPLAYER_CAUTIOUS)</en-US>
+    <it-IT>da link(OPINIONPLAYER_ANGRY) a link(OPINIONPLAYER_CAUTIOUS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_ANGRY_UPSET</zType>
+    <en-US>link(OPINIONPLAYER_ANGRY) to link(OPINIONPLAYER_UPSET)</en-US>
+    <it-IT>da link(OPINIONPLAYER_ANGRY) a link(OPINIONPLAYER_UPSET)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_UPSET_PLEASED</zType>
+    <en-US>link(OPINIONPLAYER_UPSET) to link(OPINIONPLAYER_PLEASED)</en-US>
+    <it-IT>da link(OPINIONPLAYER_UPSET) a link(OPINIONPLAYER_PLEASED)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_UPSET_CAUTIOUS</zType>
+    <en-US>link(OPINIONPLAYER_UPSET) to link(OPINIONPLAYER_CAUTIOUS)</en-US>
+    <it-IT>da link(OPINIONPLAYER_UPSET) a link(OPINIONPLAYER_CAUTIOUS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_CAUTIOUS_PLEASED</zType>
+    <en-US>link(OPINIONPLAYER_CAUTIOUS) to link(OPINIONPLAYER_PLEASED)</en-US>
+    <it-IT>da link(OPINIONPLAYER_CAUTIOUS) a link(OPINIONPLAYER_PLEASED)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MIN_PLEASED_NO_WARS</zType>
+    <en-US>Min link(OPINIONPLAYER_PLEASED) and No Wars</en-US>
+    <it-IT>Min link(OPINIONPLAYER_PLEASED) e No Wars</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MIN_COMPETENT</zType>
+    <en-US>Min Competent (link(CONCEPT_KNOWLEDGE))</en-US>
+    <it-IT>Min Competente (link(CONCEPT_KNOWLEDGE))</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MAX_NAIVE</zType>
+    <en-US>Max Naive (link(CONCEPT_KNOWLEDGE))</en-US>
+    <it-IT>Max Naive (link(CONCEPT_KNOWLEDGE))</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_NO_ADOPTED_RELIGION</zType>
+    <en-US>Did not Adopt link(CONCEPT_STATE_RELIGION) recently</en-US>
+    <it-IT>Non ha adottato link(CONCEPT_STATE_RELIGION) recentemente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_STATE_RELIGION</zType>
+    <en-US>Has link(CONCEPT_STATE_RELIGION)</en-US>
+    <it-IT>Ha link(CONCEPT_STATE_RELIGION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_NO_CHARACTER_DIPLOMACY_FOUND</zType>
+    <en-US>Conducted Diplomacy</en-US>
+    <it-IT>Diplomazia condotta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_HAS_HEIRS</zType>
+    <en-US>Has Heir(s)</en-US>
+    <it-IT>Ha un erede(s)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS</zType>
+    <en-US>Longer than int(MIN_TREATY_TURNS) Turns since last link(DIPLOMACY_WAR)</en-US>
+    <it-IT>Più lungo di int(MIN_TREATY_TURNS) Giri dall'ultimo link(DIPLOMACY_WAR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS_HUMAN</zType>
+    <en-US>Longer than int(MIN_TREATY_TURNS) Turns since last link(DIPLOMACY_WAR)</en-US>
+    <it-IT>Più lungo di int(MIN_TREATY_TURNS) Giri dall'ultimo link(DIPLOMACY_WAR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TRIBE_PEACE</zType>
+    <en-US>link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TRIBE_PEACE_OR_TRUCE</zType>
+    <en-US>link(DIPLOMACY_PEACE) or link(DIPLOMACY_TRUCE)</en-US>
+    <it-IT>link(DIPLOMACY_PEACE) o link(DIPLOMACY_TRUCE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TRIBE_NO_ALLIANCE_TEAM</zType>
+    <en-US>No link(CONCEPT_ALLIANCE_TRIBE)</en-US>
+    <it-IT>No link(CONCEPT_ALLIANCE_TRIBE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TRIBE_PEACE_FRIENDLY</zType>
+    <en-US>link(DIPLOMACY_PEACE) and Min link(OPINIONTRIBE_FRIENDLY)</en-US>
+    <it-IT>link(DIPLOMACY_PEACE) e Min link(OPINIONTRIBE_FRIENDLY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TRIBE_MAX_ANGRY</zType>
+    <en-US>Max link(OPINIONTRIBE_ANGRY)</en-US>
+    <it-IT>Max link(OPINIONTRIBE_ANGRY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TRIBE_MAX_UPSET</zType>
+    <en-US>Max link(OPINIONTRIBE_UPSET)</en-US>
+    <it-IT>Max link(OPINIONTRIBE_UPSET)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TRIBE_MAX_CAUTIOUS</zType>
+    <en-US>Max link(OPINIONTRIBE_CAUTIOUS)</en-US>
+    <it-IT>Max link(OPINIONTRIBE_CAUTIOUS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TRIBE_MIN_CAUTIOUS</zType>
+    <en-US>Min link(OPINIONTRIBE_CAUTIOUS)</en-US>
+    <it-IT>Min link(OPINIONTRIBE_CAUTIOUS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TRIBE_MIN_PLEASED</zType>
+    <en-US>Min link(OPINIONTRIBE_PLEASED)</en-US>
+    <it-IT>Min link(OPINIONTRIBE_PLEASED)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TRIBE_MIN_FRIENDLY</zType>
+    <en-US>Min link(OPINIONTRIBE_FRIENDLY)</en-US>
+    <it-IT>Min link(OPINIONTRIBE_FRIENDLY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_RELIGION_UNLOCKED</zType>
+    <en-US>World Religion or link(LAW_DIVINE_RULE)</en-US>
+    <it-IT>Religione mondiale o link(LAW_DIVINE_RULE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER</zType>
+    <en-US>Any Leader</en-US>
+    <it-IT>Qualsiasi leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_NON_LEADER</zType>
+    <en-US>Not a National Leader</en-US>
+    <it-IT>Non un leader nazionale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_RELIGION_HEAD</zType>
+    <en-US>Religion Head</en-US>
+    <it-IT>Religione Capo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_OF_STATE_RELIGION</zType>
+    <en-US>Follows State Religion</en-US>
+    <it-IT>Segue la religione di Stato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_SCHEMER</zType>
+    <en-US>link(TRAIT_SCHEMER_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_SCHEMER_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_DIPLOMAT</zType>
+    <en-US>link(TRAIT_DIPLOMAT_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_DIPLOMAT_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_JUDGE</zType>
+    <en-US>link(TRAIT_JUDGE_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_JUDGE_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_SCHOLAR</zType>
+    <en-US>link(TRAIT_SCHOLAR_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_SCHOLAR_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_HERO</zType>
+    <en-US>link(TRAIT_HERO_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_HERO_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_COMMANDER</zType>
+    <en-US>link(TRAIT_COMMANDER_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_COMMANDER_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_TACTICIAN</zType>
+    <en-US>link(TRAIT_TACTICIAN_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_TACTICIAN_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_ZEALOT</zType>
+    <en-US>link(TRAIT_ZEALOT_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_ZEALOT_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_ORATOR</zType>
+    <en-US>link(TRAIT_ORATOR_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_ORATOR_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_BUILDER</zType>
+    <en-US>link(TRAIT_BUILDER_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_BUILDER_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LEADER_OR_DESCENDANT</zType>
+    <en-US>Leader or Descendant</en-US>
+    <it-IT>Leader o discendente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_MAX_CAUTIOUS</zType>
+    <en-US>Max link(OPINIONCHARACTER_CAUTIOUS)</en-US>
+    <it-IT>Max link(OPINIONCHARACTER_CAUTIOUS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_MAX_UPSET</zType>
+    <en-US>Max link(OPINIONCHARACTER_UPSET)</en-US>
+    <it-IT>Max link(OPINIONCHARACTER_UPSET)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_MAX_ANGRY</zType>
+    <en-US>Max link(OPINIONCHARACTER_ANGRY)</en-US>
+    <it-IT>Max link(OPINIONCHARACTER_ANGRY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_MAX_FURIOUS</zType>
+    <en-US>Max link(OPINIONCHARACTER_FURIOUS)</en-US>
+    <it-IT>Max link(OPINIONCHARACTER_FURIOUS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_MIN_UPSET</zType>
+    <en-US>Min link(OPINIONCHARACTER_UPSET)</en-US>
+    <it-IT>Min link(OPINIONCHARACTER_UPSET)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_MIN_CAUTIOUS</zType>
+    <en-US>Min link(OPINIONCHARACTER_CAUTIOUS)</en-US>
+    <it-IT>Min link(OPINIONCHARACTER_CAUTIOUS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_MIN_PLEASED</zType>
+    <en-US>Min link(OPINIONCHARACTER_PLEASED)</en-US>
+    <it-IT>Min link(OPINIONCHARACTER_PLEASED)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_INTERCEDED_FOR_LEADER</zType>
+    <en-US>Interceded For You</en-US>
+    <it-IT>Intercedere per voi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_INFLUENCED_BY_LEADER</zType>
+    <en-US>Influence By You</en-US>
+    <it-IT>Influenza da parte vostra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_HEALTHY</zType>
+    <en-US>Healthy</en-US>
+    <it-IT>Sano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_BABY</zType>
+    <en-US>Max Age 1</en-US>
+    <it-IT>Età massima 1</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TODDLER</zType>
+    <en-US>Age 2-5</en-US>
+    <it-IT>Età 2-5 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHILD</zType>
+    <en-US>Age 6-11</en-US>
+    <it-IT>Età 6-11 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TEENAGER</zType>
+    <en-US>Age 12-17</en-US>
+    <it-IT>Età 12-17 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_LATE_TEENAGER</zType>
+    <en-US>Age 16-17</en-US>
+    <it-IT>Età 16-17 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_ADULT</zType>
+    <en-US>Min Age 18</en-US>
+    <it-IT>Età minima 18 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_NOT_ADULT</zType>
+    <en-US>Not an Adult</en-US>
+    <it-IT>Non è un adulto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHILD_OR_TEENAGER</zType>
+    <en-US>Age 6-17</en-US>
+    <it-IT>Età 6-17 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TEENAGER_OR_ADULT</zType>
+    <en-US>Min Age 12</en-US>
+    <it-IT>Età minima 12 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_MIDDLE_AGE</zType>
+    <en-US>Age 18-40</en-US>
+    <it-IT>Età 18-40 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_OLD</zType>
+    <en-US>Min Age 40</en-US>
+    <it-IT>Età minima 40 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_ADULT_UNDER_30</zType>
+    <en-US>Age 18-30</en-US>
+    <it-IT>Età 18-30 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_ADULT_UNDER_40</zType>
+    <en-US>Age 18-40</en-US>
+    <it-IT>Età 18-40 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_OVER_30</zType>
+    <en-US>Min Age 30</en-US>
+    <it-IT>Età minima 30 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_OVER_40</zType>
+    <en-US>Min Age 40</en-US>
+    <it-IT>Età minima 40 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_OVER_50</zType>
+    <en-US>Min Age 50</en-US>
+    <it-IT>Età minima 50 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_OCTOGENARIAN</zType>
+    <en-US>Min Age 80</en-US>
+    <it-IT>Età minima 80 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CENTENARIAN</zType>
+    <en-US>Min Age 100</en-US>
+    <it-IT>Età minima 100 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_NO_JOB</zType>
+    <en-US>No Job</en-US>
+    <it-IT>Nessun lavoro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_AMBASSADOR</zType>
+    <en-US>Ambassador</en-US>
+    <it-IT>Ambasciatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_AMBASSADOR_F</zType>
+    <en-US>Ambassador</en-US>
+    <it-IT>Ambasciatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHANCELLOR</zType>
+    <en-US>Chancellor</en-US>
+    <it-IT>Cancelliere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHANCELLOR_F</zType>
+    <en-US>Chancellor</en-US>
+    <it-IT>Cancelliere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_SPYMASTER</zType>
+    <en-US>Spymaster</en-US>
+    <it-IT>Spymaster</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_SPYMASTER_F</zType>
+    <en-US>Spymaster</en-US>
+    <it-IT>Spymaster</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CAN_MARRY</zType>
+    <en-US>Can Marry</en-US>
+    <it-IT>Può sposarsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CAN_MARRY_F</zType>
+    <en-US>Can Marry</en-US>
+    <it-IT>Può sposarsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_STUDY_ANY</zType>
+    <en-US>Student</en-US>
+    <it-IT>Studente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_STUDY_ANY_F</zType>
+    <en-US>Student</en-US>
+    <it-IT>Studente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_AWAY_FROM_COURT</zType>
+    <en-US>Away From Court</en-US>
+    <it-IT>Lontano dal tribunale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_AWAY_FROM_COURT_F</zType>
+    <en-US>Away From Court</en-US>
+    <it-IT>Lontano dal tribunale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_HONORABLE</zType>
+    <en-US>Honorable</en-US>
+    <it-IT>Onorevole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_HONORABLE_F</zType>
+    <en-US>Honorable</en-US>
+    <it-IT>Onorevole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_VILLAINOUS</zType>
+    <en-US>Villainous</en-US>
+    <it-IT>Malvagio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_VILLAINOUS_F</zType>
+    <en-US>Villainous</en-US>
+    <it-IT>Malvagio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_STRONG</zType>
+    <en-US>Strong</en-US>
+    <it-IT>Forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_STRONG_F</zType>
+    <en-US>Strong</en-US>
+    <it-IT>Forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_WEAK</zType>
+    <en-US>Weak</en-US>
+    <it-IT>Debole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_WEAK_F</zType>
+    <en-US>Weak</en-US>
+    <it-IT>Debole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_CARNAL</zType>
+    <en-US>Carnal</en-US>
+    <it-IT>Carnale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_CARNAL_F</zType>
+    <en-US>Carnal</en-US>
+    <it-IT>Carnale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_PRODUCTIVE</zType>
+    <en-US>Productive</en-US>
+    <it-IT>Produttivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_PRODUCTIVE_F</zType>
+    <en-US>Productive</en-US>
+    <it-IT>Produttivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_RELIGIOUS</zType>
+    <en-US>Devout</en-US>
+    <it-IT>Devoto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_RELIGIOUS_F</zType>
+    <en-US>Devout</en-US>
+    <it-IT>Devoto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_INQUISITIVE</zType>
+    <en-US>Inquisitive</en-US>
+    <it-IT>Inquietante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_INQUISITIVE_F</zType>
+    <en-US>Inquisitive</en-US>
+    <it-IT>Inquietante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_URBAN</zType>
+    <en-US>Urbanite</en-US>
+    <it-IT>Urbanite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_URBAN_F</zType>
+    <en-US>Urbanite</en-US>
+    <it-IT>Urbanite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_SYLVAN</zType>
+    <en-US>Sylvan</en-US>
+    <it-IT>Sylvan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_SYLVAN_F</zType>
+    <en-US>Sylvan</en-US>
+    <it-IT>Sylvan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_VAIN</zType>
+    <en-US>Vain</en-US>
+    <it-IT>Vano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_VAIN_F</zType>
+    <en-US>Vain</en-US>
+    <it-IT>Vano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_TRADITIONAL</zType>
+    <en-US>Traditional</en-US>
+    <it-IT>Tradizionale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_TRADITIONAL_F</zType>
+    <en-US>Traditional</en-US>
+    <it-IT>Tradizionale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_CHARMING</zType>
+    <en-US>Charming</en-US>
+    <it-IT>Affascinante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_CHARMING_F</zType>
+    <en-US>Charming</en-US>
+    <it-IT>Affascinante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_DILIGENT</zType>
+    <en-US>Diligent</en-US>
+    <it-IT>Diligente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_DILIGENT_F</zType>
+    <en-US>Diligent</en-US>
+    <it-IT>Diligente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_CONSPIRATOR</zType>
+    <en-US>Conspiratorial</en-US>
+    <it-IT>Cospirazionista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_CONSPIRATOR_F</zType>
+    <en-US>Conspiratorial</en-US>
+    <it-IT>Cospirazionista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_TERRIFYING</zType>
+    <en-US>Terrifying</en-US>
+    <it-IT>Terrificante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_TERRIFYING_F</zType>
+    <en-US>Terrifying</en-US>
+    <it-IT>Terrificante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_SEVEN_SINS</zType>
+    <en-US>Seven Sins</en-US>
+    <it-IT>Sette peccati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_SEVEN_SINS_F</zType>
+    <en-US>Seven Sins</en-US>
+    <it-IT>Sette peccati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_SEVEN_VIRTUES</zType>
+    <en-US>Seven Virtues</en-US>
+    <it-IT>Sette virtù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_SEVEN_VIRTUES_F</zType>
+    <en-US>Seven Virtues</en-US>
+    <it-IT>Sette virtù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_REGAL</zType>
+    <en-US>Regal</en-US>
+    <it-IT>Regale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_REGAL_F</zType>
+    <en-US>Regal</en-US>
+    <it-IT>Regale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_MARTIAL</zType>
+    <en-US>Martial</en-US>
+    <it-IT>Marziale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_MARTIAL_F</zType>
+    <en-US>Martial</en-US>
+    <it-IT>Marziale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_COVERT</zType>
+    <en-US>Covert</en-US>
+    <it-IT>Inosservato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_COVERT_F</zType>
+    <en-US>Covert</en-US>
+    <it-IT>Inosservato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_THOUGHTFUL</zType>
+    <en-US>Thoughtful</en-US>
+    <it-IT>Pensieroso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_ARCHETYPE_THOUGHTFUL_F</zType>
+    <en-US>Thoughtful</en-US>
+    <it-IT>Pensieroso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_NO_IMPRISONED_RECENTLY</zType>
+    <en-US>Not link(TRAIT_IMPRISONED) recently</en-US>
+    <it-IT>Non link(TRAIT_IMPRISONED) recentemente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_NO_IMPRISONED_RECENTLY_F</zType>
+    <en-US>Not link(TRAIT_IMPRISONED) recently</en-US>
+    <it-IT>Non link(TRAIT_IMPRISONED) recentemente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_DEATHBED</zType>
+    <en-US>Close to Death</en-US>
+    <it-IT>Vicino alla morte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHARACTER_DEATHBED_F</zType>
+    <en-US>Close to Death</en-US>
+    <it-IT>Vicino alla morte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_TUTOR_STUDENT</zType>
+    <en-US>link(CONCEPT_ROYAL) child at least int(TUTORS_AGE) years old</en-US>
+    <it-IT>link(CONCEPT_ROYAL) bambino di almeno int(TUTORS_AGE) anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_MAX_ONE_SCHOLAR_RECRUITED</zType>
+    <en-US>Has not recruited two scholars</en-US>
+    <it-IT>Non ha reclutato due studiosi</it-IT>
+  </Entry>
+</Root>

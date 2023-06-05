@@ -1,0 +1,1428 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_NO_UNDO</zType>
+    <en-US>Win a game with No Undo</en-US>
+    <it-IT>Vincere una partita senza annullare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS</zType>
+    <en-US>Win a game with Randomized Leaders</en-US>
+    <it-IT>Vincere una partita con i Leader randomizzati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES</zType>
+    <en-US>Win a game with Randomized Families</en-US>
+    <it-IT>Vincere una partita con Famiglie randomizzate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_ROLE_PLAYING</zType>
+    <en-US>Win a game with Role-Playing</en-US>
+    <it-IT>Vincere una partita con il gioco di ruolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE</zType>
+    <en-US>Win a game with One City Challenge</en-US>
+    <it-IT>Vincere una partita con One City Challenge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_NO_CHARACTERS</zType>
+    <en-US>Win a game with No Characters</en-US>
+    <it-IT>Vincere una partita senza personaggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_ALL_NATIONS</zType>
+    <en-US>Win against all nations</en-US>
+    <it-IT>Vincere contro tutte le nazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_POINTS</zType>
+    <en-US>Win a Points Victory</en-US>
+    <it-IT>Vittoria a punti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_DOUBLE</zType>
+    <en-US>Win a Double Victory</en-US>
+    <it-IT>Vincere una doppia vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_AMBITION</zType>
+    <en-US>Win an Ambition Victory</en-US>
+    <it-IT>Vittoria di un'ambizione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_TIME</zType>
+    <en-US>Win a Time Victory</en-US>
+    <it-IT>Vincere una vittoria a tempo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_VICTORY_CONQUEST</zType>
+    <en-US>Win a Conquest Victory</en-US>
+    <it-IT>Vincere una vittoria di conquista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ALLIANCE_VICTORY</zType>
+    <en-US>Help an ally win a game</en-US>
+    <it-IT>Aiutare un alleato a vincere una partita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_EVENTLEVEL_HIGH</zType>
+    <en-US>Win a game with Event Level High</en-US>
+    <it-IT>Vincere una partita con un livello di evento alto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_MORTALITY_REALISTIC</zType>
+    <en-US>Win a game with Realistic Mortality</en-US>
+    <it-IT>Vincere una partita con Mortalità realistica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_ABLE</zType>
+    <en-US>Win on Able Difficulty</en-US>
+    <it-IT>Vincere a Difficoltà Abile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_JUST</zType>
+    <en-US>Win on Just Difficulty</en-US>
+    <it-IT>Vincere a sola difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_GOOD</zType>
+    <en-US>Win on Good Difficulty</en-US>
+    <it-IT>Vincere a buona difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_STRONG</zType>
+    <en-US>Win on Strong Difficulty</en-US>
+    <it-IT>Vincere a difficoltà forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_NOBLE</zType>
+    <en-US>Win on Noble Difficulty</en-US>
+    <it-IT>Vincere a difficoltà Nobile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_GLORIOUS</zType>
+    <en-US>Win on Glorious Difficulty</en-US>
+    <it-IT>Vincere a difficoltà gloriosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_MAGNIFICENT</zType>
+    <en-US>Win on Magnificent Difficulty</en-US>
+    <it-IT>Vincere a difficoltà Magnifica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DIFFICULTY_GREAT</zType>
+    <en-US>Win on Great Difficulty</en-US>
+    <it-IT>Vincere a grande difficoltà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_ASSYRIA</zType>
+    <en-US>Win as Assyria</en-US>
+    <it-IT>Vincere come Assiria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_BABYLONIA</zType>
+    <en-US>Win as Babylonia</en-US>
+    <it-IT>Vincere come Babilonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_CARTHAGE</zType>
+    <en-US>Win as Carthage</en-US>
+    <it-IT>Vincere come Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_EGYPT</zType>
+    <en-US>Win as Egypt</en-US>
+    <it-IT>Vincere come Egitto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_GREECE</zType>
+    <en-US>Win as Greece</en-US>
+    <it-IT>Vincere come Grecia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_PERSIA</zType>
+    <en-US>Win as Persia</en-US>
+    <it-IT>Vincere come Persia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_ROME</zType>
+    <en-US>Win as Rome</en-US>
+    <it-IT>Vincere come Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_LANDOWNERS</zType>
+    <en-US>Win with Landowners</en-US>
+    <it-IT>Vincere con i proprietari terrieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_CHAMPIONS</zType>
+    <en-US>Win with Champions</en-US>
+    <it-IT>Vincere con i campioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_STATESMEN</zType>
+    <en-US>Win with Statesmen</en-US>
+    <it-IT>Vincere con gli statisti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_PATRONS</zType>
+    <en-US>Win with Patrons</en-US>
+    <it-IT>Vincere con i clienti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_CLERICS</zType>
+    <en-US>Win with Clerics</en-US>
+    <it-IT>Vincere con i chierici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_SAGES</zType>
+    <en-US>Win with Sages</en-US>
+    <it-IT>Vincere con i Saggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_TRADERS</zType>
+    <en-US>Win with Traders</en-US>
+    <it-IT>Vincere con i trader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_ARTISANS</zType>
+    <en-US>Win with Artisans</en-US>
+    <it-IT>Vincere con gli artigiani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_RIDERS</zType>
+    <en-US>Win with Riders</en-US>
+    <it-IT>Vincere con i cavalieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILYCLASS_HUNTERS</zType>
+    <en-US>Win with Hunters</en-US>
+    <it-IT>Vincere con i cacciatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GOTW</zType>
+    <en-US>Win a Game of the Week</en-US>
+    <it-IT>Vincere una partita della settimana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_HARDCORE</zType>
+    <en-US>Win a game on the Great difficulty against all nations with High Event Level, Realistic Mortality, Locked Save, Ruthless AI, and No Undo.</en-US>
+    <it-IT>Vincere una partita a difficoltà Grande contro tutte le nazioni con Livello evento alto, Mortalità realistica, Salvataggio bloccato, IA spietata e Nessun annullamento.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_WARRIOR</zType>
+    <en-US>Become the Warrior</en-US>
+    <it-IT>Diventa il guerriero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_BRAVE</zType>
+    <en-US>Become the Drillmaster</en-US>
+    <it-IT>Diventare il Drillmaster</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_VALIANT</zType>
+    <en-US>Become the Valiant</en-US>
+    <it-IT>Diventa il Valoroso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_MIGHTY</zType>
+    <en-US>Become the Mighty</en-US>
+    <it-IT>Diventa il potente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_VICTORIOUS</zType>
+    <en-US>Become the Victorious</en-US>
+    <it-IT>Diventare il Vittorioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_LION</zType>
+    <en-US>Become the Lion</en-US>
+    <it-IT>Diventa il Leone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_INVINCIBLE</zType>
+    <en-US>Become the Invincible</en-US>
+    <it-IT>Diventa l'invincibile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_CAPABLE</zType>
+    <en-US>Become the Capable</en-US>
+    <it-IT>Diventare capaci</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_READY</zType>
+    <en-US>Become the Ready</en-US>
+    <it-IT>Diventa pronto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_DESTROYER</zType>
+    <en-US>Become the Destroyer</en-US>
+    <it-IT>Diventa il Distruttore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_AVENGER</zType>
+    <en-US>Become the Avenger</en-US>
+    <it-IT>Diventa il Vendicatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_WHITE_DEATH</zType>
+    <en-US>Become the White Death</en-US>
+    <it-IT>Diventare la Morte Bianca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_INTERCESSOR</zType>
+    <en-US>Become the Intercessor</en-US>
+    <it-IT>Diventare l'intercessore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_PEACEMAKER</zType>
+    <en-US>Become the Peacemaker</en-US>
+    <it-IT>Diventare il costruttore di pace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_CONQUEROR</zType>
+    <en-US>Become the Conqueror</en-US>
+    <it-IT>Diventare il conquistatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_SUBJUGATOR</zType>
+    <en-US>Become the Subjugator</en-US>
+    <it-IT>Diventare il soggiogatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_RESTORER</zType>
+    <en-US>Become the Restorer</en-US>
+    <it-IT>Diventare il restauratore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_LIBERATOR</zType>
+    <en-US>Become the Liberator</en-US>
+    <it-IT>Diventa il liberatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_SETTLER</zType>
+    <en-US>Become the Settler</en-US>
+    <it-IT>Diventare il colono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_PIONEER</zType>
+    <en-US>Become the Pioneer</en-US>
+    <it-IT>Diventare pionieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_AMBITIOUS</zType>
+    <en-US>Become the Ambitious</en-US>
+    <it-IT>Diventare ambiziosi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_BRILLIANT</zType>
+    <en-US>Become the Brilliant</en-US>
+    <it-IT>Diventare brillanti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_BELOVED</zType>
+    <en-US>Become the Beloved</en-US>
+    <it-IT>Diventare l'Amato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_REBUILDER</zType>
+    <en-US>Become the Rebuilder</en-US>
+    <it-IT>Diventare il ricostruttore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_MASON</zType>
+    <en-US>Become the Mason</en-US>
+    <it-IT>Diventare massone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_ARCHITECT</zType>
+    <en-US>Become the Architect</en-US>
+    <it-IT>Diventa l'architetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_KEYSTONE</zType>
+    <en-US>Become the Keystone</en-US>
+    <it-IT>Diventare la chiave di volta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD</zType>
+    <en-US>Become the Fountainhead</en-US>
+    <it-IT>Diventare la testa della fontana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_DEVOUT</zType>
+    <en-US>Become the Devout</en-US>
+    <it-IT>Diventare devoti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_HOLY</zType>
+    <en-US>Become the Holy</en-US>
+    <it-IT>Diventare il Santo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_EXPLORER</zType>
+    <en-US>Become the Explorer</en-US>
+    <it-IT>Diventa l'esploratore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_INTREPID</zType>
+    <en-US>Become the Intrepid</en-US>
+    <it-IT>Diventa l'Intrepido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_LEARNED</zType>
+    <en-US>Become the Learned</en-US>
+    <it-IT>Diventare il dotto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_ENLIGHTENED</zType>
+    <en-US>Become the Enlightened</en-US>
+    <it-IT>Diventare l'illuminato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_WISE</zType>
+    <en-US>Become the Wise</en-US>
+    <it-IT>Diventare saggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_OLD</zType>
+    <en-US>Become the Old</en-US>
+    <it-IT>Diventare il Vecchio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_ANCIENT</zType>
+    <en-US>Become the Ancient</en-US>
+    <it-IT>Diventa l'Antico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_ABLE</zType>
+    <en-US>Become the Able</en-US>
+    <it-IT>Diventare l'abile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_JUST</zType>
+    <en-US>Become the Just</en-US>
+    <it-IT>Diventare il Giusto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_GOOD</zType>
+    <en-US>Become the Good</en-US>
+    <it-IT>Diventare il Bene</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_STRONG</zType>
+    <en-US>Become the Strong</en-US>
+    <it-IT>Diventare il forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_NOBLE</zType>
+    <en-US>Become the Noble</en-US>
+    <it-IT>Diventare il Nobile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_GLORIOUS</zType>
+    <en-US>Become the Glorious</en-US>
+    <it-IT>Diventare il glorioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_MAGNIFICENT</zType>
+    <en-US>Become the Magnificent</en-US>
+    <it-IT>Diventare il Magnifico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COGNOMEN_GREAT</zType>
+    <en-US>Become the Great</en-US>
+    <it-IT>Diventa il Grande</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_ZOROASTRIANISM</zType>
+    <en-US>Found Zoroastrianism</en-US>
+    <it-IT>Trovato lo zoroastrismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_JUDAISM</zType>
+    <en-US>Found Judaism</en-US>
+    <it-IT>Trovato l'ebraismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_CHRISTIANITY</zType>
+    <en-US>Found Christianity</en-US>
+    <it-IT>Cristianesimo ritrovato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_MANICHAEISM</zType>
+    <en-US>Found Manichaeism</en-US>
+    <it-IT>Trovato il manicheismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA</zType>
+    <en-US>Found Assyrian Paganism</en-US>
+    <it-IT>Trovato il paganesimo assiro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA</zType>
+    <en-US>Found Babylonian Paganism</en-US>
+    <it-IT>Trovato il paganesimo babilonese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE</zType>
+    <en-US>Found Carthaginian Paganism</en-US>
+    <it-IT>Trovato il paganesimo cartaginese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_EGYPT</zType>
+    <en-US>Found Egyptian Paganism</en-US>
+    <it-IT>Trovato il paganesimo egiziano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_GREECE</zType>
+    <en-US>Found Greek Paganism</en-US>
+    <it-IT>Trovato il paganesimo greco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_PERSIA</zType>
+    <en-US>Found Persian Paganism</en-US>
+    <it-IT>Trovato il paganesimo persiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_ROME</zType>
+    <en-US>Found Roman Paganism</en-US>
+    <it-IT>Trovato il paganesimo romano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_MYTHOLOGY</zType>
+    <en-US>Establish Mythology</en-US>
+    <it-IT>Stabilire la mitologia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_VENERATION</zType>
+    <en-US>Establish Veneration</en-US>
+    <it-IT>Stabilire la venerazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_LEGALISM</zType>
+    <en-US>Establish Legalism</en-US>
+    <it-IT>Stabilire il legalismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_REVELATION</zType>
+    <en-US>Establish Revelation</en-US>
+    <it-IT>Stabilire la rivelazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_DUALISM</zType>
+    <en-US>Establish Dualism</en-US>
+    <it-IT>Stabilire il dualismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_GNOSTICISM</zType>
+    <en-US>Establish Gnosticism</en-US>
+    <it-IT>Stabilire lo gnosticismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_REDEMPTION</zType>
+    <en-US>Establish Redemption</en-US>
+    <it-IT>Stabilire la redenzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT</zType>
+    <en-US>Establish Enlightenment</en-US>
+    <it-IT>Stabilire l'illuminazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ONE_TRUE_FAITH</zType>
+    <en-US>Have at least 3 cities and spread your State Religion to all of your cities</en-US>
+    <it-IT>Avere almeno 3 città e diffondere la religione di Stato in tutte le città.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
+    <en-US>Build the Adur Burzen-Mihr</en-US>
+    <it-IT>Costruire l'Adur Burzen-Mihr</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
+    <en-US>Build the Temple of Solomon</en-US>
+    <it-IT>Costruire il Tempio di Salomone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
+    <en-US>Build the Church of the Holy Sepulchre</en-US>
+    <it-IT>Costruire la Chiesa del Santo Sepolcro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
+    <en-US>Build the Cao'an</en-US>
+    <it-IT>Costruire il Cao'an</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_PYRAMIDS</zType>
+    <en-US>Build the Pyramids</en-US>
+    <it-IT>Costruire le piramidi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+    <en-US>Build the Great Ziggurat</en-US>
+    <it-IT>Costruire la Grande Ziggurat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_ORACLE</zType>
+    <en-US>Build the Oracle</en-US>
+    <it-IT>Costruire l'Oracolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS</zType>
+    <en-US>Build the Hanging Gardens</en-US>
+    <it-IT>Costruire i giardini pensili</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_NECROPOLIS</zType>
+    <en-US>Build the Necropolis</en-US>
+    <it-IT>Costruire la necropoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE</zType>
+    <en-US>Build the Ishtar Gate</en-US>
+    <it-IT>Costruire la Porta di Ishtar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE</zType>
+    <en-US>Build the Lighthouse</en-US>
+    <it-IT>Costruire il faro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_APADANA</zType>
+    <en-US>Build the Apadana</en-US>
+    <it-IT>Costruire l'Apadana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM</zType>
+    <en-US>Build the Mausoleum</en-US>
+    <it-IT>Costruire il mausoleo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_ACROPOLIS</zType>
+    <en-US>Build the Acropolis</en-US>
+    <it-IT>Costruire l'Acropoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_COLOSSUS</zType>
+    <en-US>Build the Colossus</en-US>
+    <it-IT>Costruire il Colosso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_MUSAEUM</zType>
+    <en-US>Build the Musaeum</en-US>
+    <it-IT>Costruire il Musaeum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+    <en-US>Build the Circus Maximus</en-US>
+    <it-IT>Costruire il Circo Massimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_PANTHEON</zType>
+    <en-US>Build the Pantheon</en-US>
+    <it-IT>Costruire il Pantheon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA</zType>
+    <en-US>Build the Hagia Sophia</en-US>
+    <it-IT>Costruire la Basilica di Santa Sofia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK</zType>
+    <en-US>Build the Via Recta Souk</en-US>
+    <it-IT>Costruire il souk di Via Recta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS</zType>
+    <en-US>Research Industrial Progress</en-US>
+    <it-IT>Ricerca Progresso industriale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_TECH_MILITARY_PRESTIGE</zType>
+    <en-US>Research Military Prestige</en-US>
+    <it-IT>Ricerca sul prestigio militare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_TECH_ECONOMIC_REFORM</zType>
+    <en-US>Research Economic Reform</en-US>
+    <it-IT>Ricerca Riforma economica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_SIEGE_TOWER</zType>
+    <en-US>Train a Siege Tower</en-US>
+    <it-IT>Addestrare una torre d'assedio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER</zType>
+    <en-US>Train a Cimmerian Archer</en-US>
+    <it-IT>Addestrare un arciere cimmero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_TURRETED_ELEPHANT</zType>
+    <en-US>Train a Turreted Elephant</en-US>
+    <it-IT>Addestrare un elefante turrito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_KUSHITE_CAVALRY</zType>
+    <en-US>Train a Kushite Cavalry</en-US>
+    <it-IT>Addestrare una cavalleria kushita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_PHALANGITE</zType>
+    <en-US>Train a Phalangite</en-US>
+    <it-IT>Addestrare una falangite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER</zType>
+    <en-US>Train a Cataphract Archer</en-US>
+    <it-IT>Addestrare un arciere catafratto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_LEGIONARY</zType>
+    <en-US>Train a Legionary</en-US>
+    <it-IT>Addestrare un legionario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CULTURE_DEVELOPING</zType>
+    <en-US>Have five Developing Cities (One Game)</en-US>
+    <it-IT>Avere cinque città in via di sviluppo (One Game)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CULTURE_STRONG</zType>
+    <en-US>Have four Strong Cities (One Game)</en-US>
+    <it-IT>Avere quattro Città forti (One Game)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CULTURE_LEGENDARY</zType>
+    <en-US>Have three Legendary Cities (One Game)</en-US>
+    <it-IT>Avere tre Città Leggendarie (One Game)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED</zType>
+    <en-US>Capture ten Cities (One Game)</en-US>
+    <it-IT>Cattura dieci città (One Game)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME</zType>
+    <en-US>Name ten Landmarks (One Game)</en-US>
+    <it-IT>Nome di dieci punti di riferimento (One Game)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_STAT_TEN_LEADERS</zType>
+    <en-US>Have ten Leaders (One Game)</en-US>
+    <it-IT>Avere dieci Leader (One Game)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_STAT_SEVEN_WONDERS</zType>
+    <en-US>Build seven Wonders (One Game)</en-US>
+    <it-IT>Costruire sette meraviglie (One Game)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_TRADE_CARAVAN</zType>
+    <en-US>Complete a caravan trade mission</en-US>
+    <it-IT>Completare una missione commerciale con la carovana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER</zType>
+    <en-US>Assassinate another nation's Leader</en-US>
+    <it-IT>Assassinare il leader di un'altra nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ASSASSINATED_HEIR</zType>
+    <en-US>Assassinate your Heir</en-US>
+    <it-IT>Assassinare il proprio erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ASSASSINATED_BY_HEIR</zType>
+    <en-US>Be assassinated by your Heir</en-US>
+    <it-IT>Essere assassinati dal proprio erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BLADE_OF_THE_MONKEY</zType>
+    <en-US>Be assassinated by a monkey</en-US>
+    <it-IT>Essere assassinati da una scimmia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_1</zType>
+    <en-US>Complete Learn to Play Scenario 1</en-US>
+    <it-IT>Completare lo Scenario 1 per imparare a giocare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_2</zType>
+    <en-US>Complete Learn to Play Scenario 2</en-US>
+    <it-IT>Completare lo Scenario 2 per imparare a giocare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_3</zType>
+    <en-US>Complete Learn to Play Scenario 3</en-US>
+    <it-IT>Completare lo Scenario 3 per imparare a giocare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_4</zType>
+    <en-US>Complete Learn to Play Scenario 4</en-US>
+    <it-IT>Completare lo Scenario 4 per imparare a giocare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LEARNTOPLAY_5</zType>
+    <en-US>Complete Learn to Play Scenario 5</en-US>
+    <it-IT>Completare lo Scenario 5 per imparare a giocare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BARBARIAN_INVASION</zType>
+    <en-US>Survive the Barbarian Horde</en-US>
+    <it-IT>Sopravvivere all'orda barbarica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BARBARIAN_INVASION_GREAT_RAGING</zType>
+    <en-US>Survive the Barbarian Horde on The Great difficulty against Raging tribes</en-US>
+    <it-IT>Sopravvivi all'Orda dei Barbari a difficoltà La Grande contro le tribù Infuriate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BARBARIAN_INVASION_MULTIPLAYER</zType>
+    <en-US>Survive the Barbarian Horde with friends</en-US>
+    <it-IT>Sopravvivere all'Orda dei Barbari con gli amici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_1</zType>
+    <en-US>Win Carthage scenario 1</en-US>
+    <it-IT>Vincere lo scenario Carthage 1</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_1_BRONZE</zType>
+    <en-US>Win a Bronze Victory in Carthage scenario 1</en-US>
+    <it-IT>Vincere una vittoria di bronzo nello scenario Cartagine 1</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_1_SILVER</zType>
+    <en-US>Win a Silver Victory in Carthage scenario 1</en-US>
+    <it-IT>Vittoria d'argento a Cartagine scenario 1</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_1_GOLD</zType>
+    <en-US>Win a Gold Victory in Carthage scenario 1</en-US>
+    <it-IT>Ottenere una vittoria d'oro nello scenario 1 di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_1_EPIC</zType>
+    <en-US>Win an Epic Victory in Carthage scenario 1</en-US>
+    <it-IT>Vittoria epica a Cartagine scenario 1</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_2</zType>
+    <en-US>Win Carthage scenario 2</en-US>
+    <it-IT>Vincere lo scenario Carthage 2</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_2_BRONZE</zType>
+    <en-US>Win a Bronze Victory in Carthage scenario 2</en-US>
+    <it-IT>Ottenere una vittoria di bronzo nello scenario 2 di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_2_SILVER</zType>
+    <en-US>Win a Silver Victory in Carthage scenario 2</en-US>
+    <it-IT>Vittoria d'argento nello scenario 2 di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_2_GOLD</zType>
+    <en-US>Win a Gold Victory in Carthage scenario 2</en-US>
+    <it-IT>Ottenere una vittoria d'oro nello scenario 2 di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_2_EPIC</zType>
+    <en-US>Win an Epic Victory in Carthage scenario 2</en-US>
+    <it-IT>Vittoria epica a Cartagine scenario 2</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_3</zType>
+    <en-US>Win Carthage scenario 3</en-US>
+    <it-IT>Vincere lo scenario Carthage 3</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_3_BRONZE</zType>
+    <en-US>Win a Bronze Victory in Carthage scenario 3</en-US>
+    <it-IT>Ottenere una vittoria di bronzo nello scenario 3 di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_3_SILVER</zType>
+    <en-US>Win a Silver Victory in Carthage scenario 3</en-US>
+    <it-IT>Vincere una Vittoria d'argento nello scenario 3 di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_3_GOLD</zType>
+    <en-US>Win a Gold Victory in Carthage scenario 3</en-US>
+    <it-IT>Ottenere una vittoria d'oro nello scenario 3 di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_3_EPIC</zType>
+    <en-US>Win an Epic Victory in Carthage scenario 3</en-US>
+    <it-IT>Vincere una vittoria epica a Cartagine scenario 3</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_4</zType>
+    <en-US>Win Carthage scenario 4</en-US>
+    <it-IT>Vincere lo scenario Carthage 4</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_4_BRONZE</zType>
+    <en-US>Win a Bronze Victory in Carthage scenario 4</en-US>
+    <it-IT>Ottenere una vittoria di bronzo nello scenario 4 di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_4_SILVER</zType>
+    <en-US>Win a Silver Victory in Carthage scenario 4</en-US>
+    <it-IT>Ottenere una vittoria d'argento nello scenario 4 di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_4_GOLD</zType>
+    <en-US>Win a Gold Victory in Carthage scenario 4</en-US>
+    <it-IT>Ottenere una vittoria d'oro nello scenario 4 di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_4_EPIC</zType>
+    <en-US>Win an Epic Victory in Carthage scenario 4</en-US>
+    <it-IT>Vincere una vittoria epica a Cartagine scenario 4</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CARTHAGE_CAMPAIGN</zType>
+    <en-US>Complete the Carthage Campaign</en-US>
+    <it-IT>Completare la campagna di Cartagine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_100_YEARS</zType>
+    <en-US>Have a leader survive to 100 years of age</en-US>
+    <it-IT>Avere un leader che sopravvive fino a 100 anni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ROMAN_PAPACY</zType>
+    <en-US>Build Christianity Holy Site in Roma</en-US>
+    <it-IT>Costruire un sito sacro del cristianesimo a Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILY_FRIENDLY</zType>
+    <en-US>Reach highest family opinion of you</en-US>
+    <it-IT>Raggiungere l'opinione più alta che la famiglia ha di voi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FAMILY_FURIOUS</zType>
+    <en-US>Reach lowest family opinion of you</en-US>
+    <it-IT>Raggiungere l'opinione più bassa che la famiglia ha di voi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_MEMPHIS_PYRAMIDS</zType>
+    <en-US>Build the Pyramids in Menefer</en-US>
+    <it-IT>Costruire le piramidi a Menefer</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UR_GREAT_ZIGGURAT</zType>
+    <en-US>Build the Great Ziggurat in Ur</en-US>
+    <it-IT>Costruire la Grande Ziggurat di Ur</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DELPHI_ORACLE</zType>
+    <en-US>Build the Oracle in Delphi</en-US>
+    <it-IT>Costruire l'Oracolo in Delphi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BABYLON_HANGING_GARDENS</zType>
+    <en-US>Build the Hanging Gardens in Babylon</en-US>
+    <it-IT>Costruire i giardini pensili di Babilonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WASET_NECROPOLIS</zType>
+    <en-US>Build the Necropolis in Waset</en-US>
+    <it-IT>Costruire la necropoli di Waset</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BABYLON_ISHTAR_GATE</zType>
+    <en-US>Build the Ishtar Gate in Babylon</en-US>
+    <it-IT>Costruire la Porta di Ishtar a Babilonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ALEXANDRIA_LIGHTHOUSE</zType>
+    <en-US>Build the Lighthouse in Alexandria</en-US>
+    <it-IT>Costruire il faro di Alessandria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PERSEPOLIS_APADANA</zType>
+    <en-US>Build the Apadana in Parsa</en-US>
+    <it-IT>Costruire l'Apadana a Parsa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_HALICARNASSUS_MAUSOLEUM</zType>
+    <en-US>Build the Mausoleum in Halicarnassus</en-US>
+    <it-IT>Costruire il mausoleo di Alicarnasso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ATHENS_ACROPOLIS</zType>
+    <en-US>Build the Acropolis in Athenai</en-US>
+    <it-IT>Costruire l'Acropoli ad Atene</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RHODES_COLOSSUS</zType>
+    <en-US>Build the Colossus in Rhodes</en-US>
+    <it-IT>Costruire il Colosso a Rodi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ALEXANDRIA_MUSAEUM</zType>
+    <en-US>Build the Musaeum in Alexandria</en-US>
+    <it-IT>Costruire il Musaeum di Alessandria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ROMA_CIRCUS_MAXIMUS</zType>
+    <en-US>Build the Circus Maximus in Roma</en-US>
+    <it-IT>Costruire il Circo Massimo a Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ROMA_PANTHEON</zType>
+    <en-US>Build the Pantheon in Roma</en-US>
+    <it-IT>Costruire il Pantheon a Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BYZANTIUM_HAGIA_SOPHIA</zType>
+    <en-US>Build the Hagia Sophia in Byzantion</en-US>
+    <it-IT>Costruire la Basilica di Santa Sofia a Bisanzio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK</zType>
+    <en-US>Build the Via Recta Souk in Damascus</en-US>
+    <it-IT>Costruire il souk della Via Recta a Damasco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_OLD_WORLD_ORDER</zType>
+    <en-US>Have Epics, Slavery, and Tyranny laws active at the same time</en-US>
+    <it-IT>Avere le leggi Epica, Schiavitù e Tirannide attive allo stesso tempo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_POWER_TO_THE_PEOPLE</zType>
+    <en-US>Have Freedom, Constitution, Legal Code, and Tolerance laws active at the same time</en-US>
+    <it-IT>Avere le leggi sulla libertà, la Costituzione, il Codice legale e la tolleranza attive allo stesso tempo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PANTHEON_OF_GODS</zType>
+    <en-US>Have Polytheism, Divine Rule, and Holy War laws active at the same time</en-US>
+    <it-IT>Avere le leggi Politeismo, Regola divina e Guerra santa attive allo stesso tempo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THE_WORD_OF_GOD</zType>
+    <en-US>Have Monotheism, Orthodoxy, Iconography, and Pilgrimage laws active at the same time</en-US>
+    <it-IT>Avere le leggi sul Monoteismo, l'Ortodossia, l'Iconografia e il Pellegrinaggio attive allo stesso tempo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ELEPHANTINE_ELEPHANT</zType>
+    <en-US>Train an elephant in Elephantine</en-US>
+    <it-IT>Addestrare un elefante a Elefantina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ALEXANDER_THE_GREAT</zType>
+    <en-US>Eliminate Persia as Alexander The Great of Greece</en-US>
+    <it-IT>Eliminare la Persia come Alessandro Magno di Grecia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PUNIC_WARS</zType>
+    <en-US>Eliminate Carthage as Rome</en-US>
+    <it-IT>Eliminare Cartagine come Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_MACEDONIAN_WARS</zType>
+    <en-US>Eliminate Greece as Rome</en-US>
+    <it-IT>Eliminare la Grecia come Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BATTLE_OF_OPIS</zType>
+    <en-US>Eliminate Babylonia as Persia</en-US>
+    <it-IT>Eliminare Babilonia come Persia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_MEDOBABYLONIAN_CONQUEST</zType>
+    <en-US>Eliminate Assyria as Babylonia</en-US>
+    <it-IT>Eliminare l'Assiria come Babilonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FERTILE_CRESCENT</zType>
+    <en-US>As either Assyria, Babylonia, or Persia defeat the other two</en-US>
+    <it-IT>Quando l'Assiria, la Babilonia o la Persia sconfiggeranno le altre due</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_CLEOPATRAS_LOVE</zType>
+    <en-US>As Egyptian Queen marry a Roman</en-US>
+    <it-IT>Come regina egiziana sposa un romano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ALEXANDER_THE_WHO</zType>
+    <en-US>Assassinate Alexander as Leader with one of your characters</en-US>
+    <it-IT>Assassinare Alessandro in qualità di Leader con uno dei vostri personaggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_MERCHANTS_LEVANT</zType>
+    <en-US>Win a OCC using Traders family</en-US>
+    <it-IT>Vincere un OCC utilizzando la famiglia Traders</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_BEFORE_MONGOL_HORDE</zType>
+    <en-US>Win a game using only Riders family</en-US>
+    <it-IT>Vincere una partita utilizzando solo la famiglia Riders</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_KNOWLEDGE_ANCIENTS</zType>
+    <en-US>Build a Library and The Musaeum in Thutmosid (Sages) Alexandria</en-US>
+    <it-IT>Costruisci una biblioteca e un museo a Thutmosid (Sages) Alessandria d'Egitto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_COUNCIL_OF_MADNESS</zType>
+    <en-US>Have all three Councilors insane</en-US>
+    <it-IT>Tutti e tre i Consiglieri sono impazziti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ET_TU_BRUTUS</zType>
+    <en-US>As Rome have Leader assassinated by another Roman family</en-US>
+    <it-IT>Come Roma hanno Leader assassinato da un'altra famiglia romana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FIVE_ROUTS</zType>
+    <en-US>Perform five routs in a row with a single unit in the same turn</en-US>
+    <it-IT>Eseguire cinque rotte di fila con una singola unità nello stesso turno.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ETHNIC_DIVERSITY</zType>
+    <en-US>Have a Leader with all 7 ethnicities</en-US>
+    <it-IT>Avere un leader con tutte e 7 le etnie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE1_RUN</zType>
+    <en-US>Complete the run to Sparta (Heroes of the Aegean 1)</en-US>
+    <it-IT>Completa la corsa a Sparta (Heroes of the Aegean 1)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE1_WIN</zType>
+    <en-US>Win the Marathon scenario (Heroes of the Aegean 1)</en-US>
+    <it-IT>Vincere lo scenario della Maratona (Heroes of the Aegean 1)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE1_ALTERNATE_WIN</zType>
+    <en-US>Find another way to win the Marathon scenario (Heroes of the Aegean 1)</en-US>
+    <it-IT>Trova un altro modo per vincere lo scenario della Maratona (Heroes of the Aegean 1)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE1_LOSE</zType>
+    <en-US>Lose the Marathon scenario (Heroes of the Aegean 1)</en-US>
+    <it-IT>Perdere lo scenario della Maratona (Heroes of the Aegean 1)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_10</zType>
+    <en-US>Kill 10 Persian units at Thermopylae (Heroes of the Aegean 2)</en-US>
+    <it-IT>Uccidere 10 unità persiane alle Termopili (Heroes of the Aegean 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_20</zType>
+    <en-US>Kill 20 Persian units at Thermopylae (Heroes of the Aegean 2)</en-US>
+    <it-IT>Uccidere 20 unità persiane alle Termopili (Heroes of the Aegean 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_30</zType>
+    <en-US>Kill 30 Persian units at Thermopylae (Heroes of the Aegean 2)</en-US>
+    <it-IT>Uccidere 30 unità persiane alle Termopili (Heroes of the Aegean 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_40</zType>
+    <en-US>Kill 40 Persian units at Thermopylae (Heroes of the Aegean 2)</en-US>
+    <it-IT>Uccidere 40 unità persiane alle Termopili (Heroes of the Aegean 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_50</zType>
+    <en-US>Kill 50 Persian units at Thermopylae (Heroes of the Aegean 2)</en-US>
+    <it-IT>Uccidere 50 unità persiane alle Termopili (Heroes of the Aegean 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_THERMOPYLAE_WIN</zType>
+    <en-US>Complete the Battle of Thermopylae (Heroes of the Aegean 2)</en-US>
+    <it-IT>Completa la Battaglia delle Termopili (Heroes of the Aegean 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_SALAMIS_WIN</zType>
+    <en-US>Win the Battle of Salamis (Heroes of the Aegean 2)</en-US>
+    <it-IT>Vinci la Battaglia di Salamina (Heroes of the Aegean 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_SALAMIS_PERFECT</zType>
+    <en-US>Do not lose any ships in the Battle of Salamis (Heroes of the Aegean 2)</en-US>
+    <it-IT>Non perdere nessuna nave nella Battaglia di Salamina (Heroes of the Aegean 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE2_PLATAEA_WIN</zType>
+    <en-US>Win the Battle of Plataea (Heroes of the Aegean 2)</en-US>
+    <it-IT>Vinci la battaglia di Plataea (Heroes of the Aegean 2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_PAIONIA</zType>
+    <en-US>Retake Paionia (Heroes of the Aegean 3)</en-US>
+    <it-IT>Riprendere Paionia (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_THRACIANS</zType>
+    <en-US>Name two cities after yourself (Heroes of the Aegean 3)</en-US>
+    <it-IT>Dare il proprio nome a due città (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_ATHENS</zType>
+    <en-US>Subjugate Athens (Heroes of the Aegean 3)</en-US>
+    <it-IT>Sottomettere Atene (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_SPARTA</zType>
+    <en-US>Subjugate Sparta (Heroes of the Aegean 3)</en-US>
+    <it-IT>Soggiogare Sparta (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_NO_WOUND</zType>
+    <en-US>Win without Philip losing an eye (Heroes of the Aegean 3)</en-US>
+    <it-IT>Vincere senza che Filippo perda un occhio (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_THREE_WIVES</zType>
+    <en-US>Have three wives as Philip (Heroes of the Aegean 3)</en-US>
+    <it-IT>Avere tre mogli come Filippo (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_OLYMPICS</zType>
+    <en-US>Win an Olympic race (Heroes of the Aegean 3)</en-US>
+    <it-IT>Vincere una gara olimpica (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_ALEXANDER_KILL</zType>
+    <en-US>Kill a unit with young Alexander as general (Heroes of the Aegean 3)</en-US>
+    <it-IT>Uccidere un'unità con il giovane Alexander come generale (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY</zType>
+    <en-US>Win Philip's scenario (Heroes of the Aegean 3)</en-US>
+    <it-IT>Vincere lo scenario di Philip (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY_BRONZE</zType>
+    <en-US>Complete the main victory goals as Philip (Heroes of the Aegean 3)</en-US>
+    <it-IT>Completa gli obiettivi principali di vittoria come Philip (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY_SILVER</zType>
+    <en-US>Complete two optional victory goals as Philip (Heroes of the Aegean 3)</en-US>
+    <it-IT>Completa due obiettivi di vittoria opzionali come Philip (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE3_VICTORY_GOLD</zType>
+    <en-US>Complete all the optional victory goals as Philip (Heroes of the Aegean 3)</en-US>
+    <it-IT>Completa tutti gli obiettivi opzionali di vittoria come Philip (Heroes of the Aegean 3)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE4_INTRIGUE</zType>
+    <en-US>Complete the Intrigue Tree (Heroes of the Aegean 4)</en-US>
+    <it-IT>Completa l'Albero dell'Intrigo (Heroes of the Aegean 4)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE4_CITIES</zType>
+    <en-US>Gain Control of all Cities (Heroes of the Aegean 4)</en-US>
+    <it-IT>Ottenere il controllo di tutte le città (Heroes of the Aegean 4)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE4_WIN_OLYMPIAS_STORYLINE</zType>
+    <en-US>Win after Philip killed by Olympias (Heroes of the Aegean 4)</en-US>
+    <it-IT>Vincere dopo che Filippo è stato ucciso da Olimpiade (Heroes of the Aegean 4)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE4_WIN_PAUSANIAS_STORYLINE</zType>
+    <en-US>Win after Philip killed by Pausanias (Heroes of the Aegean 4)</en-US>
+    <it-IT>Vincere dopo che Filippo è stato ucciso da Pausania (Heroes of the Aegean 4)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE4_WIN_PERSIA_STORYLINE</zType>
+    <en-US>Win after Philip killed by Persians (Heroes of the Aegean 4)</en-US>
+    <it-IT>Vincere dopo che Filippo è stato ucciso dai Persiani (Heroes of the Aegean 4)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_BUCEPHALUS_10_KILLS</zType>
+    <en-US>Kill 10 units with Alexander on Bucephalus (Heroes of the Aegean 5)</en-US>
+    <it-IT>Uccidi 10 unità con Alexander su Bucephalus (Heroes of the Aegean 5)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_TYRE</zType>
+    <en-US>Complete the Siege of Tyre (Heroes of the Aegean 5)</en-US>
+    <it-IT>Completa l'Assedio di Tiro (Heroes of the Aegean 5)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_PHARAOH</zType>
+    <en-US>Get Alexander recognized as Pharaoh (Heroes of the Aegean 5)</en-US>
+    <it-IT>Far riconoscere Alessandro come Faraone (Heroes of the Aegean 5)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_GORDIAN_KNOT</zType>
+    <en-US>Cut the Gordian Knot (Heroes of the Aegean 5)</en-US>
+    <it-IT>Tagliare il nodo gordiano (Heroes of the Aegean 5)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_PERSIAN_GATE</zType>
+    <en-US>Win the Battle of Persian Gate (Heroes of the Aegean 5)</en-US>
+    <it-IT>Vinci la Battaglia di Persian Gate (Heroes of the Aegean 5)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_VICTORY</zType>
+    <en-US>Defeat the Persian Empire (Heroes of the Aegean 5)</en-US>
+    <it-IT>Sconfiggere l'Impero persiano (Heroes of the Aegean 5)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_VICTORY_BETTER</zType>
+    <en-US>Defeat the Persian Empire in under 60 turns (Heroes of the Aegean 5)</en-US>
+    <it-IT>Sconfiggi l'Impero persiano in meno di 60 turni (Heroes of the Aegean 5)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE5_VICTORY_BEST</zType>
+    <en-US>Defeat the Persian Empire and become Pharaoh in under 50 turns (Heroes of the Aegean 5)</en-US>
+    <it-IT>Sconfiggi l'Impero persiano e diventa Faraone in meno di 50 turni (Heroes of the Aegean 5)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE6_MACEDONIA</zType>
+    <en-US>Win the Diadochi scenario as Cassander of Macedonia (Heroes of the Aegean 6)</en-US>
+    <it-IT>Vinci lo scenario Diadochi come Cassandro di Macedonia (Heroes of the Aegean 6)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE6_PTOLEMY</zType>
+    <en-US>Win the Diadochi scenario as the Ptolemaic Kingdom (Heroes of the Aegean 6)</en-US>
+    <it-IT>Vincere lo scenario Diadochi come Regno Tolemaico (Heroes of the Aegean 6)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE6_ANTIGONID</zType>
+    <en-US>Win the Diadochi scenario as the Antigonid Empire (Heroes of the Aegean 6)</en-US>
+    <it-IT>Vinci lo scenario Diadochi come Impero Antigonide (Heroes of the Aegean 6)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_GREECE6_SELEUCUS</zType>
+    <en-US>Win the Diadochi scenario as the Seleucid Empire (Heroes of the Aegean 6)</en-US>
+    <it-IT>Vinci lo scenario Diadochi come Impero Seleucide (Heroes of the Aegean 6)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_NATION_HITTITE</zType>
+    <en-US>Win as Hatti</en-US>
+    <it-IT>Vincere come Hatti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_RELIGION_PAGAN_HITTITE</zType>
+    <en-US>Found Hittite Paganism</en-US>
+    <it-IT>Trovato il paganesimo ittita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UNIT_HITTITE_CHARIOT</zType>
+    <en-US>Train a Three Man Chariot</en-US>
+    <it-IT>Addestrare un carro a tre uomini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_HITTITE_IRON</zType>
+    <en-US>As Hatti, build a mine</en-US>
+    <it-IT>Come Hatti, costruire una miniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_FIRST_PEACE_TREATY</zType>
+    <en-US>As Hatti, make Peace with Egypt</en-US>
+    <it-IT>Come Hatti, fare pace con l'Egitto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LBP1</zType>
+    <en-US>Complete Learn By Playing 1 - Able</en-US>
+    <it-IT>Imparare giocando 1 - Able</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LBP2</zType>
+    <en-US>Complete Learn By Playing 2 - Just</en-US>
+    <it-IT>Imparare giocando 2 - Solo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LBP3</zType>
+    <en-US>Complete Learn By Playing 3 - Good</en-US>
+    <it-IT>Imparare giocando 3 - Buono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_LBP4</zType>
+    <en-US>Complete Learn By Playing 4 - Strong</en-US>
+    <it-IT>Imparare giocando 4 - Forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_SINGLEPLAYER</zType>
+    <en-US>Play a Single Player Game</en-US>
+    <it-IT>Giocare una partita a giocatore singolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_NETWORK</zType>
+    <en-US>Play a Network Game</en-US>
+    <it-IT>Giocare a un gioco di rete</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_LAN</zType>
+    <en-US>Play a LAN Game</en-US>
+    <it-IT>Giocare una partita LAN</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_PLAYBYCLOUD</zType>
+    <en-US>Play a Play-By-Cloud Game</en-US>
+    <it-IT>Giocare a un gioco ad alta voce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_HOTSEAT</zType>
+    <en-US>Play a Hotseat Game</en-US>
+    <it-IT>Giocare a un gioco Hotseat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_FFA</zType>
+    <en-US>Play a Free-For-All Game ({gt}2 Players)</en-US>
+    <it-IT>Giocare una partita libera ({gt}2 Players)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_MPTEAMS</zType>
+    <en-US>Play a MP Teams Game</en-US>
+    <it-IT>Giocare una partita a squadre MP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_PLAY_1V1</zType>
+    <en-US>Play a 1-v-1 Game</en-US>
+    <it-IT>Giocare una partita 1-v-1</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_SINGLEPLAYER</zType>
+    <en-US>Win a Single Player Game</en-US>
+    <it-IT>Vincere una partita a giocatore singolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_NETWORK</zType>
+    <en-US>Win a Network Game</en-US>
+    <it-IT>Vincere un gioco di rete</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_LAN</zType>
+    <en-US>Win a LAN Game</en-US>
+    <it-IT>Vincere una partita LAN</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_PLAYBYCLOUD</zType>
+    <en-US>Win a Play-By-Cloud Game</en-US>
+    <it-IT>Vinci un gioco Play-By-Cloud</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_HOTSEAT</zType>
+    <en-US>Win a Hotseat Game</en-US>
+    <it-IT>Vincere un gioco Hotseat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_FFA</zType>
+    <en-US>Win a Free-For-All Game ({gt}2 Players)</en-US>
+    <it-IT>Vincere una partita libera ({gt}2 Players)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_MPTEAMS</zType>
+    <en-US>Win a MP Teams Game</en-US>
+    <it-IT>Vincere una partita a squadre MP</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_WIN_1V1</zType>
+    <en-US>Win a 1-v-1 Game</en-US>
+    <it-IT>Vincere una partita 1-v-1</it-IT>
+  </Entry>
+</Root>

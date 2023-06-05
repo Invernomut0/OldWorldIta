@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_START_HITTITE</zType>
+    <en-US>You are {CHARACTER-SHORT-1}, warrior king of the {PLAYER-0,3}.
+First called Labarnas, you have earned your throne-name of {CHARACTER-SHORT-1} through fighting to unite the heartlands. Although the people now stand behind you, there is still the threat of intrigue. Your family will need to be brought in line if {PLAYER-0} is to become a grand nation to surpass the kingdom of your forefathers.
+The established civilizations of this Old World do not yet know of the strength and splendor of {PLAYER-0}, but they will learn. </en-US>
+    <it-IT>Sei {CHARACTER-SHORT-1}, re guerriero del {PLAYER-0,3}.
+Prima chiamato Labarnas, ti sei guadagnato il nome di trono di {CHARACTER-SHORT-1} combattendo per unire le terre del cuore. Sebbene il popolo sia ora al tuo fianco, c'è ancora la minaccia di intrighi. La vostra famiglia dovrà essere messa in riga se volete che {PLAYER-0} diventi una grande nazione che superi il regno dei vostri antenati.
+Le civiltà consolidate di questo Vecchio Mondo non conoscono ancora la forza e lo splendore di {PLAYER-0}, ma impareranno. </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_START_HITTITE_TUTORIAL</zType>
+    <en-US>{TEXT_EVENTSTORY_START_HITTITE}
+Select your link(UNIT_SETTLER) and found your link(CONCEPT_CAPITAL) City. You'll also decide which Family manages your first City, gaining their advantages immediately.</en-US>
+    <it-IT>{TEXT_EVENTSTORY_START_HITTITE}
+Selezionate la vostra link(UNIT_SETTLER) e trovate la vostra link(CONCEPT_CAPITAL) Città. Deciderete anche quale Famiglia gestisce la vostra prima Città, ottenendo immediatamente i suoi vantaggi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_CHARIOT_COMBAT</zType>
+    <en-US>{CHARACTER-1}'s tutors are reporting that {G1:he:she} has been showing keen interest and remarkable skill in fighting with mounted units.
+How should they focus these great aptitudes?</en-US>
+    <it-IT>I tutori di {CHARACTER-1} riferiscono che {G1:he:she} ha mostrato un forte interesse e una notevole abilità nel combattere con le unità a cavallo.
+Come concentrare queste grandi attitudini?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_RICHES_OF_THE_HILLS</zType>
+    <en-US><![CDATA["We people of the thousand gods inherited the riches of the hills", {CHARACTER-1} tutor explains as they contemplate the countryside from the link(PROJECT_WALLS) of {CITY-2}.<br>
+"The hills hide crucial resources, iron and stone, for one crafty enough to find them. They also are a most precious ally in the defense of our lands."<br>
+{G1:His:Her} chest swelling with pride, {CHARACTER-1} exclaims:]]></en-US>
+    <it-IT><![CDATA["Noi popolo dei mille dei abbiamo ereditato le ricchezze delle colline", spiega il tutore di {CHARACTER-1} mentre contemplano la campagna dal link(PROJECT_WALLS) di {CITY-2}.<br>
+"Le colline nascondono risorse cruciali, ferro e pietra, per chi è abbastanza astuto da trovarle. Sono anche un alleato preziosissimo per la difesa delle nostre terre".
+Il petto di {G1:His:Her} si gonfia d'orgoglio e {CHARACTER-1} esclama:]]></it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_THE_FAIREST_OF_LAWS</zType>
+    <en-US>"We {PLAYER-0,3} are a lawful people. Our laws were set by wise kings of old and are the fairest of all laws.", {CHARACTER-1} recites.
+"And how do we know that our laws are the fairest of all?", {G1:his:her} tutor asks.</en-US>
+    <it-IT>"Noi {PLAYER-0,3} siamo un popolo legittimo. Le nostre leggi sono state stabilite dai saggi re di un tempo e sono le più giuste di tutte le leggi", recita {CHARACTER-1}.
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_A_THOUSAND_GODS</zType>
+    <en-US>"We {PLAYER-0,3} are the people of a thousand gods! We don't deny the gods of anyone, or the gods from any place."
+As {G0:his:her} tutor emphasizes the great number of divinities revered by our people, {CHARACTER-1} asks how best to respect them all.</en-US>
+    <it-IT>"Noi {PLAYER-0,3} siamo il popolo dei mille dei! Non rinneghiamo gli dei di nessuno, né gli dei di nessun luogo".
+Mentre il precettore {G0:his:her} sottolinea il gran numero di divinità venerate dal nostro popolo, {CHARACTER-1} chiede come rispettarle tutte.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_THE_CITY_GATES</zType>
+    <en-US>Making the most of a rare occasion to spend time with your {G2:son:daughter} {CHARACTER-SHORT-2}, you take a stroll on {CITY-1} sacred road. As you go through the gates of the city, you explain how each gate illustrates one of the great virtues of the {PLAYER-0,3}. Which gate do you chose to conclude the lesson ?</en-US>
+    <it-IT>Approfittando di una rara occasione per trascorrere del tempo con il vostro {G2:son:daughter} {CHARACTER-SHORT-2}, fate una passeggiata sulla strada sacra di {CITY-1}. Mentre attraversate le porte della città, spiegate come ogni porta illustri una delle grandi virtù del {PLAYER-0,3}. Quale porta scegliete per concludere la lezione?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BLESSING_OF_ARINNITTI</zType>
+    <en-US>It has been a propitious season, all have praised your rule, and even enemies have flinched from your gaze. {CHARACTER-2} effuses "It is the mark of Arinnitti upon you, my {TITLE-3}! See, the way the scent of cedar follows you, and the light of the sun catches in your hair! We must thank the goddess for the strength she gifts you. Let us hasten to the opening and dedication of the great link(IMPROVEMENT_SHRINE_ARINNITTI) in {CITY-0}, and show men and gods your piety." </en-US>
+    <it-IT>È stata una stagione propizia, tutti hanno lodato il tuo governo e persino i nemici hanno indietreggiato di fronte al tuo sguardo. {CHARACTER-2} effonde "È il marchio di Arinnitti su di te, mio {TITLE-3}! Vedi, il modo in cui il profumo del cedro ti segue, e la luce del sole si riflette sui tuoi capelli! Dobbiamo ringraziare la dea per la forza che ti dona. Affrettiamoci all'inaugurazione e alla dedicazione del grande link(IMPROVEMENT_SHRINE_ARINNITTI) in {CITY-0}, e mostriamo agli uomini e agli dei la tua pietà". </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEDICATION_OF_ARINNITTI</zType>
+    <en-US>You feel drowsy as the scent of cedar fills the warm hall and the priestess intones "...and so she set me upon her lap and she took me by the hand and went before me in the battle..." Time seems to blur until, with a start, you realize the recitation is complete and {CHARACTER-2} is in the midst of animated conversation with you. "...can't imagine how they would react, but regardless, we can expect you for the full ceremony at the new link(IMPROVEMENT_SHRINE_ARINNITTI) in {CITY-0}?"</en-US>
+    <it-IT>Vi sentite assopiti mentre il profumo di cedro riempie la calda sala e la sacerdotessa intona "... e così mi posò sulle sue ginocchia, mi prese per mano e mi precedette nella battaglia...". Il tempo sembra sfociare finché, con un sussulto, vi rendete conto che la recita è terminata e {CHARACTER-2} è nel bel mezzo di una conversazione animata con voi. "... non riesco a immaginare come reagirebbero, ma in ogni caso, possiamo aspettarvi per la cerimonia completa al nuovo link(IMPROVEMENT_SHRINE_ARINNITTI) in {CITY-0}?".</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DISPLEASURE_OF_ARINNITTI</zType>
+    <en-US>{CHARACTER-2} enters the hall at the head of a formation of stern-looking priestesses clad in the bright gold of the sun. "My {TITLE-3}, I shall not mince words, Arinnitti has forsaken you and so soon will the people, sure as darkness follows the sunset. But each night brings a new dawn, and even one such as you may supplicate yourself for forgiveness at the great ceremony dedicating the link(IMPROVEMENT_SHRINE_ARINNITTI) in {CITY-0}." </en-US>
+    <it-IT>{CHARACTER-2} entra nella sala alla testa di una formazione di sacerdotesse dall'aspetto severo, vestite dell'oro brillante del sole. "Mio {TITLE-3}, non sarò tenero con le parole, Arinnitti ti ha abbandonato e presto lo farà anche il popolo, certo come l'oscurità segue il tramonto. Ma ogni notte porta una nuova alba, e anche uno come te potrà supplicare il perdono alla grande cerimonia di consacrazione del link(IMPROVEMENT_SHRINE_ARINNITTI) in {CITY-0}". </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BLESSING_OF_TARHUN</zType>
+    <en-US>On a tour of defenses along with your closest advisors, {CHARACTER-2} walks beside you. "My {TITLE-3}, our forces are strong, but none can prevail in war without the gods at their back. Seek the blessing of Tarhun. Bring His lightning down on our foes, let them tremble at the feet of His oxen. Come to {CITY-0}, take an honored place at the sanctification of the link(IMPROVEMENT_SHRINE_TARHUN), and I am sure He will take note." </en-US>
+    <it-IT>Durante un giro di difese insieme ai suoi più stretti consiglieri, {CHARACTER-2} cammina accanto a lei. "Mio {TITLE-3}, le nostre forze sono forti, ma nessuno può prevalere in guerra senza gli dei alle spalle. Cerca la benedizione di Tarhun. Fai cadere i suoi fulmini sui nostri nemici, falli tremare ai piedi dei suoi buoi. Venite a {CITY-0}, occupate un posto d'onore alla santificazione del link(IMPROVEMENT_SHRINE_TARHUN), e sono certo che Egli ne prenderà nota". </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEDICATION_OF_TARHUN</zType>
+    <en-US>There is a clatter of hooves as {CHARACTER-2} leads a procession of priests of Tarhun and their sacred bulls before you. "My {TITLE-3}, the gods demand your attention. Lightning struck thrice and thrice more in last night's storm and the omens are right to dedicate the great link(IMPROVEMENT_SHRINE_TARHUN) at {CITY-0}. If you wish the strength of Tarhun behind our armies, I implore you to attend." </en-US>
+    <it-IT>C'è uno sferragliare di zoccoli mentre {CHARACTER-2} guida una processione di sacerdoti di Tarhun e dei loro tori sacri davanti a voi. "Mio {TITLE-3}, gli dei richiedono la tua attenzione. I fulmini hanno colpito tre volte e altre tre volte nella tempesta della scorsa notte e i presagi sono giusti per dedicare il grande link(IMPROVEMENT_SHRINE_TARHUN) a {CITY-0}. Se vuoi che la forza di Tarhun sostenga i nostri eserciti, ti imploro di partecipare". </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DISPLEASURE_OF_TARHUN</zType>
+    <en-US>As you make to ride out and meet with your generals in the field, {CHARACTER-2} stands in your path. "You are not mightier than the gods, O {TITLE-3}. If you do not make amends for your reckless impiety, Tarhun will ensure spear or lightning fells every man sworn to you, that your own hubris cuts you down sure as any blade. Repent, supplicate yourself at the dedication of the link(IMPROVEMENT_SHRINE_TARHUN) in {CITY-0}, and you and your men might yet be saved."</en-US>
+    <it-IT>Mentre ti accingi a cavalcare e a incontrare i tuoi generali sul campo, {CHARACTER-2} si frappone al tuo cammino. "Non sei più potente degli dei, o {TITLE-3}. Se non fai ammenda per la tua sconsiderata empietà, Tarhun farà in modo che la lancia o il fulmine abbattano ogni uomo che ti ha giurato, che la tua stessa arroganza ti abbatta con la stessa sicurezza di una lama. Pentiti, supplica te stesso alla dedicazione del link(IMPROVEMENT_SHRINE_TARHUN) in {CITY-0}, e tu e i tuoi uomini potreste ancora essere salvati".</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BLESSING_OF_KAMRUSEPA</zType>
+    <en-US>In the dark nights of winter, dreams had come to you of a season of maladies and illness. Speaking of them to {CHARACTER-2}, you receive the counsel "It is Kamrusepa you must seek, She is the salve against weakening of soul and body. Come with me, attend Her great ceremony at the link(IMPROVEMENT_SHRINE_KAMRUSEPA) of {CITY-0}."</en-US>
+    <it-IT>Nelle notti buie dell'inverno, avete sognato una stagione di malanni e malattie. Parlandone a {CHARACTER-2}, ricevi il consiglio: "È Kamrusepa che devi cercare, Lei è il balsamo contro l'indebolimento dell'anima e del corpo. Vieni con me, partecipa alla sua grande cerimonia al link(IMPROVEMENT_SHRINE_KAMRUSEPA) di {CITY-0}".</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEDICATION_OF_KAMRUSEPA</zType>
+    <en-US>It had been a season of maladies and illness, until at the urging of the court, priestesses of Kamrusepa were called upon. They sweep through the palace bearing incense, balms and chants of cleansing. In their wake, the mood lightens and a liveliness returns. {CHARACTER-2}, however, lingers as the priestesses depart. "Take heed, My {TITLE-3}, Kamrusepa demands no payment, but you would do well to honor her at the dedication of her link(IMPROVEMENT_SHRINE_KAMRUSEPA) in {CITY-0}."</en-US>
+    <it-IT>È stata una stagione di malanni e malattie, finché, su sollecitazione della corte, sono state chiamate le sacerdotesse di Kamrusepa. Esse attraversano il palazzo portando incenso, balsami e canti di purificazione. Al loro seguito, l'umore si alleggerisce e torna la vivacità. {CHARACTER-2}, tuttavia, indugia mentre le sacerdotesse se ne vanno. "Fai attenzione, mio {TITLE-3}, Kamrusepa non esige alcun pagamento, ma faresti bene a onorarla alla dedicazione del suo link(IMPROVEMENT_SHRINE_KAMRUSEPA) in {CITY-0}".</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DISPLEASURE_OF_KAMRUSEPA</zType>
+    <en-US>It has been a season of maladies and illness, and the mood is somber as {CHARACTER-2} confronts you at court. "You are not mightier than the gods, O {TITLE-3}. The stink of impiety and corruption surrounds us, and if you do not wish to rot in it, you must humble yourself before Kamrusepa. Come in supplication to the first grand ceremony of {CITY-0}'s link(IMPROVEMENT_SHRINE_KAMRUSEPA), and She might yet have mercy." </en-US>
+    <it-IT>È stata una stagione di malanni e malattie, e l'umore è cupo quando {CHARACTER-2} ti affronta a corte. "Non sei più potente degli dei, o {TITLE-3}. La puzza di empietà e corruzione ci circonda e, se non vuoi marcire in essa, devi umiliarti davanti a Kamrusepa. Vieni a supplicare alla prima grande cerimonia della link(IMPROVEMENT_SHRINE_KAMRUSEPA) di {CITY-0}, ed Ella potrebbe ancora avere pietà". </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BLESSING_OF_HALKI</zType>
+    <en-US>In the last days of summer, the mood of the city turns to revelry in impatience for the festivals of harvest, and you catch the distant sounds of song and dance filtering through the walls of the palace. {CHARACTER-2} seems to catch your train of thought, and interjects with a knowing smile "My {TITLE-3}, the people already prepare to thank Halki for the bounty of our harvest, will you not join them? You would have a place of great honor at the sanctification of her link(IMPROVEMENT_SHRINE_HALKI) in {CITY-0}."</en-US>
+    <it-IT>Negli ultimi giorni d'estate, l'umore della città si trasforma in baldoria nell'impazienza per le feste del raccolto, e si percepiscono i suoni lontani di canti e danze che filtrano attraverso le mura del palazzo. {CHARACTER-2} sembra cogliere il tuo pensiero e interviene con un sorriso complice "Mio {TITLE-3}, il popolo si sta già preparando a ringraziare Halki per l'abbondanza del nostro raccolto, non vuoi unirti a loro? Avresti un posto di grande onore alla santificazione della sua link(IMPROVEMENT_SHRINE_HALKI) in {CITY-0}".</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEDICATION_OF_HALKI</zType>
+    <en-US>You watch politely as {CHARACTER-2} performs the seventh augury of the season. {G2:He:She} frowns and turns to you. "My {TITLE-3}, the omens remain unclear, but there are those that fear for the upcoming harvest. I would implore you, seek a boon of Halki, let people and gods see your presence at the dedication of the link(IMPROVEMENT_SHRINE_HALKI) at {CITY-0}." </en-US>
+    <it-IT>Guardate educatamente mentre {CHARACTER-2} esegue il settimo augurio della stagione. {G2:Lui:Lei} aggrotta le sopracciglia e si rivolge a voi. "Mio {TITLE-3}, i presagi rimangono poco chiari, ma c'è chi teme per l'imminente raccolto. Ti imploro, chiedi una manna ad Halki, fai in modo che la gente e gli dei vedano la tua presenza alla dedicazione del link(IMPROVEMENT_SHRINE_HALKI) al {CITY-0}". </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DISPLEASURE_OF_HALKI</zType>
+    <en-US>The rains are late, and the palace swelters amid an uncomfortable heat and rumors of a dire harvest season. {CHARACTER-2} confronts you before the court. "You are not mightier than the gods, O {TITLE-3}. The seeds of your reckless impiety have blossomed, and now the whole realm withers under the wrathful gaze of Halki. Beg her forgiveness as we dedicate the link(IMPROVEMENT_SHRINE_HALKI) in {CITY-0}, or she will yet destroy all you hold dear." </en-US>
+    <it-IT>Le piogge tardano ad arrivare e il palazzo si gonfia in mezzo a un caldo fastidioso e alle voci di una stagione del raccolto disastrosa. {CHARACTER-2} ti affronta davanti alla corte. "Non sei più potente degli dei, o {TITLE-3}. I semi della tua sconsiderata empietà sono sbocciati e ora l'intero regno appassisce sotto lo sguardo iracondo di Halki. Implora il suo perdono mentre dedichiamo il link(IMPROVEMENT_SHRINE_HALKI) a {CITY-0}, o distruggerà ancora tutto ciò che ti è caro". </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SALT_OF_THE_EARTH</zType>
+    <en-US>As our first royal caravan makes ready to set out for distant lands, the merchants appointed to lead the expedition insist that link(RESOURCE_SALT), so common around {CITY-0}, is considered a luxury and quite valuable in foreign land. They argue that we should consider it an important trade good.</en-US>
+    <it-IT>Mentre la nostra prima carovana reale si prepara a partire per terre lontane, i mercanti incaricati di guidare la spedizione insistono sul fatto che link(RESOURCE_SALT), così comune intorno a {CITY-0}, è considerato un lusso e piuttosto prezioso in terra straniera. Sostengono che dovremmo considerarlo un bene commerciale importante.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_GREATEST_CAVALRY_BATTLE_OF_ALL_TIMES_HITTITES</zType>
+    <en-US>Today was a glorious day for the {PLAYER-0,1}!
+The accursed {PLAYER-1,3} were marching their innumerable cavalry hosts to threaten our land and our people.
+We misled them, lured them close to {CITY-5}, where the {TITLE-4} had mustered our glorious chariotry. Only too late did they realize their mistake!
+We struck like thunder and terror filled their hearts. {CHARACTER-4} was like Tarhun before them! We scattered their warriors like chaff in the wind, routed their vaunted army and plundered their camp. Their {TITLE-8} barely escaped with {G8:his:her} life!
+Their numberless horde was defeated and they had to retreat. {CITY-5} is safe and we won the largest chariot battle the world has ever seen!</en-US>
+    <it-IT>Oggi è stato un giorno glorioso per i {PLAYER-0,1}!
+I maledetti {PLAYER-1,3} stavano marciando con le loro innumerevoli schiere di cavalleria per minacciare la nostra terra e il nostro popolo.
+Li abbiamo ingannati, attirandoli vicino al {CITY-5}, dove il {TITLE-4} aveva radunato la nostra gloriosa cavalleria. Solo troppo tardi si accorsero del loro errore!
+Colpimmo come un tuono e il terrore riempì i loro cuori. {CHARACTER-4} era come Tarhun davanti a loro! Sparpagliammo i loro guerrieri come pula al vento, sbaragliammo il loro esercito di valore e saccheggiammo il loro accampamento. Il loro {TITLE-8} si salvò a malapena con {G8:his:her} la vita!
+La loro orda numerosa è stata sconfitta e hanno dovuto ritirarsi. {CITY-5} è salvo e abbiamo vinto la più grande battaglia di carri che il mondo abbia mai visto!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_GREATEST_CAVALRY_BATTLE_OF_ALL_TIMES_EGYPTIANS</zType>
+    <en-US>Today was a glorious day for {PLAYER-0}!
+Near {CITY-6} the vile {PLAYER-1,3} and their numberless cavalry ambushed the royal column and tried to take by treachery what they couldn't obtain through valor.
+They routed our warriors and isolated our {TITLE-4}, who was deserted and surrounded by enemies. The greedy {PLAYER-1,3} thought they had won and were plundering our camp. They thought they were celebrating victory!
+But, at the darkest hour, Amun master of victory came to our {TITLE-4}. {CHARACTER-4} was before them like Set in his moment! The army rallied around {G4:him:her} and charged again!
+The {TITLE-4} chased the {PLAYER-1,3} from our camp and slaughtered a great many of them. They scattered before us, abandoning their chariots to flee across rivers, dispersing as fast as swimming crocodiles!
+In spite of the {PLAYER-1,3}'s treachery, today we won the largest chariot battle the world has ever seen!</en-US>
+    <it-IT>Oggi è stato un giorno glorioso per {PLAYER-0}!
+Nei pressi di {CITY-6} i vili {PLAYER-1,3} e la loro numerosa cavalleria hanno teso un'imboscata alla colonna reale e hanno cercato di prendere a tradimento ciò che non potevano ottenere con il valore.
+Sbaragliarono i nostri guerrieri e isolarono il nostro {TITLE-4}, che era deserto e circondato dai nemici. Gli avidi {PLAYER-1,3} pensavano di aver vinto e saccheggiavano il nostro accampamento. Pensavano di festeggiare la vittoria!
+Ma, nell'ora più buia, Amon, maestro della vittoria, venne dal nostro {TITLE-4}. {CHARACTER-4} era davanti a loro come Set nel suo momento! L'esercito si radunò intorno a {G4:him:her} e caricò di nuovo!
+I {TITLE-4} scacciarono i {PLAYER-1,3} dal nostro campo e ne massacrarono moltissimi. Si dispersero davanti a noi, abbandonando i carri per fuggire attraverso i fiumi, disperdendosi con la stessa velocità dei coccodrilli che nuotano!
+Nonostante il tradimento del {PLAYER-1,3}, oggi abbiamo vinto la più grande battaglia di carri che il mondo abbia mai visto!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WORTHY_OPPONENTS_PEACE_OFFER</zType>
+    <en-US>The {PLAYER-0,3} sent us a delegation, offering a particularly favorable peace treaty. They were durably impressed by our military prowess during our great cavalry battle.
+They even suggest we exchange combat training techniques as a sign of respect between our nations!</en-US>
+    <it-IT>Il {PLAYER-0,3} ci ha inviato una delegazione, offrendoci un trattato di pace particolarmente favorevole. Sono rimasti impressionati dalla nostra abilità militare durante la grande battaglia di cavalleria.
+Hanno persino proposto di scambiarci le tecniche di addestramento al combattimento come segno di rispetto tra le nostre nazioni!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WORTHY_OPPONENTS_TRUCE</zType>
+    <en-US>The {PLAYER-0,3} sent us a truce parley. Respectful of the military skills we demonstrated, they suggest that our people need not shed any more blood to prove their valor on the field.
+They came with gifts as a sign of benevolence and respect.</en-US>
+    <it-IT>I {PLAYER-0,3} ci hanno inviato una tregua. Rispettosi delle capacità militari che abbiamo dimostrato, suggeriscono che il nostro popolo non deve versare altro sangue per dimostrare il proprio valore sul campo.
+Sono venuti con dei doni in segno di benevolenza e rispetto.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HITTITE_CONTACT_BABYLON_KINGMAKERS</zType>
+    <en-US>We've just made contact with the {PLAYER-0,3} again. In times past, a {PLAYER-2} king sacked {CITY-3} and installed the {FAMILY-4,3} as rulers of their capital and kingdom.</en-US>
+    <it-IT>Siamo appena entrati di nuovo in contatto con i {PLAYER-0,3}. In tempi passati, un re {PLAYER-2} saccheggiò {CITY-3} e insediò i {FAMILY-4,3} come sovrani della loro capitale e del loro regno.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HITTITE_CONTACT_BABYLON_WOULDBE_KINGMAKERS</zType>
+    <en-US>We've just made contact with the {PLAYER-0,3} again. In times past, a {PLAYER-2} king sacked {CITY-3} and tried to install the {FAMILY-4,1} as rulers of their capital and kingdom.
+However the {FAMILY-4,1} have since been ousted from power and {CHARACTER-5} doesn't have very fond memories of our people.</en-US>
+    <it-IT>Siamo appena entrati di nuovo in contatto con i {PLAYER-0,3}. In passato, un re di {PLAYER-2} ha saccheggiato {CITY-3} e ha cercato di installare i {FAMILY-4,1} come sovrani della loro capitale e del loro regno.
+Da allora, però, i {FAMILY-4,1} sono stati estromessi dal potere e i {CHARACTER-5} non hanno un bel ricordo del nostro popolo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_EDUCATION_AT_THE_PANKUS</zType>
+    <en-US>The Pankus is {PLAYER-0}'s general assembly and high court, ruling on constitutional matters. Even kings may be answerable before it!
+As part of their upbringing, it is occasionally permitted for {PLAYER-1,3} children to attend the deliberations.</en-US>
+    <it-IT>Il Pankus è l'assemblea generale e l'alta corte di {PLAYER-0}, che si pronuncia su questioni costituzionali. Persino i re possono essere chiamati a rispondere davanti ad esso!
+Come parte della loro educazione, i bambini di {PLAYER-1,3} possono occasionalmente assistere alle deliberazioni.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BABYLON_CONTACT_HITTITE_ANCIENT_SACK</zType>
+    <en-US>We have met the {PLAYER-1,3} again. 
+In times long past, their armies sacked {CITY-3}... It was at this occasion that the {FAMILY-4,3} rose to power there.</en-US>
+    <it-IT>Abbiamo incontrato di nuovo i {PLAYER-1,3}. 
+In tempi lontani, i loro eserciti saccheggiarono {CITY-3}... Fu in quell'occasione che il {FAMILY-4,3} salì al potere.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_HITTITE</zType>
+    <en-US>A messenger has arrived from {PLAYER-0} with an intriguing offer. {CHARACTER-0} finds {G0:himself:herself} with a strong military, but a shortage of resources. And, {G0:his:her} message suggests, “perhaps we can both benefit from this situation”.
+For a modest fee you can acquire the services of a powerful link(UNIT_HITTITE_CHARIOT_1), a rare sight outside the forces of {PLAYER-0}. “Of course”, the message concludes, “if you refuse I will need to find some other use for my excess forces. They may end up in {CITY-1} regardless”.
+Shall we accept?</en-US>
+    <it-IT>Un messaggero è arrivato da {PLAYER-0} con un'offerta intrigante. {CHARACTER-0} trova {G0:himself:herself} con un esercito forte, ma con una carenza di risorse. E, suggerisce il messaggio di {G0:his:her}, "forse entrambi possiamo trarre beneficio da questa situazione".
+Per una modica cifra potete acquisire i servizi di un potente link(UNIT_HITTITE_CHARIOT_1), una vista rara al di fuori delle forze di {PLAYER-0}. "Naturalmente", conclude il messaggio, "se rifiutate dovrò trovare un altro uso per le mie forze in eccesso. Potrebbero comunque finire in {CITY-1}".
+Accettiamo?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_NAMED_UNIT_MESEDI</zType>
+    <en-US>The {UNIT-0,2} led by {CHARACTER-1} have proven their military skill and above all, their unconditional loyalty to your person.
+You have taken to relying on them as bodyguards and leading them is a great honor, which {CHARACTER-1} clearly enjoys.
+{G1:He:She} suggests that their excellence might be further encouraged if you gave them the honor of an official name.
+		</en-US>
+    <it-IT>I {UNIT-0,2} guidati da {CHARACTER-1} hanno dimostrato la loro abilità militare e, soprattutto, la loro incondizionata fedeltà alla vostra persona.
+Lei ha iniziato a fare affidamento su di loro come guardie del corpo e guidarli è un grande onore, di cui {CHARACTER-1} evidentemente gode.
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_NAMED_UNIT_GOLDEN_SPEARMEN</zType>
+    <en-US>The {UNIT-0,2} you lead guard your side at all hours and monitor all other units assigned as bodyguards. Their absolute loyalty is of course paramount to their role and as a sign of honor they are equipped with the most resplendent of our arms and armors.
+People have taken to calling them "The Golden Spearmen".
+Shall we recognize this name as an additional honor?</en-US>
+    <it-IT>I {UNIT-0,2} che lei guida sorvegliano il suo fianco a tutte le ore e controllano tutte le altre unità assegnate come guardie del corpo. La loro assoluta lealtà è ovviamente fondamentale per il loro ruolo e in segno di onore sono equipaggiati con le nostre armi e armature più splendenti.
+La gente ha preso a chiamarli "le Lance d'Oro".
+Vogliamo riconoscere questo nome come un ulteriore onore?</it-IT>
+  </Entry>
+</Root>

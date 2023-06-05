@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_RELIGIOUS_DISSENT</zType>
+    <en-US>Religious dissent has a chance of appearing in cities with an link(OPINIONRELIGION_UPSET) religion. It can be removed peacefully with the link(MISSION_QUELL_DISSENT_ZOROASTRIANISM) mission of a link(CONCEPT_CLERGY) character of the same religion, or violently with the link(PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM) of the City's link(CONCEPT_GOVERNOR).</en-US>
+    <it-IT>Il dissenso religioso ha la possibilità di comparire nelle città con una religione link(OPINIONRELIGION_UPSET). Può essere rimosso pacificamente con la missione link(MISSION_QUELL_DISSENT_ZOROASTRIANISM) di un personaggio link(CONCEPT_CLERGY) della stessa religione, o violentemente con la link(PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM) del link(CONCEPT_GOVERNOR) della città.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_LOCAL_CULT</zType>
+    <en-US>Cults are City Projects with powerful effects. However, having too many in your nation may start to cause problems...</en-US>
+    <it-IT>I culti sono progetti di città con effetti potenti. Tuttavia, averne troppi nella propria nazione può iniziare a causare problemi...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_POTENTIAL_CLERGY</zType>
+    <en-US>Clergy Types:</en-US>
+    <it-IT>Tipi di clero:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EACH_CLERGY</zType>
+    <en-US>Each Clergy: {0_yieldValue} per {1_turnScale}</en-US>
+    <it-IT>Ogni Clero: {0_yieldValue} per {1_turnScale}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_CLERGY</zType>
+    <en-US>Clergy can be sent to link(MISSION_QUELL_DISSENT_ZOROASTRIANISM) in Cities with link(CONCEPT_RELIGIOUS_DISSENT) of their religion. Their Ratings affect your Global Yields (at one-third of the rate of the Leader). For example, their link(RATING_WISDOM) will increase your {YIELD_SCIENCE}link(YIELD_SCIENCE). Further, their religion's link(CONCEPT_OPINION_RELIGION,3) of you will increase or decrease these Yield rates.</en-US>
+    <it-IT>Il clero può essere inviato a link(MISSION_QUELL_DISSENT_ZOROASTRIANISM) nelle città con link(CONCEPT_RELIGIOUS_DISSENT) della sua religione. Le loro valutazioni influenzano i vostri rendimenti globali (at one-third of the rate of the Leader). Ad esempio, il loro link(RATING_WISDOM) aumenterà il vostro {YIELD_SCIENCE}link(YIELD_SCIENCE). Inoltre, il link(CONCEPT_OPINION_RELIGION,3) della loro religione aumenterà o diminuirà questi tassi di rendimento.</it-IT>
+  </Entry>
+</Root>

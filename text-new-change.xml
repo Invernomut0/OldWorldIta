@@ -1,0 +1,1609 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TEAMMATE_AGENT</zType>
+    <en-US>link(CONCEPT_AGENT) controlled by teammate {0_player}</en-US>
+    <it-IT>link(CONCEPT_AGENT) controllato dal compagno di squadra {0_player}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TIME_PROCESSING_TURN</zType>
+    <en-US>Turn Processing (please wait)</en-US>
+    <it-IT>Elaborazione dei turni (please wait)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_HP_ADJACENT</zType>
+    <en-US>{0_damage} HP to adjacent units</en-US>
+    <it-IT>{0_damage} HP alle unità adiacenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_OCCURRENCE_CITY_PILLAGE_IMPROVEMENTS_COAST</zType>
+    <en-US>[All Cities] Up to {0_value} Coastal Improvements link(CONCEPT_PILLAGE,1)</en-US>
+    <it-IT>[Fino a {0_value} Miglioramenti costieri link(CONCEPT_PILLAGE,1)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MP_FIND_PLAYERS_HELP</zType>
+    <en-US><![CDATA[Looking for other Players? Try the #looking-for-group-lfg channel on <color=#e3c08c><link="HYPERLINK,discord.gg/BNVpEgJ">our Discord!</link></color>]]></en-US>
+    <it-IT><![CDATA[Cerchi altri giocatori? Prova il canale #cercandoilgruppo-lfg su <color=#e3c08c><link="HYPERLINK,discord.gg/BNVpEgJ">il nostro Discord!</link></color>]]></it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_BONUS_LEAVE_RELIGION</zType>
+    <en-US>No longer follows {0_religion}</en-US>
+    <it-IT>Non segue più {0_religion}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HEAVEN_HELP_US</zType>
+    <en-US>Our war with {PLAYER-2} does not go well.  Fortunately, the riders we recently sent out to sue for peace have just returned and report that they have found success, appealing to the fact that both we and {CHARACTER-2} share the same faith.  There is a glimmer of hope for us.  {CHARACTER-3} shares our faith and beseeches us to see reason and end this bloodshed, agreeing to live peacefully as brothers and sisters of the faith.  This could be a lifeline.  We need but take it.</en-US>
+    <it-IT>La nostra guerra con {PLAYER-2} non va bene.  Fortunatamente, i cavalieri che abbiamo recentemente inviato a chiedere la pace sono appena tornati e riferiscono di aver trovato un successo, facendo appello al fatto che sia noi che {CHARACTER-2} condividiamo la stessa fede.  C'è un barlume di speranza per noi.  {CHARACTER-3} condivide la nostra fede e ci prega di ragionare e di porre fine a questo spargimento di sangue, accettando di vivere pacificamente come fratelli e sorelle di fede.  Questa potrebbe essere un'ancora di salvezza.  Non ci resta che coglierla.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HEAVEN_HELP_US_0</zType>
+    <en-US>Consider this a gift from the heavens and let us cease hostilities and begin to rebuild.</en-US>
+    <it-IT>Consideratelo un dono del cielo, cessiamo le ostilità e iniziamo a ricostruire.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HEAVEN_HELP_US_1</zType>
+    <en-US>Although our envoys did a great thing, our hearts have changed on the matter.  Our war must continue.</en-US>
+    <it-IT>Anche se i nostri inviati hanno fatto una grande cosa, i nostri cuori sono cambiati sulla questione.  La nostra guerra deve continuare.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BONDS_OF_FAITH</zType>
+    <en-US>Having accomplished our major goals in our war with {PLAYER-2}, our envoys carried an offer of truce to them on the basis of a shared bond of faith between us and {CHARACTER-2}.  {PLAYER-2} is willing to call an end to hostilities on the basis of that bond, but the final decision is ours to make.</en-US>
+    <it-IT>Avendo raggiunto i nostri principali obiettivi nella guerra con {PLAYER-2}, i nostri inviati hanno portato loro un'offerta di tregua sulla base di un legame di fede condiviso tra noi e {CHARACTER-2}.  {PLAYER-2} è disposto a porre fine alle ostilità sulla base di tale legame, ma la decisione finale spetta a noi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BONDS_OF_FAITH_0</zType>
+    <en-US>By all means.  Our people's hearts are weary.  If shared faith between our leaders can forge a truce, let it be so.</en-US>
+    <it-IT>Con ogni mezzo.  Il cuore del nostro popolo è stanco.  Se la fede condivisa tra i nostri leader può forgiare una tregua, che sia così.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BONDS_OF_FAITH_1</zType>
+    <en-US>Since our envoys were sent, we have had a change of heart.  Our war will continue.</en-US>
+    <it-IT>Da quando sono stati inviati i nostri inviati, abbiamo cambiato idea.  La nostra guerra continuerà.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LUCKY_BREAK</zType>
+    <en-US>The war with {PLAYER-3} has been calamitous, and as we have sought a way out, {CHARACTER-2} approached us and offered to leverage {G2:his:her} relations with {PLAYER-3} to bring about the end of the war between our peoples.  Those efforts appear to have borne fruit.  We need but accept it. </en-US>
+    <it-IT>La guerra con {PLAYER-3} è stata disastrosa e, mentre cercavamo una via d'uscita, {CHARACTER-2} ci ha avvicinato e si è offerto di far leva sulle relazioni di {G2:his:her} con {PLAYER-3} per porre fine alla guerra tra i nostri popoli.  Questi sforzi sembrano aver dato i loro frutti.  Non ci resta che accettarlo. </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_LUCKY_BREAK_0</zType>
+    <en-US>We shall be eternally grateful for the efforts of {CHARACTER-2}.  Let there be an end to the hostilities.</en-US>
+    <it-IT>Saremo eternamente grati per gli sforzi di {CHARACTER-2}.  Che si ponga fine alle ostilità.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_LUCKY_BREAK_1</zType>
+    <en-US>{CHARACTER-2} did a wonderfully brave thing, but conditions have changed since {G2he:she} undertook the effort.  We must continue the war to the best of our abilities.</en-US>
+    <it-IT>{CHARACTER-2} ha fatto una cosa meravigliosamente coraggiosa, ma le condizioni sono cambiate da quando {G2he:she} ha intrapreso lo sforzo.  Dobbiamo continuare la guerra al meglio delle nostre possibilità.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FAMILIAL_TIES</zType>
+    <en-US>Our war with {PLAYER-3} has been a tremendous success, but having weakened them, we dispatched {CHARACTER-2}, who shares a blood tie with them, in hopes of ending hostilities.  Those efforts have succeeded!  All that remains now is for us to formally accept a truce with {PLAYER-3}.</en-US>
+    <it-IT>La nostra guerra con {PLAYER-3} è stata un enorme successo, ma dopo averli indeboliti, abbiamo inviato {CHARACTER-2}, che condivide con loro un legame di sangue, nella speranza di porre fine alle ostilità.  Questi sforzi sono riusciti!  Ora non ci resta che accettare formalmente una tregua con {PLAYER-3}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FAMILIAL_TIES_0</zType>
+    <en-US>Perfect!  Let us cease hostilities at once!</en-US>
+    <it-IT>Perfetto!  Cessiamo subito le ostilità!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FAMILIAL_TIES_1</zType>
+    <en-US>{CHARACTER-2} did a great thing in securing us a truce offer but conditions have changed.  We simply can’t take it.</en-US>
+    <it-IT>{CHARACTER-2} ha fatto una grande cosa nel garantirci un'offerta di tregua, ma le condizioni sono cambiate.  Semplicemente non possiamo accettarla.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FAMILIAL_TIES_TITLE</zType>
+    <en-US>Familial Ties</en-US>
+    <it-IT>Legami familiari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LUCKY_BREAK_TITLE</zType>
+    <en-US>Lucky Break</en-US>
+    <it-IT>Pausa fortunata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BONDS_OF_FAITH_TITLE</zType>
+    <en-US>Bonds of Faith</en-US>
+    <it-IT>Legami di fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HEAVEN_HELP_US_TITLE</zType>
+    <en-US>Heaven Help Us</en-US>
+    <it-IT>Il cielo ci aiuti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_MAP_SCRIPT_FAILED_TO_LOAD</zType>
+    <en-US>The custom map script {0} did not load completely. You may need to install additional dependencies for the mod that contains {0} or the mod may need to be updated for the current version of the game. If the problem persists, try uninstalling and reinstalling the mod.</en-US>
+    <it-IT>Lo script della mappa personalizzata {0} non è stato caricato completamente. Potrebbe essere necessario installare dipendenze aggiuntive per la mod che contiene {0} o potrebbe essere necessario aggiornare la mod per la versione corrente del gioco. Se il problema persiste, provare a disinstallare e reinstallare la mod.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERROR_MAP_SCRIPT_FAILED_TO_COMPILE</zType>
+    <en-US>The custom map script {0} does not appear to be valid due to compilation errors. The mod has not been loaded. Contact the mod's author for further help.</en-US>
+    <it-IT>Lo script della mappa personalizzata {0} non sembra essere valido a causa di errori di compilazione. La mod non è stata caricata. Contatta l'autore della mod per ulteriore assistenza.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_DISABLE_MAIN_MENU_ANIMATION</zType>
+    <en-US>Disable Main Menu animation</en-US>
+    <it-IT>Disattivare l'animazione del menu principale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_DISABLE_MAIN_MENU_ANIMATION_DESC</zType>
+    <en-US>Disable the scrolling map backgroud in the main menu</en-US>
+    <it-IT>Disattivare il backgroud della mappa scorrevole nel menu principale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_TEMPORARILY_DEFUSED_TENSIONS</zType>
+    <en-US>Had a temporary truce brokered</en-US>
+    <it-IT>È stata mediata una tregua temporanea</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_SAVED</zType>
+    <en-US>Saved from peril</en-US>
+    <it-IT>Salvati dal pericolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_VEGETATION</zType>
+    <en-US>has {0_vegetation}</en-US>
+    <it-IT>ha {0_vegetation}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_YIELD_LEVEL_CHANGE_LOG_DATA</zType>
+    <en-US>{0_level} {1_yield} {singular_0:Level:Levels} in {2_city}</en-US>
+    <it-IT>{0_level} {1_yield} {singular_0:Level:Levels} in {2_city}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAME_ALEXANDER_HISTORICAL</zType>
+    <en-US>Ἀλέξανδρος (Alexandros)</en-US>
+    <it-IT>Alexander (Alexandros)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAME_HATSHEPSUT_HISTORICAL</zType>
+    <en-US>𓄂𓏏𓀼𓏏𓏥 (ḥꜣt-špswt)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_EXPOSE_AGENT</zType>
+    <en-US>Expose link(CONCEPT_AGENT_NETWORK)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_EXPOSE_AGENT_TARGET</zType>
+    <en-US>Expose link(CONCEPT_AGENT_NETWORK) in</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_EXPOSE_AGENT_SUCCESS</zType>
+    <en-US>link(CONCEPT_AGENT_NETWORK) Exposed</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_EXPOSE_AGENT_FAILURE</zType>
+    <en-US>No link(CONCEPT_AGENT_NETWORK) Found</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_EXPOSE_AGENT_EVENT</zType>
+    <en-US>Expose link(CONCEPT_AGENT_NETWORK) Event</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_EXPOSE_AGENT_SUCCESS_DESCRIPTION</zType>
+    <en-US>{CHARACTER-SUBJECT} has attempted to expose a foreign link(CONCEPT_AGENT_NETWORK).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_EXPOSE_AGENT_SUCCESS_TARGET_DESCRIPTION</zType>
+    <en-US>A Foreign link(CONCEPT_AGENT_NETWORK) in {MISSION-TARGET} has potentially been exposed.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_EXPOSE_AGENT_FAILURE_DESCRIPTION</zType>
+    <en-US>{CHARACTER-SUBJECT} failed to expose a foreign link(CONCEPT_AGENT_NETWORK).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_EXPOSE_AGENT_EVENT_DESCRIPTION</zType>
+    <en-US>The Expose Agent Mission of {CHARACTER-SUBJECT} has led to an event...</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_EXPOSE_AGENT_SUCCESS</zType>
+    <en-US>Expose link(CONCEPT_AGENT_NETWORK) (Success)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_BETRAY_SUPPORTERS</zType>
+    <en-US>Betrayed supporters of the nation</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_ENAMORED_OPTION_2_LOVER_OF</zType>
+    <en-US>{0_character} has enthusiastically reciprocated your advances, and is now your lover.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_ENAMORED_OPTION_2_SUSPICIOUS_OF</zType>
+    <en-US>{0_character} has become suspicious of the motivations behind your flirtation.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_ON_GOOD_AUTHORITY_OPTION_0_CHARACTER_0_PLOTTING_AGAINST</zType>
+    <en-US>{0_character} has taken advantage of {masculine_0:his:her} return to prominence in the court by beginning to plot against you in earnest.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_ON_GOOD_AUTHORITY_OPTION_0_CHARACTER_0_INFLUENCED_BY</zType>
+    <en-US>{0_character}'s animosities have been laid to rest by bringing {masculine_0:him:her} into the court's inner circle.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_CONTACT_ARCHETYPE_SAME_ENDEARED_TO</zType>
+    <en-US>Your flattery of {0_character} has struck a chord, and {masculine_0:he:she} has become rather endeared to your conversations.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_PLOTTING_HEIR_OPTION_2_CHARACTER_1_TERRIFIED_OF</zType>
+    <en-US>Your show of dominance over {0_character} seems to have suitably cowed {masculine_0:him:her}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_PLOTTING_HEIR_OPTION_2_CHARACTER_1_VENGEFUL_AGAINST</zType>
+    <en-US>Your show of dominance over {0_character} has only made {masculine_0:him:her} a more determined foe.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_CONTACT_ARCHETYPE_SAME_INFLUENCED_BY</zType>
+    <en-US>{0_character}, it seems, does share a similarity of personality and interests, winning you a certain influence. </en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_CONTACT_ARCHETYPE_SAME_SUSPICIOUS_OF</zType>
+    <en-US>Your flattery has aroused only suspicion in {0_character}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HAPPINESS_PLEASURE_BANQUET_OPTION_1_DRUNK</zType>
+    <en-US>{0_character} has made a habit of celebrations lasting long through the night, becoming well known as a link(TRAIT_DRUNK).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HAPPINESS_PLEASURE_BANQUET_OPTION_1_AFFABLE</zType>
+    <en-US>{0_character} has made a habit of celebrations lasting long through the night, becoming well known as link(TRAIT_AFFABLE) company.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HAPPINESS_PLEASURE_BANQUET_OPTION_1_DEBAUCHED</zType>
+    <en-US>{0_character} has made a habit of late night celebrations, each more risque than the last. {masculine_0:He:She} seems not to care who calls {masculine_0:him:her} link(TRAIT_DEBAUCHED).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HAPPINESS_PLEASURE_BANQUET_OPTION_1_ELOQUENT</zType>
+    <en-US>{0_character} has made a habit of celebrations lasting long through the night, honing an link(TRAIT_ELOQUENT) style of discussion that seems immune to both drink and tiredness.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_THE_WILD_HUNT_OPTION_0_INSANE</zType>
+    <en-US>{0_character} has returned much changed from the ritual of the Wild Hunt, in ways marked by most as link(TRAIT_INSANE).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_THE_WILD_HUNT_OPTION_0_EXPLORING</zType>
+    <en-US>{0_character} has not been seen in court in the months since the ritual of the Wild Hunt, though in time reports from afar establish that {masculine_0:he:she} must be link(TRAIT_EXPLORING) abroad.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_THE_WILD_HUNT_OPTION_0_DIVINE</zType>
+    <en-US>{0_character} has returned intact from the ritual of the Wild Hunt, surely a sign of the truly link(TRAIT_DIVINE).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_EXCHANGE_OF_IDEAS_OPTION_2</zType>
+    <en-US>Maintained technological superiority</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK</zType>
+    <en-US>Expose Foreign link(CONCEPT_AGENT_NETWORK)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK_YES</zType>
+    <en-US>link(CONCEPT_AGENT_NETWORK) of {0_player} exposed</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK_NO</zType>
+    <en-US>No link(CONCEPT_AGENT_NETWORK) found</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_EXPOSE_AGENT_NETWORK_TARGET</zType>
+    <en-US>Your link(CONCEPT_AGENT_NETWORK) in {0_city} has been exposed!</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_FATIGUE</zType>
+    <en-US>{0_value} Moves</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_MOVE_NETWORK</zType>
+    <en-US>Move link(CONCEPT_AGENT_NETWORK)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_MOVE_NETWORK_TARGET</zType>
+    <en-US>Move link(CONCEPT_AGENT_NETWORK) to</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MOVE_NETWORK_SUCCESS</zType>
+    <en-US>link(CONCEPT_AGENT_NETWORK) Moved</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MOVE_NETWORK_FAILURE</zType>
+    <en-US>link(CONCEPT_AGENT_NETWORK) Unable to Move</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MOVE_NETWORK_EVENT</zType>
+    <en-US>Move link(CONCEPT_AGENT_NETWORK) Event</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MOVE_NETWORK_SUCCESS_DESCRIPTION</zType>
+    <en-US>{CHARACTER-SUBJECT} has moved your link(CONCEPT_AGENT_NETWORK).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MOVE_NETWORK_FAILURE_DESCRIPTION</zType>
+    <en-US>{CHARACTER-SUBJECT} failed to move your link(CONCEPT_AGENT_NETWORK).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MOVE_NETWORK_EVENT_DESCRIPTION</zType>
+    <en-US>The Move Network Mission of {CHARACTER-SUBJECT} has led to an event...</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_MOVE_NETWORK_SUCCESS</zType>
+    <en-US>Move link(CONCEPT_AGENT_NETWORK) (Success)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_BONUS_MOVE_AGENT_NETWORK_CITY</zType>
+    <en-US>Move link(CONCEPT_AGENT_NETWORK) from {0_city}{true_1: to {1_city}}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_MOVE_AGENT_NETWORK_CITY</zType>
+    <en-US>Move link(CONCEPT_AGENT_NETWORK) from {0_city}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_BODKIN_ARROW_BONUS_LONGBOWMAN</zType>
+    <en-US>Free link(UNIT_LONGBOWMAN)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GUIDE_TECH_BODKIN_ARROW_BONUS_LONGBOWMAN</zType>
+    <en-US>This bonus grants a free link(UNIT_LONGBOWMAN) Unit in your Capital. If a bonus card is not researched when it appears, it is permanently trashed once discarded and will not appear again.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_LIGHT_IN_THE_DARKNESS_0</zType>
+    <en-US>Bar the gates. {CHARACTER-3} shall not be granted entrance into the city.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_LIGHT_IN_THE_DARKNESS_1</zType>
+    <en-US>Allow {CHARACTER-3} entrance into the city, but make no special accommodations.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_LIGHT_IN_THE_DARKNESS_2</zType>
+    <en-US>Let us make preparations to receive {CHARACTER-3} properly.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_IN_THE_NAME_OF_0</zType>
+    <en-US>Seal the city gates. We shall not grant {CHARACTER-3} entrance under any circumstances.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_IN_THE_NAME_OF_1</zType>
+    <en-US>Allow {CHARACTER-3} to enter the city, but make no effort to accommodate {G3:him:her}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_IN_THE_NAME_OF_2</zType>
+    <en-US>Divert military resources to ensure the safety of {CHARACTER-3} and welcome {G3:him:her} into the city.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SERVANT_OF_THE_DIVINE_2</zType>
+    <en-US>Order the city's civic leaders to accommodate {CHARACTER-3} and make {G3:him:her} feel welcome.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_LEGACY_OF_THE_RULER_0</zType>
+    <en-US>You will lead the nation to {GOAL-3}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_LEGACY_OF_THE_RULER_1</zType>
+    <en-US>Decide to {GOAL-4}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_LEGACY_OF_THE_RULER_2</zType>
+    <en-US>The time is right to {GOAL-5}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TOGETHER_IN_THE_WORLD_0</zType>
+    <en-US>Admit that you have always wanted to {GOAL-2}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TOGETHER_IN_THE_WORLD_1</zType>
+    <en-US>Affirm that you do have plans, to {GOAL-3}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TOGETHER_IN_THE_WORLD_2</zType>
+    <en-US>Profess your desire to {GOAL-4}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_106</zType>
+    <en-US>You can select the location of the free link(IMPROVEMENT_GARRISON_1) in your link(CONCEPT_CAPITAL). Before founding the link(CONCEPT_CITY), select the link(UNIT_SETTLER) and [CTRL+Click] on the desired location for the link(CONCEPT_IMPROVEMENT).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_WIDGET_GIFT_UNIT_GENERAL</zType>
+    <en-US>Cannot Gift Units with a link(CONCEPT_GENERAL)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_DISABLED_WONDERS</zType>
+    <en-US>Disabled Wonders</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_DISABLED_WONDER</zType>
+    <en-US>These link(CONCEPT_WONDER,2) are unavailable this game. Every game, {0} link(CONCEPT_WONDER,2) are randomly picked to be available and the rest are disabled.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TRAIT_RELIGION_PAGAN_OPINION</zType>
+    <en-US>{0_value} link(CONCEPT_PAGAN_RELIGION) link(CONCEPT_OPINION_RELIGION,3)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_BONUS_CHANGE_THEOLOGY</zType>
+    <en-US>Change link(CONCEPT_THEOLOGY){true_0: ({0_religion})}: {1_theology}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CHANGE_THEOLOGY</zType>
+    <en-US>Replaces {0_theology} with {1_theology} ({2_religion})</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_INJURED</zType>
+    <en-US>Injured</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_INJURED_F</zType>
+    <en-US>Injured</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_PLAYER_TRUCE_OR_WAR</zType>
+    <en-US>link(DIPLOMACY_TRUCE) or link(DIPLOMACY_WAR)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTRELATION_PLAYER_MIN_PLEASED</zType>
+    <en-US>Min link(OPINIONPLAYER_PLEASED) link(CONCEPT_OPINION_PLAYER,3) of Target</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SAMUR_RIVER</zType>
+    <en-US>Samur River</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_RAMANA</zType>
+    <en-US>Ramana</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_RESOURCES</zType>
+    <en-US>Random Resources</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_RESOURCES_ERROR</zType>
+    <en-US>You must set sizing values so that there are no blank tiles in the defined map area before adding resources.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_BONUS_IMPROVEMENTS</zType>
+    <en-US>Random Ruins</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_BONUS_IMPROVEMENTS_ERROR</zType>
+    <en-US>You must set sizing values so that there are no blank tiles in the defined map area before adding ruins.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_ELEMENT_NAMES</zType>
+    <en-US>Random Element Names</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TOOLS_SCREEN_MAP_EDITOR_UI_ADD_ELEMENT_NAMES_ERROR</zType>
+    <en-US>You must set sizing values so that there are no blank tiles in the defined map area before adding element names.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_DONUT</zType>
+    <en-US>Donut</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_DONUT</zType>
+    <en-US>A small continent, on the scale of Australia, that contains an inland sea. Guaranteed to be circumnavigable within the map boundary.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TRAIT_FORFEITS</zType>
+    <en-US>Forfeits the Throne</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_IMPERIUM_ROMANUM</zType>
+    <en-US>Imperium Romanum</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_IMPERIUM_ROMANUM_SUB</zType>
+    <en-US>The Roman World: Assyria, Babylonia, Carthage, Egypt, Greece, Hatti, Persia and Rome.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_INNER_SEA</zType>
+    <en-US>Inner Sea</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_INNER_SEA_HELP</zType>
+    <en-US>Start on a coastal site on the inner sea</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_OUTER_SEA</zType>
+    <en-US>Outer Sea</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DONUT_PLAYER_START_OUTER_SEA_HELP</zType>
+    <en-US>Start on a coastal site on the outer sea</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_LOW</zType>
+    <en-US>Low</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_LOW_HELP</zType>
+    <en-US>The landmass is less likely to have an uneven coast, especially good for multiplayer</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_MEDIUM</zType>
+    <en-US>Medium</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_MEDIUM_HELP</zType>
+    <en-US>The landmass has an average coast, with some irregularities and larger areas of land</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_HIGH</zType>
+    <en-US>High</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DONUT_IRREGULARITY_HIGH_HELP</zType>
+    <en-US>The landmass is very random, with many irregularities and uneven amounts of land</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTIONS_DONUT_IRREGULARITY</zType>
+    <en-US>Irregularity</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SACRED_AND_THE_PROFANE_TITLE</zType>
+    <en-US>The Sacred and the Profane</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SACRED_AND_THE_PROFANE</zType>
+    <en-US>The gods of {PLAYER-0} watch closely. Religion is not yet a question of faith but an act of everyday life, collections of rituals and rites developing in an attempt to avoid the calamitous ruin of a god’s anger.
+But this is a time of change, when not even divinity is constant. New gods and heroes attract followers to their social and mystical link(CONCEPT_LOCAL_CULT), while world religions emerge and spread, seeking to establish their legal and theological footing amongst the common people and the courts of royalty alike. New leaders, the link(CONCEPT_CLERGY), guide the faithful, whose reverent passion can spill into the streets as link(CONCEPT_RELIGIOUS_DISSENT) if not appeased.
+Tread carefully as you navigate these rituals and religions; the beliefs of a nation may see it rise or fall. </en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_SACRED_AND_THE_PROFANE_OPTION_0</zType>
+    <en-US>The world of The Sacred and The Profane awaits.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TRAIT_NO_COUNCIL</zType>
+    <en-US>Cannot be on the Council</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TRAIT_NO_GENERAL</zType>
+    <en-US>Cannot be a link(CONCEPT_GENERAL)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TRAIT_NO_GOVERNOR</zType>
+    <en-US>Cannot be a link(CONCEPT_GOVERNOR)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TRAIT_HAS_JOB</zType>
+    <en-US>link(CONCEPT_GOVERNOR), link(CONCEPT_GENERAL), or on the Council</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TRAIT_MISSION</zType>
+    <en-US>Unlocks Mission: {0_mission}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_COMMUNITY_PICTURE_SUBMISSIONS</zType>
+    <en-US>Community Picture Submissions</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_NON_LEADER_SUCCESSOR</zType>
+    <en-US>Not Leader or in the link(CONCEPT_SUCCESSION)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_NON_FAMILY_HEAD</zType>
+    <en-US>Non link(CONCEPT_FAMILY) Head</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RELIGION_DISSENT_HELP</zType>
+    <en-US>A link(CONCEPT_GOVERNOR) or member of the {RELIGION-0,1} link(CONCEPT_CLERGY) would be able to deal with this dissent...</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_CLERGY_ADDED</zType>
+    <en-US>Clergy Added</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_FIVE_CULTS_TITLE</zType>
+    <en-US>Five Cults</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_FIVE_CULTS</zType>
+    <en-US>Have Five Cults (The Sacred and The Profane)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_ST_PAUL_TITLE</zType>
+    <en-US>Patriarch St Paul</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_ST_PAUL</zType>
+    <en-US>Have St Paul as Patriarch of Christianity (The Sacred and The Profane)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_TUTOR_HYPATIA_TITLE</zType>
+    <en-US>Hypatia the Teacher</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_TUTOR_HYPATIA</zType>
+    <en-US>Tutor a character with Hypatia (The Sacred and The Profane)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE_TITLE</zType>
+    <en-US>The Great Mage</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE</zType>
+    <en-US>Find a Great Mage (The Sacred and The Profane)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL_TITLE</zType>
+    <en-US>Religious Dissent</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL</zType>
+    <en-US>Have dissent from all four world religions at the same time (The Sacred and The Profane)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST_TITLE</zType>
+    <en-US>The Mythical Beast</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST</zType>
+    <en-US>Follow the trail of a Mythical Beast (The Sacred and The Profane)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_POET_LEADER_TITLE</zType>
+    <en-US>Poetic Leader</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_POET_LEADER</zType>
+    <en-US>Have a Leader with the Poet trait (The Sacred and The Profane)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE_TITLE</zType>
+    <en-US>Deposed Tribe</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE</zType>
+    <en-US>Help a Priest depose a Tribal Leader (The Sacred and The Profane)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_PILGRIMAGE_TITLE</zType>
+    <en-US>Pilgrimage</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_PILGRIMAGE</zType>
+    <en-US>Have a character finish a Pilgrimage (The Sacred and The Profane)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT_TITLE</zType>
+    <en-US>The Clergy</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT</zType>
+    <en-US>Have a member of the Clergy join the Court (The Sacred and The Profane)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MIN_DISCONTENT</zType>
+    <en-US>{0_city} has icon(GreaterThan) {1} {2_discontent} Level</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MAX_DISCONTENT</zType>
+    <en-US>{0_city} has icon(LessThan) {1} {2_discontent} Level</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_UNIT_TERRAIN</zType>
+    <en-US>{0_unit} is on {1_terrain}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_FAMILY_NO_LEADER_TURNS</zType>
+    <en-US>{0_value}: {1_turnScale} without a {2_family} Leader</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_YIELD_HAPPINESS_HELP</zType>
+    <en-US>When a City's {YIELD_HAPPINESS}Happiness bar fills up, its overall {YIELD_HAPPINESS}Happiness Level goes up by one, which increase link(YIELD_GROWTH,1) and reduces link(YIELD_MAINTENANCE,1). Some ways to increase {YIELD_HAPPINESS}Happiness include connecting your City with the link(CONCEPT_TRADE_NETWORK), holding a link(PROJECT_FESTIVAL), adopting Laws such as link(LAW_TOLERANCE), keeping a City's link(CONCEPT_RELIGION,2) happy, and building link(IMPROVEMENTCLASS_BATHS,2).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_BAY</zType>
+    <en-US>Bay</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_BAY</zType>
+    <en-US>A temperate coastal map, with a large area of shallow sea in the middle.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAIN_MENU_OWNED_DLC</zType>
+    <en-US>Owned DLC</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ADDITIONAL_CONTENT_DLC_HEROES_OF_AEGEAN</zType>
+    <en-US>Heroes Of The Aegean</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ADDITIONAL_CONTENT_DLC_THE_SACRED_AND_THE_PROFANE</zType>
+    <en-US>The Sacred And The Profane</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_COMPETITIVE_EVENTS</zType>
+    <en-US>Competitive Events</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_COMPETITIVE_EVENTS_HELP</zType>
+    <en-US>No Events that have a significant impact on the game.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_LOWER_CHARACTER_YIELDS</zType>
+    <en-US>Lower Character Yields</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_LOWER_CHARACTER_YIELDS_HELP</zType>
+    <en-US>link(CONCEPT_COURT) Characters have lower yields.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_COMPETITIVE_CITY_GIFTING</zType>
+    <en-US>Competitive Mode City Gifting</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_COMPETITIVE_CITY_GIFTING_HELP</zType>
+    <en-US>Cities can be gifted only to a teammate or to the original owner.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_DISTANT_RAIDS</zType>
+    <en-US>No Distant Raids</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_DISTANT_RAIDS_HELP</zType>
+    <en-US>No link(CONCEPT_TRIBE_RAID,2) from the edge of the map.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_BAD_COGNOMENS</zType>
+    <en-US>No Negative Cognomens</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_BAD_COGNOMENS_HELP</zType>
+    <en-US>No link(CONCEPT_COGNOMEN,2) with negative link(CONCEPT_LEGITIMACY).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_FREE_LAW_PREREQS</zType>
+    <en-US>Free Laws Requires Techs</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_FREE_LAW_PREREQS_HELP</zType>
+    <en-US>Free Laws from Events must be unlocked via Technology.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_LOADING_ERRORS_POPUP_TITLE</zType>
+    <en-US>Errors Loading Mods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_ERRORS</zType>
+    <en-US>{br}{br}The following errors were detected while loading mods. The game will attempt to continue, but any issues in game should be reported to the mod's creator.{br}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_MODS_PANEL_MODS_ASSIGNED_POPUP_BODY_ERRORS_LIST</zType>
+    <en-US>{br}Errors detected (Max 5 shown):</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_MEMORYFAMILY_TRUSTED_WITH_CHILD</zType>
+    <en-US>Trusted us with an illegitimate child</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_FEW_NIGHTS_MORE_TITLE</zType>
+    <en-US>A Few Nights More</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PINING_CHORDS_TITLE</zType>
+    <en-US>Pining Chords</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_FEW_NIGHTS_MORE_0</zType>
+    <en-US>Allow the child to stay at the palace and grow up as a royal.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_FEW_NIGHTS_MORE_1</zType>
+    <en-US>Give the child to a lesser noble family where they will never be found.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PINING_CHORDS_0</zType>
+    <en-US>Support this new focus on the arts.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PINING_CHORDS_1</zType>
+    <en-US>Demand that your heir starts acting the part.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PINING_CHORDS_2</zType>
+    <en-US>Organize some entertainment to distract {CHARACTER-SHORT-2}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PINING_CHORDS</zType>
+    <en-US>Since {CHARACTER-POSS-1} return to {PLAYER-0}, your heir {CHARACTER-2} has taken to staying in {G2:his:her} room, writing music to the love that was not to be.
+{p.is_sub.S0=SUBJECT_HIGH_CHARISMA:Beautiful songs echo across the palace each night, their lyrics capturing the beauty and pain of a love unfulfilled.:The valiant attempts at songwriting drift through the air every hour of the day, driving the members of the court to distraction.} Your advisors are united in their suggestion that something must be done.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_FEW_NIGHTS_MORE</zType>
+    <en-US>What started as some harmless fun has turned into something more. Rather than returning with the caravan to {PLAYER-0}, {CHARACTER-1} stayed hidden in the palace for a week, meeting with {CHARACTER-2} at every opportunity before eventually returning home.
+{G2:Now a message has arrived, saying that the foreign heir is pregnant:Now your heir is showing unmistakable signs of pregnancy}. {CHARACTER-SHORT-1} is afraid for the child's safety in {PLAYER-0}, leaving the choice to you and {CHARACTER-SHORT-2} as to what to do with the child. Time is short, whispers and rumors will soon be spreading across {PLAYER-2}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CELEBRATION_OF_OUR_MANY_BLESSINGS</zType>
+    <en-US>During the recently completed festival in the city of {CITY-1}, acolytes of {RELIGION-2} entered the city and participated in our celebration.  The question is what should we do with them now?</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_MATTER_OF_FAITH</zType>
+    <en-US>During the now completed festival in the city of {CITY-1}, practitioners of {RELIGION-2} visited our great city and joined us in celebration.  Well and good, but they seem inclined to linger.  Do we want that?</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CELEBRATION_OF_OUR_MANY_BLESSINGS_0</zType>
+    <en-US>Boot them out.  We do not wish them spreading their faith here.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CELEBRATION_OF_OUR_MANY_BLESSINGS_1</zType>
+    <en-US>Allow them to remain but instruct the city leaders to treat them as cultural curiosities, and nothing more, preventing them from spreading their faith.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CELEBRATION_OF_OUR_MANY_BLESSINGS_2</zType>
+    <en-US>Welcome them with open arms and allow them to actively practice and spread their faith.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CELEBRATION_OF_OUR_MANY_BLESSINGS_TITLE</zType>
+    <en-US>Celebration of Our Many Blessings</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_MATTER_OF_FAITH_0</zType>
+    <en-US>We don't mind them visiting but the longer they stay, the more likely they are to try and spread their faith.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_MATTER_OF_FAITH_1</zType>
+    <en-US>Allow them to remain, but have local leaders highlight the cultural aspects of their so-called Religion and take steps to minimize the spread of the tenents of their faith.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_MATTER_OF_FAITH_2</zType>
+    <en-US>Instruct local leaders to divert civic resources to make them feel welcome.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_MATTER_OF_FAITH_TITLE</zType>
+    <en-US>A Matter of Faith</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CHARACTER_LEAVES_RELIGION</zType>
+    <en-US>{0_character} has left {1_religion}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THE_ROYAL_COUPLE_TITLE</zType>
+    <en-US>The Royal Couple</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_THE_ROYAL_COUPLE</zType>
+    <en-US>Have Old World's two most famous faces married and ruling your nation.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_AL_MUKALLA</zType>
+    <en-US>Al Mukalla</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SUTKAGAN_DOR</zType>
+    <en-US>Sutkagan Dor</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SOKHTA_KOH</zType>
+    <en-US>Sokhta Koh</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_PIT_ARDASHIR</zType>
+    <en-US>Pit-Ardashir</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_AZRAQ</zType>
+    <en-US>Azraq</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_AMUL</zType>
+    <en-US>Āmul</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_ADEN</zType>
+    <en-US>Aden</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_MOCHA</zType>
+    <en-US>Mocha</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_JIZAN</zType>
+    <en-US>Jizan</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_JABAL_AL_QARA</zType>
+    <en-US>Jabal al Qarā'</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_JEDDAH</zType>
+    <en-US>Jeddah</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_BARANIS</zType>
+    <en-US>Baranis</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_MUSCAT</zType>
+    <en-US>Muscat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_SUCCESS_EXPOSED_TARGET_DESCRIPTION</zType>
+    <en-US>{PLAYER-MISSION} has successfully stolen research from you but was exposed in the process.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_TARGET_DESCRIPTION</zType>
+    <en-US>{PLAYER-MISSION} has successfully slandered you.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_HAS_X</zType>
+    <en-US>{0} has {1}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_FORCE_RANDOM_TRIBES</zType>
+    <en-US>Random Tribes</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTIONS_SINGLE_FORCE_RANDOM_TRIBES_HELP</zType>
+    <en-US>Override script's default Tribes to use random Tribes</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_WIDGET_LOG_MESSAGE_COVER_DEBT_PRODUCTION</zType>
+    <en-US>Production could not continue because of a global debt.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ENTWINED_BELIEFS</zType>
+    <en-US>As {RELIGION-3} spreads, it presses up against the other religions of the world, feeding each other as they grow in parallel. The {RELIGION-3,1} followers in {CITY-0} have developed a unique take on the religion's practices, inspired by the ideas of {THEOLOGY-2} taught by the {RELIGION-1,1} {S1.PRIEST,2} in the city. 
+These ideas are gaining traction amongst the religion’s followers. What will you do about these new ideas? </en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ENTWINED_BELIEFS_TITLE</zType>
+    <en-US>Entwined Beliefs</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_ENTWINED_BELIEFS_OPTION_0</zType>
+    <en-US>Accept the changing ideas of {RELIGION-3}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_ENTWINED_BELIEFS_OPTION_1</zType>
+    <en-US>Send royal {S3.PRIEST,1} to discourage the sharing of ideas between the faiths.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_IN_THE_HANDS_OF_GOD</zType>
+    <en-US>Upon the death of {CHARACTER-0}, you hear whispers that {G0:his:her} {TRAIT-4} has been left to {G0:his:her} favored {RELIGION-1,1} temple. An unbidden thought comes to mind, will the {S1.PRIEST,2} really be able to make good use of such a rare and valuable item? Is such a relic not more fit for a {TITLE-2}? </en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_IN_THE_HANDS_OF_GOD_TITLE</zType>
+    <en-US>In the Hands of {S1.GOD}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_IN_THE_HANDS_OF_GOD_OPTION_0</zType>
+    <en-US>Offer to buy this treasure from the clergy.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_IN_THE_HANDS_OF_GOD_OPTION_1</zType>
+    <en-US>Have the item confiscated and brought to the palace.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_IN_THE_HANDS_OF_GOD_OPTION_2</zType>
+    <en-US>Stay your hand and leave it to pass on to the temple, as intended.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_KEEPSAKE</zType>
+    <en-US>After {CHARACTER-POSS-0} death, you find a small keepsake, a small amulet with {S1.ICON} and your name etched in {S2.LANGUAGE} on the back. It is such a tiny thing but the burnished metal feels warm to the touch, as if {G0:he:she} had just been holding it.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_KEEPSAKE_TITLE</zType>
+    <en-US>Keepsake</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_KEEPSAKE_OPTION_0</zType>
+    <en-US>Let go and avoid holding on to such material possessions. </en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_KEEPSAKE_OPTION_1</zType>
+    <en-US>Keep it on you to remember {G0:him:her} by.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_KEEPSAKE</zType>
+    <en-US>Keepsake</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_KEEPSAKE_OPTION_2</zType>
+    <en-US>Dedicate it in a prayer for {CHARACTER-SHORT-0}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ALIEN_TRADITIONS</zType>
+    <en-US>Not raised in the court of {PLAYER-3}, {CHARACTER-0} often raises questions about the way that things are done in your court, from meals to religious ceremonies. The traditional {CHARACTER-1} and the {FAMILY-2,1} have taken offense at some of your spouse's recent questions about the origins of the rules around family land-owning, claiming that {G0:he:she} is an interloper and aiming to usurp the traditions of {PLAYER-3}. </en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ALIEN_TRADITIONS_TITLE</zType>
+    <en-US>Alien Traditions</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_ALIEN_TRADITIONS_OPTION_0</zType>
+    <en-US>Share your unease at the questions that your spouse has raised.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_ALIEN_TRADITIONS_OPTION_1</zType>
+    <en-US>Encourage {CHARACTER-0} to try to blend in.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_MEMORYFAMILY_SPOUSE_CULTURE</zType>
+    <en-US>Encouraged spouse's assimilation</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_ALIEN_TRADITIONS_OPTION_2</zType>
+    <en-US>Defend {CHARACTER-POSS-0} curiosity and drive to improve the court.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_GENERAL_DEVOTION</zType>
+    <en-US><![CDATA[The General {CHARACTER-SHORT-1} has become infatuated with the <p.is_sub.S0=SUBJECT_CITY_CULT_HEALER>link(IMPROVEMENT_CULT_OF_THE_HEALER)<p=SUBJECT_CITY_CULT_MITHRAS>link(IMPROVEMENT_CULT_OF_MITHRAS)<p=SUBJECT_CITY_CULT_ISIS>link(IMPROVEMENT_CULT_OF_ISIS_AND_SERAPIS)<p=SUBJECT_CITY_CULT_MOTHER>link(IMPROVEMENT_CULT_OF_THE_MOTHER)<p=SUBJECT_CITY_CULT_ECSTATIC>link(IMPROVEMENT_ECSTATIC_CULT)<p=SUBJECT_CITY_CULT_ANGELIC_DIVINE>link(IMPROVEMENT_CULT_OF_THE_ANGELIC_DIVINE)<p=SUBJECT_CITY_CULT_DUAL>link(IMPROVEMENT_DUAL_CULT)<p=SUBJECT_CITY_CULT_MARTYR>link(IMPROVEMENT_MARTYR_CULT)<p=SUBJECT_CITY_CULT_AMAZON>link(IMPROVEMENT_AMAZON_CULT)<p=SUBJECT_CITY_CULT_CAVALRY>link(IMPROVEMENT_CAVALRY_CULT)<p=SUBJECT_CITY_CULT_FALLEN>link(IMPROVEMENT_SHRINE_OF_THE_FALLEN_GODDESS)<p=SUBJECT_CITY_CULT_HERO>link(IMPROVEMENT_SHRINE_OF_THE_HERO)<p=SUBJECT_CITY_CULT_SWORD>link(IMPROVEMENT_SWORD_CULT)<p=SUBJECT_CITY_CULT_CONSORT>link(IMPROVEMENT_GODS_CONSORT_SHRINE)<else>local cult<end> in {CITY-0}, spending much of {G1:his:her} time participating in rituals for the cult and delegating command to {G1:his:her} officers. The ungoverned soldiers are becoming unruly and impatient, spending their time drinking and seeking out brawls in the camp. 
+Seeking help, the officers have come to you to ask for order to be restored. ]]></en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_GENERAL_DEVOTION_TITLE</zType>
+    <en-US>General Devotion</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_GENERAL_DEVOTION_OPTION_0</zType>
+    <en-US>Promote one of the officers to replace {CHARACTER-1} as General. </en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_GENERAL_DEVOTION_OPTION_1</zType>
+    <en-US>Bring {CHARACTER-SHORT-1} back in line with a reminder of a General’s duties. </en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_GENERAL_DEVOTION_OPTION_2</zType>
+    <en-US>Suggest that {CHARACTER-SHORT-1} inducts the officers into the cult to form camaraderie in the ranks.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_GAINS_PROB_WITHOUT_DELAY</zType>
+    <en-US>{0_prob}% Chance to Become {1_trait}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_GAINS_PROB_WITH_DELAY</zType>
+    <en-US>{0_prob}% Chance to Become {1_trait} (Next {2_turn})</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_RELIGION_FOUNDED_BY</zType>
+    <en-US>Founded by {0_improvements}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CHARACTER_COGNOMEN_CHANGE</zType>
+    <en-US>Now known as {0_cognomen}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_CHARACTER_NICKNAME_CHANGE</zType>
+    <en-US>Now known as {0_nickname}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_OWNS_X</zType>
+    <en-US>{0} owns {1}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_DOESNT_OWN_X</zType>
+    <en-US>{0} doesn't own {1}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_CHARACTER_TRAIT_ITEM</zType>
+    <en-US>Owns {0_value} (link(CONCEPT_ITEM))</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_ITEM</zType>
+    <en-US>Item</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_ITEM</zType>
+    <en-US>Items are similar to link(CONCEPT_TRAIT,1) but behave differently in events, where they can be acquired, lost, given, stolen, etc.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_TRAIT</zType>
+    <en-US>Trait~Traits</en-US>
+    <it-IT>~</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_TRAIT</zType>
+    <en-US>A trait describes a character's personality. Trait's can have various effects such as modifying a character's link(CONCEPT_RATING,1), granting bonuses or penalties to cities and units when a character is a governor or general and affecting the opinions of other characters towards them. Traits can also affect events and what outcomes are possible in them. Some traits are classified as link(CONCEPT_STRENGTH) or link(CONCEPT_WEAKNESS).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_RATING</zType>
+    <en-US>Attribute~Attributes</en-US>
+    <it-IT>~</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_RATING</zType>
+    <en-US>There are four character's attributes : link(RATING_WISDOM), link(RATING_CHARISMA), link(RATING_COURAGE) and link(RATING_DISCIPLINE). They can be negative or (preferably) positive. They will affect the performance of the unit they're commanding if they're a link(CONCEPT_GENERAL), or apply a multiplicative modifier to a city's output if they're a link(CONCEPT_GOVERNOR). The attributes of your leader, his link(CONCEPT_SPOUSE), close successors, link(CONCEPT_COURTIER,2) and link(CONCEPT_COUNCILOR,2) also generate yields. All link(CONCEPT_ARCHETYPE,2) affect attributes, as well as many link(CONCEPT_TRAIT,1).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EFFECT_PLAYER_TRIBE_LEADER_OPINION_CHANGE</zType>
+    <en-US>{0_value} Tribal Leader Opinions</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_CATEGORY_RELIGION</zType>
+    <en-US>State Religion</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_REMINDER_RELIGION_AVAILABLE</zType>
+    <en-US>A State Religion is available to be adopted</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_UNIT_GIFTING</zType>
+    <en-US>No Unit Gifting</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_NO_UNIT_GIFTING_HELP</zType>
+    <en-US>Players cannot gift Units to other players.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_DISCONTENT_CHANGE_LOG_DATA</zType>
+    <en-US>{0_level} link(YIELD_DISCONTENT) {singular_0:Level:Levels} in {1_city}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_DISCONTENT_LEVELS</zType>
+    <en-US>{0_value} link(YIELD_DISCONTENT) {singular_0:Level:Levels}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_DISABLE_FOG_LIGHTNING_NAME</zType>
+    <en-US>Disable Fog Lightning</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISCOPTION_DISABLE_FOG_LIGHTNING_DESC</zType>
+    <en-US>Disables the flashing lightning effect at the edge of the map</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTCLASS_TRAIT</zType>
+    <en-US>Trait</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_SUBTOTAL</zType>
+    <en-US>Subtotal: {0}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TOTAL_YIELD</zType>
+    <en-US>Total {0}: {1}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_INFLUENCE_OF_WEAKNESS</zType>
+    <en-US>Your attempts to influence {CHARACTER-0} are close to bearing fruit. However, spending so much time with the {TRAIT-2} {G0:man:woman} is starting to take effect. You notice yourself acting in similar ways to your target, agreeing more and more with {G0:his:her} way of thinking.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_INFLUENCE_OF_WEAKNESS_TITLE</zType>
+    <en-US>Influence of Weakness</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_INFLUENCE_OF_WEAKNESS_OPTION_0</zType>
+    <en-US>Take hold of yourself!</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_INFLUENCE_OF_WEAKNESS_OPTION_1</zType>
+    <en-US>Just a little while longer...</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_INFLUENCE_OF_WEAKNESS_OPTION_2</zType>
+    <en-US>Abandon this pursuit. </en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_INFLUENCE_OF_WEAKNESS_OPTION_2_HELP</zType>
+    <en-US>At least I learned a lot about myself!</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TRIBE_ELIMINATED_NICKNAME</zType>
+    <en-US>The time of the {TRIBE-0} is over, the remnants of their once mighty people ground into the earth as ash underfoot. {CHARACTER-3} and {G3:his:her} forces led the final charge that laid waste to the last known {TRIBE-0,1} settlement. Already your army is celebrating the victory, with {CHARACTER-SHORT-3} earning a new nickname in the process.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TRIBE_ELIMINATED_NICKNAME_TITLE</zType>
+    <en-US>{CHARACTER-SHORT-3}{p.is_sub.S0=SUBJECT_TRIBE_GAULS_DEAD: the Gutter:}{p.is_sub.S0=SUBJECT_TRIBE_VANDALS_DEAD: the Vanquisher:}{p.is_sub.S0=SUBJECT_TRIBE_DANES_DEAD: the Desolator:}{p.is_sub.S0=SUBJECT_TRIBE_THRACIANS_DEAD: the Thrasher:}{p.is_sub.S0=SUBJECT_TRIBE_SCYTHIANS_DEAD: the Scythe:}{p.is_sub.S0=SUBJECT_TRIBE_NUMIDIANS_DEAD: the Nixer:}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_NICKNAME_OPTION_OK</zType>
+    <en-US>Let them have their fun.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_NICKNAME_OPTION_NO</zType>
+    <en-US>Put an end to the celebrations. Our fight is not yet over.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_WIDGET_BUILD_PROJECT_UNIQUE</zType>
+    <en-US>Can only be produced one time per player</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_PRECIOUS</zType>
+    <en-US>Precious Resource~a Precious Resource~Precious Resources</en-US>
+    <it-IT>~~</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FOUND_RELIGION</zType>
+    <en-US>Found Religion</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOTKEY_SHOW_VISIBILITY</zType>
+    <en-US>Show rival player visibility</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_107</zType>
+    <en-US>To see what tiles are visible from rival player known locations, select a player and press the Forward Slash [/] key.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_IMPROVEMENT</zType>
+    <en-US>Improvement Reminder</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PING_IMPROVEMENT_LOG</zType>
+    <en-US>I want to build this improvement here.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_PAGAN_RELIGION_SPREAD</zType>
+    <en-US>Pagan Religion Spread</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_GAULS</zType>
+    <en-US>the Gutter</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_GAULS_F</zType>
+    <en-US>the Gutter</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_VANDALS</zType>
+    <en-US>the Vanquisher</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_VANDALS_F</zType>
+    <en-US>the Vanquisher</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_DANES</zType>
+    <en-US>the Desolator</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_DANES_F</zType>
+    <en-US>the Desolator</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_THRACIANS</zType>
+    <en-US>the Thrasher</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_THRACIANS_F</zType>
+    <en-US>the Thrasher</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_SCYTHIANS</zType>
+    <en-US>the Scythe</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_SCYTHIANS_F</zType>
+    <en-US>the Scythe</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_NUMIDIANS</zType>
+    <en-US>the Nixer</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_NICKNAME_TRIBE_ELIMINATED_NUMIDIANS_F</zType>
+    <en-US>the Nixer</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_YEAR_ERA_SUFFIX</zType>
+    <en-US> AUC</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_PLAYER_OPTIONS</zType>
+    <en-US>Player Setup</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_OPPONENT_OPTIONS</zType>
+    <en-US>Opponent Setup</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_CHARACTER_OPTIONS</zType>
+    <en-US>Characters and Events</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_VICTORY_OPTIONS</zType>
+    <en-US>Victory Conditions</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_MAP_OPTIONS</zType>
+    <en-US>Map Setup</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_RULES_OPTIONS</zType>
+    <en-US>Game Rules</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SP_SETUP_DLC_MOD_OPTIONS</zType>
+    <en-US>DLC and Mods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POPUP_IMPROVEMENT_PING_REMINDER</zType>
+    <en-US>Improvement Reminder: {0_improvement} on {1_tile}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_STARTED_LAW_LOG_DATA</zType>
+    <en-US>Adopted {0_law}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_LOG_LAW_ADOPTED</zType>
+    <en-US>LAW ADOPTED</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_STATS_MERCENARY_UNITS</zType>
+    <en-US>Mercenary Tribe Units</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+</Root>

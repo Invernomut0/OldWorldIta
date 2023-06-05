@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_TRAIT_IMPIOUS_NICKNAME</zType>
+    <en-US>the Impious</en-US>
+    <it-IT>l'Impiastro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_IMPIOUS_NICKNAME_F</zType>
+    <en-US>the Impious</en-US>
+    <it-IT>l'Impiastro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CHASTE_NICKNAME</zType>
+    <en-US>the Chaste</en-US>
+    <it-IT>il Casto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CHASTE_NICKNAME_F</zType>
+    <en-US>the Chaste</en-US>
+    <it-IT>il Casto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POET_NICKNAME</zType>
+    <en-US>the Poet</en-US>
+    <it-IT>il Poeta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POET_NICKNAME_F</zType>
+    <en-US>the Poetess</en-US>
+    <it-IT>la poetessa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MARTYR_NICKNAME</zType>
+    <en-US>the Martyr</en-US>
+    <it-IT>il Martire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MARTYR_NICKNAME_F</zType>
+    <en-US>the Martyr</en-US>
+    <it-IT>il Martire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STAT_CULTS</zType>
+    <en-US>link(CONCEPT_LOCAL_CULT)</en-US>
+    <it-IT>link(CONCEPT_LOCAL_CULT)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_FOUR_SHRINES</zType>
+    <en-US>Control Four link(IMPROVEMENTCLASS_SHRINE,2)</en-US>
+    <it-IT>Controllo Quattro link(IMPROVEMENTCLASS_SHRINE,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_RELIGIOUS_DISSENT</zType>
+    <en-US>Religious Dissent</en-US>
+    <it-IT>Dissenso religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_LOCAL_CULT</zType>
+    <en-US>Local Cults</en-US>
+    <it-IT>Culti locali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_CLERGY</zType>
+    <en-US>Clergy</en-US>
+    <it-IT>Clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_CLERGY_F</zType>
+    <en-US>Clergy</en-US>
+    <it-IT>Clero</it-IT>
+  </Entry>
+</Root>

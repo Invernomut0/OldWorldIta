@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_CAPITAL_SOURCE</zType>
+    <en-US>in link(CONCEPT_CAPITAL)</en-US>
+    <it-IT>in link(CONCEPT_CAPITAL)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_BASE</zType>
+    <en-US>Base</en-US>
+    <it-IT>Base</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER</zType>
+    <en-US>Spymaster</en-US>
+    <it-IT>Spymaster</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER_F</zType>
+    <en-US>Spymaster</en-US>
+    <it-IT>Spymaster</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
+    <en-US>The Able</en-US>
+    <it-IT>L'Able</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_JUST</zType>
+    <en-US>The Just</en-US>
+    <it-IT>Il Giusto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_GOOD</zType>
+    <en-US>The Good</en-US>
+    <it-IT>Il bene</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_STRONG</zType>
+    <en-US>The Strong</en-US>
+    <it-IT>Il forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_NOBLE</zType>
+    <en-US>The Noble</en-US>
+    <it-IT>Il Nobile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_GLORIOUS</zType>
+    <en-US>The Glorious</en-US>
+    <it-IT>Il glorioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_MAGNIFICENT</zType>
+    <en-US>The Magnificent</en-US>
+    <it-IT>Il Magnifico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_DIFFICULTY_GREAT</zType>
+    <en-US>The Great</en-US>
+    <it-IT>Il Grande</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION_DECREE</zType>
+    <en-US>Decrees in link(CONCEPT_CAPITAL)</en-US>
+    <it-IT>Decreti in link(CONCEPT_CAPITAL)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_LABOR_FORCE</zType>
+    <en-US>Roads</en-US>
+    <it-IT>Strade</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_DRAMA</zType>
+    <en-US>Music</en-US>
+    <it-IT>Musica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_ARISTOCRACY</zType>
+    <en-US>Unlocks link(COUNCIL_AMBASSADOR)</en-US>
+    <it-IT>Sblocca link(COUNCIL_AMBASSADOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_NAVIGATION</zType>
+    <en-US>Automate link(UNIT_SCOUT,2)</en-US>
+    <it-IT>Automatizzare link(UNIT_SCOUT,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_SPOKED_WHEEL</zType>
+    <en-US>Unlocks link(COUNCIL_CHANCELLOR)</en-US>
+    <it-IT>Sblocca link(COUNCIL_CHANCELLOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_COINAGE</zType>
+    <en-US>Automate link(UNIT_WORKER,2)</en-US>
+    <it-IT>Automatizzare link(UNIT_WORKER,2)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TECH_PORTCULLIS</zType>
+    <en-US>Unlocks link(COUNCIL_SPYMASTER)</en-US>
+    <it-IT>Sblocca link(COUNCIL_SPYMASTER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_HERO_ARCHETYPE</zType>
+    <en-US>link(TRAIT_HERO_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_HERO_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</zType>
+    <en-US>link(TRAIT_TACTICIAN_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_TACTICIAN_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</zType>
+    <en-US>link(TRAIT_COMMANDER_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_COMMANDER_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</zType>
+    <en-US>link(TRAIT_ZEALOT_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_ZEALOT_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</zType>
+    <en-US>link(TRAIT_JUDGE_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_JUDGE_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</zType>
+    <en-US>link(TRAIT_ORATOR_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_ORATOR_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
+    <en-US>link(TRAIT_SCHOLAR_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_SCHOLAR_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
+    <en-US>link(TRAIT_BUILDER_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_BUILDER_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</zType>
+    <en-US>link(TRAIT_SCHEMER_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_SCHEMER_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</zType>
+    <en-US>link(TRAIT_DIPLOMAT_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_DIPLOMAT_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_SCIENCE</zType>
+    <en-US>High Science</en-US>
+    <it-IT>Scienza alta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_SCIENCE</zType>
+    <en-US>Very High Science</en-US>
+    <it-IT>Scienza molto alta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_ORDERS</zType>
+    <en-US>Medium Orders</en-US>
+    <it-IT>Ordini medi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_ORDERS</zType>
+    <en-US>High Orders</en-US>
+    <it-IT>Ordini elevati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_ORDERS</zType>
+    <en-US>Very High Orders</en-US>
+    <it-IT>Ordini molto elevati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_CIVICS</zType>
+    <en-US>Low Civics</en-US>
+    <it-IT>Bassa Civica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_CIVICS</zType>
+    <en-US>Medium Civics</en-US>
+    <it-IT>Civica media</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_CIVICS</zType>
+    <en-US>High Civics</en-US>
+    <it-IT>Alta educazione civica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_CIVICS</zType>
+    <en-US>Very High Civics</en-US>
+    <it-IT>Educazione civica molto alta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_TRAINING</zType>
+    <en-US>Low Training</en-US>
+    <it-IT>Bassa formazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_TRAINING</zType>
+    <en-US>Medium Training</en-US>
+    <it-IT>Formazione media</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_TRAINING</zType>
+    <en-US>High Training</en-US>
+    <it-IT>Alta formazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_TRAINING</zType>
+    <en-US>Very High Training</en-US>
+    <it-IT>Formazione molto elevata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_MONEY</zType>
+    <en-US>Low Money</en-US>
+    <it-IT>Soldi bassi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_MONEY</zType>
+    <en-US>Medium Money</en-US>
+    <it-IT>Denaro medio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_MONEY</zType>
+    <en-US>High Money</en-US>
+    <it-IT>Soldi alti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_MONEY</zType>
+    <en-US>Very High Money</en-US>
+    <it-IT>Soldi molto alti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_OCCURRENCE_ERA_OF_PEACE</zType>
+    <en-US>Era of Peace</en-US>
+    <it-IT>L'era della pace</it-IT>
+  </Entry>
+</Root>

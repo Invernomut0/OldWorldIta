@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_START_HITTITE_TITLE</zType>
+    <en-US>{NATION-0} in the Old World</en-US>
+    <it-IT>{NATION-0} nel Vecchio Mondo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_CHARIOT_COMBAT_TITLE</zType>
+    <en-US>Chariot Combat!</en-US>
+    <it-IT>Combattimento con le bighe!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_RICHES_OF_THE_HILLS_TITLE</zType>
+    <en-US>The Riches of the Hills</en-US>
+    <it-IT>Le ricchezze delle colline</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_THE_FAIREST_OF_LAWS_TITLE</zType>
+    <en-US>The Fairest of Laws</en-US>
+    <it-IT>La più giusta delle leggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_A_THOUSAND_GODS_TITLE</zType>
+    <en-US>A Thousand Gods</en-US>
+    <it-IT>Mille Dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_THE_CITY_GATES_TITLE</zType>
+    <en-US>The City Gates</en-US>
+    <it-IT>Le porte della città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BLESSING_OF_ARINNITTI_TITLE</zType>
+    <en-US>Blessing of Arinnitti</en-US>
+    <it-IT>Benedizione di Arinnitti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEDICATION_OF_ARINNITTI_TITLE</zType>
+    <en-US>Dedication of Arinnitti</en-US>
+    <it-IT>Dedicazione di Arinnitti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DISPLEASURE_OF_ARINNITTI_TITLE</zType>
+    <en-US>Displeasure of Arinnitti</en-US>
+    <it-IT>Il dispiacere di Arinnitti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BLESSING_OF_TARHUN_TITLE</zType>
+    <en-US>Blessing of Tarhun</en-US>
+    <it-IT>Benedizione di Tarhun</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEDICATION_OF_TARHUN_TITLE</zType>
+    <en-US>Dedication of Tarhun</en-US>
+    <it-IT>Dedicazione di Tarhun</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DISPLEASURE_OF_TARHUN_TITLE</zType>
+    <en-US>Displeasure of Tarhun</en-US>
+    <it-IT>Il dispiacere di Tarhun</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BLESSING_OF_KAMRUSEPA_TITLE</zType>
+    <en-US>Blessing of Kamrusepa</en-US>
+    <it-IT>Benedizione di Kamrusepa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEDICATION_OF_KAMRUSEPA_TITLE</zType>
+    <en-US>Dedication of Kamrusepa</en-US>
+    <it-IT>Dedicazione di Kamrusepa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DISPLEASURE_OF_KAMRUSEPA_TITLE</zType>
+    <en-US>Displeasure of Kamrusepa</en-US>
+    <it-IT>Il dispiacere di Kamrusepa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BLESSING_OF_HALKI_TITLE</zType>
+    <en-US>Blessing of Halki</en-US>
+    <it-IT>Benedizione di Halki</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEDICATION_OF_HALKI_TITLE</zType>
+    <en-US>Dedication of Halki</en-US>
+    <it-IT>Dedicazione di Halki</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DISPLEASURE_OF_HALKI_TITLE</zType>
+    <en-US>Displeasure of Halki</en-US>
+    <it-IT>Il dispiacere di Halki</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SALT_OF_THE_EARTH_TITLE</zType>
+    <en-US>The Salt of the Earth</en-US>
+    <it-IT>Il sale della terra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_GREATEST_CAVALRY_BATTLE_OF_ALL_TIMES_TITLE</zType>
+    <en-US>The Greatest Chariot Battle of All Times</en-US>
+    <it-IT>La più grande battaglia di carri di tutti i tempi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WORTHY_OPPONENTS_PEACE_OFFER_TITLE</zType>
+    <en-US>The Silver Treaty</en-US>
+    <it-IT>Il Trattato d'argento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WORTHY_OPPONENTS_TRUCE_TITLE</zType>
+    <en-US>Worthy Opponents</en-US>
+    <it-IT>Avversari degni di nota</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HITTITE_CONTACT_BABYLON_KINGMAKERS_TITLE</zType>
+    <en-US>Kingmakers in Mesopotamia</en-US>
+    <it-IT>I regnanti in Mesopotamia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HITTITE_CONTACT_BABYLON_WOULDBE_KINGMAKERS_TITLE</zType>
+    <en-US>Kingmaking Reversal in Mesopotamia</en-US>
+    <it-IT>Inversione di rotta in Mesopotamia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_EDUCATION_AT_THE_PANKUS_TITLE</zType>
+    <en-US>Education at the Pankus</en-US>
+    <it-IT>Educazione al Pankus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BABYLON_CONTACT_HITTITE_ANCIENT_SACK_TITLE</zType>
+    <en-US>An Ancient Opponent</en-US>
+    <it-IT>Un antico avversario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_HITTITE_TITLE</zType>
+    <en-US>{TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_GREECE_TITLE}</en-US>
+    <it-IT>{TEXT_EVENTSTORY_UNIQUE_UNIT_SALE_GREECE_TITLE}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_NAMED_UNIT_MESEDI_TITLE</zType>
+    <en-US>The Mesedi</en-US>
+    <it-IT>Il Mesedi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_NAMED_UNIT_GOLDEN_SPEARMEN_TITLE</zType>
+    <en-US>The Golden Spearmen</en-US>
+    <it-IT>Gli Sparvieri d'oro</it-IT>
+  </Entry>
+</Root>

@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_TRIBE_REBELS</zType>
+    <en-US>Rebels~Rebel~a Rebel~Rebels~Rebel</en-US>
+    <it-IT>Ribelli~Ribelle~un Ribelle~Ribelli~Ribelle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_REBELS_F</zType>
+    <en-US>Rebels~Rebel~a Rebel~Rebels~Rebel</en-US>
+    <it-IT>Ribelli~Ribelle~un Ribelle~Ribelli~Ribelle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_REBELS_HELP</zType>
+    <en-US>Rebel Units are spawned from Cities with link(CONCEPT_FAMILY,2) with negative link(CONCEPT_OPINION_FAMILY,3). These Units will prefer to attack Units of the Nation from which they spawned. Rebel Units remember their original link(CONCEPT_FAMILY), so Units of the same link(CONCEPT_FAMILY) receive a int(SAME_FAMILY_MODIFIER)%{ATTACKDEFENSE} combat modifier.</en-US>
+    <it-IT>Le unità ribelli vengono generate da città con link(CONCEPT_FAMILY,2) e link(CONCEPT_OPINION_FAMILY,3) negativo. Queste unità preferiscono attaccare le unità della nazione da cui sono nate. Le Unità Ribelli ricordano il loro link(CONCEPT_FAMILY) originale, quindi le Unità dello stesso link(CONCEPT_FAMILY) ricevono un modificatore di combattimento int(SAME_FAMILY_MODIFIER)%{ATTACKDEFENSE}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_ANARCHY</zType>
+    <en-US>Anarchy</en-US>
+    <it-IT>Anarchia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_RAIDERS</zType>
+    <en-US>Raiders~Raider~a Raider~Raiders~Raider</en-US>
+    <it-IT>I Predatori~Raider~un Raider~I Predatori~Raider</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_RAIDERS_F</zType>
+    <en-US>Raiders~Raider~a Raider~Raiders~Raider</en-US>
+    <it-IT>I Predatori~Predatore~un Predatore~I Predatori~Predatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_RAIDERS_HELP</zType>
+    <en-US>Raiders emerge from Tribal Sites which have too many Units. A random number of the Tribe's Units are turned into Raiders, who target a nearby City at link(DIPLOMACY_WAR) or link(DIPLOMACY_TRUCE) with the Tribe. However, Raiders are always at link(DIPLOMACY_WAR) with all link(CONCEPT_NATION,2). (Tribes in link(CONCEPT_ALLIANCE_TRIBE,1) will never become Raiders.)</en-US>
+    <it-IT>I Raider emergono dai siti tribali che hanno un numero eccessivo di unità. Un numero casuale di Unità della Tribù viene trasformato in Predatori, che puntano a una città vicina a link(DIPLOMACY_WAR) o link(DIPLOMACY_TRUCE) con la Tribù. Tuttavia, i Predatori sono sempre a link(DIPLOMACY_WAR) con tutti i link(CONCEPT_NATION,2). Le unità (Tribes in link(CONCEPT_ALLIANCE_TRIBE,1) non diventeranno mai Raider).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_BARBARIANS</zType>
+    <en-US>Barbarians~Barbarian~a Barbarian~Barbarians~Barbarian</en-US>
+    <it-IT>Barbari~Barbaro~un barbaro~Barbari~Barbaro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_BARBARIANS_F</zType>
+    <en-US>Barbarians~Barbarian~a Barbarian~Barbarians~Barbarian</en-US>
+    <it-IT>Barbari~Barbaro~un barbaro~Barbari~Barbaro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_BARBARIANS_HELP</zType>
+    <en-US>Barbarians occupy link(CONCEPT_CITY_SITE,2) like other link(CONCEPT_TRIBE,2), but they are in a permanent state of link(DIPLOMACY_WAR) with all link(CONCEPT_NATION,2).</en-US>
+    <it-IT>I barbari occupano link(CONCEPT_CITY_SITE,2) come gli altri link(CONCEPT_TRIBE,2), ma sono in uno stato permanente di link(DIPLOMACY_WAR) con tutti link(CONCEPT_NATION,2).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_GAULS</zType>
+    <en-US>Gauls~Gallic~a Gallic~Gauls~Gaul</en-US>
+    <it-IT>Galli~Gallico~un Gallico~Galli~Gallia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_GAULS_F</zType>
+    <en-US>Gauls~Gallic~a Gallic~Gauls~Gaul</en-US>
+    <it-IT>Galli~Gallico~un Gallico~Galli~Gallia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_GAULS_NICK</zType>
+    <en-US>the Gaul</en-US>
+    <it-IT>la Gallia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_GAULS_NICK_F</zType>
+    <en-US>the Gaul</en-US>
+    <it-IT>la Gallia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_VANDALS</zType>
+    <en-US>Vandals~Vandal~a Vandal~Vandals~Vandal</en-US>
+    <it-IT>Vandali~Vandalo~un Vandalo~Vandali~Vandalo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_VANDALS_F</zType>
+    <en-US>Vandals~Vandal~a Vandal~Vandals~Vandal</en-US>
+    <it-IT>Vandali~Vandalo~un Vandalo~Vandali~Vandalo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_VANDALS_NICK</zType>
+    <en-US>the Vandal</en-US>
+    <it-IT>il Vandalo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_VANDALS_NICK_F</zType>
+    <en-US>the Vandal</en-US>
+    <it-IT>il Vandalo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_DANES</zType>
+    <en-US>Danes~Danish~a Danish~Danes~Dane</en-US>
+    <it-IT>Danesi~Danese~un Danese~Danesi~Danese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_DANES_F</zType>
+    <en-US>Danes~Danish~a Danish~Danes~Dane</en-US>
+    <it-IT>Danesi~Danese~un Danese~Danesi~Danese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_DANES_NICK</zType>
+    <en-US>the Dane</en-US>
+    <it-IT>il danese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_DANES_NICK_F</zType>
+    <en-US>the Dane</en-US>
+    <it-IT>il danese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_THRACIANS</zType>
+    <en-US>Thracians~Thracian~a Thracian~Thracians~Thracian</en-US>
+    <it-IT>Traci~Trace~un trace~Traci~Tracia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_THRACIANS_F</zType>
+    <en-US>Thracians~Thracian~a Thracian~Thracians~Thracian</en-US>
+    <it-IT>Traci~Trace~un trace~Traci~Tracia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_THRACIANS_NICK</zType>
+    <en-US>the Thracian</en-US>
+    <it-IT>il Trace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_THRACIANS_NICK_F</zType>
+    <en-US>the Thracian</en-US>
+    <it-IT>il Trace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_SCYTHIANS</zType>
+    <en-US>Scythians~Scythian~a Scythian~Scythians~Scythian</en-US>
+    <it-IT>Sciti~Scita~uno Scita~Sciti~Scita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_SCYTHIANS_F</zType>
+    <en-US>Scythians~Scythian~a Scythian~Scythians~Scythian</en-US>
+    <it-IT>Sciti~Scita~uno Scita~Sciti~Scita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_SCYTHIANS_NICK</zType>
+    <en-US>the Scythian</en-US>
+    <it-IT>lo Scita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_SCYTHIANS_NICK_F</zType>
+    <en-US>the Scythian</en-US>
+    <it-IT>lo Scita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_NUMIDIANS</zType>
+    <en-US>Numidians~Numidian~a Numidian~Numidians~Numidian</en-US>
+    <it-IT>Numidi~Numidiano~un Numidiano~Numidi~Numidiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_NUMIDIANS_F</zType>
+    <en-US>Numidians~Numidian~a Numidian~Numidians~Numidian</en-US>
+    <it-IT>Numidi~Numidiano~un Numidiano~Numidi~Numidiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_NUMIDIANS_NICK</zType>
+    <en-US>the Numidian</en-US>
+    <it-IT>il Numida</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIBE_NUMIDIANS_NICK_F</zType>
+    <en-US>the Numidian</en-US>
+    <it-IT>il Numida</it-IT>
+  </Entry>
+</Root>

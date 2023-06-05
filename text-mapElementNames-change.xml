@@ -1,0 +1,3458 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_THE_CHANNEL</zType>
+    <en-US>The Channel</en-US>
+    <it-IT>Il Canale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GREAT_EUROPEAN_PRIMEVAL_FOREST</zType>
+    <en-US>Great European Primeval Forest</en-US>
+    <it-IT>La grande foresta primordiale europea</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NORTHERN_OCEAN</zType>
+    <en-US>Northern Ocean</en-US>
+    <it-IT>Oceano del Nord</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AATAL_VALLEY</zType>
+    <en-US>Aatal Valley</en-US>
+    <it-IT>Valle di Aatal</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACARLAR_FLOODPLAIN_FOREST</zType>
+    <en-US>Acarlar Floodplain Forest</en-US>
+    <it-IT>Foresta alluvionale di Acarlar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHELOUS_RIVER</zType>
+    <en-US>Achelous River</en-US>
+    <it-IT>Fiume Achelous</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ADDUA_RIVER</zType>
+    <en-US>Addua River</en-US>
+    <it-IT>Fiume Addua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ADRIATIC_SEA</zType>
+    <en-US>Adriatic Sea</en-US>
+    <it-IT>Mare Adriatico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AEGEAN_SEA</zType>
+    <en-US>Aegean Sea</en-US>
+    <it-IT>Mar Egeo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AEGINA_ISLAND</zType>
+    <en-US>Aegina Island</en-US>
+    <it-IT>Isola di Egina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AEOLIAN_ISLAND</zType>
+    <en-US>Aeolian Island</en-US>
+    <it-IT>Isola delle Eolie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AINTAB_PLATEAU</zType>
+    <en-US>Aintab Plateau</en-US>
+    <it-IT>Altopiano di Aintab</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ALAMUT_VALLEY</zType>
+    <en-US>Alamut Valley</en-US>
+    <it-IT>Valle di Alamut</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ALBANUS_MONS</zType>
+    <en-US>Albanus Mons</en-US>
+    <it-IT>Albano Mons</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ALBIS_RIVER</zType>
+    <en-US>Albis River</en-US>
+    <it-IT>Fiume Albis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ALBORAN_SEA</zType>
+    <en-US>Alboran Sea</en-US>
+    <it-IT>Mare di Alboran</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ALBORZ</zType>
+    <en-US>Harborz Mountains</en-US>
+    <it-IT>Monti Harborz</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ALCARRIA_HEATH</zType>
+    <en-US>Alcarria Heath</en-US>
+    <it-IT>Brughiera di Alcarria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ALKYONIDES_GULF</zType>
+    <en-US>Alkyonides Gulf</en-US>
+    <it-IT>Golfo degli alchionidi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ALPHEIOS_RIVER</zType>
+    <en-US>Alpheios River</en-US>
+    <it-IT>Fiume Alpheios</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ALPINE_RHINE_VALLEY</zType>
+    <en-US>Alpine Rhine Valley</en-US>
+    <it-IT>Valle alpina del Reno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ALVAND</zType>
+    <en-US>Alvand</en-US>
+    <it-IT>Alvand</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AMANUS_MOUNTAINS</zType>
+    <en-US>Amanus Mountains</en-US>
+    <it-IT>Monti Amanus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AMARDUS_RIVER</zType>
+    <en-US>Amardus River</en-US>
+    <it-IT>Fiume Amardus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AMARI_VALLEY</zType>
+    <en-US>Amari Valley</en-US>
+    <it-IT>Valle dell'Amari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AMBRACIAN_GULF</zType>
+    <en-US>Ambracian Gulf</en-US>
+    <it-IT>Golfo di Ambracia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AMISIA_RIVER</zType>
+    <en-US>Amisia River</en-US>
+    <it-IT>Fiume Amisia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ANAS_RIVER</zType>
+    <en-US>Anas River</en-US>
+    <it-IT>Fiume Anas</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ANATOLIAN_CONIFER_FOREST</zType>
+    <en-US>Anatolian Conifer Forest</en-US>
+    <it-IT>Foresta di conifere dell'Anatolia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ANATOLIAN_PLATEAU</zType>
+    <en-US>Anatolian Plateau</en-US>
+    <it-IT>Altopiano anatolico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ANDORRA_VALLEY</zType>
+    <en-US>Andorra Valley</en-US>
+    <it-IT>Valle di Andorra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ANDROS_ISLAND</zType>
+    <en-US>Andros Island</en-US>
+    <it-IT>Isola di Andros</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AOOS_RIVER</zType>
+    <en-US>Aoos River</en-US>
+    <it-IT>Fiume Aoos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_APENNINE_MOUNTAINS</zType>
+    <en-US>Apennine Mountains</en-US>
+    <it-IT>Appennino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_APUAN_ALPS</zType>
+    <en-US>Apuan Alps</en-US>
+    <it-IT>Alpi Apuane</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ARABIAN_DESERT</zType>
+    <en-US>Arabian Desert</en-US>
+    <it-IT>Deserto arabo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ARABIAN_SEA</zType>
+    <en-US>Arabian Sea</en-US>
+    <it-IT>Mare Arabico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ARAL_SEA</zType>
+    <en-US>Aral Sea</en-US>
+    <it-IT>Mare d'Aral</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ARAXES_RIVER</zType>
+    <en-US>Araxes River</en-US>
+    <it-IT>Fiume Araxes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ARGIMUSCO_PLATEAU</zType>
+    <en-US>Argimusco Plateau</en-US>
+    <it-IT>Altopiano dell'Argimusco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ARGOLIC_GULF</zType>
+    <en-US>Argolic Gulf</en-US>
+    <it-IT>Golfo Argolico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ARGON_PEDION</zType>
+    <en-US>Argon Pedion</en-US>
+    <it-IT>Argon Pedion</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ARNUS_RIVER</zType>
+    <en-US>Arnus River</en-US>
+    <it-IT>Fiume Arnus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ASOPUS_RIVER</zType>
+    <en-US>Asopus River</en-US>
+    <it-IT>Fiume Asopus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ASSINUS_RIVER</zType>
+    <en-US>Assinus River</en-US>
+    <it-IT>Fiume Assinus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ASTABORAS_RIVER</zType>
+    <en-US>Astaboras River</en-US>
+    <it-IT>Fiume Astaboras</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ATAGIS_RIVER</zType>
+    <en-US>Atagis River</en-US>
+    <it-IT>Fiume Atagis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ATLANTIC_OCEAN</zType>
+    <en-US>Atlantic Ocean</en-US>
+    <it-IT>Oceano Atlantico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ATLAS_MOUNTAINS</zType>
+    <en-US>Atlas Mountains</en-US>
+    <it-IT>Montagne dell'Atlante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ATREK_RIVER</zType>
+    <en-US>Atrek River</en-US>
+    <it-IT>Fiume Atrek</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AUFIDUS_RIVER</zType>
+    <en-US>Aufidus River</en-US>
+    <it-IT>Fiume Aufidus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AURES_MOUNTAINS</zType>
+    <en-US>Aures Mountains</en-US>
+    <it-IT>Monti Aures</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AVARAYR_PLAIN</zType>
+    <en-US>Avarayr Plain</en-US>
+    <it-IT>Pianura di Avarayr</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_AXIOS_RIVER</zType>
+    <en-US>Vardarios River</en-US>
+    <it-IT>Fiume Vardarios</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BA'AL_KORNINE</zType>
+    <en-US>Ba'al Kornine</en-US>
+    <it-IT>Ba'al Kornine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BABYLONIAN_DESERT</zType>
+    <en-US>Babylonian Desert</en-US>
+    <it-IT>Deserto babilonese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BAETIS_RIVER</zType>
+    <en-US>Baetis River</en-US>
+    <it-IT>Fiume Baetis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BAGRADAS_RIVER</zType>
+    <en-US>Bagradas River</en-US>
+    <it-IT>Fiume Bagradas</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BAKHTEGAN_LAKE</zType>
+    <en-US>Bakhtegan Lake</en-US>
+    <it-IT>Lago Bakhtegan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BALERIC_SEA</zType>
+    <en-US>Balearic Sea</en-US>
+    <it-IT>Mare delle Baleari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BALKAN_MOUNTAINS</zType>
+    <en-US>Balkan Mountains</en-US>
+    <it-IT>Montagne Balcaniche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARAJIN_FOREST</zType>
+    <en-US>Barajin Forest</en-US>
+    <it-IT>Foresta di Barajin</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BARNIM_PLATEAU</zType>
+    <en-US>Barnim Plateau</en-US>
+    <it-IT>Altopiano di Barnim</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BASHAGARD_MOUNTAINS</zType>
+    <en-US>Bashagard Mountains</en-US>
+    <it-IT>Monti Bashagard</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BAY_OF_ALGHERO</zType>
+    <en-US>Bay of Alghero</en-US>
+    <it-IT>Baia di Alghero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BAY_OF_PALMA</zType>
+    <en-US>Bay of Palma</en-US>
+    <it-IT>Baia di Palma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BAYUDA_DESERT</zType>
+    <en-US>Bayuda Desert</en-US>
+    <it-IT>Deserto di Bayuda</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BAZMAN</zType>
+    <en-US>Bazman</en-US>
+    <it-IT>Bazman</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BEQAA_VALLEY</zType>
+    <en-US>Beqaa Valley</en-US>
+    <it-IT>Valle della Beqaa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BIALOWIEZA_FOREST</zType>
+    <en-US>Bialowieza Forest</en-US>
+    <it-IT>Foresta di Bialowieza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BIKKU_BITTI</zType>
+    <en-US>Bikku Bitti</en-US>
+    <it-IT>Un po'</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BIZERTE_LAKE</zType>
+    <en-US>Bizerte Lake</en-US>
+    <it-IT>Lago di Bizerte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BJELOPAVLICI_VALLEY</zType>
+    <en-US>Bjelopavlici Valley</en-US>
+    <it-IT>Valle di Bjelopavlici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BLACK_SEA</zType>
+    <en-US>Black Sea</en-US>
+    <it-IT>Mar Nero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BOEOTIAN_PLAIN</zType>
+    <en-US>Boeotian Plain</en-US>
+    <it-IT>Pianura Beotiana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BORYSTHENES_RIVER</zType>
+    <en-US>Borysthenes River</en-US>
+    <it-IT>Fiume Borysthenes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BOUBIN_FOREST</zType>
+    <en-US>Boubin Forest</en-US>
+    <it-IT>Foresta di Boubin</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BUGULMA-BELEBEY_UPLAND</zType>
+    <en-US>Bugulma-Belebey Upland</en-US>
+    <it-IT>Bugulma-Belebey Upland</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CAECUS_RIVER</zType>
+    <en-US>Caecus River</en-US>
+    <it-IT>Fiume Caecus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SAROS_RIVER</zType>
+    <en-US>Saros River</en-US>
+    <it-IT>Fiume Saros</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CAESTERT_PLATEAU</zType>
+    <en-US>Caestert Plateau</en-US>
+    <it-IT>Altopiano di Caestert</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CALBIS_RIVER</zType>
+    <en-US>Calbis River</en-US>
+    <it-IT>Fiume Calbis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CAMPIDANO_PLAIN</zType>
+    <en-US>Campidano Plain</en-US>
+    <it-IT>Campidano Plain</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CAMPO_FELICE</zType>
+    <en-US>Campo Felice</en-US>
+    <it-IT>Happy Camp</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CAMPO_IMPERATORE</zType>
+    <en-US>Campo Imperatore</en-US>
+    <it-IT>Emperor Camp</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CANJUERS_PLATEAU</zType>
+    <en-US>Canjuers Plateau</en-US>
+    <it-IT>Altopiano di Canjuers</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CANSIGLIO_FOREST</zType>
+    <en-US>Cansiglio Forest</en-US>
+    <it-IT>Cansiglio Forest</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CANTABRIAN_SEA</zType>
+    <en-US>Cantabrian Sea</en-US>
+    <it-IT>Mar Cantabrico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CARPATHIAN_BEECH_FOREST</zType>
+    <en-US>Carpathian Beech Forest</en-US>
+    <it-IT>Foresta di faggi dei Carpazi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CARPATHIAN_MOUNTAINS</zType>
+    <en-US>Carpathian Mountains</en-US>
+    <it-IT>Carpazi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CASENTINESI_FOREST</zType>
+    <en-US>Casentinesi Forest</en-US>
+    <it-IT>Casentinesi Forest</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CASPIAN_HYRCANIAN_FOREST</zType>
+    <en-US>Caspian Hyrcanian Forest</en-US>
+    <it-IT>Foresta Caspica Ircana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CASPIAN_SEA</zType>
+    <en-US>Caspian Sea</en-US>
+    <it-IT>Mar Caspio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CATALONIA_WOODLANDS</zType>
+    <en-US>Catalonia Woodlands</en-US>
+    <it-IT>Catalonia Woodlands</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CAUCASUS_MIXED_FOREST</zType>
+    <en-US>Caucasus Mixed Forest</en-US>
+    <it-IT>Foresta mista del Caucaso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CAUCASUS_MOUNTAINS</zType>
+    <en-US>Caucasus Mountains</en-US>
+    <it-IT>Montagne del Caucaso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CAYSTER_RIVER</zType>
+    <en-US>Cayster River</en-US>
+    <it-IT>Fiume Cayster</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CELTIC_SEA</zType>
+    <en-US>Celtic Sea</en-US>
+    <it-IT>Mare Celtico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CEPHISSOS_RIVER</zType>
+    <en-US>Cephissos River</en-US>
+    <it-IT>Fiume Cephissos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CERCINNA_ISLAND</zType>
+    <en-US>Cercinna Island</en-US>
+    <it-IT>Isola di Cercinna</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHAINTOUS_FOREST</zType>
+    <en-US>Chaintous Forest</en-US>
+    <it-IT>Foresta di Chaintous</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHALDEA_PLAIN</zType>
+    <en-US>Chaldea Plain</en-US>
+    <it-IT>Pianura della Caldea</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHEEKHA_DAR</zType>
+    <en-US>Cheekha Dar</en-US>
+    <it-IT>Cheekha Dar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHOASPES_RIVER</zType>
+    <en-US>Choaspes River</en-US>
+    <it-IT>Fiume Choaspes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHYLEMATH_RIVER</zType>
+    <en-US>Chylemath River</en-US>
+    <it-IT>Fiume Chylemath</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CORINTHIAN_GULF</zType>
+    <en-US>Corinthian Gulf</en-US>
+    <it-IT>Golfo Corinzio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CORK_OAK_FOREST</zType>
+    <en-US>Cork Oak Forest</en-US>
+    <it-IT>Foresta di querce da sughero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CORSICA</zType>
+    <en-US>Corsica</en-US>
+    <it-IT>Corsica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_COSSYRA_ISLAND</zType>
+    <en-US>Cossyra Island</en-US>
+    <it-IT>Isola di Cossyra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CRAU_PLAIN</zType>
+    <en-US>Crau Plain</en-US>
+    <it-IT>Pianura Crau</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CRETE</zType>
+    <en-US>Crete</en-US>
+    <it-IT>Creta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CROIX_SCAILLE</zType>
+    <en-US>Croix Scaille</en-US>
+    <it-IT>Croce di Scaille</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CSANYIK_VALLEY</zType>
+    <en-US>Csanyik Valley</en-US>
+    <it-IT>Valle di Csanyik</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CYPRUS</zType>
+    <en-US>Cyprus</en-US>
+    <it-IT>Cipro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CYRENAICA_JUNIPER_STANDS</zType>
+    <en-US>Cyrenaica Juniper Stands</en-US>
+    <it-IT>Stands di ginepro della Cirenaica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DADIA_FOREST</zType>
+    <en-US>Dadia Forest</en-US>
+    <it-IT>Foresta di Dadia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DAIX_RIVER</zType>
+    <en-US>Daix River</en-US>
+    <it-IT>Fiume Daix</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DANUBE</zType>
+    <en-US>Danube</en-US>
+    <it-IT>Danubio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DANUBIAN_PLAIN</zType>
+    <en-US>Danubian Plain</en-US>
+    <it-IT>Pianura danubiana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DAR-ALAGES</zType>
+    <en-US>Dar-Alages</en-US>
+    <it-IT>Dar-Alages</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DASHT-E_KAVIR</zType>
+    <en-US>Dasht-e Kavir</en-US>
+    <it-IT>Dasht-e Kavir</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DASHT-E_LUT</zType>
+    <en-US>Dasht-e Lut</en-US>
+    <it-IT>Dasht-e Lut</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DEAD_SEA</zType>
+    <en-US>Dead Sea</en-US>
+    <it-IT>Mar Morto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SEA_OF_KINNERET</zType>
+    <en-US>Sea of Kinneret</en-US>
+    <it-IT>Mare di Kinneret</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DELIBLATO_SANDS</zType>
+    <en-US>Deliblato Sands</en-US>
+    <it-IT>Deliblato Sands</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DELOS_ISLAND</zType>
+    <en-US>Delos Island</en-US>
+    <it-IT>Isola di Delos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIBER_VALLEY</zType>
+    <en-US>Diber Valley</en-US>
+    <it-IT>Valle di Diber</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DINARIC_ALPS</zType>
+    <en-US>Dinaric Alps</en-US>
+    <it-IT>Alpi Dinariche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCARDUS_MOUNTAINS</zType>
+    <en-US>Scardus Mountains</en-US>
+    <it-IT>Monti Scardus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISCHMA_VALLEY</zType>
+    <en-US>Dischma Valley</en-US>
+    <it-IT>Valle del Dischma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DIYALA_RIVER</zType>
+    <en-US>Diyala River</en-US>
+    <it-IT>Fiume Diyala</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DRAA_RIVER</zType>
+    <en-US>Draa River</en-US>
+    <it-IT>Fiume Draa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DRAMA_PLAIN</zType>
+    <en-US>Drama Plain</en-US>
+    <it-IT>Dramma di pianura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DRAUS_RIVER</zType>
+    <en-US>Draus River</en-US>
+    <it-IT>Fiume Draus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NARENTA_RIVER</zType>
+    <en-US>Narenta River</en-US>
+    <it-IT>Fiume Narenta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DRILO_RIVER</zType>
+    <en-US>Drilo River</en-US>
+    <it-IT>Fiume Drilo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DRINOS_VALLEY</zType>
+    <en-US>Drinos Valley</en-US>
+    <it-IT>Valle di Drinos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DRUENTIA_RIVER</zType>
+    <en-US>Druentia River</en-US>
+    <it-IT>Fiume Druentia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DUMRE_PLATEAU</zType>
+    <en-US>Dumre Plateau</en-US>
+    <it-IT>Altopiano di Dumre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DURIUS_RIVER</zType>
+    <en-US>Durius River</en-US>
+    <it-IT>Fiume Durius</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EAST_EUROPEAN_PLAIN</zType>
+    <en-US>East European Plain</en-US>
+    <it-IT>Pianura dell'Europa orientale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EBUSUS_ISLAND</zType>
+    <en-US>Ebusus Island</en-US>
+    <it-IT>Isola di Ebusus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EDIN_PLAIN</zType>
+    <en-US>Edin Plain</en-US>
+    <it-IT>Pianura di Edin</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EISCH_VALLEY</zType>
+    <en-US>Eisch Valley</en-US>
+    <it-IT>Valle di Eisch</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ELBURZ_RANGE_FOREST-STEPPE</zType>
+    <en-US>Elburz Range Forest-Steppe</en-US>
+    <it-IT>Gamma Elburz Foresta-Steppa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ELENYDD_PLATEAU</zType>
+    <en-US>Elenydd Plateau</en-US>
+    <it-IT>Altopiano di Elenydd</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ENGSTLIGENALP_PLATEAU</zType>
+    <en-US>Engstligenalp Plateau</en-US>
+    <it-IT>Altopiano di Engstligenalp</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERYTHRAEAN_SEA</zType>
+    <en-US>Erythraean Sea</en-US>
+    <it-IT>Mare Eritreo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EUBOEA</zType>
+    <en-US>Euboea</en-US>
+    <it-IT>Eubea</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EUBOEAN_GULF</zType>
+    <en-US>Euboean Gulf</en-US>
+    <it-IT>Golfo Eubeo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EUPHRATES_RIVER</zType>
+    <en-US>Euphrates River</en-US>
+    <it-IT>Fiume Eufrate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EUROTAS_RIVER</zType>
+    <en-US>Eurotas River</en-US>
+    <it-IT>Fiume Eurotas</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVROS_RIVER</zType>
+    <en-US>Evros River</en-US>
+    <it-IT>Fiume Evros</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAILAKA_ISLAND</zType>
+    <en-US>Failaka Island</en-US>
+    <it-IT>Isola di Failaka</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FOLOI_OAK_FOREST</zType>
+    <en-US>Foloi Oak Forest</en-US>
+    <it-IT>Bosco di querce Foloi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FOREST_OF_AIANTEIO</zType>
+    <en-US>Forest of Aianteio</en-US>
+    <it-IT>Foresta di Aianteio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GABAL_TINGAR</zType>
+    <en-US>Gabal Tingar</en-US>
+    <it-IT>Gabal Tingar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GALLIC_GULF</zType>
+    <en-US>Gallic Gulf</en-US>
+    <it-IT>Golfo Gallico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GARUMNA_RIVER</zType>
+    <en-US>Garumna River</en-US>
+    <it-IT>Fiume Garumna</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAUJA_VALLEY</zType>
+    <en-US>Gauja Valley</en-US>
+    <it-IT>Valle della Gauja</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GEFARA_PLAIN</zType>
+    <en-US>Gefara Plain</en-US>
+    <it-IT>Pianura di Gefara</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GEFIR_KEBIR_PLATEAU</zType>
+    <en-US>Gilf Kebir Plateau</en-US>
+    <it-IT>Altopiano del Gilf Kebir</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GHEGAM_RIDGE</zType>
+    <en-US>Ghegam Ridge</en-US>
+    <it-IT>Cresta di Ghegam</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOLAN_HEIGHTS</zType>
+    <en-US>Golan Heights</en-US>
+    <it-IT>Alture del Golan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GORGAN_PLAIN</zType>
+    <en-US>Gorgan Plain</en-US>
+    <it-IT>Pianura di Gorgan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOURAUD_CEDAR_FOREST</zType>
+    <en-US>Gouraud Cedar Forest</en-US>
+    <it-IT>Foresta di cedri di Gouraud</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GREAT_BITTER_LAKE</zType>
+    <en-US>Great Bitter Lake</en-US>
+    <it-IT>Il Grande Lago Amaro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GROSSGLOCKNER</zType>
+    <en-US>Grossglockner</en-US>
+    <it-IT>Grossglockner</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_AQABA</zType>
+    <en-US>Gulf of Aqaba</en-US>
+    <it-IT>Golfo di Aqaba</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_ARSENARIA</zType>
+    <en-US>Gulf of Arsenaria</en-US>
+    <it-IT>Golfo di Arsenaria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_CADIZ</zType>
+    <en-US>Gulf of Gadir</en-US>
+    <it-IT>Golfo di Gadir</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_GENOA</zType>
+    <en-US>Gulf of Genoa</en-US>
+    <it-IT>Golfo di Genova</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_GORGAN</zType>
+    <en-US>Gulf of Gorgan</en-US>
+    <it-IT>Golfo di Gorgan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_NEAPOLIS</zType>
+    <en-US>Gulf of Neapolis</en-US>
+    <it-IT>Golfo di Napoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_SALDAE</zType>
+    <en-US>Gulf of Saldae</en-US>
+    <it-IT>Golfo di Saldae</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_SIPONTUM</zType>
+    <en-US>Gulf of Sipontum</en-US>
+    <it-IT>Golfo di Siponto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_SUEZ</zType>
+    <en-US>Gulf of Suez</en-US>
+    <it-IT>Golfo di Suez</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_SYRTIS</zType>
+    <en-US>Gulf of Syrtis</en-US>
+    <it-IT>Golfo di Syrtis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_TARENTUM</zType>
+    <en-US>Gulf of Tarentum</en-US>
+    <it-IT>Golfo di Tarentum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_TERGESTE</zType>
+    <en-US>Gulf of Tergeste</en-US>
+    <it-IT>Golfo di Tergeste</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GULF_OF_TUNIS</zType>
+    <en-US>Gulf of Tunis</en-US>
+    <it-IT>Golfo di Tunisi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HALAB_PLATEAU</zType>
+    <en-US>Halab Plateau</en-US>
+    <it-IT>Altopiano di Halab</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HALIACMON_RIVER</zType>
+    <en-US>Haliacmon River</en-US>
+    <it-IT>Fiume Haliacmon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HALYS_RIVER</zType>
+    <en-US>Marassantiya River</en-US>
+    <it-IT>Fiume Marassantiya</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HAMATA_MANGROVES</zType>
+    <en-US>Hamata Mangroves</en-US>
+    <it-IT>Mangrovie di Hamata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HAMRIN_MOUNTAINS</zType>
+    <en-US>Hamrin Mountains</en-US>
+    <it-IT>Monti Hamrin</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HAUTES_PLATEAU</zType>
+    <en-US>Hautes Plateau</en-US>
+    <it-IT>Altopiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HAZARAN_PLATEAU</zType>
+    <en-US>Hazaran Plateau</en-US>
+    <it-IT>Altopiano di Hazaran</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HERCYNIAN_FOREST</zType>
+    <en-US>Hercynian Forest</en-US>
+    <it-IT>Foresta ercinica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HERMOS_RIVER</zType>
+    <en-US>Hermos River</en-US>
+    <it-IT>Fiume Hermos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HIBER_DELTA_WOODLAND</zType>
+    <en-US>Hiber Delta Woodland</en-US>
+    <it-IT>Bosco del Delta di Hiber</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HIBER_RIVER</zType>
+    <en-US>Hiber River</en-US>
+    <it-IT>Fiume Hiber</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HIMERA_RIVER</zType>
+    <en-US>Himera River</en-US>
+    <it-IT>Fiume Himera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HOLM_OAK_WOODLANDS</zType>
+    <en-US>Holm Oak Woodlands</en-US>
+    <it-IT>Bosco di lecci</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HYDASPES_RIVER</zType>
+    <en-US>Hydaspes River</en-US>
+    <it-IT>Fiume Hydaspes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HYPANIS_RIVER</zType>
+    <en-US>Hypanis River</en-US>
+    <it-IT>Fiume Hypanis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HYPHASIS_RIVER</zType>
+    <en-US>Hyphasis River</en-US>
+    <it-IT>Fiume Hyphasis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ICARIA_ISLAND</zType>
+    <en-US>Icaria Island</en-US>
+    <it-IT>Isola di Icaria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ICARIAN_SEA</zType>
+    <en-US>Icarian Sea</en-US>
+    <it-IT>Mare Icario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ICHKEUL_LAKE</zType>
+    <en-US>Ichkeul Lake</en-US>
+    <it-IT>Lago Ichkeul</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ICOSIUM_BAY</zType>
+    <en-US>Icosium Bay</en-US>
+    <it-IT>Baia di Icosium</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ILISOS_RIVER</zType>
+    <en-US>Ilisos River</en-US>
+    <it-IT>Fiume Ilisos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ILVA_ISLAND</zType>
+    <en-US>Ilva Island</en-US>
+    <it-IT>Isola Ilva</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_INDIAN_OCEAN</zType>
+    <en-US>Indian Ocean</en-US>
+    <it-IT>Oceano Indiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_INDUS_RIVER</zType>
+    <en-US>Indus River</en-US>
+    <it-IT>Fiume Indo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_INNTAL_VALLEY</zType>
+    <en-US>Inntal Valley</en-US>
+    <it-IT>Valle Inntal</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IONIAN_SEA</zType>
+    <en-US>Ionian Sea</en-US>
+    <it-IT>Mar Ionio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IOS_ISLAND</zType>
+    <en-US>Ios Island</en-US>
+    <it-IT>Isola di Ios</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IOTABE_ISLAND</zType>
+    <en-US>Iotabe Island</en-US>
+    <it-IT>Isola di Iotabe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IRATI_FIR_FOREST</zType>
+    <en-US>Irati Fir Forest</en-US>
+    <it-IT>Foresta di abeti di Irati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IRELAND</zType>
+    <en-US>Ireland</en-US>
+    <it-IT>Irlanda</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ITHAKI_ISLAND</zType>
+    <en-US>Ithaki Island</en-US>
+    <it-IT>Isola di Itaca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ITRIA_VALLEY</zType>
+    <en-US>Itria Valley</en-US>
+    <it-IT>Valle d'Itria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_JAXARTES_RIVER</zType>
+    <en-US>Jaxartes River</en-US>
+    <it-IT>Fiume Jaxartes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_JORDAN_RIVER</zType>
+    <en-US>Jordan River</en-US>
+    <it-IT>Fiume Giordano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KABARGIN_OTH</zType>
+    <en-US>Kabargin Oth</en-US>
+    <it-IT>Kabargin Oth</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KABIR_KUH</zType>
+    <en-US>Kabir Kuh</en-US>
+    <it-IT>Kabir Kuh</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KACKAR_MOUNTAINS</zType>
+    <en-US>Kackar Mountains</en-US>
+    <it-IT>Monti Kackar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KAFA-YAYU_WOODLAND</zType>
+    <en-US>Kafa-Yayu Woodland</en-US>
+    <it-IT>Bosco di Kafa-Yayu</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KAISERBACH_VALLEY</zType>
+    <en-US>Kaiserbach Valley</en-US>
+    <it-IT>Valle di Kaiserbach</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KALAT-E_NADERI_PLATEAU</zType>
+    <en-US>Kalat-e Naderi Plateau</en-US>
+    <it-IT>Altopiano di Kalat-e Naderi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KARAKUM_DESERT</zType>
+    <en-US>Karakum Desert</en-US>
+    <it-IT>Deserto del Karakum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GREAT_SALT_DESERT</zType>
+    <en-US>Great Salt Desert</en-US>
+    <it-IT>Grande deserto di sale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KARPATHIAN_SEA</zType>
+    <en-US>Karpathian Sea</en-US>
+    <it-IT>Mar dei Carpazi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KARST_PLATEAU</zType>
+    <en-US>Karst Plateau</en-US>
+    <it-IT>Altopiano carsico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KARUN_RIVER</zType>
+    <en-US>Karun River</en-US>
+    <it-IT>Fiume Karun</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KATHARO_PLATEAU</zType>
+    <en-US>Katharo Plateau</en-US>
+    <it-IT>Altopiano del Katharo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KAZAKH_HUMMOCKS</zType>
+    <en-US>Kazakh Hummocks</en-US>
+    <it-IT>Hummocks kazaki</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KEA_ISLAND</zType>
+    <en-US>Kea Island</en-US>
+    <it-IT>Isola di Kea</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KEKES</zType>
+    <en-US>Kekes</en-US>
+    <it-IT>Kekes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KHUZESTAN_PLAIN</zType>
+    <en-US>Khuzestan Plain</en-US>
+    <it-IT>Pianura del Khuzestan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KISH_ISLAND</zType>
+    <en-US>Kish Island</en-US>
+    <it-IT>Isola di Kish</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KOS_ISLAND</zType>
+    <en-US>Kos Island</en-US>
+    <it-IT>Isola di Kos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KRIVOSIJE_PLATEAU</zType>
+    <en-US>Krivosije Plateau</en-US>
+    <it-IT>Altopiano di Krivosije</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KURA_RIVER</zType>
+    <en-US>Kura River</en-US>
+    <it-IT>Fiume Kura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KYDONIA_PLAIN</zType>
+    <en-US>Kydonia Plain</en-US>
+    <it-IT>Pianura di Kydonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KYTHNOS_ISLAND</zType>
+    <en-US>Kythnos Island</en-US>
+    <it-IT>Isola di Kythnos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KYZYLKUM_DESERT</zType>
+    <en-US>Kyzylkum Desert</en-US>
+    <it-IT>Deserto del Kyzylkum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LACONIC_GULF</zType>
+    <en-US>Laconic Gulf</en-US>
+    <it-IT>Golfo Laconico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAGODEKHI_BEECH_FOREST</zType>
+    <en-US>Lagodekhi Beech Forest</en-US>
+    <it-IT>Foresta di faggi di Lagodekhi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAGOON_OF_ALTINUM</zType>
+    <en-US>Lagoon of Altinum</en-US>
+    <it-IT>Laguna di Altinum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_BALATON</zType>
+    <en-US>Lake Balaton</en-US>
+    <it-IT>Lago Balaton</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_BENACUS</zType>
+    <en-US>Lake Benacus</en-US>
+    <it-IT>Lago Benacus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_BOLBE</zType>
+    <en-US>Lake Bolbe</en-US>
+    <it-IT>Lago di Bolbe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_BRIGANTINUS</zType>
+    <en-US>Lake Brigantinus</en-US>
+    <it-IT>Lago Brigantinus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_BRYGEIS</zType>
+    <en-US>Lake Brygeis</en-US>
+    <it-IT>Lago Brygeis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_FLEVO</zType>
+    <en-US>Lake Flevo</en-US>
+    <it-IT>Lago Flevo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_FUCINUS</zType>
+    <en-US>Lake Fucinus</en-US>
+    <it-IT>Lago Fucinus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_HABBANIYAH</zType>
+    <en-US>Lake Habbaniyah</en-US>
+    <it-IT>Lago Habbaniyah</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_HAZAR</zType>
+    <en-US>Lake Hazar</en-US>
+    <it-IT>Lago Hazar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_HYLIKE</zType>
+    <en-US>Lake Hylike</en-US>
+    <it-IT>Lago di Hylike</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_KORONEIA</zType>
+    <en-US>Lake Koroneia</en-US>
+    <it-IT>Lago di Koroneia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_LARIUS</zType>
+    <en-US>Lake Larius</en-US>
+    <it-IT>Lago Lario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_LEMANUS</zType>
+    <en-US>Lake Lemanus</en-US>
+    <it-IT>Lago Lemano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_MELLAH</zType>
+    <en-US>Lake Mellah</en-US>
+    <it-IT>Lago Mellah</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_MOERIS</zType>
+    <en-US>Lake Moeris</en-US>
+    <it-IT>Lago Moeris</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_OF_FETZARA</zType>
+    <en-US>Lake of Fetzara</en-US>
+    <it-IT>Lago di Fetzara</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_OF_TUNIS</zType>
+    <en-US>Lake of Tunis</en-US>
+    <it-IT>Lago di Tunisi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_OUBEIRA</zType>
+    <en-US>Lake Oubeira</en-US>
+    <it-IT>Lago di Oubeira</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_PAMVOTIS</zType>
+    <en-US>Lake Pamvotis</en-US>
+    <it-IT>Lago Pamvotis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_SABATINUS</zType>
+    <en-US>Lake Sabatinus</en-US>
+    <it-IT>Lago Sabatino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_SERBONIS</zType>
+    <en-US>Lake Serbonis</en-US>
+    <it-IT>Lago Serbonis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_SEVAN</zType>
+    <en-US>Lake Sevan</en-US>
+    <it-IT>Lago Sevan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_STYMPHALIA</zType>
+    <en-US>Lake Stymphalia</en-US>
+    <it-IT>Lago di Stymphalia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_TRASUMENNUS</zType>
+    <en-US>Lake Trasumennus</en-US>
+    <it-IT>Lago Trasumennus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_TREPHIA</zType>
+    <en-US>Lake Trephia</en-US>
+    <it-IT>Lago di Trefia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_TRICHONIS</zType>
+    <en-US>Lake Trichonis</en-US>
+    <it-IT>Lago Trichonis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_TRITONIS</zType>
+    <en-US>Lake Tritonis</en-US>
+    <it-IT>Lago Tritonis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_URMIA</zType>
+    <en-US>Lake Urmia</en-US>
+    <it-IT>Lago di Urmia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_VAN</zType>
+    <en-US>Lake Van</en-US>
+    <it-IT>Lago di Van</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_VERBANUS</zType>
+    <en-US>Lake Verbanus</en-US>
+    <it-IT>Lago Verbano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LASITHI_PLATEAU</zType>
+    <en-US>Lasithi Plateau</en-US>
+    <it-IT>Altopiano di Lasithi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LATIUM_VALLEY</zType>
+    <en-US>Latium Valley</en-US>
+    <it-IT>Valle del Lazio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAVAN_ISLAND</zType>
+    <en-US>Lavan Island</en-US>
+    <it-IT>Isola di Lavan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LEBANON_MOUNTAINS</zType>
+    <en-US>Lebanon Mountains</en-US>
+    <it-IT>Montagne del Libano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LEFKA_ORI</zType>
+    <en-US>Lefka Ori</en-US>
+    <it-IT>Lefka Ori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LELANTINE_PLAIN</zType>
+    <en-US>Lelantine Plain</en-US>
+    <it-IT>Pianura di Lelantine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LEMNOS_ISLAND</zType>
+    <en-US>Lemnos Island</en-US>
+    <it-IT>Isola di Lemnos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LESVOS_ISLAND</zType>
+    <en-US>Lesvos Island</en-US>
+    <it-IT>Isola di Lesbo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LIBYAN_DESERT</zType>
+    <en-US>Libyan Desert</en-US>
+    <it-IT>Deserto libico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LIBYAN_PLATEAU</zType>
+    <en-US>Libyan Plateau</en-US>
+    <it-IT>Altopiano libico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LIGER_RIVER</zType>
+    <en-US>Liger River</en-US>
+    <it-IT>Fiume Liger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LIGURIAN_SEA</zType>
+    <en-US>Ligurian Sea</en-US>
+    <it-IT>Mar Ligure</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LIRIS_RIVER</zType>
+    <en-US>Liris River</en-US>
+    <it-IT>Fiume Liris</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LIVIKON_PELAGOS</zType>
+    <en-US>Livikon Pelagos</en-US>
+    <it-IT>Pelagos di Livonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LOCH_NEAGH</zType>
+    <en-US>Loch Neagh</en-US>
+    <it-IT>Loch Neagh</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LOPADOUSSA_ISLAND</zType>
+    <en-US>Lopadoussa Island</en-US>
+    <it-IT>Isola di Lopadoussa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LOSER_PLATEAU</zType>
+    <en-US>Loser Plateau</en-US>
+    <it-IT>Altopiano dei perdenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LUDOGORIE_PLATEAU</zType>
+    <en-US>Ludogorie Plateau</en-US>
+    <it-IT>Altopiano del Ludogorie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MACESTUS_RIVER</zType>
+    <en-US>Macestus River</en-US>
+    <it-IT>Fiume Macestus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MADEIRA_ISLAND</zType>
+    <en-US>Madeira Island</en-US>
+    <it-IT>Isola di Madeira</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MADES_VALLEY</zType>
+    <en-US>Mades Valley</en-US>
+    <it-IT>Valle di Mades</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAEANDER_RIVER</zType>
+    <en-US>Maeander River</en-US>
+    <it-IT>Fiume Maeander</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAEOTIAN_LAKE</zType>
+    <en-US>Maeotian Lake</en-US>
+    <it-IT>Lago Maeotian</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAHARLOO_LAKE</zType>
+    <en-US>Maharloo Lake</en-US>
+    <it-IT>Lago Maharloo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAJARDAH_VALLEY</zType>
+    <en-US>Majardah Valley</en-US>
+    <it-IT>Valle di Majardah</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MALIAN_GULF</zType>
+    <en-US>Malian Gulf</en-US>
+    <it-IT>Golfo del Mali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MALUA_RIVER</zType>
+    <en-US>Moulouya River</en-US>
+    <it-IT>Fiume Moulouya</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MANGROVE_FOREST_OF_QESHM</zType>
+    <en-US>Mangrove Forest of Qeshm</en-US>
+    <it-IT>Foresta di mangrovie di Qeshm</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAQUIS_SHRUBLAND</zType>
+    <en-US>Maquis Shrubland</en-US>
+    <it-IT>Macchia mediterranea</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MARANJAB_DESERT</zType>
+    <en-US>Maranjab Desert</en-US>
+    <it-IT>Deserto di Maranjab</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MARANO_LAGOON</zType>
+    <en-US>Marano Lagoon</en-US>
+    <it-IT>Laguna di Marano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MARISUS_RIVER</zType>
+    <en-US>Marisus River</en-US>
+    <it-IT>Fiume Marisus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MARNE_RIVER</zType>
+    <en-US>Marne River</en-US>
+    <it-IT>Fiume Marna</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MASOVIAN_PLAIN</zType>
+    <en-US>Masovian Plain</en-US>
+    <it-IT>Pianura Masoviana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAURA_RIVER</zType>
+    <en-US>Maura River</en-US>
+    <it-IT>Fiume Maura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAZANDARAN_FOREST</zType>
+    <en-US>Mazandaran Forest</en-US>
+    <it-IT>Foresta di Mazandaran</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEDITERRANEAN_SEA</zType>
+    <en-US>Mediterranean Sea</en-US>
+    <it-IT>Mar Mediterraneo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEGARA_GULF</zType>
+    <en-US>Megara Gulf</en-US>
+    <it-IT>Golfo di Megara</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MELITE_ISLAND</zType>
+    <en-US>Melite Island</en-US>
+    <it-IT>Isola di Melite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MELOS_ISLAND</zType>
+    <en-US>Melos Island</en-US>
+    <it-IT>Isola di Melos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MESAORIA_PLAIN</zType>
+    <en-US>Mesaoria Plain</en-US>
+    <it-IT>Pianura di Mesaoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MESETA_PLATEAU</zType>
+    <en-US>Meseta Plateau</en-US>
+    <it-IT>Altopiano della Meseta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MESSARA_PLAIN</zType>
+    <en-US>Messara Plain</en-US>
+    <it-IT>Pianura di Messara</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MESSINIAN_GULF</zType>
+    <en-US>Messinian Gulf</en-US>
+    <it-IT>Golfo Messiniano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_METAURUS_RIVER</zType>
+    <en-US>Metaurus River</en-US>
+    <it-IT>Fiume Metauro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_METHANA</zType>
+    <en-US>Methana</en-US>
+    <it-IT>Methana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MIRABELLO_BAY</zType>
+    <en-US>Mirabello Bay</en-US>
+    <it-IT>Baia di Mirabello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOGOD_MOUNTAINS</zType>
+    <en-US>Mogod Mountains</en-US>
+    <it-IT>Monti Mogod</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOKATTAM</zType>
+    <en-US>Mokattam</en-US>
+    <it-IT>Mokattam</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOLDOVENU_PEAK</zType>
+    <en-US>Moldoveanu Peak</en-US>
+    <it-IT>Picco Moldoveanu</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MONA_ISLAND</zType>
+    <en-US>Mona Island</en-US>
+    <it-IT>Isola di Mona</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MONTE_AMIATA</zType>
+    <en-US>Monte Amiata</en-US>
+    <it-IT>Mount Amiata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MONTE_VULTURE</zType>
+    <en-US>Monte Vulture</en-US>
+    <it-IT>Monte Vulture</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MONTEREY_PINE_FOREST</zType>
+    <en-US>Monterey Pine Forest</en-US>
+    <it-IT>Pineta di Monterey</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOSA_RIVER</zType>
+    <en-US>Mosa River</en-US>
+    <it-IT>Fiume Mosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOSELLA_RIVER</zType>
+    <en-US>Mosella River</en-US>
+    <it-IT>Fiume Mosella</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_AETNA</zType>
+    <en-US>Aetna</en-US>
+    <it-IT>Aetna</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_ALFAF</zType>
+    <en-US>Alfaf</en-US>
+    <it-IT>Alfaf</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_AMARO</zType>
+    <en-US>Amaro</en-US>
+    <it-IT>Amaro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_ARAGATS</zType>
+    <en-US>Aragats</en-US>
+    <it-IT>Aragonesi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_ARARAT</zType>
+    <en-US>Ararat</en-US>
+    <it-IT>Ararat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_ARGAEUS</zType>
+    <en-US>Argaeus</en-US>
+    <it-IT>Argaeus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_AROANIA</zType>
+    <en-US>Aroania</en-US>
+    <it-IT>Aroania</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_ATHOS</zType>
+    <en-US>Athos</en-US>
+    <it-IT>Athos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_BAZARDUZU</zType>
+    <en-US>Bazarduzu</en-US>
+    <it-IT>Bazarduzu</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_CARMEL</zType>
+    <en-US>Carmel</en-US>
+    <it-IT>Carmelo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_CENIS</zType>
+    <en-US>Cenis</en-US>
+    <it-IT>Cenis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_CIMONE</zType>
+    <en-US>Cimone</en-US>
+    <it-IT>Cimone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_CORNO</zType>
+    <en-US>Corno</en-US>
+    <it-IT>Corno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_CORYDALLOS</zType>
+    <en-US>Poikilon Oros</en-US>
+    <it-IT>Poikilon Oros</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_CYLLENE</zType>
+    <en-US>Cyllene</en-US>
+    <it-IT>Cyllene</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_DAMAVAND</zType>
+    <en-US>Damavand</en-US>
+    <it-IT>Damavand</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_DENA</zType>
+    <en-US>Dena</en-US>
+    <it-IT>Dena</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_DINDYMON</zType>
+    <en-US>Dindymon</en-US>
+    <it-IT>Dindymon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_DIRPHYS</zType>
+    <en-US>Dirphys</en-US>
+    <it-IT>Dirphys</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_ELBRUS</zType>
+    <en-US>Elbrus</en-US>
+    <it-IT>Elbrus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_ERYMANTHOS</zType>
+    <en-US>Erymanthos</en-US>
+    <it-IT>Erymanthos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_ERYX</zType>
+    <en-US>Eryx</en-US>
+    <it-IT>Eryx</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_GARGANUS</zType>
+    <en-US>Garganus</en-US>
+    <it-IT>Gargano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_HELICON</zType>
+    <en-US>Helicon</en-US>
+    <it-IT>Helicon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_HELLANION</zType>
+    <en-US>Hellanion</en-US>
+    <it-IT>Hellanion</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_HERMINIUS</zType>
+    <en-US>Herminius</en-US>
+    <it-IT>Erminio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_HERMON</zType>
+    <en-US>Hermon</en-US>
+    <it-IT>Hermon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_IDA</zType>
+    <en-US>Ida</en-US>
+    <it-IT>Ida</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_KAZBEK</zType>
+    <en-US>Kazbek</en-US>
+    <it-IT>Kazbek</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_KORAB</zType>
+    <en-US>Korab</en-US>
+    <it-IT>Korab</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_LYKAION</zType>
+    <en-US>Lykaion</en-US>
+    <it-IT>Lykaion</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_MINTHE</zType>
+    <en-US>Minthe</en-US>
+    <it-IT>Minthe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_NEMRUD</zType>
+    <en-US>Nemrud</en-US>
+    <it-IT>Nemrud</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_NIPUR</zType>
+    <en-US>Nipur</en-US>
+    <it-IT>Nipur</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_OLYMPOS</zType>
+    <en-US>Olympos</en-US>
+    <it-IT>Olympos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_OSSA</zType>
+    <en-US>Ossa</en-US>
+    <it-IT>Ossa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_OTHRYS</zType>
+    <en-US>Othrys</en-US>
+    <it-IT>Othrys</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_PARNON</zType>
+    <en-US>Parnon</en-US>
+    <it-IT>Parnon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_PELION</zType>
+    <en-US>Pelion</en-US>
+    <it-IT>Pelio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_PENTELIKON</zType>
+    <en-US>Pentelikon</en-US>
+    <it-IT>Pentelicon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_POLLINO</zType>
+    <en-US>Pollino</en-US>
+    <it-IT>Pollino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_ROSA</zType>
+    <en-US>Rosa</en-US>
+    <it-IT>Rosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_SABALAN</zType>
+    <en-US>Sabalan</en-US>
+    <it-IT>Sabalan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_SANNINE</zType>
+    <en-US>Sannine</en-US>
+    <it-IT>Sannino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_SINAI</zType>
+    <en-US>Sinai</en-US>
+    <it-IT>Sinai</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_SINJAR</zType>
+    <en-US>Sinjar</en-US>
+    <it-IT>Sinjar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_SUPHAN</zType>
+    <en-US>Suphan</en-US>
+    <it-IT>Suphan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_TAHAT</zType>
+    <en-US>Tahat</en-US>
+    <it-IT>Tahat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_TIDIGHIN</zType>
+    <en-US>Tidighin</en-US>
+    <it-IT>onda di marea</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_TMOLOS</zType>
+    <en-US>Tmolos</en-US>
+    <it-IT>Tmolos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_TONDRAK</zType>
+    <en-US>Tondrak</en-US>
+    <it-IT>Tondrak</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_VARNOUS</zType>
+    <en-US>Varnous</en-US>
+    <it-IT>Vernoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_VESUVIUS</zType>
+    <en-US>Vesuvius</en-US>
+    <it-IT>Vesuvio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_VETTORE</zType>
+    <en-US>Vettore</en-US>
+    <it-IT>Carrier</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_VISO</zType>
+    <en-US>Viso</en-US>
+    <it-IT>Viso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MULHACEN</zType>
+    <en-US>Mulhacen</en-US>
+    <it-IT>Mulhacen</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MUNDICUS_RIVER</zType>
+    <en-US>Mundicus River</en-US>
+    <it-IT>Fiume Mundicus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MUNZUR_VALLEY</zType>
+    <en-US>Munzur Valley</en-US>
+    <it-IT>Valle del Munzur</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MURGE_PLATEAU</zType>
+    <en-US>Murge Plateau</en-US>
+    <it-IT>Altopiano delle Murge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MUTHUL_RIVER</zType>
+    <en-US>Muthul River</en-US>
+    <it-IT>Fiume Muthul</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MYRTOAN_SEA</zType>
+    <en-US>Myrtoan Sea</en-US>
+    <it-IT>Mare di Myrtoan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NABTA_PLAYA</zType>
+    <en-US>Nabta Playa</en-US>
+    <it-IT>Nabta Playa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAMAK_LAKE</zType>
+    <en-US>Namak Lake</en-US>
+    <it-IT>Lago Namak</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAXOS_ISLAND</zType>
+    <en-US>Naxos Island</en-US>
+    <it-IT>Isola di Naxos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NEBRODI_MOUNTAINS</zType>
+    <en-US>Nebrodi Mountains</en-US>
+    <it-IT>Monti Nebrodi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NEFUSA_PLATEAU</zType>
+    <en-US>Nefusa Plateau</en-US>
+    <it-IT>Altopiano di Nefusa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NESTOS_RIVER</zType>
+    <en-US>Nestos River</en-US>
+    <it-IT>Fiume Nestos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NIDHA_PLATEAU</zType>
+    <en-US>Nidha Plateau</en-US>
+    <it-IT>Altopiano di Nidha</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NILE_VALLEY</zType>
+    <en-US>Nile Valley</en-US>
+    <it-IT>Valle del Nilo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NISAEAN_PLAIN</zType>
+    <en-US>Nisaean Plain</en-US>
+    <it-IT>Pianura nisaica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NITRIAN_DESERT</zType>
+    <en-US>Nitrian Desert</en-US>
+    <it-IT>Deserto di Nitriano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NUBIAN_DESERT</zType>
+    <en-US>Nubian Desert</en-US>
+    <it-IT>Deserto nubiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NUR_FOREST</zType>
+    <en-US>Nur Forest</en-US>
+    <it-IT>Foresta di Nur</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OCHUS_RIVER</zType>
+    <en-US>Ochus River</en-US>
+    <it-IT>Fiume Ochus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OLLIUS_RIVER</zType>
+    <en-US>Ollius River</en-US>
+    <it-IT>Fiume Ollius</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OMALOS_PLATEAU</zType>
+    <en-US>Omalos Plateau</en-US>
+    <it-IT>Altopiano di Omalos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ORDESA_FOREST</zType>
+    <en-US>Ordesa Forest</en-US>
+    <it-IT>Foresta di Ordesa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ORGANA_ISLAND</zType>
+    <en-US>Organa Island</en-US>
+    <it-IT>Isola di Organa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ORONTES_RIVER</zType>
+    <en-US>Orontes River</en-US>
+    <it-IT>Fiume Oronte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_OXUS_RIVER</zType>
+    <en-US>Oxus River</en-US>
+    <it-IT>Fiume Oxus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PADAN_PLAIN</zType>
+    <en-US>Padan Plain</en-US>
+    <it-IT>Pianura padana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PADUS_RIVER</zType>
+    <en-US>Padus River</en-US>
+    <it-IT>Tata River</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PAGASAEAN_GULF</zType>
+    <en-US>Pagasaean Gulf</en-US>
+    <it-IT>Golfo di Pagasaean</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PALMA_ISLAND</zType>
+    <en-US>Palma Island</en-US>
+    <it-IT>Isola di Palma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PANNONIAN_PLAIN</zType>
+    <en-US>Pannonian Plain</en-US>
+    <it-IT>Pianura pannonica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PAROPAMISADAE</zType>
+    <en-US>Paropamisadae</en-US>
+    <it-IT>Paropamisadae</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PASITIGRIS_RIVER</zType>
+    <en-US>Pasitigris River</en-US>
+    <it-IT>Fiume Pasitigris</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PEDEMONTIS</zType>
+    <en-US>Pedemontis</en-US>
+    <it-IT>Pedemontis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PELAGONIA</zType>
+    <en-US>Pelagonia</en-US>
+    <it-IT>Pelagonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PELOPONNESIAN_MAQUIS</zType>
+    <en-US>Peloponnesian Maquis</en-US>
+    <it-IT>Macchia del Peloponneso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PERSIAN_GULF</zType>
+    <en-US>Persian Gulf</en-US>
+    <it-IT>Golfo Persico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PERSIAN_PLATEAU</zType>
+    <en-US>Persian Plateau</en-US>
+    <it-IT>Altopiano persiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PHIOM</zType>
+    <en-US>Phiom</en-US>
+    <it-IT>Phiom</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PHOENICIAN_CEDAR_FOREST</zType>
+    <en-US>Phoenician Cedar Forest</en-US>
+    <it-IT>Foresta di cedri fenici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PHOENICIAN_FIR_FOREST</zType>
+    <en-US>Phoenician Fir Forest</en-US>
+    <it-IT>Foresta di abeti fenici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PIERIAN_MOUNTAINS</zType>
+    <en-US>Pierian Mountains</en-US>
+    <it-IT>Monti Pieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PINDOS_MOUNTAINS</zType>
+    <en-US>Pindos Mountains</en-US>
+    <it-IT>Monti del Pindo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PINEIOS_RIVER</zType>
+    <en-US>Pineios River</en-US>
+    <it-IT>Fiume Pineios</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PISCINAMANNA_VALLEY</zType>
+    <en-US>Piscinamanna Valley</en-US>
+    <it-IT>Piscinamanna Valley</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAIN_OF_CATANIA</zType>
+    <en-US>Plain of Catania</en-US>
+    <it-IT>Piana di Catania</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAIN_OF_QU'E</zType>
+    <en-US>Plain of Qu'e</en-US>
+    <it-IT>Pianura di Qu'e</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLATEAU_D'ASSY</zType>
+    <en-US>Plateau d'Assy</en-US>
+    <it-IT>Altopiano di Assy</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLATEAU_OF_ELAM</zType>
+    <en-US>Plateau of Elam</en-US>
+    <it-IT>Altopiano di Elam</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PLAVIS_RIVER</zType>
+    <en-US>Plavis River</en-US>
+    <it-IT>Fiume Plavis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POLLINO_FOREST</zType>
+    <en-US>Pollino Forest</en-US>
+    <it-IT>Foresta del Pollino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POLOND_DESERT</zType>
+    <en-US>Polond Desert</en-US>
+    <it-IT>Deserto di Polond</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PONTIC_MOUNTAINS</zType>
+    <en-US>Pontic Mountains</en-US>
+    <it-IT>Monti pontici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PORAK</zType>
+    <en-US>Porak</en-US>
+    <it-IT>Porak</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PORATA_RIVER</zType>
+    <en-US>Porata River</en-US>
+    <it-IT>Fiume Porata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PORTUS_FERRESANUS</zType>
+    <en-US>Portus Ferresanus</en-US>
+    <it-IT>Portus ferresanus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_POSIDIUM_PINE_FOREST</zType>
+    <en-US>Posidium Pine Forest</en-US>
+    <it-IT>Pineta di Posidium</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PYRENEES</zType>
+    <en-US>Pyrenees</en-US>
+    <it-IT>Pirenei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_QAFLANKUH_MOUNTAINS</zType>
+    <en-US>Qaflankuh Mountains</en-US>
+    <it-IT>Montagne Qaflankuh</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_QANDIL_MOUNTAINS</zType>
+    <en-US>Qandil Mountains</en-US>
+    <it-IT>Monti Qandil</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_QESHM_ISLAND</zType>
+    <en-US>Qeshm Island</en-US>
+    <it-IT>Isola di Qeshm</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RED_SEA</zType>
+    <en-US>Red Sea</en-US>
+    <it-IT>Mar Rosso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RENOS_RIVER</zType>
+    <en-US>Renos River</en-US>
+    <it-IT>Fiume Renos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RETEZAT_FOREST</zType>
+    <en-US>Retezat Forest</en-US>
+    <it-IT>Foresta di Retezat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RHA_RIVER</zType>
+    <en-US>Rha River</en-US>
+    <it-IT>Fiume Rha</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RHODANUS_RIVER</zType>
+    <en-US>Rhodanus River</en-US>
+    <it-IT>Fiume Rhodanus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RHODES</zType>
+    <en-US>Rhodes</en-US>
+    <it-IT>Rodi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RHODOPE_MOUNTAINS</zType>
+    <en-US>Rhodope</en-US>
+    <it-IT>Rodopi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ROWNIA_POD_SNIEZKA</zType>
+    <en-US>Rownia pod Sniezka</en-US>
+    <it-IT>Rownia pod Sniezka</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RUBICON_RIVER</zType>
+    <en-US>Rubicon River</en-US>
+    <it-IT>Fiume Rubicone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RYSY</zType>
+    <en-US>Rysy</en-US>
+    <it-IT>Rysy</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SAHAND</zType>
+    <en-US>Sahand</en-US>
+    <it-IT>Sahand</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SAHARA_DESERT</zType>
+    <en-US>Sahara Desert</en-US>
+    <it-IT>Deserto del Sahara</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SALAMIS_ISLAND</zType>
+    <en-US>Salamis Island</en-US>
+    <it-IT>Isola di Salamina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SAMARA_RIVER</zType>
+    <en-US>Samara River</en-US>
+    <it-IT>Fiume Samara</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SAMOS_ISLAND</zType>
+    <en-US>Samos Island</en-US>
+    <it-IT>Isola di Samos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SANGARIUS_RIVER</zType>
+    <en-US>Sangarius River</en-US>
+    <it-IT>Fiume Sangarius</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SANUFRI_ISLAND</zType>
+    <en-US>Sanufri Island</en-US>
+    <it-IT>Isola di Sanufri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SARDINIA</zType>
+    <en-US>Sardinia</en-US>
+    <it-IT>Sardegna</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SARONIC_GULF</zType>
+    <en-US>Saronic Gulf</en-US>
+    <it-IT>Golfo Saronico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SARYGAMYSH_LAKE</zType>
+    <en-US>Sarygamysh Lake</en-US>
+    <it-IT>Lago Sarygamysh</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SAUWALD_FOREST</zType>
+    <en-US>Sauwald Forest</en-US>
+    <it-IT>Foresta di Sauwald</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCHAMS_VALLEY</zType>
+    <en-US>Schams Valley</en-US>
+    <it-IT>Valle di Schams</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SEA_OF_CRETE</zType>
+    <en-US>Sea of Crete</en-US>
+    <it-IT>Mare di Creta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SEA_OF_MARMARA</zType>
+    <en-US>Propontis</en-US>
+    <it-IT>Propontis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SEQUANA_RIVER</zType>
+    <en-US>Sequana River</en-US>
+    <it-IT>Fiume Sequana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SERIFOS_ISLAND</zType>
+    <en-US>Serifos Island</en-US>
+    <it-IT>Isola di Serifos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SHAIYB_AL-BANAT</zType>
+    <en-US>Shaiyb al-Banat</en-US>
+    <it-IT>Shaiyb al-Banat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SHANNON_RIVER</zType>
+    <en-US>Sionainn River</en-US>
+    <it-IT>Fiume Sionainn</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SHIR_KUH</zType>
+    <en-US>Shir Kuh</en-US>
+    <it-IT>Shir Kuh</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SHKHARA</zType>
+    <en-US>Shkhara</en-US>
+    <it-IT>Shkhara</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SIALAN</zType>
+    <en-US>Sialan</en-US>
+    <it-IT>Dannazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SICILY</zType>
+    <en-US>Sicily</en-US>
+    <it-IT>Sicilia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SIFNOS_ISLAND</zType>
+    <en-US>Sifnos Island</en-US>
+    <it-IT>Isola di Sifnos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SILA_PLATEAU</zType>
+    <en-US>Sila Plateau</en-US>
+    <it-IT>Altopiano della Sila</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SILARUS_RIVER</zType>
+    <en-US>Silarus River</en-US>
+    <it-IT>Fiume Silarus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SILVA_ARSIA</zType>
+    <en-US>Silva Arsia</en-US>
+    <it-IT>Silva Arsia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SILVA_CIMINIA</zType>
+    <en-US>Silva Ciminia</en-US>
+    <it-IT>Silva Ciminia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SINGIDUNUM_FOREST</zType>
+    <en-US>Singidunum Forest</en-US>
+    <it-IT>Foresta di Singidunum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SINJAR_PLAIN</zType>
+    <en-US>Sinjar Plain</en-US>
+    <it-IT>Pianura di Sinjar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SKIATHOS_ISLAND</zType>
+    <en-US>Skiathos Island</en-US>
+    <it-IT>Isola di Skiathos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SKIRITIDA_FOREST</zType>
+    <en-US>Skiritida Forest</en-US>
+    <it-IT>Foresta di Skiritida</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SKOPELOS_ISLAND</zType>
+    <en-US>Skopelos Island</en-US>
+    <it-IT>Isola di Skopelos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SKYROS_ISLAND</zType>
+    <en-US>Skyros Island</en-US>
+    <it-IT>Isola di Skyros</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SOFIA_VALLEY</zType>
+    <en-US>Sofia Valley</en-US>
+    <it-IT>Valle di Sofia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SOHANAK_FOREST</zType>
+    <en-US>Sohanak Forest</en-US>
+    <it-IT>Foresta di Sohanak</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SORKHEH_HESAR_FOREST</zType>
+    <en-US>Sorkheh Hesar Forest</en-US>
+    <it-IT>Foresta di Sorkheh Hesar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SOUDETA_MOUNTAINS</zType>
+    <en-US>Soudeta Mountains</en-US>
+    <it-IT>Monti Soudeta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SPERCHEIOS_VALLEY</zType>
+    <en-US>Spercheios Valley</en-US>
+    <it-IT>Valle di Spercheios</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_STRYMON_RIVER</zType>
+    <en-US>Strymon River</en-US>
+    <it-IT>Fiume Strymon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBUBUS_RIVER</zType>
+    <en-US>Sububus River</en-US>
+    <it-IT>Fiume Sububus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBUR_RIVER</zType>
+    <en-US>Subur River</en-US>
+    <it-IT>Fiume Subur</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUCRO_RIVER</zType>
+    <en-US>Sucro River</en-US>
+    <it-IT>Fiume Sucro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUEBICUM_SEA</zType>
+    <en-US>Suebicum Sea</en-US>
+    <it-IT>Mare Suebicum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUEVUS_RIVER</zType>
+    <en-US>Suevus River</en-US>
+    <it-IT>Fiume Suevus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SYRIAN_DESERT</zType>
+    <en-US>Syrian Desert</en-US>
+    <it-IT>Deserto siriano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TA_DEHENT</zType>
+    <en-US>Ta Dehent</en-US>
+    <it-IT>Ta Dehent</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TA_SEKHET_MAAT</zType>
+    <en-US>Ta sekhet Maat</en-US>
+    <it-IT>Ta sekhet Maat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TABERNAS_DESERT</zType>
+    <en-US>Tabernas Desert</en-US>
+    <it-IT>Deserto di Tabernas</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAFTAN</zType>
+    <en-US>Taftan</en-US>
+    <it-IT>Taftano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAGUS_RIVER</zType>
+    <en-US>Tagus River</en-US>
+    <it-IT>Fiume Tago</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAMESIS_RIVER</zType>
+    <en-US>Tamesis River</en-US>
+    <it-IT>Fiume Tamesis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TANAIS_RIVER</zType>
+    <en-US>Tanais River</en-US>
+    <it-IT>Fiume Tanais</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TARNIS_RIVER</zType>
+    <en-US>Tarnis River</en-US>
+    <it-IT>Fiume Tarnis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TASHK_LAKE</zType>
+    <en-US>Tashk Lake</en-US>
+    <it-IT>Lago Tashk</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TATTA_LAKE</zType>
+    <en-US>Tatta Lake</en-US>
+    <it-IT>Tatta Lake</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAURUS_MOUNTAINS</zType>
+    <en-US>Taurus Mountains</en-US>
+    <it-IT>Monti del Toro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TAYGETOS_MOUNTAINS</zType>
+    <en-US>Taygetos Mountains</en-US>
+    <it-IT>Monti Taygetos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TELL_ATLAS</zType>
+    <en-US>Tell Atlas</en-US>
+    <it-IT>Raccontare l'Atlante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THADER_RIVER</zType>
+    <en-US>Thader River</en-US>
+    <it-IT>Fiume Thader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THAR_DESERT</zType>
+    <en-US>Thar Desert</en-US>
+    <it-IT>Deserto del Thar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THASOS_ISLAND</zType>
+    <en-US>Thasos Island</en-US>
+    <it-IT>Isola di Thasos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KARPATHOS_ISLAND</zType>
+    <en-US>Karpathos Island</en-US>
+    <it-IT>Isola di Karpathos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THE_ALPS</zType>
+    <en-US>Alpes</en-US>
+    <it-IT>Alpi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THE_JOGLLAND</zType>
+    <en-US>The Joglland</en-US>
+    <it-IT>Il Joglland</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THE_NILE</zType>
+    <en-US>Nile</en-US>
+    <it-IT>Nilo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THERA</zType>
+    <en-US>Thera</en-US>
+    <it-IT>Thera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THERMAIC_GULF</zType>
+    <en-US>Thermaic Gulf</en-US>
+    <it-IT>Golfo Termale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THESSALIAN_PLAIN</zType>
+    <en-US>Thessalian Plain</en-US>
+    <it-IT>Pianura tessalica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THRACIAN_SEA</zType>
+    <en-US>Thracian Sea</en-US>
+    <it-IT>Mare Trace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THURINGIAN_GATE_VALLEY</zType>
+    <en-US>Thuringian Gate Valley</en-US>
+    <it-IT>Valle della Porta Turingia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THUYA_WOODLANDS</zType>
+    <en-US>Thuya Woodlands</en-US>
+    <it-IT>Boschi di Thuya</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THYAMIS_RIVER</zType>
+    <en-US>Thyamis River</en-US>
+    <it-IT>Fiume Thyamis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_THYMNIAS_BAY</zType>
+    <en-US>Thymnias Bay</en-US>
+    <it-IT>Baia di Thymnias</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TIBER_RIVER</zType>
+    <en-US>Tiber River</en-US>
+    <it-IT>Fiume Tevere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TIFERNUS_RIVER</zType>
+    <en-US>Tifernus River</en-US>
+    <it-IT>Fiume Tifernus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TIGRIS_RIVER</zType>
+    <en-US>Tigris River</en-US>
+    <it-IT>Fiume Tigri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TISIA_RIVER</zType>
+    <en-US>Tisia River</en-US>
+    <it-IT>Fiume Tisia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOMIS</zType>
+    <en-US>Tomis</en-US>
+    <it-IT>Tomis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TOUBKAL</zType>
+    <en-US>Toubkal</en-US>
+    <it-IT>Toubkal</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIGLAV</zType>
+    <en-US>Triglav</en-US>
+    <it-IT>Triglav</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRILLEMARKA_TAIGA</zType>
+    <en-US>Trillemarka Taiga</en-US>
+    <it-IT>Trillemarka Taiga</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRIPOLITANIA_PLATEAU</zType>
+    <en-US>Tripolitania Plateau</en-US>
+    <it-IT>Altopiano della Tripolitania</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURKMENBASHI_BAY</zType>
+    <en-US>Turkmenbashi Bay</en-US>
+    <it-IT>Baia di Turkmenbashi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TYLOS_ISLAND</zType>
+    <en-US>Tylos Island</en-US>
+    <it-IT>Isola di Tylos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TYRAS_RIVER</zType>
+    <en-US>Tyras River</en-US>
+    <it-IT>Fiume Tyras</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TYRRHENIAN_SEA</zType>
+    <en-US>Tyrrhenian Sea</en-US>
+    <it-IT>Mar Tirreno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UMBRO_RIVER</zType>
+    <en-US>Umbro River</en-US>
+    <it-IT>Fiume Umbro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_URMIA_PLAIN</zType>
+    <en-US>Urmia Plain</en-US>
+    <it-IT>Pianura di Urmia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UWAYNAT_MOUNTAINS</zType>
+    <en-US>Uwaynat Mountains</en-US>
+    <it-IT>Monti Uwaynat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_VAI_PALM_FOREST</zType>
+    <en-US>Vai Palm Forest</en-US>
+    <it-IT>Foresta di palme di Vai</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_VALE_OF_TEMPE</zType>
+    <en-US>Vale of Tempe</en-US>
+    <it-IT>Vale di Tempe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_VECTIS_ISLAND</zType>
+    <en-US>Vectis Island</en-US>
+    <it-IT>Isola di Vectis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_VIADRUS_RIVER</zType>
+    <en-US>Viadua River</en-US>
+    <it-IT>Fiume Viadua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_VINDOBONA_WOODS</zType>
+    <en-US>Vindobona Woods</en-US>
+    <it-IT>Bosco di Vindobona</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_VISTULA_RIVER</zType>
+    <en-US>Vistula River</en-US>
+    <it-IT>Fiume Vistola</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_VISURGIS_RIVER</zType>
+    <en-US>Visurgis River</en-US>
+    <it-IT>Fiume Visurgis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WADI_EL_RAYAN</zType>
+    <en-US>Wadi El Rayan</en-US>
+    <it-IT>Wadi El Rayan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WARDIJA_RIDGE</zType>
+    <en-US>Wardija Ridge</en-US>
+    <it-IT>Cresta di Wardia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WAW_AN_NAMUS</zType>
+    <en-US>Waw an Namus</en-US>
+    <it-IT>Waw e Namus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_XERIC_PINE_AND_JUNIPER</zType>
+    <en-US>Xeric Pine and Juniper</en-US>
+    <it-IT>Pino e ginepro xerici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ZAB_RIVER</zType>
+    <en-US>Zab River</en-US>
+    <it-IT>Fiume Zab</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ZAGROS_MOUNTAINS</zType>
+    <en-US>Zagros Mountains</en-US>
+    <it-IT>Monti Zagros</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ZAKYNTHOS_ISLAND</zType>
+    <en-US>Zakynthos Island</en-US>
+    <it-IT>Isola di Zante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ZAMA_PLAIN</zType>
+    <en-US>Zama Plain</en-US>
+    <it-IT>Pianura di Zama</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ZARD_KUH</zType>
+    <en-US>Zard Kuh</en-US>
+    <it-IT>Mucca Zard</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ZAYANDERUD_RIVER</zType>
+    <en-US>Zayanderud River</en-US>
+    <it-IT>Fiume Zayanderud</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ZERRAH_DEPRESSION</zType>
+    <en-US>Zerrah Depression</en-US>
+    <it-IT>Depressione di Zerrah</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WESTERN_DESERT</zType>
+    <en-US>Western Desert</en-US>
+    <it-IT>Deserto occidentale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EASTERN_DESERT</zType>
+    <en-US>Eastern Desert</en-US>
+    <it-IT>Deserto orientale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ERYTHREAN_SEA</zType>
+    <en-US>Erythrean Sea</en-US>
+    <it-IT>Mare Eritreo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ISHTARUT</zType>
+    <en-US>Ishtarut</en-US>
+    <it-IT>Ishtarut</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_ELATH</zType>
+    <en-US>Elath</en-US>
+    <it-IT>Elath</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_QATTARA_DEPRESSION</zType>
+    <en-US>Qattara Depression</en-US>
+    <it-IT>Depressione di Qattara</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SINAI_DESERT</zType>
+    <en-US>Sinai Desert</en-US>
+    <it-IT>Deserto del Sinai</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ANTI_LEBANON_MOUNTAINS</zType>
+    <en-US>Anti-Lebanon Mountains</en-US>
+    <it-IT>Montagne anti-Libano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_TYRE</zType>
+    <en-US>Tyre</en-US>
+    <it-IT>Pneumatico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GREAT_ZAB_RIVER</zType>
+    <en-US>Great Zab River</en-US>
+    <it-IT>Grande fiume Zab</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LITTLE_ZAB_RIVER</zType>
+    <en-US>Little Zab River</en-US>
+    <it-IT>Fiume Piccolo Zab</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_GANZAK</zType>
+    <en-US>Ganzak</en-US>
+    <it-IT>Ganzak</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_LAMBAESA</zType>
+    <en-US>Lambaesa</en-US>
+    <it-IT>Lambaesa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_AUZIA</zType>
+    <en-US>Auzia</en-US>
+    <it-IT>Auzia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_ANCYRA</zType>
+    <en-US>Ancyra</en-US>
+    <it-IT>Ancyra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_MAZAKA</zType>
+    <en-US>Mazaka</en-US>
+    <it-IT>Mazaka</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SIGA</zType>
+    <en-US>Siga</en-US>
+    <it-IT>Siga</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_ARDABIL</zType>
+    <en-US>Ardabil</en-US>
+    <it-IT>Ardabil</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_AINOS</zType>
+    <en-US>Ainos</en-US>
+    <it-IT>Ainos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SINOPE</zType>
+    <en-US>Sinope</en-US>
+    <it-IT>Sinope</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_PHASIS</zType>
+    <en-US>Phasis</en-US>
+    <it-IT>Fasi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_ODESSOS</zType>
+    <en-US>Odessos</en-US>
+    <it-IT>Odessos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_BURDIGALA</zType>
+    <en-US>Burdigala</en-US>
+    <it-IT>Burdigala</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_TROESMIS</zType>
+    <en-US>Troesmis</en-US>
+    <it-IT>Troesmis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_PAPHOS</zType>
+    <en-US>Paphos</en-US>
+    <it-IT>Paphos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SARMIZEGETUSA</zType>
+    <en-US>Sarmizegetusa</en-US>
+    <it-IT>Sarmizegetusa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_TERMESSOS</zType>
+    <en-US>Termessos</en-US>
+    <it-IT>Termessos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_ICOSIUM</zType>
+    <en-US>Icosium</en-US>
+    <it-IT>Icosium</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SALAMIS</zType>
+    <en-US>Salamis</en-US>
+    <it-IT>Salamina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_TARTESSOS</zType>
+    <en-US>Tartessos</en-US>
+    <it-IT>Tartessos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_EPIDAUROS</zType>
+    <en-US>Epidauros</en-US>
+    <it-IT>Epidauros</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SOBA</zType>
+    <en-US>Soba</en-US>
+    <it-IT>Soba</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_PUNT</zType>
+    <en-US>Punt</en-US>
+    <it-IT>Puntata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_MARIB</zType>
+    <en-US>Ma'rib</en-US>
+    <it-IT>Ma'rib</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_UPI</zType>
+    <en-US>Upi</en-US>
+    <it-IT>Upi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_TOMIS</zType>
+    <en-US>Tomis</en-US>
+    <it-IT>Tomis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DELOS</zType>
+    <en-US>Delos</en-US>
+    <it-IT>Delos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELLESPONT</zType>
+    <en-US>Hellespont</en-US>
+    <it-IT>Ellesponto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MOUNT_MASIA</zType>
+    <en-US>Masia</en-US>
+    <it-IT>Masia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GIBRALTAR</zType>
+    <en-US>Mons Calpe</en-US>
+    <it-IT>Mons Calpe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BOSPORUS</zType>
+    <en-US>Bosporus</en-US>
+    <it-IT>Bosforo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_METSEP</zType>
+    <en-US>Metsep</en-US>
+    <it-IT>Metsep</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_MAEOTIS</zType>
+    <en-US>Lake Maeotis</en-US>
+    <it-IT>Lago di Maeotis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CANTABRICUS_BAY</zType>
+    <en-US>Cantabricus Bay</en-US>
+    <it-IT>Baia di Cantabrico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_RED_SEA_HILLS</zType>
+    <en-US>Red Sea Hills</en-US>
+    <it-IT>Colline del Mar Rosso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NILE_DELTA</zType>
+    <en-US>Nile Delta</en-US>
+    <it-IT>Delta del Nilo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PELOPONNESOS</zType>
+    <en-US>Peloponnesos</en-US>
+    <it-IT>Peloponneso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ATTICA</zType>
+    <en-US>Attica</en-US>
+    <it-IT>Attica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TROY</zType>
+    <en-US>Troy</en-US>
+    <it-IT>Troia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAUL</zType>
+    <en-US>Gaul</en-US>
+    <it-IT>Gallia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MALVA_RIVER</zType>
+    <en-US>Malva River</en-US>
+    <it-IT>Fiume Malva</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CEPHALLENIA</zType>
+    <en-US>Cephallenia</en-US>
+    <it-IT>Cephallenia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHIOS</zType>
+    <en-US>Chios</en-US>
+    <it-IT>Chios</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KORKYRA</zType>
+    <en-US>Korkyra</en-US>
+    <it-IT>Korkyra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LESBOS</zType>
+    <en-US>Lesbos</en-US>
+    <it-IT>Lesbo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMBROS</zType>
+    <en-US>Imbros</en-US>
+    <it-IT>Imbrò</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SIERRA_NEVADA</zType>
+    <en-US>Sierra Nevada</en-US>
+    <it-IT>Sierra Nevada</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DRINUS_RIVER</zType>
+    <en-US>Drinus River</en-US>
+    <it-IT>Fiume Drinus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ILLYRIAN_FORESTS</zType>
+    <en-US>Illyrian Forests</en-US>
+    <it-IT>Foreste illiriche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MARRAH_MOUNTAINS</zType>
+    <en-US>Marrah Mountains</en-US>
+    <it-IT>Monti Marrah</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ASIR_MOUNTAINS</zType>
+    <en-US>Asir Mountains</en-US>
+    <it-IT>Monti Asir</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DAM_OF_MARIB</zType>
+    <en-US>Dam of Ma'rib</en-US>
+    <it-IT>Damigella di Ma'rib</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_KHORRORI</zType>
+    <en-US>Khor Rori</en-US>
+    <it-IT>Khor Rori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SIRAF</zType>
+    <en-US>Siraf</en-US>
+    <it-IT>Siraf</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_ZRANKA</zType>
+    <en-US>Zranka</en-US>
+    <it-IT>Zranka</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_PETRA</zType>
+    <en-US>Petra</en-US>
+    <it-IT>Petra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_STAGYDIA</zType>
+    <en-US>Stagydia</en-US>
+    <it-IT>Stagydia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_YATHRIB</zType>
+    <en-US>Yathrib</en-US>
+    <it-IT>Yathrib</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_KASI</zType>
+    <en-US>Kasi</en-US>
+    <it-IT>Kasi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_HEGRA</zType>
+    <en-US>Hegra</en-US>
+    <it-IT>Hegra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_PANTICAPAION</zType>
+    <en-US>Panticapaion</en-US>
+    <it-IT>Panticapaion</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SARAWAT_MOUNTAINS</zType>
+    <en-US>Sarawat Mounains</en-US>
+    <it-IT>Sarawat Mounains</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HAJAR_MOUNTAINS</zType>
+    <en-US>Al Hajar Mountains</en-US>
+    <it-IT>Montagne di Al Hajar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_INDIAN_DESERT</zType>
+    <en-US>Great Indian Desert</en-US>
+    <it-IT>Grande deserto indiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LEUKE_KOME</zType>
+    <en-US>Leuke Kome</en-US>
+    <it-IT>Leuke Kome</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FERGHANA_VALLEY</zType>
+    <en-US>Ferghana Valley</en-US>
+    <it-IT>Valle di Ferghana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NARYN_RIVER</zType>
+    <en-US>Naryn River</en-US>
+    <it-IT>Fiume Naryn</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINDU_KUSH</zType>
+    <en-US>Hindu Kush</en-US>
+    <it-IT>Hindu Kush</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHORASMIA</zType>
+    <en-US>Chorasmia</en-US>
+    <it-IT>Corasmia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MASSAGETAE</zType>
+    <en-US>Massagetae</en-US>
+    <it-IT>Massagetae</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DAHAE</zType>
+    <en-US>Dahae</en-US>
+    <it-IT>Dahae</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHERSONESUS</zType>
+    <en-US>Chersonesus</en-US>
+    <it-IT>Chersonesus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LAKE_BALKAS</zType>
+    <en-US>Lake Balkas</en-US>
+    <it-IT>Lago Balkas</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_VOLGA_RIVER</zType>
+    <en-US>Volga River</en-US>
+    <it-IT>Fiume Volga</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_INDIA</zType>
+    <en-US>India</en-US>
+    <it-IT>India</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAGAN</zType>
+    <en-US>Magan</en-US>
+    <it-IT>Magan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KARMANA</zType>
+    <en-US>Karmana</en-US>
+    <it-IT>Karmana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HARAIVA</zType>
+    <en-US>Haraiva</en-US>
+    <it-IT>Haraiva</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ARIUS_RIVER</zType>
+    <en-US>Arius River</en-US>
+    <it-IT>Fiume Arius</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_KOPET_DAG</zType>
+    <en-US>Kopet Dag</en-US>
+    <it-IT>Giornata Kopet</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MARGIANA_RIVER</zType>
+    <en-US>Margiana River</en-US>
+    <it-IT>Fiume Margiana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_MERV</zType>
+    <en-US>Merv</en-US>
+    <it-IT>Merv</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DAIKOS_RIVER</zType>
+    <en-US>Daikos River</en-US>
+    <it-IT>Fiume Daikos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BACTRIA_VALLEY</zType>
+    <en-US>Bactria Valley</en-US>
+    <it-IT>Valle della Bactria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_CYROPOLIS</zType>
+    <en-US>Cyropolis</en-US>
+    <it-IT>Cropoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_KUBHA</zType>
+    <en-US>Kubha</en-US>
+    <it-IT>Kubha</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_DRAPSAKA</zType>
+    <en-US>Drapsaka</en-US>
+    <it-IT>Drapsaka</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_KUKKUTARMA</zType>
+    <en-US>Kukkutarma</en-US>
+    <it-IT>Giardino fiorito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_HARAPPA</zType>
+    <en-US>Harappa</en-US>
+    <it-IT>Harappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_MAIKHERKOT</zType>
+    <en-US>Malkherkot</en-US>
+    <it-IT>Malkherkot</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_NISA</zType>
+    <en-US>Nisa</en-US>
+    <it-IT>Nisa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_GERMI</zType>
+    <en-US>Germi</en-US>
+    <it-IT>Germi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SLABADA</zType>
+    <en-US>Slabada</en-US>
+    <it-IT>Slabada</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SIGHNAQ</zType>
+    <en-US>Sighnaq</en-US>
+    <it-IT>Sighnaq</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SARAI_BATU</zType>
+    <en-US>Sarai Batu</en-US>
+    <it-IT>Sarai Batu</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_TYRAS</zType>
+    <en-US>Tyras</en-US>
+    <it-IT>Tyras</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_GORGIPPIA</zType>
+    <en-US>Gorgippia</en-US>
+    <it-IT>Gorgippia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_THAMUGADI</zType>
+    <en-US>Thamugadi</en-US>
+    <it-IT>Thamugadi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_CIRTA</zType>
+    <en-US>Cirta</en-US>
+    <it-IT>Cirta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_QART_HADASHT</zType>
+    <en-US>Qart-Hadasht</en-US>
+    <it-IT>Qart-Hadasht</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_AGADIR</zType>
+    <en-US>Agadir</en-US>
+    <it-IT>Agadir</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_MARRAKESH</zType>
+    <en-US>Marrakesh</en-US>
+    <it-IT>Marrakesh</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_IMLIL</zType>
+    <en-US>Imlil</en-US>
+    <it-IT>Imlil</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SAFI</zType>
+    <en-US>Safi</en-US>
+    <it-IT>Safi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_FES</zType>
+    <en-US>Fes</en-US>
+    <it-IT>Fes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_BAECULA</zType>
+    <en-US>Baecula</en-US>
+    <it-IT>Baecula</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_TARAS</zType>
+    <en-US>Taras</en-US>
+    <it-IT>Taras</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SALDUBA</zType>
+    <en-US>Salduba</en-US>
+    <it-IT>Equilibrio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CIMERIAN_FOREST</zType>
+    <en-US>Cimerian Forest</en-US>
+    <it-IT>Foresta Cimeriana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_ELUSA</zType>
+    <en-US>Elusa</en-US>
+    <it-IT>In diretta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SEGODUNUM</zType>
+    <en-US>Segodunum</en-US>
+    <it-IT>Segodunum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_ALBA_POMPEIA</zType>
+    <en-US>Alba Pompeia</en-US>
+    <it-IT>Alba Pompeia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_NEMAUTUS</zType>
+    <en-US>Nemautus</en-US>
+    <it-IT>Nemautus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_SINGIDUNUM</zType>
+    <en-US>Singidunum</en-US>
+    <it-IT>Singidunum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DORDOGNE_RIVER</zType>
+    <en-US>Dordogne River</en-US>
+    <it-IT>Fiume Dordogna</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_VERONA</zType>
+    <en-US>Verona</en-US>
+    <it-IT>Verona</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_VIRUNUM</zType>
+    <en-US>Virunum</en-US>
+    <it-IT>Virunum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_AVARICUM</zType>
+    <en-US>Avaricum</en-US>
+    <it-IT>Avaricum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_TURONES</zType>
+    <en-US>Turones</en-US>
+    <it-IT>Turoni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_NOREIA</zType>
+    <en-US>Noreia</en-US>
+    <it-IT>Noreia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_CARNUNTUM</zType>
+    <en-US>Carnuntum</en-US>
+    <it-IT>Carnuntum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CITYNAME_ARGENTORATUM</zType>
+    <en-US>Argentoratum</en-US>
+    <it-IT>Argentoratum</it-IT>
+  </Entry>
+</Root>

@@ -1,0 +1,958 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EFFECTUNITCLASS_COMBAT</zType>
+    <en-US>Combat</en-US>
+    <it-IT>Combattimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COMBAT1</zType>
+    <en-US>Combat I</en-US>
+    <it-IT>Combattimento I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COMBAT2</zType>
+    <en-US>Combat II</en-US>
+    <it-IT>Combattimento II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COMBAT3</zType>
+    <en-US>Combat III</en-US>
+    <it-IT>Combattimento III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNITCLASS_STRIKE</zType>
+    <en-US>Strike</en-US>
+    <it-IT>Sciopero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_STRIKE1</zType>
+    <en-US>Strike I</en-US>
+    <it-IT>Sciopero I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_STRIKE2</zType>
+    <en-US>Strike II</en-US>
+    <it-IT>Sciopero II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_STRIKE3</zType>
+    <en-US>Strike III</en-US>
+    <it-IT>Sciopero III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNITCLASS_GUARD</zType>
+    <en-US>Guard</en-US>
+    <it-IT>Guardia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_GUARD1</zType>
+    <en-US>Guard I</en-US>
+    <it-IT>Guardia I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_GUARD2</zType>
+    <en-US>Guard II</en-US>
+    <it-IT>Guardia II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_GUARD3</zType>
+    <en-US>Guard III</en-US>
+    <it-IT>Guardia III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNITCLASS_FOCUS</zType>
+    <en-US>Focus</en-US>
+    <it-IT>Focus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FOCUS1</zType>
+    <en-US>Focus I</en-US>
+    <it-IT>Focus I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FOCUS2</zType>
+    <en-US>Focus II</en-US>
+    <it-IT>Focus II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FOCUS3</zType>
+    <en-US>Focus III</en-US>
+    <it-IT>Focus III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TRACKER</zType>
+    <en-US>Tracker</en-US>
+    <it-IT>Inseguitore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TRACKER_F</zType>
+    <en-US>Tracker</en-US>
+    <it-IT>Inseguitore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TRACKER_ALL</zType>
+    <en-US>Tracker Leader</en-US>
+    <it-IT>Leader del tracker</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TRACKER_ALL_F</zType>
+    <en-US>Tracker Leader</en-US>
+    <it-IT>Leader del tracker</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SWIFT</zType>
+    <en-US>Swift</en-US>
+    <it-IT>Swift</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SWIFT_F</zType>
+    <en-US>Swift</en-US>
+    <it-IT>Swift</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SWIFT_ALL</zType>
+    <en-US>Swift Leader</en-US>
+    <it-IT>Leader Swift</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SWIFT_ALL_F</zType>
+    <en-US>Swift Leader</en-US>
+    <it-IT>Leader Swift</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_EAGLE_EYE</zType>
+    <en-US>Eagle Eye</en-US>
+    <it-IT>Occhio d'aquila</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_EAGLE_EYE_F</zType>
+    <en-US>Eagle Eye</en-US>
+    <it-IT>Occhio di falco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_MARKSMAN</zType>
+    <en-US>Marksman</en-US>
+    <it-IT>Marksman</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_MARKSMAN_F</zType>
+    <en-US>Marksman</en-US>
+    <it-IT>Marksman</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_AMPHIBIOUS</zType>
+    <en-US>Amphibious</en-US>
+    <it-IT>Anfibio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_AMPHIBIOUS_F</zType>
+    <en-US>Amphibious</en-US>
+    <it-IT>Anfibio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_MARINES</zType>
+    <en-US>Marines</en-US>
+    <it-IT>Marines</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_MARINES_F</zType>
+    <en-US>Marines</en-US>
+    <it-IT>Marines</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BESIEGER</zType>
+    <en-US>Besieger</en-US>
+    <it-IT>Besieger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BESIEGER_F</zType>
+    <en-US>Besieger</en-US>
+    <it-IT>Besieger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BESIEGER_ALL</zType>
+    <en-US>Besieger Leader</en-US>
+    <it-IT>Leader Besieger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BESIEGER_ALL_F</zType>
+    <en-US>Besieger Leader</en-US>
+    <it-IT>Leader Besieger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_WARDEN</zType>
+    <en-US>Warden</en-US>
+    <it-IT>Direttore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_WARDEN_F</zType>
+    <en-US>Warden</en-US>
+    <it-IT>Direttore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TOUGH</zType>
+    <en-US>Tough</en-US>
+    <it-IT>Difficile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TOUGH_F</zType>
+    <en-US>Tough</en-US>
+    <it-IT>Difficile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TOUGH_ALL</zType>
+    <en-US>Tough Leader</en-US>
+    <it-IT>Leader severo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TOUGH_ALL_F</zType>
+    <en-US>Tough Leader</en-US>
+    <it-IT>Leader severo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BLOODTHIRSTY</zType>
+    <en-US>Bloodthirsty</en-US>
+    <it-IT>Sanguinario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BLOODTHIRSTY_F</zType>
+    <en-US>Bloodthirsty</en-US>
+    <it-IT>Sanguinario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BLOODTHIRSTY_ALL</zType>
+    <en-US>Bloodthirsty Leader</en-US>
+    <it-IT>Leader sanguinario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BLOODTHIRSTY_ALL_F</zType>
+    <en-US>Bloodthirsty Leader</en-US>
+    <it-IT>Leader sanguinario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HECKLER</zType>
+    <en-US>Heckler</en-US>
+    <it-IT>Heckler</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HECKLER_F</zType>
+    <en-US>Heckler</en-US>
+    <it-IT>Heckler</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HECKLER_ALL</zType>
+    <en-US>Heckler Leader</en-US>
+    <it-IT>Leader Heckler</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HECKLER_ALL_F</zType>
+    <en-US>Heckler Leader</en-US>
+    <it-IT>Leader Heckler</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_STEADFAST</zType>
+    <en-US>Steadfast</en-US>
+    <it-IT>Saldezza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_STEADFAST_F</zType>
+    <en-US>Steadfast</en-US>
+    <it-IT>Saldezza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_STEADFAST_ALL</zType>
+    <en-US>Steadfast Leader</en-US>
+    <it-IT>Leader risoluto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_STEADFAST_ALL_F</zType>
+    <en-US>Steadfast Leader</en-US>
+    <it-IT>Leader risoluto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERBALIST</zType>
+    <en-US>Herbalist</en-US>
+    <it-IT>Erborista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERBALIST_F</zType>
+    <en-US>Herbalist</en-US>
+    <it-IT>Erborista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERBALIST_ALL</zType>
+    <en-US>Herbalist Leader</en-US>
+    <it-IT>Erborista Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERBALIST_ALL_F</zType>
+    <en-US>Herbalist Leader</en-US>
+    <it-IT>Erborista Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HEALER</zType>
+    <en-US>Healer</en-US>
+    <it-IT>Guaritore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HEALER_F</zType>
+    <en-US>Healer</en-US>
+    <it-IT>Guaritore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_NOMAD</zType>
+    <en-US>Nomad</en-US>
+    <it-IT>Nomade</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_NOMAD_F</zType>
+    <en-US>Nomad</en-US>
+    <it-IT>Nomade</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COLD</zType>
+    <en-US>Cold</en-US>
+    <it-IT>Freddo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COLD_F</zType>
+    <en-US>Cold</en-US>
+    <it-IT>Freddo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HIGHLANDER</zType>
+    <en-US>Highlander</en-US>
+    <it-IT>Highlander</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HIGHLANDER_F</zType>
+    <en-US>Highlander</en-US>
+    <it-IT>Highlander</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HIGHLANDER_ALL</zType>
+    <en-US>Highlander Leader</en-US>
+    <it-IT>Leader Highlander</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HIGHLANDER_ALL_F</zType>
+    <en-US>Highlander Leader</en-US>
+    <it-IT>Leader Highlander</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_RANGER</zType>
+    <en-US>Ranger</en-US>
+    <it-IT>Ranger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_RANGER_F</zType>
+    <en-US>Ranger</en-US>
+    <it-IT>Ranger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_RANGER_ALL</zType>
+    <en-US>Ranger Leader</en-US>
+    <it-IT>Leader dei ranger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_RANGER_ALL_F</zType>
+    <en-US>Ranger Leader</en-US>
+    <it-IT>Leader dei ranger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BRAVE</zType>
+    <en-US>Brave</en-US>
+    <it-IT>Coraggioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BRAVE_F</zType>
+    <en-US>Brave</en-US>
+    <it-IT>Coraggioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BRAVE_ALL</zType>
+    <en-US>Brave Leader</en-US>
+    <it-IT>Leader coraggioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BRAVE_ALL_F</zType>
+    <en-US>Brave Leader</en-US>
+    <it-IT>Leader coraggioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SHIELDBEARER</zType>
+    <en-US>Shieldbearer</en-US>
+    <it-IT>Portatore di scudi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SHIELDBEARER_F</zType>
+    <en-US>Shieldbearer</en-US>
+    <it-IT>Portatore di scudi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SHIELDBEARER_ALL</zType>
+    <en-US>Shieldbearer Leader</en-US>
+    <it-IT>Capo scudiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SHIELDBEARER_ALL_F</zType>
+    <en-US>Shieldbearer Leader</en-US>
+    <it-IT>Capo scudiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FIERCE</zType>
+    <en-US>Fierce</en-US>
+    <it-IT>Feroce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FIERCE_F</zType>
+    <en-US>Fierce</en-US>
+    <it-IT>Feroce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FIERCE_ALL</zType>
+    <en-US>Fierce Leader</en-US>
+    <it-IT>Leader feroce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FIERCE_ALL_F</zType>
+    <en-US>Fierce Leader</en-US>
+    <it-IT>Leader feroce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HORSEBANE</zType>
+    <en-US>Horsebane</en-US>
+    <it-IT>Cavallo di ritorno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HORSEBANE_F</zType>
+    <en-US>Horsebane</en-US>
+    <it-IT>Cavallo di ritorno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HORSEBANE_ALL</zType>
+    <en-US>Horsebane Leader</en-US>
+    <it-IT>Leader Horsebane</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HORSEBANE_ALL_F</zType>
+    <en-US>Horsebane Leader</en-US>
+    <it-IT>Leader Horsebane</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ENGINEER</zType>
+    <en-US>Engineer</en-US>
+    <it-IT>Ingegnere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ENGINEER_F</zType>
+    <en-US>Engineer</en-US>
+    <it-IT>Ingegnere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ENGINEER_ALL</zType>
+    <en-US>Engineer Leader</en-US>
+    <it-IT>Ingegnere Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ENGINEER_ALL_F</zType>
+    <en-US>Engineer Leader</en-US>
+    <it-IT>Ingegnere Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SHRAPNEL</zType>
+    <en-US>Shrapnel</en-US>
+    <it-IT>Schegge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SHRAPNEL_F</zType>
+    <en-US>Shrapnel</en-US>
+    <it-IT>Schegge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COCKSWAIN</zType>
+    <en-US>Cockswain</en-US>
+    <it-IT>Cocchiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COCKSWAIN_F</zType>
+    <en-US>Cockswain</en-US>
+    <it-IT>Cocchiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_GRAPPLER</zType>
+    <en-US>Grappler</en-US>
+    <it-IT>Ramponiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_GRAPPLER_F</zType>
+    <en-US>Grappler</en-US>
+    <it-IT>Ramponiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SEABORN</zType>
+    <en-US>Seaborn</en-US>
+    <it-IT>Seaborn</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SEABORN_F</zType>
+    <en-US>Seaborn</en-US>
+    <it-IT>Seaborn</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_OVERWHELM</zType>
+    <en-US>Overwhelm</en-US>
+    <it-IT>Sopraffazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_OVERWHELM_F</zType>
+    <en-US>Overwhelm</en-US>
+    <it-IT>Sopraffazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FIRESHIP</zType>
+    <en-US>Fireship</en-US>
+    <it-IT>Nave da fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FIRESHIP_F</zType>
+    <en-US>Fireship</en-US>
+    <it-IT>Nave da fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_LADING</zType>
+    <en-US>Lading</en-US>
+    <it-IT>Sbarco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_LADING_F</zType>
+    <en-US>Lading</en-US>
+    <it-IT>Sbarco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_MANEUVERS</zType>
+    <en-US>Maneuvers</en-US>
+    <it-IT>Manovre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_MANEUVERS_F</zType>
+    <en-US>Maneuvers</en-US>
+    <it-IT>Manovre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_INGENUITY</zType>
+    <en-US>Ingenuity</en-US>
+    <it-IT>Ingegno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_INGENUITY_F</zType>
+    <en-US>Ingenuity</en-US>
+    <it-IT>Ingegno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SADDLEBORN</zType>
+    <en-US>Saddleborn</en-US>
+    <it-IT>Saddleborn</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SADDLEBORN_F</zType>
+    <en-US>Saddleborn</en-US>
+    <it-IT>Saddleborn</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SENTINEL</zType>
+    <en-US>Sentinel</en-US>
+    <it-IT>Sentinella</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SENTINEL_F</zType>
+    <en-US>Sentinel</en-US>
+    <it-IT>Sentinella</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SURVEYOR</zType>
+    <en-US>Surveyor</en-US>
+    <it-IT>Geometra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SURVEYOR_F</zType>
+    <en-US>Surveyor</en-US>
+    <it-IT>Geometra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ROUT</zType>
+    <en-US>Rout</en-US>
+    <it-IT>Rotta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ROUT_F</zType>
+    <en-US>Rout</en-US>
+    <it-IT>Rotta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_PANIC</zType>
+    <en-US>Panic</en-US>
+    <it-IT>Panico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_PANIC_F</zType>
+    <en-US>Panic</en-US>
+    <it-IT>Panico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_STEALTH</zType>
+    <en-US>Stealth</en-US>
+    <it-IT>Furtività</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_STEALTH_F</zType>
+    <en-US>Stealth</en-US>
+    <it-IT>Furtività</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TORSION_SPRING</zType>
+    <en-US>Torsion Spring</en-US>
+    <it-IT>Molla di torsione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TORSION_SPRING_F</zType>
+    <en-US>Torsion Spring</en-US>
+    <it-IT>Molla di torsione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_RAPID_FIRE</zType>
+    <en-US>Rapid Fire</en-US>
+    <it-IT>Fuoco rapido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_RAPID_FIRE_F</zType>
+    <en-US>Rapid Fire</en-US>
+    <it-IT>Fuoco rapido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ASSAULT</zType>
+    <en-US>Assault</en-US>
+    <it-IT>Assalto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ASSAULT_F</zType>
+    <en-US>Assault</en-US>
+    <it-IT>Assalto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FORMATION</zType>
+    <en-US>Formation</en-US>
+    <it-IT>Formazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_FORMATION_F</zType>
+    <en-US>Formation</en-US>
+    <it-IT>Formazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_CENTURION</zType>
+    <en-US>Centurion</en-US>
+    <it-IT>Centurione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_CENTURION_F</zType>
+    <en-US>Centurion</en-US>
+    <it-IT>Centurione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_CRIPPLED</zType>
+    <en-US>Crippled</en-US>
+    <it-IT>Storpio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_CRIPPLED_F</zType>
+    <en-US>Crippled</en-US>
+    <it-IT>Storpio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SOLDIER</zType>
+    <en-US>Soldier</en-US>
+    <it-IT>Soldato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SOLDIER_F</zType>
+    <en-US>Soldier</en-US>
+    <it-IT>Soldato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_PROPHET</zType>
+    <en-US>Prophet</en-US>
+    <it-IT>Profeta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_PROPHET_F</zType>
+    <en-US>Prophet</en-US>
+    <it-IT>Profeta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_EPICS</zType>
+    <en-US>link(LAW_EPICS)</en-US>
+    <it-IT>link(LAW_EPICS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ASSYRIA</zType>
+    <en-US>link(NATION_ASSYRIA)</en-US>
+    <it-IT>link(NATION_ASSYRIA)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ROME</zType>
+    <en-US>link(NATION_ROME)</en-US>
+    <it-IT>link(NATION_ROME)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERO</zType>
+    <en-US>link(TRAIT_HERO_ARCHETYPE) General</en-US>
+    <it-IT>link(TRAIT_HERO_ARCHETYPE) Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERO_F</zType>
+    <en-US>link(TRAIT_HERO_ARCHETYPE) General</en-US>
+    <it-IT>link(TRAIT_HERO_ARCHETYPE) Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERO_LEADER</zType>
+    <en-US>link(TRAIT_HERO_ARCHETYPE) Leader General</en-US>
+    <it-IT>link(TRAIT_HERO_ARCHETYPE) Leader Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERO_LEADER_F</zType>
+    <en-US>link(TRAIT_HERO_ARCHETYPE) Leader General</en-US>
+    <it-IT>link(TRAIT_HERO_ARCHETYPE) Leader Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERO_ALL</zType>
+    <en-US>link(TRAIT_HERO_ARCHETYPE) Leader (All Units)</en-US>
+    <it-IT>link(TRAIT_HERO_ARCHETYPE) Leader (All Units)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERO_ALL_F</zType>
+    <en-US>link(TRAIT_HERO_ARCHETYPE) Leader (All Units)</en-US>
+    <it-IT>link(TRAIT_HERO_ARCHETYPE) Leader (All Units)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COMMANDER</zType>
+    <en-US>link(TRAIT_COMMANDER_ARCHETYPE) General</en-US>
+    <it-IT>link(TRAIT_COMMANDER_ARCHETYPE) Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COMMANDER_F</zType>
+    <en-US>link(TRAIT_COMMANDER_ARCHETYPE) General</en-US>
+    <it-IT>link(TRAIT_COMMANDER_ARCHETYPE) Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COMMANDER_LEADER</zType>
+    <en-US>link(TRAIT_COMMANDER_ARCHETYPE) Leader General</en-US>
+    <it-IT>link(TRAIT_COMMANDER_ARCHETYPE) Leader Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COMMANDER_LEADER_F</zType>
+    <en-US>link(TRAIT_COMMANDER_ARCHETYPE) Leader General</en-US>
+    <it-IT>link(TRAIT_COMMANDER_ARCHETYPE) Leader Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COMMANDER_INFANTRY</zType>
+    <en-US>link(TRAIT_COMMANDER_ARCHETYPE) Leader (link(UNITTRAIT_INFANTRY))</en-US>
+    <it-IT>link(TRAIT_COMMANDER_ARCHETYPE) Leader (link(UNITTRAIT_INFANTRY))</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_COMMANDER_INFANTRY_F</zType>
+    <en-US>link(TRAIT_COMMANDER_ARCHETYPE) Leader (link(UNITTRAIT_INFANTRY))</en-US>
+    <it-IT>link(TRAIT_COMMANDER_ARCHETYPE) Leader (link(UNITTRAIT_INFANTRY))</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TACTICIAN</zType>
+    <en-US>link(TRAIT_TACTICIAN_ARCHETYPE) General</en-US>
+    <it-IT>link(TRAIT_TACTICIAN_ARCHETYPE) Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TACTICIAN_F</zType>
+    <en-US>link(TRAIT_TACTICIAN_ARCHETYPE) General</en-US>
+    <it-IT>link(TRAIT_TACTICIAN_ARCHETYPE) Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TACTICIAN_LEADER</zType>
+    <en-US>link(TRAIT_TACTICIAN_ARCHETYPE) Leader General</en-US>
+    <it-IT>link(TRAIT_TACTICIAN_ARCHETYPE) Leader Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TACTICIAN_LEADER_F</zType>
+    <en-US>link(TRAIT_TACTICIAN_ARCHETYPE) Leader General</en-US>
+    <it-IT>link(TRAIT_TACTICIAN_ARCHETYPE) Leader Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TACTICIAN_RANGED</zType>
+    <en-US>link(TRAIT_TACTICIAN_ARCHETYPE) Leader (link(UNITTRAIT_RANGED))</en-US>
+    <it-IT>link(TRAIT_TACTICIAN_ARCHETYPE) Leader (link(UNITTRAIT_RANGED))</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TACTICIAN_RANGED_F</zType>
+    <en-US>link(TRAIT_TACTICIAN_ARCHETYPE) Leader (link(UNITTRAIT_RANGED))</en-US>
+    <it-IT>link(TRAIT_TACTICIAN_ARCHETYPE) Leader (link(UNITTRAIT_RANGED))</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ZEALOT</zType>
+    <en-US>link(TRAIT_ZEALOT_ARCHETYPE) General</en-US>
+    <it-IT>link(TRAIT_ZEALOT_ARCHETYPE) Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ZEALOT_F</zType>
+    <en-US>link(TRAIT_ZEALOT_ARCHETYPE) General</en-US>
+    <it-IT>link(TRAIT_ZEALOT_ARCHETYPE) Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ZEALOT_LEADER</zType>
+    <en-US>link(TRAIT_ZEALOT_ARCHETYPE) Leader General</en-US>
+    <it-IT>link(TRAIT_ZEALOT_ARCHETYPE) Leader Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ZEALOT_LEADER_F</zType>
+    <en-US>link(TRAIT_ZEALOT_ARCHETYPE) Leader General</en-US>
+    <it-IT>link(TRAIT_ZEALOT_ARCHETYPE) Leader Generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ZEALOT_ALL</zType>
+    <en-US>link(TRAIT_ZEALOT_ARCHETYPE) Leader (All Units)</en-US>
+    <it-IT>link(TRAIT_ZEALOT_ARCHETYPE) Leader (All Units)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ZEALOT_ALL_F</zType>
+    <en-US>link(TRAIT_ZEALOT_ARCHETYPE) Leader (All Units)</en-US>
+    <it-IT>link(TRAIT_ZEALOT_ARCHETYPE) Leader (All Units)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FURIOUS</zType>
+    <en-US>link(OPINIONFAMILY_FURIOUS) Family</en-US>
+    <it-IT>link(OPINIONFAMILY_FURIOUS) Famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_OPINIONFAMILY_ANGRY</zType>
+    <en-US>link(OPINIONFAMILY_ANGRY) Family</en-US>
+    <it-IT>link(OPINIONFAMILY_ANGRY) Famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_OPINIONFAMILY_UPSET</zType>
+    <en-US>link(OPINIONFAMILY_UPSET) Family</en-US>
+    <it-IT>link(OPINIONFAMILY_UPSET) Famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_OPINIONFAMILY_PLEASED</zType>
+    <en-US>link(OPINIONFAMILY_PLEASED) Family</en-US>
+    <it-IT>link(OPINIONFAMILY_PLEASED) Famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FRIENDLY</zType>
+    <en-US>link(OPINIONFAMILY_FRIENDLY) Family</en-US>
+    <it-IT>link(OPINIONFAMILY_FRIENDLY) Famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SWORD_OF_THE_GODS</zType>
+    <en-US>Sword of the Gods</en-US>
+    <it-IT>La spada degli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_GENERAL_HOPPING</zType>
+    <en-US>Flexible Leadership</en-US>
+    <it-IT>Leadership flessibile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ANTIMELEE</zType>
+    <en-US>Anti-link(UNITTRAIT_MELEE)</en-US>
+    <it-IT>Anti-link(UNITTRAIT_MELEE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ANTIRANGED</zType>
+    <en-US>Anti-link(UNITTRAIT_RANGED)</en-US>
+    <it-IT>Anti-link(UNITTRAIT_RANGED)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ANTIPOLEARM</zType>
+    <en-US>Anti-link(UNITTRAIT_POLEARM)</en-US>
+    <it-IT>Anti-link(UNITTRAIT_POLEARM)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ANTIINFANTRY1</zType>
+    <en-US>Anti-link(UNITTRAIT_INFANTRY) I</en-US>
+    <it-IT>Anti-link(UNITTRAIT_INFANTRY) I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ANTIINFANTRY2</zType>
+    <en-US>Anti-link(UNITTRAIT_INFANTRY) II</en-US>
+    <it-IT>Anti-link(UNITTRAIT_INFANTRY) II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ANTIMOUNTED1</zType>
+    <en-US>Anti-link(UNITTRAIT_MOUNTED) I</en-US>
+    <it-IT>Anti-link(UNITTRAIT_MOUNTED) I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ANTIMOUNTED2</zType>
+    <en-US>Anti-link(UNITTRAIT_MOUNTED) II</en-US>
+    <it-IT>Anti-link(UNITTRAIT_MOUNTED) II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ANTIMOUNTED3</zType>
+    <en-US>Anti-link(UNITTRAIT_MOUNTED) III</en-US>
+    <it-IT>Anti-link(UNITTRAIT_MOUNTED) III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_PIERCE1</zType>
+    <en-US>Pierce I</en-US>
+    <it-IT>Pierce I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_PIERCE2</zType>
+    <en-US>Pierce II</en-US>
+    <it-IT>Pierce II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_PIERCE3</zType>
+    <en-US>Pierce III</en-US>
+    <it-IT>Pierce III</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_CLEAVE1</zType>
+    <en-US>Cleave I</en-US>
+    <it-IT>Scollare I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_CLEAVE2</zType>
+    <en-US>Cleave II</en-US>
+    <it-IT>Sciogliere II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_CIRCLE</zType>
+    <en-US>Circle</en-US>
+    <it-IT>Cerchio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SPLASH1</zType>
+    <en-US>Splash I</en-US>
+    <it-IT>Splash I</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_SPLASH2</zType>
+    <en-US>Splash II</en-US>
+    <it-IT>Splash II</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_ADEPT</zType>
+    <en-US>Adept</en-US>
+    <it-IT>Adepto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_PERICLES_LEADER</zType>
+    <en-US>First Citizen</en-US>
+    <it-IT>Primo cittadino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_LEONIDAS_LEADER</zType>
+    <en-US>Indomitable</en-US>
+    <it-IT>Indomabile</it-IT>
+  </Entry>
+</Root>

@@ -1,0 +1,588 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_MISSION_AMBASSADOR</zType>
+    <en-US>Make link(COUNCIL_AMBASSADOR)</en-US>
+    <it-IT>Fare link(COUNCIL_AMBASSADOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_CHANCELLOR</zType>
+    <en-US>Make link(COUNCIL_CHANCELLOR)</en-US>
+    <it-IT>Fare link(COUNCIL_CHANCELLOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_SPYMASTER</zType>
+    <en-US>Make link(COUNCIL_SPYMASTER)</en-US>
+    <it-IT>Fare link(COUNCIL_SPYMASTER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_LEAVE_COUNCIL</zType>
+    <en-US>Leave Council</en-US>
+    <it-IT>Lasciare il Consiglio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TEAM_ALLIANCE</zType>
+    <en-US>link(CONCEPT_ALLIANCE_PLAYER)</en-US>
+    <it-IT>link(CONCEPT_ALLIANCE_PLAYER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TEAM_ALLIANCE_TARGET</zType>
+    <en-US>link(CONCEPT_ALLIANCE_PLAYER) with</en-US>
+    <it-IT>link(CONCEPT_ALLIANCE_PLAYER) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TEAM_ALLIANCE_HUMAN</zType>
+    <en-US>link(CONCEPT_ALLIANCE_PLAYER)</en-US>
+    <it-IT>link(CONCEPT_ALLIANCE_PLAYER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PEACE</zType>
+    <en-US>National link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>Nazionale link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PEACE_TARGET</zType>
+    <en-US>National link(DIPLOMACY_PEACE) with</en-US>
+    <it-IT>Nazionale link(DIPLOMACY_PEACE) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PEACE_CHARACTER</zType>
+    <en-US>National link(DIPLOMACY_PEACE) via</en-US>
+    <it-IT>Nazionale link(DIPLOMACY_PEACE) via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PEACE_OFFER_TRIBUTE</zType>
+    <en-US>Offer Tribute for link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>Offrire un tributo per link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PEACE_OFFER_TRIBUTE_TARGET</zType>
+    <en-US>Offer Tribute for link(DIPLOMACY_PEACE) with</en-US>
+    <it-IT>Offrire un tributo per link(DIPLOMACY_PEACE) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PEACE_NO_TRIBUTE</zType>
+    <en-US>Ask for link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>Chiedere link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PEACE_NO_TRIBUTE_TARGET</zType>
+    <en-US>Ask for link(DIPLOMACY_PEACE) with</en-US>
+    <it-IT>Chiedere link(DIPLOMACY_PEACE) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PEACE_DEMAND_TRIBUTE</zType>
+    <en-US>Demand Tribute for link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>Tributo di richiesta per link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PEACE_DEMAND_TRIBUTE_TARGET</zType>
+    <en-US>Demand Tribute for link(DIPLOMACY_PEACE) with</en-US>
+    <it-IT>Tributo di domanda per link(DIPLOMACY_PEACE) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRUCE</zType>
+    <en-US>National link(DIPLOMACY_TRUCE)</en-US>
+    <it-IT>Nazionale link(DIPLOMACY_TRUCE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRUCE_TARGET</zType>
+    <en-US>National link(DIPLOMACY_TRUCE) with</en-US>
+    <it-IT>Nazionale link(DIPLOMACY_TRUCE) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRUCE_CHARACTER</zType>
+    <en-US>National link(DIPLOMACY_TRUCE) via</en-US>
+    <it-IT>Nazionale link(DIPLOMACY_TRUCE) via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRUCE_OFFER_TRIBUTE</zType>
+    <en-US>Offer Tribute for link(DIPLOMACY_TRUCE)</en-US>
+    <it-IT>Offrire un tributo per link(DIPLOMACY_TRUCE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRUCE_OFFER_TRIBUTE_TARGET</zType>
+    <en-US>Offer Tribute for link(DIPLOMACY_TRUCE) with</en-US>
+    <it-IT>Offrire un tributo per link(DIPLOMACY_TRUCE) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRUCE_NO_TRIBUTE</zType>
+    <en-US>Ask for link(DIPLOMACY_TRUCE)</en-US>
+    <it-IT>Chiedere link(DIPLOMACY_TRUCE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRUCE_NO_TRIBUTE_TARGET</zType>
+    <en-US>Ask for link(DIPLOMACY_TRUCE) with</en-US>
+    <it-IT>Chiedere link(DIPLOMACY_TRUCE) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRUCE_DEMAND_TRIBUTE</zType>
+    <en-US>Demand Tribute for link(DIPLOMACY_TRUCE)</en-US>
+    <it-IT>Tributo di richiesta per link(DIPLOMACY_TRUCE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRUCE_DEMAND_TRIBUTE_TARGET</zType>
+    <en-US>Demand Tribute for link(DIPLOMACY_TRUCE) with</en-US>
+    <it-IT>Tributo di domanda per link(DIPLOMACY_TRUCE) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRUCE_HUMAN</zType>
+    <en-US>National link(DIPLOMACY_TRUCE)</en-US>
+    <it-IT>Nazionale link(DIPLOMACY_TRUCE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_DECLARE_WAR</zType>
+    <en-US>Declare link(DIPLOMACY_WAR)</en-US>
+    <it-IT>Dichiarare link(DIPLOMACY_WAR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_BREAK_PEACE</zType>
+    <en-US>Break link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>Interrompere link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_END_ALLIANCE</zType>
+    <en-US>End Alliance</en-US>
+    <it-IT>Fine dell'alleanza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_CANCEL_TRADE</zType>
+    <en-US>Cancel All Trade</en-US>
+    <it-IT>Annullamento di tutti gli scambi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_ALLIANCE</zType>
+    <en-US>Tribal Alliance</en-US>
+    <it-IT>Alleanza tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_ALLIANCE_TARGET</zType>
+    <en-US>Tribal Alliance with</en-US>
+    <it-IT>Alleanza tribale con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_ALLIANCE_CHARACTER</zType>
+    <en-US>Tribal Alliance via</en-US>
+    <it-IT>Alleanza tribale via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_PEACE</zType>
+    <en-US>Tribal link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>Tribale link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_PEACE_TARGET</zType>
+    <en-US>Tribal link(DIPLOMACY_PEACE) with</en-US>
+    <it-IT>Tribale link(DIPLOMACY_PEACE) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_PEACE_CHARACTER</zType>
+    <en-US>Tribal link(DIPLOMACY_PEACE) via</en-US>
+    <it-IT>Tribale link(DIPLOMACY_PEACE) via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_TRUCE</zType>
+    <en-US>Tribal link(DIPLOMACY_TRUCE)</en-US>
+    <it-IT>Tribale link(DIPLOMACY_TRUCE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_TRUCE_TARGET</zType>
+    <en-US>Tribal link(DIPLOMACY_TRUCE) with</en-US>
+    <it-IT>Tribale link(DIPLOMACY_TRUCE) con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_TRUCE_CHARACTER</zType>
+    <en-US>Tribal link(DIPLOMACY_TRUCE) via</en-US>
+    <it-IT>Tribale link(DIPLOMACY_TRUCE) via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_DECLARE_WAR</zType>
+    <en-US>Declare link(DIPLOMACY_WAR)</en-US>
+    <it-IT>Dichiarare link(DIPLOMACY_WAR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_BREAK_PEACE</zType>
+    <en-US>Break link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>Interrompere link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_END_ALLIANCE</zType>
+    <en-US>End Alliance</en-US>
+    <it-IT>Fine dell'alleanza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_ADOPT_RELIGION</zType>
+    <en-US>Adopt link(CONCEPT_STATE_RELIGION)</en-US>
+    <it-IT>Adottare link(CONCEPT_STATE_RELIGION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_LEAVE_RELIGION</zType>
+    <en-US>Leave link(CONCEPT_STATE_RELIGION)</en-US>
+    <it-IT>Lasciare link(CONCEPT_STATE_RELIGION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_SEND_COURTIER</zType>
+    <en-US>Send link(CONCEPT_COURTIER)</en-US>
+    <it-IT>Inviare link(CONCEPT_COURTIER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_SEND_COURTIER_TARGET</zType>
+    <en-US>Send link(CONCEPT_COURTIER) to</en-US>
+    <it-IT>Inviare link(CONCEPT_COURTIER) a</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_MARRIAGE</zType>
+    <en-US>Foreign Marriage</en-US>
+    <it-IT>Matrimonio all'estero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_MARRIAGE</zType>
+    <en-US>Tribal Marriage</en-US>
+    <it-IT>Matrimonio tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_FAMILY_MARRIAGE</zType>
+    <en-US>Family Marriage</en-US>
+    <it-IT>Matrimonio in famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_MARRY_COURTIER</zType>
+    <en-US>Marry Courtier</en-US>
+    <it-IT>Sposare il cortigiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_MARRY_COURTIER_TARGET</zType>
+    <en-US>Marry</en-US>
+    <it-IT>Sposarsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_MARRY_COURTIER_CHARACTER</zType>
+    <en-US>Marry</en-US>
+    <it-IT>Sposarsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_RALLY_TROOPS</zType>
+    <en-US>Rally Troops</en-US>
+    <it-IT>Raduno delle truppe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_HOLD_COURT</zType>
+    <en-US>Hold Court</en-US>
+    <it-IT>Tenere la Corte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_ABDICATE</zType>
+    <en-US>Abdicate Throne</en-US>
+    <it-IT>Abdicare al trono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INFLUENCE</zType>
+    <en-US>Influence</en-US>
+    <it-IT>Influenza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INFLUENCE_CHARACTER</zType>
+    <en-US>Influence via</en-US>
+    <it-IT>Influenza tramite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_CONVERT_SELF</zType>
+    <en-US>Convert Religion</en-US>
+    <it-IT>Convertire la religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_CONVERT_SELF_TARGET</zType>
+    <en-US>Convert to</en-US>
+    <it-IT>Convertire in</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_CONVERT_STATE</zType>
+    <en-US>Convert to link(CONCEPT_STATE_RELIGION)</en-US>
+    <it-IT>Convertire in link(CONCEPT_STATE_RELIGION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_CONVERT_RELIGION</zType>
+    <en-US>Convert link(CONCEPT_RELIGION)</en-US>
+    <it-IT>Convertire link(CONCEPT_RELIGION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_CONVERT_RELIGION_CHARACTER</zType>
+    <en-US>Convert link(CONCEPT_RELIGION) via</en-US>
+    <it-IT>Convertire link(CONCEPT_RELIGION) tramite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INTERCESSION</zType>
+    <en-US>Intercession</en-US>
+    <it-IT>Intercessione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INTERCESSION_RELIGION</zType>
+    <en-US>Intercession (Religion)</en-US>
+    <it-IT>Intercessione (Religion)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INTERCESSION_FAMILY</zType>
+    <en-US>Intercession (Family)</en-US>
+    <it-IT>Intercessione (Family)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INTERCESSION_CHARACTER</zType>
+    <en-US>Intercession via</en-US>
+    <it-IT>Intercessione tramite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_ADOPT</zType>
+    <en-US>Adopt Child</en-US>
+    <it-IT>Adottare un bambino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_LEGITIMIZE</zType>
+    <en-US>Legitimize</en-US>
+    <it-IT>Legittimare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_CHOSEN_HEIR</zType>
+    <en-US>Make Chosen Heir</en-US>
+    <it-IT>Fare l'erede prescelto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INFILTRATE</zType>
+    <en-US>Infiltrate Nation</en-US>
+    <it-IT>Infiltrarsi nella nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INFILTRATE_TARGET</zType>
+    <en-US>Infiltrate</en-US>
+    <it-IT>Infiltrarsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INFILTRATE_CHARACTER</zType>
+    <en-US>Infiltrate Nation via</en-US>
+    <it-IT>Infiltrarsi nella nazione via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_SLANDER</zType>
+    <en-US>Slander Nation</en-US>
+    <it-IT>Nazione calunniata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_SLANDER_TARGET</zType>
+    <en-US>Slander</en-US>
+    <it-IT>Calunnia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_SLANDER_CHARACTER</zType>
+    <en-US>Slander Nation via</en-US>
+    <it-IT>La nazione della calunnia via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_STEAL_RESEARCH</zType>
+    <en-US>Steal Research</en-US>
+    <it-IT>Rubare la ricerca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_STEAL_RESEARCH_TARGET</zType>
+    <en-US>Steal Research from</en-US>
+    <it-IT>Rubare la ricerca a</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_STEAL_RESEARCH_CHARACTER</zType>
+    <en-US>Steal Research via</en-US>
+    <it-IT>Rubare la ricerca tramite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_ASSASSINATE</zType>
+    <en-US>Assassinate</en-US>
+    <it-IT>Assassinare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_ASSASSINATE_CHARACTER</zType>
+    <en-US>Assassinate via</en-US>
+    <it-IT>Assassinare tramite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TREACHERY</zType>
+    <en-US>Treachery</en-US>
+    <it-IT>Il tradimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TREACHERY_TARGET</zType>
+    <en-US>Treachery in</en-US>
+    <it-IT>Il tradimento in</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INSURRECTION</zType>
+    <en-US>Insurrection</en-US>
+    <it-IT>Insurrezione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_INSURRECTION_TARGET</zType>
+    <en-US>Insurrection in</en-US>
+    <it-IT>Insurrezione in</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_DEMAND_TRIBUTE</zType>
+    <en-US>Demand Tribute</en-US>
+    <it-IT>Richiesta di tributo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_DEMAND_TRIBUTE_TARGET</zType>
+    <en-US>Demand Tribute from</en-US>
+    <it-IT>Chiedere un tributo da</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_DEMAND_TRIBUTE_CHARACTER</zType>
+    <en-US>Demand Tribute via</en-US>
+    <it-IT>Richiesta di tributo via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRADE_MISSION</zType>
+    <en-US>Trade Mission~a Trade Mission</en-US>
+    <it-IT>Missione commerciale~una missione commerciale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRADE_MISSION_TARGET</zType>
+    <en-US>Trade Mission with</en-US>
+    <it-IT>Missione commerciale con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRADE_MISSION_CHARACTER</zType>
+    <en-US>Trade Mission via</en-US>
+    <it-IT>Missione commerciale via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_HIGH_SYNOD</zType>
+    <en-US>High Synod</en-US>
+    <it-IT>Alto Sinodo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_HIGH_SYNOD_TARGET</zType>
+    <en-US>High Synod with</en-US>
+    <it-IT>Alto Sinodo con</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_HIGH_SYNOD_CHARACTER</zType>
+    <en-US>High Synod via</en-US>
+    <it-IT>Alto Sinodo via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_FAMILY_GIFT</zType>
+    <en-US>Family Gifts</en-US>
+    <it-IT>Regali per la famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_FAMILY_GIFT_CHARACTER</zType>
+    <en-US>Family Gifts via</en-US>
+    <it-IT>Regali per la famiglia via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PACIFY_CITY</zType>
+    <en-US>Pacify City</en-US>
+    <it-IT>Pacificare la città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PACIFY_CITY_TARGET</zType>
+    <en-US>Pacify</en-US>
+    <it-IT>Pacificare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PACIFY_CITY_CHARACTER</zType>
+    <en-US>Pacify City via</en-US>
+    <it-IT>Pacificare la città via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_IMPRISON</zType>
+    <en-US>Imprison</en-US>
+    <it-IT>Carcere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_IMPRISON_CHARACTER</zType>
+    <en-US>Imprison via</en-US>
+    <it-IT>Imprigionamento tramite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_RELEASE</zType>
+    <en-US>Release from Prison</en-US>
+    <it-IT>Rilascio dal carcere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_CAPTURE</zType>
+    <en-US>Capture</en-US>
+    <it-IT>Cattura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PAY_RANSOM</zType>
+    <en-US>Pay Ransom</en-US>
+    <it-IT>Pagare il riscatto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_DIVORCE</zType>
+    <en-US>Divorce Spouse</en-US>
+    <it-IT>Divorzio Coniuge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_DIVORCE_TARGET</zType>
+    <en-US>Divorce</en-US>
+    <it-IT>Divorzio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TUTOR</zType>
+    <en-US>link(CONCEPT_TUTOR) Child</en-US>
+    <it-IT>link(CONCEPT_TUTOR) Bambino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TUTOR_LEADER</zType>
+    <en-US>link(CONCEPT_TUTOR) Child (as Leader)</en-US>
+    <it-IT>link(CONCEPT_TUTOR) Bambino (as Leader)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TUTOR_COURTIER</zType>
+    <en-US>link(CONCEPT_TUTOR) Child (as Courtier)</en-US>
+    <it-IT>link(CONCEPT_TUTOR) Bambino (as Courtier)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TUTOR_TARGET</zType>
+    <en-US>link(CONCEPT_TUTOR)</en-US>
+    <it-IT>link(CONCEPT_TUTOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TUTOR_CHARACTER</zType>
+    <en-US>link(CONCEPT_TUTOR) via</en-US>
+    <it-IT>link(CONCEPT_TUTOR) via</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_PLAYER_WAR</zType>
+    <en-US>Ask to Declare link(DIPLOMACY_WAR)</en-US>
+    <it-IT>Chiedere di dichiarare link(DIPLOMACY_WAR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_TRIBE_PLAYER_WAR_TARGET</zType>
+    <en-US>Ask to Declare link(DIPLOMACY_WAR) on</en-US>
+    <it-IT>Chiedere di dichiarare link(DIPLOMACY_WAR) su</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRIBE_WAR</zType>
+    <en-US>Ask to Declare link(DIPLOMACY_WAR)</en-US>
+    <it-IT>Chiedere di dichiarare link(DIPLOMACY_WAR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_TRIBE_WAR_TARGET</zType>
+    <en-US>Ask to Declare link(DIPLOMACY_WAR) on</en-US>
+    <it-IT>Chiedere di dichiarare link(DIPLOMACY_WAR) su</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PLAYER_WAR</zType>
+    <en-US>Ask to Declare link(DIPLOMACY_WAR)</en-US>
+    <it-IT>Chiedere di dichiarare link(DIPLOMACY_WAR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_PLAYER_PLAYER_WAR_TARGET</zType>
+    <en-US>Ask to Declare link(DIPLOMACY_WAR) on</en-US>
+    <it-IT>Chiedere di dichiarare link(DIPLOMACY_WAR) su</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_RECRUIT_SCHOLAR</zType>
+    <en-US>Recruit Scholar</en-US>
+    <it-IT>Reclutamento di borsisti</it-IT>
+  </Entry>
+</Root>

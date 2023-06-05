@@ -1,0 +1,1848 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CONVERT_FOR_THE_GODS_TITLE</zType>
+    <en-US>A Convert for the Gods</en-US>
+    <it-IT>Un convertito per gli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_FIRE_WITHIN_TITLE</zType>
+    <en-US>A Fire Within</en-US>
+    <it-IT>Un fuoco dentro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_EVANGELICAL_TITLE</zType>
+    <en-US>The Evangelical</en-US>
+    <it-IT>L'evangelico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LISTENING_TO_THE_TORAH_TITLE</zType>
+    <en-US>Listening to the Tanakh</en-US>
+    <it-IT>Ascoltare il Tanakh</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_WAY_OF_MANI_TITLE</zType>
+    <en-US>The Way of Mani</en-US>
+    <it-IT>La via di Mani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FAITH_WITHOUT_BORDERS_TITLE</zType>
+    <en-US>Faith Without Borders</en-US>
+    <it-IT>Fede senza frontiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TEMPTING_FAITH_TITLE</zType>
+    <en-US>Tempting Faith</en-US>
+    <it-IT>Fede tentatrice</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_VOICE_OF_THE_DIVINE_TITLE</zType>
+    <en-US>The Voice of {S2.GOD}</en-US>
+    <it-IT>La voce di {S2.GOD}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TRANSLATING_TOGETHER_TITLE</zType>
+    <en-US>Translating Together</en-US>
+    <it-IT>Tradurre insieme</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ABLANAQANALBA_TITLE</zType>
+    <en-US>ABLANAQANALBA</en-US>
+    <it-IT>ABLANAQANALBA</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_CADAVER_SYNOD_TITLE</zType>
+    <en-US>The Cadaver Synod</en-US>
+    <it-IT>Il Sinodo dei cadaveri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LET_MY_PERSON_GO_TITLE</zType>
+    <en-US>Let My Person Go</en-US>
+    <it-IT>Lascia andare la mia persona</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SCHISM_OF_MARRIAGE_TITLE</zType>
+    <en-US>The Schism of Marriage</en-US>
+    <it-IT>Lo scisma del matrimonio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_DREAM_FROM_THE_GODS_TITLE</zType>
+    <en-US>A Dream From the Gods</en-US>
+    <it-IT>Un sogno degli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BLESSED_BY_FIRE_TITLE</zType>
+    <en-US>Blessed by Fire</en-US>
+    <it-IT>Benedetti dal fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LAWS_OF_OUR_GOD_TITLE</zType>
+    <en-US>The Laws of our God</en-US>
+    <it-IT>Le leggi del nostro Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BAPTIZED_BEFORE_GOD_TITLE</zType>
+    <en-US>Baptized Before God</en-US>
+    <it-IT>Battezzati davanti a Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_GIFTED_OF_MANI_TITLE</zType>
+    <en-US>The Gifted of Mani</en-US>
+    <it-IT>Il dono di Mani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_HELP_OF_ANOTHER_TITLE</zType>
+    <en-US>The Help of Another</en-US>
+    <it-IT>L'aiuto di un altro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_UNEXPECTED_REVELATION_TITLE</zType>
+    <en-US>Unexpected Revelation</en-US>
+    <it-IT>Rivelazione inaspettata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FREE_OF_SIN_TITLE</zType>
+    <en-US>Free of Sin</en-US>
+    <it-IT>Liberi dal peccato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FORGOTTEN_PROPHET_TITLE</zType>
+    <en-US>The Forgotten Prophet</en-US>
+    <it-IT>Il profeta dimenticato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FORGOTTEN_PROPHET_1_TITLE</zType>
+    <en-US>The Forgotten Prophet</en-US>
+    <it-IT>Il profeta dimenticato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FORGOTTEN_PROPHET_2_1_TITLE</zType>
+    <en-US>The Forgotten Prophet</en-US>
+    <it-IT>Il profeta dimenticato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FORGOTTEN_PROPHET_2_2_TITLE</zType>
+    <en-US>The Forgotten Prophet</en-US>
+    <it-IT>Il profeta dimenticato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FORGOTTEN_PROPHET_3_THE_CAVE_TITLE</zType>
+    <en-US>The Prophet's Cave</en-US>
+    <it-IT>La Grotta del Profeta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TO_TAKE_THE_CLOTH_TITLE</zType>
+    <en-US>To Take the Cloth</en-US>
+    <it-IT>Prendere il panno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CHILD_OF_GOD_TITLE</zType>
+    <en-US>A {G0:Son:Daughter} of {S1.GOD}</en-US>
+    <it-IT>A {G0:Son:Daughter} di {S1.GOD}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_MAGUS_TITLE</zType>
+    <en-US>The Magus</en-US>
+    <it-IT>Il Mago</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_KOHEN_TITLE</zType>
+    <en-US>The Kohen</en-US>
+    <it-IT>Il Kohen</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_BISHOP_TITLE</zType>
+    <en-US>The Bishop</en-US>
+    <it-IT>Il Vescovo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_ELECT_TITLE</zType>
+    <en-US>The Elect</en-US>
+    <it-IT>L'eletto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FINAL_CONFESSION_TITLE</zType>
+    <en-US>Final Confession</en-US>
+    <it-IT>Confessione finale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_PATH_TO_REDEMPTION_1_TITLE</zType>
+    <en-US>The Path to Redemption</en-US>
+    <it-IT>La via della redenzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_PATH_TO_REDEMPTION_2_TITLE</zType>
+    <en-US>The Path to Redemption</en-US>
+    <it-IT>La via della redenzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_PATH_TO_REDEMPTION_PLOT_TITLE</zType>
+    <en-US>The Path to Redemption</en-US>
+    <it-IT>La via della redenzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FINAL_INHERITANCE_TITLE</zType>
+    <en-US>Final Inheritance</en-US>
+    <it-IT>Eredità finale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FINAL_REMEMBRANCE_TITLE</zType>
+    <en-US>Final Remembrance</en-US>
+    <it-IT>Ricordo finale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_UNEXPECTED_PATH_TITLE</zType>
+    <en-US>The Unexpected Path</en-US>
+    <it-IT>Il percorso inaspettato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_NEWFOUND_FAITH_SAME_TITLE</zType>
+    <en-US>Newfound Faith</en-US>
+    <it-IT>Fede ritrovata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STUDY_NEWFOUND_FAITH_DIFF_TITLE</zType>
+    <en-US>Newfound Faith</en-US>
+    <it-IT>Fede ritrovata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LEADER_ON_TRIAL_TITLE</zType>
+    <en-US>{TITLE-3} On Trial</en-US>
+    <it-IT>{TITLE-3} In prova</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEMANDS_OF_THE_SYNOD_TITLE</zType>
+    <en-US>Demands of the Synod</en-US>
+    <it-IT>Le richieste del Sinodo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_TEMPTATION_OF_MARRIAGE_TITLE</zType>
+    <en-US>The Temptation of Marriage</en-US>
+    <it-IT>La tentazione del matrimonio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RAISED_IN_RELIGION_TITLE</zType>
+    <en-US>Raised in Religion</en-US>
+    <it-IT>Cresciuto nella religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_CHURCH_OF_MANI_TITLE</zType>
+    <en-US>The Church of Mani</en-US>
+    <it-IT>La Chiesa di Mani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MANI_IN_EXILE_TITLE</zType>
+    <en-US>Mani in Exile</en-US>
+    <it-IT>Mani in esilio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_CHURCH_OF_MANI_THEM_TITLE</zType>
+    <en-US>The Church of Mani</en-US>
+    <it-IT>La Chiesa di Mani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_TRAVELS_OF_MANI_TITLE</zType>
+    <en-US>The Travels of Mani</en-US>
+    <it-IT>I viaggi di Mani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MANI_IN_THE_EAST_TITLE</zType>
+    <en-US>Mani in the East</en-US>
+    <it-IT>Mani in Oriente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FINAL_DAYS_OF_MANI_TITLE</zType>
+    <en-US>The Final Days of Mani</en-US>
+    <it-IT>Gli ultimi giorni di Mani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_COMMANDER_SAUL_TITLE</zType>
+    <en-US>The Persecutor {CHARACTER-SHORT-3}</en-US>
+    <it-IT>Il Persecutore {CHARACTER-SHORT-3}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_REVELATION_ON_THE_ROAD_PERSECUTION_TITLE</zType>
+    <en-US>Revelation on the Road</en-US>
+    <it-IT>Rivelazione in viaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_REVELATION_ON_THE_ROAD_TOLERANCE_TITLE</zType>
+    <en-US>Revelation on the Road</en-US>
+    <it-IT>Rivelazione in viaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_BOOK_AND_THE_SWORD_TITLE</zType>
+    <en-US>The Book and the Sword</en-US>
+    <it-IT>Il libro e la spada</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_INCIDENT_AT_ANTIOCH_TITLE</zType>
+    <en-US>Incident at {CITY-3}</en-US>
+    <it-IT>Incidente a {CITY-3}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_LAWS_OF_GOD_TITLE</zType>
+    <en-US>The Law of {S1.GOD}</en-US>
+    <it-IT>La legge di {S1.GOD}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CALLED_TO_MISSION_TITLE</zType>
+    <en-US>Called to Mission</en-US>
+    <it-IT>Chiamati alla missione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BONES_OF_THE_MARTYR_TITLE</zType>
+    <en-US>Bones of the Martyr</en-US>
+    <it-IT>Le ossa del martire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CLERGY_MISSION_SUCCESS_TITLE</zType>
+    <en-US>The {RELIGION-2,3} of {CITY-1}</en-US>
+    <it-IT>Il {RELIGION-2,3} di {CITY-1}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CLERGY_MISSION_EXECUTION_TITLE</zType>
+    <en-US>The execution of {CHARACTER-0}</en-US>
+    <it-IT>L'esecuzione di {CHARACTER-0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_UNDERCOVER_PRIESTS_TITLE</zType>
+    <en-US>Undercover {S2.PRIEST}</en-US>
+    <it-IT>Sotto copertura {S2.PRIEST}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RUMORS_OF_OSTANES_TITLE</zType>
+    <en-US>Rumors of Ostanes</en-US>
+    <it-IT>Voci di Ostanes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SEARCH_FOR_OSTANES_TITLE</zType>
+    <en-US>The Search for Ostanes</en-US>
+    <it-IT>La ricerca di Ostanes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_LEGENDARY_MAGE_TITLE</zType>
+    <en-US>The Legendary Mage</en-US>
+    <it-IT>Il Mago Leggendario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MIRACULOUS_RECOVERY_ILL_TITLE</zType>
+    <en-US>Miraculous Recovery</en-US>
+    <it-IT>Recupero miracoloso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MIRACULOUS_RECOVERY_WOUNDED_TITLE</zType>
+    <en-US>Miraculous Recovery</en-US>
+    <it-IT>Recupero miracoloso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_VOICE_IN_YOUR_EAR_TITLE</zType>
+    <en-US>The Voice in Your Ear</en-US>
+    <it-IT>La voce nell'orecchio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DRAW_OF_THE_OCCULT_TITLE</zType>
+    <en-US>Draw of the Forbidden Ways</en-US>
+    <it-IT>Disegno delle vie proibite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BLESS_THE_RAINS_TITLE</zType>
+    <en-US>Blessed Rains</en-US>
+    <it-IT>Piogge benedette</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_AGAINST_THE_UNHOLY_TITLE</zType>
+    <en-US>Against the Unholy</en-US>
+    <it-IT>Contro l'empio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_PREDICTION_OF_JOSEPHUS_TITLE</zType>
+    <en-US>The Prediction of {CHARACTER-2}</en-US>
+    <it-IT>La previsione di {CHARACTER-2}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_MADNESS_OF_MAGIC_TITLE</zType>
+    <en-US>The Madness of Magic</en-US>
+    <it-IT>La follia della magia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FOURTH_PHILOSOPHY_TITLE</zType>
+    <en-US>The Fourth Philosophy</en-US>
+    <it-IT>La quarta filosofia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RELIGION_SUITOR_TITLE</zType>
+    <en-US> {RELIGION-0,1} Suitor</en-US>
+    <it-IT> {RELIGION-0,1} Suitatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RELIGION_SUITOR_ZEALOT_TITLE</zType>
+    <en-US>A Family Meal</en-US>
+    <it-IT>Un pasto in famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RELIGION_SUITOR_DIFF_TITLE</zType>
+    <en-US>A Faithful {G3:Husband:Wife}</en-US>
+    <it-IT>Un fedele {G3:Husband:Wife}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RELIGION_SUITOR_FAMILY_TITLE</zType>
+    <en-US>A Faithful {G3:Husband:Wife}</en-US>
+    <it-IT>Un fedele {G3:Husband:Wife}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CONVERTING_HEIR_TITLE</zType>
+    <en-US>Converting the Heir</en-US>
+    <it-IT>Convertire l'erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ILLUMINATED_TEXT_TITLE</zType>
+    <en-US>Illuminated Text</en-US>
+    <it-IT>Testo illuminato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_KING_AND_THE_GOD_TITLE</zType>
+    <en-US>The {TITLE-0} and the God</en-US>
+    <it-IT>Il {TITLE-0} e il Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_OTHER_NATION_RELIGION_TITLE</zType>
+    <en-US>{PLAYER-2,1} {RELIGION-1}</en-US>
+    <it-IT>{PLAYER-2,1} {RELIGION-1}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_HOLY_PLACES_TITLE</zType>
+    <en-US>The Holy Places</en-US>
+    <it-IT>I luoghi sacri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PILGRIMAGE_1_TITLE</zType>
+    <en-US>Stories on the Road</en-US>
+    <it-IT>Storie in viaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PILGRIMAGE_2_TITLE</zType>
+    <en-US>The Welcoming {S1.PRIEST}</en-US>
+    <it-IT>L'accoglienza {S1.PRIEST}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PILGRIMAGE_3_TITLE</zType>
+    <en-US>The Holy Hand(s)</en-US>
+    <it-IT>La Mano Santa(s)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PILGRIMAGE_4_TITLE</zType>
+    <en-US>The Right Way of Worship</en-US>
+    <it-IT>Il giusto modo di adorare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PILGRIMAGE_5_TITLE</zType>
+    <en-US>Pilgrims Attacked</en-US>
+    <it-IT>Pellegrini attaccati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PILGRIMAGE_6_TITLE</zType>
+    <en-US>The Holy Path</en-US>
+    <it-IT>Il Sacro Sentiero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PILGRIMAGE_FINISHED_1_TITLE</zType>
+    <en-US>The Blessed Pilgrim</en-US>
+    <it-IT>Il pellegrino benedetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PILGRIMAGE_FINISHED_2_TITLE</zType>
+    <en-US>The Pilgrimage's End</en-US>
+    <it-IT>La fine del pellegrinaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PILGRIMAGE_FINISHED_3_TITLE</zType>
+    <en-US>A Foot Too Far</en-US>
+    <it-IT>Un piede di troppo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_ARMY_OF_DIVINE_TITLE</zType>
+    <en-US>The Army of {S2.GOD}</en-US>
+    <it-IT>L'esercito di {S2.GOD}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HOLY_VOLUNTEERS_TITLE</zType>
+    <en-US>Holy Volunteers</en-US>
+    <it-IT>Volontari del Santo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FAMILY_GHOSTS_TITLE</zType>
+    <en-US>Family Ghosts</en-US>
+    <it-IT>Fantasmi di famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FALLEN_GODDESS_TITLE</zType>
+    <en-US>The Fallen Goddess</en-US>
+    <it-IT>La dea caduta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CHILD_OF_THE_RIVER_TITLE</zType>
+    <en-US>Child of the River</en-US>
+    <it-IT>Il figlio del fiume</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CURSED_TITLE</zType>
+    <en-US>Cursed</en-US>
+    <it-IT>Maledetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_VOICE_OF_THE_RIVER_TITLE</zType>
+    <en-US>Voice of the River</en-US>
+    <it-IT>La voce del fiume</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ACTS_OF_THE_PAGAN_MARTYRS_TITLE</zType>
+    <en-US>Acts of the Pagan Martyrs</en-US>
+    <it-IT>Atti dei martiri pagani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BUYING_FAVOR_TITLE</zType>
+    <en-US>Building Favor</en-US>
+    <it-IT>Favore per l'edilizia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BOUND_BY_BLOOD_TITLE</zType>
+    <en-US>Bound by Blood</en-US>
+    <it-IT>Legato dal sangue</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HERO_CULT_TITLE</zType>
+    <en-US>The Cult of {CHARACTER-SHORT-1}</en-US>
+    <it-IT>Il culto di {CHARACTER-SHORT-1}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_MAN_OF_REEDS_TITLE</zType>
+    <en-US>The Man of Reeds</en-US>
+    <it-IT>L'uomo delle canne</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DAY_OF_THE_DARKENED_SUN_TITLE</zType>
+    <en-US>Day of the Darkened Sun</en-US>
+    <it-IT>Il giorno del sole oscurato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TRAGEDY_OH_TRAGEDY_TITLE</zType>
+    <en-US>Tragedy, oh Tragedy</en-US>
+    <it-IT>Tragedia, oh tragedia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WARNING_OF_DAYS_TO_COME_TITLE</zType>
+    <en-US>Warning of Days to Come</en-US>
+    <it-IT>Avvertimento dei giorni a venire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FABLE_OF_AESOP_TITLE</zType>
+    <en-US>The Fable of Aesop</en-US>
+    <it-IT>La favola di Esopo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FUNERARY_GAMES_TITLE</zType>
+    <en-US>Funerary Games</en-US>
+    <it-IT>Giochi funerari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SACRED_GAMES_TITLE</zType>
+    <en-US>Sacred Games</en-US>
+    <it-IT>Giochi sacri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_EVENTSTORY_SACRED_GAMES_VICTORY_TITLE</zType>
+    <en-US>Victory at the Games</en-US>
+    <it-IT>Vittoria ai Giochi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SACRED_GAMES_VICTORY_CHEAT_TITLE</zType>
+    <en-US>Cheating at the Games</en-US>
+    <it-IT>Imbrogliare ai giochi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SAYER_AND_SPEAKER_TITLE</zType>
+    <en-US>Sayer and Speaker</en-US>
+    <it-IT>Sayer e Speaker</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SAYER_AND_SPEAKER_RAID_TITLE</zType>
+    <en-US>Sayer and Speaker</en-US>
+    <it-IT>Sayer e Speaker</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_COME_TO_COLLECT_TITLE</zType>
+    <en-US>Come to Collect</en-US>
+    <it-IT>Venite a raccogliere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SHADOWS_OF_LANDMARK_TITLE</zType>
+    <en-US>The Shadows of {LANDMARK-1}</en-US>
+    <it-IT>Le ombre di {LANDMARK-1}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HUNTING_A_MYTH_TITLE</zType>
+    <en-US>Hunting a Myth</en-US>
+    <it-IT>A caccia di un mito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_TRAIL_OF_HEROES_TITLE</zType>
+    <en-US>The Trail of Heroes</en-US>
+    <it-IT>Il sentiero degli eroi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_EVENTSTORY_ELUDED_BY_THE_BEAST_TITLE</zType>
+    <en-US>Eluded by the Beast</en-US>
+    <it-IT>Elusi dalla Bestia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FELLING_A_MYTH_TITLE</zType>
+    <en-US>Felling a Myth</en-US>
+    <it-IT>Abbattere un mito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_IMPROBABLE_TASKS_TITLE</zType>
+    <en-US>Improbable Tasks</en-US>
+    <it-IT>Compiti improbabili</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_HERO_APPEARS_TITLE</zType>
+    <en-US>A Hero Appears</en-US>
+    <it-IT>Appare un eroe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_HAND_WITHDRAWN_TITLE</zType>
+    <en-US>A Hand Withdrawn</en-US>
+    <it-IT>Una mano ritirata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SCHOOL_OF_REASON_TITLE</zType>
+    <en-US>School of Reason</en-US>
+    <it-IT>Scuola della ragione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FOLK_TALES_TITLE</zType>
+    <en-US>Folk Tales</en-US>
+    <it-IT>Racconti popolari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THROUGH_THE_FIRE_TITLE</zType>
+    <en-US>Through the Fire</en-US>
+    <it-IT>Attraverso il fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ALEXANDER_OR_THE_FALSE_PROPHET_TITLE</zType>
+    <en-US>Alexander, or the False Prophet</en-US>
+    <it-IT>Alessandro, o il falso profeta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_TEMPLE_BESIEGED_TITLE</zType>
+    <en-US>The Temple Besieged</en-US>
+    <it-IT>Il Tempio assediato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FLIGHT_FROM_THE_BODY_TITLE</zType>
+    <en-US>Flight from the Body</en-US>
+    <it-IT>Fuga dal corpo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DIVINE_HARMONY_TITLE</zType>
+    <en-US>Divine Harmony</en-US>
+    <it-IT>Armonia divina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CONFLICT_IN_HYPATIAS_CITY_TITLE</zType>
+    <en-US>Conflict in {CITY-3}</en-US>
+    <it-IT>Conflitto in {CITY-3}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_DEATH_OF_REASON_TITLE</zType>
+    <en-US>The Death of Reason</en-US>
+    <it-IT>La morte della ragione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MORE_THAN_STORIES_TITLE</zType>
+    <en-US>More than Stories</en-US>
+    <it-IT>Più che storie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RESPECT_FOR_THE_HOLY_GROUND_TITLE</zType>
+    <en-US>Respect for the Holy Ground</en-US>
+    <it-IT>Rispetto del suolo sacro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DESECRATION_OF_THE_HOLY_GROUND_TITLE</zType>
+    <en-US>Desecration of the Holy Ground</en-US>
+    <it-IT>Profanazione del suolo sacro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SHIELDS_UNDER_THE_STARS_TITLE</zType>
+    <en-US>Shields Under the Stars</en-US>
+    <it-IT>Scudi sotto le stelle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SACRED_CHASTITY_TITLE</zType>
+    <en-US>Sacred Chastity</en-US>
+    <it-IT>La sacra castità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TAUGHT_OF_GOD_TITLE</zType>
+    <en-US>Taught of God</en-US>
+    <it-IT>Insegnato da Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEATH_GOD_AND_TAXES_TITLE</zType>
+    <en-US>Death, God and Taxes</en-US>
+    <it-IT>Morte, Dio e tasse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FACE_OF_GOLD_TITLE</zType>
+    <en-US>The Face of Gold</en-US>
+    <it-IT>Il volto dell'oro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_AMULETS_AND_CHARMS_TITLE</zType>
+    <en-US>Amulets and Charms</en-US>
+    <it-IT>Amuleti e incantesimi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HUMILITY_OF_THE_WISE_TITLE</zType>
+    <en-US>Humility of the Wise</en-US>
+    <it-IT>L'umiltà dei saggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_UPON_HIS_RETURN_TITLE</zType>
+    <en-US>Upon {G2:his:her} Return</en-US>
+    <it-IT>Su {G2:his:her} Ritorno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_STONE_OF_FIRE_TITLE</zType>
+    <en-US>A Stone of Fire</en-US>
+    <it-IT>Una pietra di fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_ANGELIC_DIVINE_TITLE</zType>
+    <en-US>The Angelic Divine</en-US>
+    <it-IT>Il Divino Angelico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FALLEN_TO_THE_RIVER_TITLE</zType>
+    <en-US>Fallen to the River</en-US>
+    <it-IT>Caduti nel fiume</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LUCKY_IN_LOVE_TITLE</zType>
+    <en-US>Lucky in Love</en-US>
+    <it-IT>Fortunato in amore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_END_OF_ALL_THINGS_TITLE</zType>
+    <en-US>The End of All Things</en-US>
+    <it-IT>La fine di tutte le cose</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_MEMORY_FOR_THE_GODS_TITLE</zType>
+    <en-US>A Memory for the Gods</en-US>
+    <it-IT>Una memoria per gli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CHRISTIAN_APOLOGISTS_TITLE</zType>
+    <en-US>Christian Apologists</en-US>
+    <it-IT>Apologeti cristiani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_UNDER_A_SPELL_TITLE</zType>
+    <en-US>Under {G3:his:her} Spell</en-US>
+    <it-IT>Sotto {G3:his:her} Incantesimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_OVERFLOWING_WITH_HATE_TITLE</zType>
+    <en-US>Overflowing with Hate</en-US>
+    <it-IT>Traboccante di odio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FOR_VICTORY_TITLE</zType>
+    <en-US>For Victory</en-US>
+    <it-IT>Per la vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_BLOOD_OF_HEROES_TITLE</zType>
+    <en-US>The Blood of Heroes</en-US>
+    <it-IT>Il sangue degli eroi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_WORLD_MADE_SMALL_TITLE</zType>
+    <en-US>A World Made Small</en-US>
+    <it-IT>Un mondo reso piccolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STEED_OF_THE_GODS_TITLE</zType>
+    <en-US>Steed of the Gods</en-US>
+    <it-IT>Il destriero degli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_NEXT_JOURNEY_TITLE</zType>
+    <en-US>The Next Journey</en-US>
+    <it-IT>Il prossimo viaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_DEIFIED_KING_TITLE</zType>
+    <en-US>The Deified {TITLE-1}</en-US>
+    <it-IT>Il {TITLE-1} divinizzato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_OTHER_SIDE_TITLE</zType>
+    <en-US>The Other Side</en-US>
+    <it-IT>L'altro lato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_POETESS_IN_EXILE_TITLE</zType>
+    <en-US>A Poetess in Exile</en-US>
+    <it-IT>Una poetessa in esilio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CHRISTIAN_ASCETICISM_TITLE</zType>
+    <en-US>Christian Asceticism</en-US>
+    <it-IT>Ascetismo cristiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LED_BY_THE_STARS_TITLE</zType>
+    <en-US>Led by the Stars</en-US>
+    <it-IT>Guidati dalle stelle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CHARGED_WITH_CORRUPTION_TITLE</zType>
+    <en-US>Charged with Corruption</en-US>
+    <it-IT>Accusato di corruzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ABANDONED_BY_GOD_TITLE</zType>
+    <en-US>Abandoned by {S1.GOD}</en-US>
+    <it-IT>Abbandonato da {S1.GOD}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_AUGURES_TITLE</zType>
+    <en-US>The Augurs</en-US>
+    <it-IT>Gli Auguri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DELAYED_BY_THE_DIVINE_TITLE</zType>
+    <en-US>Delayed by the Divine</en-US>
+    <it-IT>Ritardato dal Divino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FOR_YOUR_FAITH_TITLE</zType>
+    <en-US>For Your Faith</en-US>
+    <it-IT>Per la vostra fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WAYWARD_CULT_TITLE</zType>
+    <en-US>Wayward Cult</en-US>
+    <it-IT>Culto errante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HYBRIS_TITLE</zType>
+    <en-US>Hybris</en-US>
+    <it-IT>Hybris</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SON_OF_A_STAR_TITLE</zType>
+    <en-US>Son of the Star</en-US>
+    <it-IT>Figlio della Stella</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_QUIET_LIFE_TITLE</zType>
+    <en-US>A Quiet Life</en-US>
+    <it-IT>Una vita tranquilla</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ADDRESS_TO_YOUNG_MINDS_TITLE</zType>
+    <en-US>An Address to Young Minds</en-US>
+    <it-IT>Un discorso alle giovani menti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_BASILICA_TITLE</zType>
+    <en-US>The Basilica</en-US>
+    <it-IT>La Basilica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DINING_WITH_DIVINITY_TITLE</zType>
+    <en-US>Dining with Divinity</en-US>
+    <it-IT>Cenare con la Divinità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BETROTHAL_TITLE</zType>
+    <en-US>Betrothal</en-US>
+    <it-IT>Promessa di matrimonio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BETROTHAL_COMPLETE_TITLE</zType>
+    <en-US>Betrothal</en-US>
+    <it-IT>Promessa di matrimonio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BETROTHAL_ENDED_TITLE</zType>
+    <en-US>Betrothal</en-US>
+    <it-IT>Promessa di matrimonio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WHERE_LIGHTNING_STRIKES_TITLE</zType>
+    <en-US>Where Lightning Strikes</en-US>
+    <it-IT>Dove il fulmine colpisce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HOLY_DAYS_TITLE</zType>
+    <en-US>Holy Days</en-US>
+    <it-IT>Giorni santi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ARISTOCRATIC_CULT_TITLE</zType>
+    <en-US>Aristocrat Cult</en-US>
+    <it-IT>Culto aristocratico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CODEX_TITLE</zType>
+    <en-US>Codex</en-US>
+    <it-IT>Codice</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PRAYING_FOR_SAFETY_TITLE</zType>
+    <en-US>Praying for a Safe Return</en-US>
+    <it-IT>Pregare per un ritorno sicuro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BUBASTIS_TITLE</zType>
+    <en-US>A Tail of Trouble</en-US>
+    <it-IT>Una coda di guai</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WHERE_AN_OAR_HAS_NO_NAME_TITLE</zType>
+    <en-US>Where an Oar has No Name</en-US>
+    <it-IT>Dove il remo non ha nome</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SEER_AND_THE_ARMY_TITLE</zType>
+    <en-US>The Seer and the Army</en-US>
+    <it-IT>Il veggente e l'esercito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CARMEN_TITLE</zType>
+    <en-US>Carmen</en-US>
+    <it-IT>Carmen</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SEEKING_SOLITUDE_TITLE</zType>
+    <en-US>Seeking Solitude</en-US>
+    <it-IT>Alla ricerca della solitudine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CAVALRY_CULT_TITLE</zType>
+    <en-US>Cavalry Cult</en-US>
+    <it-IT>Culto della cavalleria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WHERE_OLD_BONES_LIE_TITLE</zType>
+    <en-US>Where Old Bones Lie</en-US>
+    <it-IT>Dove giacciono le vecchie ossa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_OTHER_WORLD_TITLE</zType>
+    <en-US>Other World</en-US>
+    <it-IT>Altro mondo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DISTURBED_REST_TITLE</zType>
+    <en-US>No Place to Rest</en-US>
+    <it-IT>Nessun posto per riposare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STILLBORN_TITLE</zType>
+    <en-US>Death in Birth</en-US>
+    <it-IT>La morte nella nascita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TWINS_TITLE</zType>
+    <en-US>Twins</en-US>
+    <it-IT>Gemelli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RETURNED_BY_GRACE_TITLE</zType>
+    <en-US>Returned by Grace</en-US>
+    <it-IT>Restituito per grazia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SECRETS_OF_THE_DEAD_TITLE</zType>
+    <en-US>Secrets of the Dead</en-US>
+    <it-IT>I segreti dei morti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HONORED_BY_GOD_TITLE</zType>
+    <en-US>Honored by the Faith</en-US>
+    <it-IT>Onorato dalla fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MY_BROTHER_IN_CHRIST_TITLE</zType>
+    <en-US>My {G1:Brother:Sister} in {S0.GOD}</en-US>
+    <it-IT>Il mio {G1:Brother:Sister} in {S0.GOD}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PROTECT_THE_HOLY_LAND_US_TITLE</zType>
+    <en-US>In Defense of the Holy City</en-US>
+    <it-IT>In difesa della Città Santa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PROTECT_THE_HOLY_LAND_THEM_TITLE</zType>
+    <en-US>In Defense of the Holy City</en-US>
+    <it-IT>In difesa della Città Santa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BENEATH_THE_SURFACE_TITLE</zType>
+    <en-US>Beneath the Surface</en-US>
+    <it-IT>Sotto la superficie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SEEKING_REPENTANCE_TITLE</zType>
+    <en-US>Seeking Repentance</en-US>
+    <it-IT>Cercare il pentimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SPREADING_WORD_TITLE</zType>
+    <en-US>The Spreading Word</en-US>
+    <it-IT>La parola che si diffonde</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_COMMUNION_TITLE</zType>
+    <en-US>Communion</en-US>
+    <it-IT>Comunione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HOLY_TEACHERS_TITLE</zType>
+    <en-US>Holy Teachers</en-US>
+    <it-IT>Insegnanti sacri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_COLLEGIA_TITLE</zType>
+    <en-US>Collegia</en-US>
+    <it-IT>Collegio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BE_VICTORIOUS_IN_THIS_TITLE</zType>
+    <en-US>Be Victorious in This</en-US>
+    <it-IT>Siate vittoriosi in questo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_SHIELD_OF_FLAME_TITLE</zType>
+    <en-US>A Shield of Flame</en-US>
+    <it-IT>Uno scudo di fiamme</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_GIFT_OF_THE_GODS_TITLE</zType>
+    <en-US>Gift of the Gods</en-US>
+    <it-IT>Dono degli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DIVINE_WARRIORS_TITLE</zType>
+    <en-US>In Arms and Faith</en-US>
+    <it-IT>In armi e in fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_NOBLE_CLERGY_TITLE</zType>
+    <en-US>Noble Clergy</en-US>
+    <it-IT>Nobile clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_UNWORTHY_CLERIC_TITLE</zType>
+    <en-US>Unworthy Cleric</en-US>
+    <it-IT>Chierico indegno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SEIZING_THE_MANTLE_TITLE</zType>
+    <en-US>Seizing the Mantle</en-US>
+    <it-IT>Cogliere il mantello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PATRONAGE_OF_THE_GODS_TITLE</zType>
+    <en-US>Patronage of the Gods</en-US>
+    <it-IT>Patrocinio degli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CALLING_OUT_THE_GODS_TITLE</zType>
+    <en-US>Calling Out the Gods</en-US>
+    <it-IT>Chiamare gli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MOCKING_THE_MYSTERIES_TITLE</zType>
+    <en-US>Mocking the Mysteries</en-US>
+    <it-IT>Beffare i misteri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DANGEROUS_TIDE_TITLE</zType>
+    <en-US>The Dangerous Tide</en-US>
+    <it-IT>La marea pericolosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CHANGING_TIDES_TITLE</zType>
+    <en-US>Changing Tides</en-US>
+    <it-IT>Maree mutevoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_NATIONAL_UNITY_TITLE</zType>
+    <en-US>National Unity</en-US>
+    <it-IT>Unità nazionale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SYMPATHY_WITH_ALL_THINGS_TITLE</zType>
+    <en-US>In All Things</en-US>
+    <it-IT>In tutte le cose</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_UPSTART_DRUID_TITLE</zType>
+    <en-US><![CDATA[Upstart <p.is_sub.S0=SUBJECT_TRIBE_GAULS>Druid<p=SUBJECT_TRIBE_SCYTHIANS>Anarya<else>Priest<end>]]></en-US>
+    <it-IT><![CDATA[Upstart <p.is_sub.S0=SOGGETTO_TRIBE_GAULS>Druido<p=SOGGETTO_TRIBE_SCITIANI>Anarya<else>Sacerdote<finish>]]></it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_DONATISTS_TITLE</zType>
+    <en-US>The Donatists</en-US>
+    <it-IT>I Donatisti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_WHORE_OF_BABYLON_TITLE</zType>
+    <en-US>The Whore of Babylon</en-US>
+    <it-IT>La puttana di Babilonia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_POET_IN_VOGUE_TITLE</zType>
+    <en-US>Poet in Vogue</en-US>
+    <it-IT>Poeta in Vogue</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ECSTATIC_CULT_TITLE</zType>
+    <en-US>Ecstatic Cult</en-US>
+    <it-IT>Culto estatico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ELEUSIAN_MYSTERIES_TITLE</zType>
+    <en-US>The Mysteries</en-US>
+    <it-IT>I misteri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RETURNING_TO_THE_MYSTERIES_TITLE</zType>
+    <en-US>Returning to the Mysteries</en-US>
+    <it-IT>Ritorno ai misteri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_MYSTERIES_PROFANED_TITLE</zType>
+    <en-US>The Mysteries Profaned</en-US>
+    <it-IT>I misteri profanati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_IMMORAL_MYSTERIES_TITLE</zType>
+    <en-US>Immoral Mysteries</en-US>
+    <it-IT>Misteri immorali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ANIMAL_WORSHIP_TITLE</zType>
+    <en-US>Animal Worship</en-US>
+    <it-IT>Culto degli animali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ISIS_AND_SERAPIS_TITLE</zType>
+    <en-US>Isis and Serapis</en-US>
+    <it-IT>Iside e Serapide</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ILLEGAL_SHRINE_TITLE</zType>
+    <en-US>Illegal Shrine</en-US>
+    <it-IT>Santuario illegale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_CULT_OF_MITHRAS_TITLE</zType>
+    <en-US>The Cult of Mithras</en-US>
+    <it-IT>Il culto di Mitra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RITUAL_IN_THE_DARK_TITLE</zType>
+    <en-US>Ritual in the Dark</en-US>
+    <it-IT>Rituale nel buio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_UNDUE_INFLUENCE_TITLE</zType>
+    <en-US>Undue Influence</en-US>
+    <it-IT>Influenza indebita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WANDERING_GODS_TITLE</zType>
+    <en-US>Wandering Gods</en-US>
+    <it-IT>Divinità erranti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_OUR_PANTHEON_SPREADS_TITLE</zType>
+    <en-US>Our Pantheon Spreads</en-US>
+    <it-IT>Il nostro Pantheon si diffonde</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_OATH_TO_MELQART_TITLE</zType>
+    <en-US>Oath to Melqart</en-US>
+    <it-IT>Giuramento a Melqart</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_OFFERINGS_TO_TYRE_TITLE</zType>
+    <en-US>Offerings to Tyre</en-US>
+    <it-IT>Offerte a Tiro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DESCENDED_FROM_ASTARTE_TITLE</zType>
+    <en-US>Descended From Astarte</en-US>
+    <it-IT>Discendente di Astarte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ALL_BUT_A_NAME_TITLE</zType>
+    <en-US>All But a Name</en-US>
+    <it-IT>Tutto tranne un nome</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LOCAL_GODS_TITLE</zType>
+    <en-US>Local Gods</en-US>
+    <it-IT>Divinità locali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CLAIMS_OF_DIVERGENCE_TITLE</zType>
+    <en-US>Claims of Divergence</en-US>
+    <it-IT>Affermazioni di divergenza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_OPEN_DISSENT_TITLE</zType>
+    <en-US>Open DISSENT</en-US>
+    <it-IT>Aprire il DISSENSO</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_COMMUNITY_TITLE</zType>
+    <en-US>Community</en-US>
+    <it-IT>Comunità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_FAITH_DIVIDED_TITLE</zType>
+    <en-US>A Faith Divided</en-US>
+    <it-IT>Una fede divisa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_DAY_OF_REST_TITLE</zType>
+    <en-US>A Day of Rest</en-US>
+    <it-IT>Un giorno di riposo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MIRACLE_WORKER_TITLE</zType>
+    <en-US>Miracle Worker</en-US>
+    <it-IT>L'operaio miracoloso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ENDEARED_TO_THE_FAITH_TITLE</zType>
+    <en-US>Endeared to the Faith</en-US>
+    <it-IT>Affezionati alla fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CLASH_ON_THE_STREETS_TITLE</zType>
+    <en-US>Clash on the Streets</en-US>
+    <it-IT>Scontro per le strade</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_HALF_OBOL_TITLE</zType>
+    <en-US>The Half Obol</en-US>
+    <it-IT>Il mezzo obolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_EYES_OF_GREEN_TITLE</zType>
+    <en-US>Eyes of Green</en-US>
+    <it-IT>Occhi di verde</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CONVERTED_ON_THE_ROAD_TITLE</zType>
+    <en-US>Converted on the Road</en-US>
+    <it-IT>Convertiti in viaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FIRST_DISCIPLE_TITLE</zType>
+    <en-US>The First Disciple</en-US>
+    <it-IT>Il primo discepolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_STUDY_OF_FAITH_TITLE</zType>
+    <en-US>The Study of Faith</en-US>
+    <it-IT>Lo studio della fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TRIAL_OF_IMPIETY_TITLE</zType>
+    <en-US>Trial of Impiety</en-US>
+    <it-IT>Processo all'empietà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_EPIC_CYCLE_TITLE</zType>
+    <en-US>The Epic Cycle</en-US>
+    <it-IT>Il ciclo epico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_EPIGRAPHY_REFORM_TITLE</zType>
+    <en-US>Epigraphic Reform</en-US>
+    <it-IT>Riforma epigrafica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ONE_ABOVE_ALL_TITLE</zType>
+    <en-US>One Above All</en-US>
+    <it-IT>Uno al di sopra di tutti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SUPPRESSED_SUPPORTERS_TITLE</zType>
+    <en-US>Suppressed Supporters</en-US>
+    <it-IT>Sostenitori soppressi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CONTENDER_TITLE</zType>
+    <en-US>Contender</en-US>
+    <it-IT>Contendente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HEADS_OF_FAITH_TITLE</zType>
+    <en-US>Heads of Faith</en-US>
+    <it-IT>Capi di fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CIVIL_WAR_TITLE</zType>
+    <en-US>Brother against Brother</en-US>
+    <it-IT>Fratello contro fratello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DIVINE_INSPIRATION_TITLE</zType>
+    <en-US>Divine Inspiration</en-US>
+    <it-IT>Ispirazione divina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STATUE_OF_THE_GODS_TITLE</zType>
+    <en-US>Statue of {S0.PAGANGOD}</en-US>
+    <it-IT>Statua di {S0.PAGANGOD}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STATUE_OF_THE_GODS_COMPLETE_TITLE</zType>
+    <en-US>The Statue Complete</en-US>
+    <it-IT>La statua completa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RELIGIOUS_TRUCE_TITLE</zType>
+    <en-US>Religious Truce</en-US>
+    <it-IT>Tregua religiosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RELIGIOUS_TRUCE_ENDS_TITLE</zType>
+    <en-US>Religious Truce Ends</en-US>
+    <it-IT>Finisce la tregua religiosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THEIR_DEATHLESS_GAZE_TITLE</zType>
+    <en-US>Their Deathless Gaze</en-US>
+    <it-IT>Il loro sguardo senza morte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STOLEN_GODS_TITLE</zType>
+    <en-US>Stolen Gods</en-US>
+    <it-IT>Dei rubati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LETTERS_OF_FAITH_TITLE</zType>
+    <en-US>Letters of Faith</en-US>
+    <it-IT>Lettere di fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LANDS_OF_THE_DEAD_TITLE</zType>
+    <en-US>Lands of the Dead</en-US>
+    <it-IT>Terre dei morti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PERSECUTIONS_OF_NATION_TITLE</zType>
+    <en-US>Persecutions of {CITY-1}</en-US>
+    <it-IT>Persecuzioni di {CITY-1}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_INVESTED_IN_FAITH_TITLE</zType>
+    <en-US>Invested in Faith</en-US>
+    <it-IT>Investito nella fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HOLY_WARRIOR_TITLE</zType>
+    <en-US>Warrior of {S1.GOD}</en-US>
+    <it-IT>Guerriero di {S1.GOD}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SHUNNED_CLERGY_TITLE</zType>
+    <en-US>The Shunned {S1.PRIEST}</en-US>
+    <it-IT>L'evitato {S1.PRIEST}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TRIBAL_MINISTER_TITLE</zType>
+    <en-US>{TRIBE-1,1} Minister</en-US>
+    <it-IT>{TRIBE-1,1} Ministro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_KEEPER_OF_THE_ARTS_TITLE</zType>
+    <en-US>Keeper of the Arts</en-US>
+    <it-IT>Custode delle arti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MEETING_THE_DRUIDS_TITLE</zType>
+    <en-US><![CDATA[Meeting the <p.is_sub.S0=SUBJECT_TRIBE_GAULS>Druids<p=SUBJECT_TRIBE_SCYTHIANS>Anarya<else>Priests<end>]]></en-US>
+    <it-IT><![CDATA[Incontro con i <p.is_sub.S0=SOGGETTO_TRIBE_GAULS>Druidi<p=SOGGETTO_TRIBE_SCITANICI>Anarya<else> Sacerdoti<end>]]></it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TRIBE_CONTACT_IMPIETY_TITLE</zType>
+    <en-US>Impious Leader</en-US>
+    <it-IT>Leader impetuoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TRIBE_SECOND_SPOUSE_TITLE</zType>
+    <en-US>A Second Spouse</en-US>
+    <it-IT>Un secondo coniuge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PERSIAN_ZOROASTRIANISM_TITLE</zType>
+    <en-US>Out of the Fire</en-US>
+    <it-IT>Fuori dal fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PRIEST_FROM_A_FOREIGN_LAND_TITLE</zType>
+    <en-US>Priest of a Foreign Land</en-US>
+    <it-IT>Sacerdote di una terra straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_HEARERS_TITLE</zType>
+    <en-US>The Hearers</en-US>
+    <it-IT>Gli uditori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_NEW_APOSTLES_TITLE</zType>
+    <en-US>The New Apostles</en-US>
+    <it-IT>I nuovi apostoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_WORLD_OF_LIGHT_TITLE</zType>
+    <en-US>A World of Light</en-US>
+    <it-IT>Un mondo di luce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SEVEN_BOOKS_OF_MANI_TITLE</zType>
+    <en-US>The Seven Books of Mani</en-US>
+    <it-IT>I sette libri di Mani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WORSHIP_ON_THE_STREETS_TITLE</zType>
+    <en-US>Worship on the Streets</en-US>
+    <it-IT>Il culto per le strade</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SUPPORT_OF_THE_CLERGY_TITLE</zType>
+    <en-US>Support of the {S1.PRIEST,2}</en-US>
+    <it-IT>Supporto della {S1.PRIEST,2}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEALING_WITH_DISSENT_TITLE</zType>
+    <en-US>Dealing with Dissent</en-US>
+    <it-IT>Gestire il dissenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PERSECUTION_TITLE</zType>
+    <en-US>Persecution</en-US>
+    <it-IT>Persecuzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_JUDGES_TITLE</zType>
+    <en-US>The Judges</en-US>
+    <it-IT>I giudici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEEP_DIVISIONS_TITLE</zType>
+    <en-US>Deep Divisions</en-US>
+    <it-IT>Divisioni profonde</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_TUTOR_KARTIR_TITLE</zType>
+    <en-US>The Tutor Kartir</en-US>
+    <it-IT>Il Tutor Kartir</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SOUL_OF_SACRIFICE_TITLE</zType>
+    <en-US>The Soul of Sacrifice</en-US>
+    <it-IT>L'anima del sacrificio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CONTEMPLATION_THROUGH_MUSIC_TITLE</zType>
+    <en-US>Contemplation through Music</en-US>
+    <it-IT>Contemplazione attraverso la musica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_IN_HEAVEN_AS_ON_EARTH_TITLE</zType>
+    <en-US>In Heaven, as on Earth</en-US>
+    <it-IT>In cielo, come in terra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_CONFESSIONS_TITLE</zType>
+    <en-US>The Confessions</en-US>
+    <it-IT>Le Confessioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SACRED_SCRIPTURE_TITLE</zType>
+    <en-US>Sacred Scripture</en-US>
+    <it-IT>Le Sacre Scritture</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LIKE_HEROES_OF_OLD_TITLE</zType>
+    <en-US>Like Heroes of Old</en-US>
+    <it-IT>Come gli eroi di un tempo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DIVINE_GRACE_TITLE</zType>
+    <en-US>Divine Grace</en-US>
+    <it-IT>Grazia divina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FRAVASHI_TITLE</zType>
+    <en-US>Festival of the Fravashi</en-US>
+    <it-IT>Festival dei Fravashi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_EASTER_TITLE</zType>
+    <en-US>Easter</en-US>
+    <it-IT>Pasqua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MARTYR_DAYS_TITLE</zType>
+    <en-US>Martyr Days</en-US>
+    <it-IT>Giornate dei martiri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SILPHIUM_TITLE</zType>
+    <en-US>Silphium</en-US>
+    <it-IT>Silfio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FRAGMENTS_OF_HER_TITLE</zType>
+    <en-US>Fragments of her Voice</en-US>
+    <it-IT>Frammenti della sua voce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ZOROASTRIAN_DISSENT_TITLE</zType>
+    <en-US>Zoroastrian Dissent</en-US>
+    <it-IT>Dissenso zoroastriano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STEALING_TALENT_TITLE</zType>
+    <en-US>Stealing Talent</en-US>
+    <it-IT>Rubare il talento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CROWNED_IN_FAITH_TITLE</zType>
+    <en-US>Crowned in Faith</en-US>
+    <it-IT>Incoronato nella fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_DEFECTOR_TITLE</zType>
+    <en-US>The Defector</en-US>
+    <it-IT>Il disertore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SHRINE_OF_THE_HEALING_GOD_TITLE</zType>
+    <en-US>Shrine of the Healing God</en-US>
+    <it-IT>Santuario del Dio guaritore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DISCOVERED_BY_GOD_TITLE</zType>
+    <en-US>Discovered by {S1.GOD}</en-US>
+    <it-IT>Scoperto da {S1.GOD}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_KNEEL_AND_OBEY_TITLE</zType>
+    <en-US>Kneel and Obey</en-US>
+    <it-IT>Inginocchiarsi e obbedire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_ART_OF_ALLEGORY_TITLE</zType>
+    <en-US>The Art of Allegory</en-US>
+    <it-IT>L'arte dell'allegoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THROUGH_THE_FIRE_ALT_TITLE</zType>
+    <en-US>Through the Fire</en-US>
+    <it-IT>Attraverso il fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PERSECUTED_FAITH_TITLE</zType>
+    <en-US>Persecuted Faith</en-US>
+    <it-IT>Fede perseguitata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TANIT_TITLE</zType>
+    <en-US>Tanit</en-US>
+    <it-IT>Tanit</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RIVERS_AND_SPRINGS_TITLE</zType>
+    <en-US>Rivers and Springs</en-US>
+    <it-IT>Fiumi e sorgenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_TOPHET_TITLE</zType>
+    <en-US>The Tophet</en-US>
+    <it-IT>Il Tofet</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_IMMORAL_GODS_TITLE</zType>
+    <en-US>Immoral Gods</en-US>
+    <it-IT>Divinità immorali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_COMPETITIONS_OF_MUSIC_TITLE</zType>
+    <en-US>Competitions of Music</en-US>
+    <it-IT>Concorsi di musica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_NAOS_TITLE</zType>
+    <en-US>Naos</en-US>
+    <it-IT>Naos</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HOMER_AND_HESIOD_TITLE</zType>
+    <en-US>Homer and Hesiod</en-US>
+    <it-IT>Omero ed Esiodo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FIRES_AND_ALTARS_TITLE</zType>
+    <en-US>Fires and Altars</en-US>
+    <it-IT>Fuochi e altari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_KARPANS_TITLE</zType>
+    <en-US>The Karpans</en-US>
+    <it-IT>I Karpan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_GAYOMARTAN_TITLE</zType>
+    <en-US>Gayomartan</en-US>
+    <it-IT>Gayomartan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FOUR_ELEMENTS_TITLE</zType>
+    <en-US>Four Elements</en-US>
+    <it-IT>Quattro elementi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MAAT_TITLE</zType>
+    <en-US>Ma'at</en-US>
+    <it-IT>Ma'at</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_HEKA_TITLE</zType>
+    <en-US>Heart and Tongue</en-US>
+    <it-IT>Cuore e lingua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SINS_OF_INGRATITUDE_TITLE</zType>
+    <en-US>Sins of Ingratitude</en-US>
+    <it-IT>Peccati di ingratitudine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_BEAUTIFUL_FESTIVAL_TITLE</zType>
+    <en-US>The Beautiful Festival</en-US>
+    <it-IT>Il Festival della Bellezza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_SOUL_OF_LIFE_TITLE</zType>
+    <en-US>The Soul of Life</en-US>
+    <it-IT>L'anima della vita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_QUIRINUS_TITLE</zType>
+    <en-US>Quirinus</en-US>
+    <it-IT>Quirino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_VESTAL_TITLE</zType>
+    <en-US>The Vestal</en-US>
+    <it-IT>La Vestale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_KING_FOR_A_DAY_TITLE</zType>
+    <en-US>{TITLE-0} for a Day</en-US>
+    <it-IT>{TITLE-0} per un giorno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FEEDING_THE_GODS_TITLE</zType>
+    <en-US>Feeding the Gods</en-US>
+    <it-IT>Nutrire gli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PROCESSION_OF_THE_GODS_TITLE</zType>
+    <en-US>Procession of the Gods</en-US>
+    <it-IT>Processione degli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TEMPLE_FINANCES_TITLE</zType>
+    <en-US>Temple Finances</en-US>
+    <it-IT>Finanze del Tempio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RESPECT_FOR_THE_GODS_TITLE</zType>
+    <en-US>Respect for the Gods</en-US>
+    <it-IT>Rispetto per gli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_FIRST_CONVERT_TITLE</zType>
+    <en-US>First Convert</en-US>
+    <it-IT>Prima conversione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FIRE_EXTINGUISHED_TITLE</zType>
+    <en-US>The Fire Extinguished</en-US>
+    <it-IT>L'incendio è stato estinto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_GUARDIANS_OF_THE_BRIDGE_TITLE</zType>
+    <en-US>Guardians of the Bridge</en-US>
+    <it-IT>I guardiani del ponte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_ONE_GOD_TITLE</zType>
+    <en-US>The One God</en-US>
+    <it-IT>L'unico Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_COUNTING_OF_THE_OMER_TITLE</zType>
+    <en-US>Counting of the Omer</en-US>
+    <it-IT>Conteggio dell'Omer</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BEMA_TITLE</zType>
+    <en-US>Bema</en-US>
+    <it-IT>Bema</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_JUDGED_IN_ABSENCE_TITLE</zType>
+    <en-US>Judged in Absence</en-US>
+    <it-IT>Giudicato in assenza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CALL_TO_WORSHIP_TITLE</zType>
+    <en-US>Call to Worship</en-US>
+    <it-IT>Chiamata al culto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FOLLOWERS_OF_CHRIST_TITLE</zType>
+    <en-US>The Followers of Christ</en-US>
+    <it-IT>I seguaci di Cristo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_GODS_OF_PLAYER_TITLE</zType>
+    <en-US>The Gods of {PLAYER-2}</en-US>
+    <it-IT>Gli dei di {PLAYER-2}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_HOLY_BAKERS_TITLE</zType>
+    <en-US>The Holy Bakers</en-US>
+    <it-IT>I Santi Panettieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TALES_OF_LEADERS_PAST_TITLE</zType>
+    <en-US>Tales of Leaders Past</en-US>
+    <it-IT>Racconti dei leader del passato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_JEWISH_DISSENT_TITLE</zType>
+    <en-US>Jewish Dissent</en-US>
+    <it-IT>Dissenso ebraico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CHRISTIAN_DISSENT_TITLE</zType>
+    <en-US>Christian Dissent</en-US>
+    <it-IT>Dissenso cristiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_MANICHAEISM_DISSENT_TITLE</zType>
+    <en-US>Manichaean Dissent</en-US>
+    <it-IT>Dissenso manicheo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TUTORIAL_CLERGY_TITLE</zType>
+    <en-US>Tutorial: Clergy</en-US>
+    <it-IT>Tutorial: Clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TUTORIAL_RELIGIOUS_DISSENT_CLERGY_TITLE</zType>
+    <en-US>Tutorial: Religious Dissent</en-US>
+    <it-IT>Tutorial: Il dissenso religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_EVENTSTORY_TUTORIAL_RELIGIOUS_DISSENT_NO_CLERGY_TITLE</zType>
+    <en-US>Tutorial: Religious Dissent</en-US>
+    <it-IT>Tutorial: Il dissenso religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STRIKE_THEM_DOWN_TITLE</zType>
+    <en-US>Strike Them Down</en-US>
+    <it-IT>Colpiscili</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CALLED_BY_THE_GODS_TITLE</zType>
+    <en-US>Called by the Gods</en-US>
+    <it-IT>Chiamato dagli dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BETROTHAL_COMPLETE_DECISION_TITLE</zType>
+    <en-US>Betrothal</en-US>
+    <it-IT>Promessa di matrimonio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_HERO_APPEARS_WEDDING_TITLE</zType>
+    <en-US>A Hero Appears</en-US>
+    <it-IT>Appare un eroe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RECRUIT_SOLDIER_TITLE</zType>
+    <en-US>A Promising Recruit</en-US>
+    <it-IT>Una recluta promettente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RECRUIT_MERCHANT_TITLE</zType>
+    <en-US>A Promising Recruit</en-US>
+    <it-IT>Una recluta promettente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RECRUIT_MINSTER_TITLE</zType>
+    <en-US>A Promising Recruit</en-US>
+    <it-IT>Una recluta promettente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RECRUIT_SCHOLAR_TITLE</zType>
+    <en-US>A Promising Recruit</en-US>
+    <it-IT>Una recluta promettente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RECRUIT_TWO_TITLE</zType>
+    <en-US>A Promising Recruit</en-US>
+    <it-IT>Una recluta promettente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PATH_OF_THE_NATION_TITLE</zType>
+    <en-US>Path of the Nation</en-US>
+    <it-IT>Il cammino della nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_NEW_DIRECTIONS_TITLE</zType>
+    <en-US>New Directions</en-US>
+    <it-IT>Nuove direzioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_STEADY_HANDS_TITLE</zType>
+    <en-US>Steady Hands</en-US>
+    <it-IT>Mani ferme</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_NEW_DECREE_TITLE</zType>
+    <en-US>A New Decree</en-US>
+    <it-IT>Un nuovo decreto</it-IT>
+  </Entry>
+</Root>

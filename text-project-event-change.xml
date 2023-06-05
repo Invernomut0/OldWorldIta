@@ -1,0 +1,478 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_SILK</zType>
+    <en-US>Silk</en-US>
+    <it-IT>Seta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_PORCELAIN</zType>
+    <en-US>Porcelain</en-US>
+    <it-IT>Porcellana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_EXOTIC_FUR</zType>
+    <en-US>Exotic Fur</en-US>
+    <it-IT>Pelliccia esotica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_EBONY</zType>
+    <en-US>Ebony</en-US>
+    <it-IT>Ebano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_PERFUME</zType>
+    <en-US>Perfume</en-US>
+    <it-IT>Profumo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_IVORY</zType>
+    <en-US>Carved Ivory</en-US>
+    <it-IT>Avorio intagliato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_EXOTIC_ANIMALS</zType>
+    <en-US>Exotic Animals</en-US>
+    <it-IT>Animali esotici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_SILPHIUM</zType>
+    <en-US>Silphium</en-US>
+    <it-IT>Silfio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_JADE</zType>
+    <en-US>Jade</en-US>
+    <it-IT>Giada</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_TEA</zType>
+    <en-US>Tea</en-US>
+    <it-IT>Tè</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_SPICES</zType>
+    <en-US>Spices</en-US>
+    <it-IT>Spezie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GIVE_LITERATURE</zType>
+    <en-US>Literature</en-US>
+    <it-IT>Letteratura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SWORD_CULT</zType>
+    <en-US>Sword Cult</en-US>
+    <it-IT>Culto della spada</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
+    <en-US>Sword Cult Tithe</en-US>
+    <it-IT>Culto della spada</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
+    <en-US>Hostile Garrison</en-US>
+    <it-IT>Guarnigione ostile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PUBLIC_MURAL</zType>
+    <en-US>Public Mural</en-US>
+    <it-IT>Murale pubblico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TRIUMPH</zType>
+    <en-US>Triumph</en-US>
+    <it-IT>Trionfo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CULTURAL_PAGEANT</zType>
+    <en-US>Cultural Pageant</en-US>
+    <it-IT>Concorso culturale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CRUMBLING_ZIGGURAT</zType>
+    <en-US>The Ziggurat Crumbles</en-US>
+    <it-IT>La Ziggurat si sgretola</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PURPLE_DYE</zType>
+    <en-US>Purple Dye</en-US>
+    <it-IT>Tintura viola</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PROPAGANDA</zType>
+    <en-US>Propaganda</en-US>
+    <it-IT>Propaganda</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CHILD_LABOR</zType>
+    <en-US>Child Labor</en-US>
+    <it-IT>Lavoro minorile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CORRUPTION_REFORM</zType>
+    <en-US>Corruption Reform</en-US>
+    <it-IT>Riforma della corruzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ROYAL_INSCRIPTIONS</zType>
+    <en-US>Royal Inscriptions</en-US>
+    <it-IT>Iscrizioni reali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
+    <en-US>Imperial Necropolis</en-US>
+    <it-IT>Necropoli imperiale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
+    <en-US>Forced Deportations</en-US>
+    <it-IT>Deportazioni forzate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GLADIATORS</zType>
+    <en-US>Gladiators</en-US>
+    <it-IT>Gladiatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PLAYS</zType>
+    <en-US>Dramatic Plays</en-US>
+    <it-IT>Opere teatrali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MERCHANT_TOWN</zType>
+    <en-US>Merchant Town</en-US>
+    <it-IT>Città mercantile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DEN_OF_VICE</zType>
+    <en-US>Den of Vice</en-US>
+    <it-IT>Tana del vizio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_OUTBREAK</zType>
+    <en-US>Outbreak</en-US>
+    <it-IT>Epidemia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MIDWIFERY</zType>
+    <en-US>Midwifery</en-US>
+    <it-IT>Ostetricia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_LUXURIOUS_DELIGHTS</zType>
+    <en-US>Luxurious Delights</en-US>
+    <it-IT>Delizie di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
+    <en-US>Annual Feast for Persian Guests</en-US>
+    <it-IT>Festa annuale per gli ospiti persiani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MISTHOPHORIA</zType>
+    <en-US>Misthophoria</en-US>
+    <it-IT>Mistoforia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GRAIN_DOLE</zType>
+    <en-US>Grain Dole</en-US>
+    <it-IT>Grano Dole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FOREIGN_FIGHTERS</zType>
+    <en-US>Foreign Fighters</en-US>
+    <it-IT>Combattenti stranieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_WAR_COUNCIL</zType>
+    <en-US>War Council</en-US>
+    <it-IT>Consiglio di guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
+    <en-US>Sewer System</en-US>
+    <it-IT>Sistema fognario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CASE_HARDENING</zType>
+    <en-US>Case-Hardening</en-US>
+    <it-IT>Cementazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TURPAN_WELLS</zType>
+    <en-US>Turpan Wells</en-US>
+    <it-IT>Pozzi di Turpan</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_NATIONAL_HOLIDAY</zType>
+    <en-US>National Holiday</en-US>
+    <it-IT>Festa nazionale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SCIENTIFIC_METHOD</zType>
+    <en-US>Scientific Method</en-US>
+    <it-IT>Metodo scientifico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PROTECTION_EDICTS</zType>
+    <en-US>Protection Edicts</en-US>
+    <it-IT>Editti di protezione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HORREUM</zType>
+    <en-US>Horreum Storehouse</en-US>
+    <it-IT>Magazzino degli orrori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_AVESTA_TREASURY</zType>
+    <en-US>Avesta Treasury</en-US>
+    <it-IT>Tesoro di Avesta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_DISEASED_SETTLERS</zType>
+    <en-US>Diseased Citizens</en-US>
+    <it-IT>Cittadini malati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TERRACE_LOVE_SHRINE</zType>
+    <en-US>Ziggurat Love Shrine</en-US>
+    <it-IT>Santuario dell'amore Ziggurat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</zType>
+    <en-US>Ziggurat Wisdom Shrine</en-US>
+    <it-IT>Santuario della saggezza Ziggurat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TERRACE_WAR_SHRINE</zType>
+    <en-US>Ziggurat War Shrine</en-US>
+    <it-IT>Santuario della guerra di Ziggurat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
+    <en-US>Consular Tribunes</en-US>
+    <it-IT>Tribuni consolari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CONFUCIANISM</zType>
+    <en-US>Confucianism</en-US>
+    <it-IT>Confucianesimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
+    <en-US>Salt Production</en-US>
+    <it-IT>Produzione di sale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MANUAL_OF_RHETORIC</zType>
+    <en-US>Manual of Rhetoric</en-US>
+    <it-IT>Manuale di retorica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_LOCAL_ASCETIC</zType>
+    <en-US>Local Ascetic</en-US>
+    <it-IT>Asceta locale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_AUTONOMOUS_RULE</zType>
+    <en-US>Autonomous Rule</en-US>
+    <it-IT>Regola autonoma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MONUMENTAL_GATE</zType>
+    <en-US>Monumental Gate</en-US>
+    <it-IT>Cancello monumentale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_LEVIATHAN</zType>
+    <en-US>Leviathan Skull</en-US>
+    <it-IT>Teschio del Leviatano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GODS_CONSORT_CULT</zType>
+    <en-US>God's Consort Cult</en-US>
+    <it-IT>Culto della Consorte di Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_LABYRINTH</zType>
+    <en-US>Labyrinth</en-US>
+    <it-IT>Labirinto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_WORK_OF_ART</zType>
+    <en-US>Work of Art</en-US>
+    <it-IT>Opera d'arte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PIRACY_SUPPRESSION</zType>
+    <en-US>Piracy Suppression</en-US>
+    <it-IT>Soppressione della pirateria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_COHORTES</zType>
+    <en-US>Urban Cohorts</en-US>
+    <it-IT>Coorti urbane</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_HUNT_KILLER</zType>
+    <en-US>Hunt for the Killer</en-US>
+    <it-IT>Caccia all'assassino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_STATUE_OF_DIONYSUS</zType>
+    <en-US>Statue of Dionysus</en-US>
+    <it-IT>Statua di Dioniso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_COLLEGES</zType>
+    <en-US>Pagan Colleges</en-US>
+    <it-IT>Collegi pagani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_WAR</zType>
+    <en-US>Pagan Cult of War</en-US>
+    <it-IT>Culto pagano della guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_FIRE</zType>
+    <en-US>Pagan Cult of Fire</en-US>
+    <it-IT>Culto pagano del fuoco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_WISDOM</zType>
+    <en-US>Pagan Cult of Wisdom</en-US>
+    <it-IT>Culto pagano della saggezza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_SUN</zType>
+    <en-US>Pagan Cult of the Sun</en-US>
+    <it-IT>Culto pagano del Sole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_WATER</zType>
+    <en-US>Pagan Cult of the Seas</en-US>
+    <it-IT>Culto pagano dei mari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_LOVE</zType>
+    <en-US>Pagan Cult of Love</en-US>
+    <it-IT>Culto pagano dell'amore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_UNDERWORLD</zType>
+    <en-US>Pagan Cult of Death</en-US>
+    <it-IT>Culto pagano della morte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_HEALING</zType>
+    <en-US>Pagan Cult of Healing</en-US>
+    <it-IT>Culto pagano della guarigione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_KINGSHIP</zType>
+    <en-US>Pagan Cult of Royalty</en-US>
+    <it-IT>Culto pagano della regalità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_HEARTH</zType>
+    <en-US>Pagan Cult of the Hearth</en-US>
+    <it-IT>Culto pagano del focolare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_HUNTING</zType>
+    <en-US>Pagan Cult of Hunting</en-US>
+    <it-IT>Culto pagano della caccia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FERTILE_SOIL</zType>
+    <en-US>Mineral-Rich Soil</en-US>
+    <it-IT>Terreno ricco di minerali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_IMPROVED_LUDUS</zType>
+    <en-US>Improved Education</en-US>
+    <it-IT>Miglioramento dell'istruzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ATHLETICS_ARCHERY</zType>
+    <en-US>Athletic Tradition: Archery</en-US>
+    <it-IT>Tradizione atletica: Tiro con l'arco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ATHLETICS_WRESTLING</zType>
+    <en-US>Athletic Tradition: Wrestling</en-US>
+    <it-IT>Tradizione atletica: Lotta libera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ATHLETICS_EQUESTRIAN</zType>
+    <en-US>Athletic Tradition: Equestrian</en-US>
+    <it-IT>Tradizione atletica: Equitazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_WARDENS_OF_THE_WILDS</zType>
+    <en-US>Wardens of the Wilds</en-US>
+    <it-IT>I guardiani delle terre selvagge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TRAINING_PITS</zType>
+    <en-US>Training Pits</en-US>
+    <it-IT>Fosse per l'addestramento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_WARRIOR_TRADITION</zType>
+    <en-US>Warrior Tradition</en-US>
+    <it-IT>Tradizione guerriera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_MONUMENT_OF_HOPE</zType>
+    <en-US>Beacon of Hope</en-US>
+    <it-IT>Faro di speranza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ANTICAVALRY_TACTICS</zType>
+    <en-US>Anti-Mounted Tactics</en-US>
+    <it-IT>Tattiche anti-montate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_BY_THE_NUMBERS</zType>
+    <en-US>Office of Efficient Taxation</en-US>
+    <it-IT>Ufficio per la tassazione efficiente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_SHRINE_OF_THE_UNKNOWN_GOD</zType>
+    <en-US>Shrine of the Unknown God</en-US>
+    <it-IT>Santuario del Dio sconosciuto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_FORESTRY_GUILD</zType>
+    <en-US>Forester's Guild</en-US>
+    <it-IT>Gilda dei forestali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_CODEX_OF_HIGHLAND_WISDOM</zType>
+    <en-US>Codex of Highland Wisdom</en-US>
+    <it-IT>Codice della saggezza delle Highlands</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_TRIBAL_FORUM</zType>
+    <en-US>Tribal Forum</en-US>
+    <it-IT>Forum tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ZOOLOGICAL_SOCIETY_PROJECT_ZOO</zType>
+    <en-US>Zoo</en-US>
+    <it-IT>Lo zoo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_ZOOLOGICAL_SOCIETY_PROJECT_RESEARCH_CLOISTER</zType>
+    <en-US>Research Cloister</en-US>
+    <it-IT>Chiostro della ricerca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_THE_SAND_PITS</zType>
+    <en-US>The Sand Pits</en-US>
+    <it-IT>Le cave di sabbia</it-IT>
+  </Entry>
+</Root>

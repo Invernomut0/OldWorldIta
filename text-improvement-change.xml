@@ -1,0 +1,621 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_ANCIENT_RUINS</zType>
+    <en-US>Ancient Ruins~an Ancient Ruins~Ancient Ruins</en-US>
+    <it-IT>Antiche rovine~un'antica rovina~Antiche rovine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CITY_SITE</zType>
+    <en-US>City Site~a City Site~City Sites</en-US>
+    <it-IT>Sito della città~un sito della città~Siti della città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_RUINS_1</zType>
+    <en-US>Hovel Ruins</en-US>
+    <it-IT>Rovine del tugurio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_RUINS_2</zType>
+    <en-US>Outpost Ruins</en-US>
+    <it-IT>Rovine dell'avamposto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_RUINS_3</zType>
+    <en-US>Encampment Ruins</en-US>
+    <it-IT>Rovine dell'accampamento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_RUINS_4</zType>
+    <en-US>Bastion Ruins</en-US>
+    <it-IT>Rovine del bastione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SETTLEMENT_1</zType>
+    <en-US>Hovel~a Hovel~Hovels</en-US>
+    <it-IT>Tugurio~un tugurio~Tuguri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SETTLEMENT_2</zType>
+    <en-US>Outpost~an Outpost~Outposts</en-US>
+    <it-IT>Avamposto~un avamposto~Avamposti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SETTLEMENT_3</zType>
+    <en-US>Encampment~an Encampment~Encampments</en-US>
+    <it-IT>Accampamento~un accampamento~Accampamenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SETTLEMENT_4</zType>
+    <en-US>Bastion~a Bastion~Bastions</en-US>
+    <it-IT>Bastione~un Bastione~Bastioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_FORT</zType>
+    <en-US>Fort~a Fort~Forts</en-US>
+    <it-IT>Forte~un Forte~Forti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_FARM</zType>
+    <en-US>Farm~a Farm~Farms</en-US>
+    <it-IT>Fattoria~una Fattoria~Fattorie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MINE</zType>
+    <en-US>Mine~a Mine~Mines</en-US>
+    <it-IT>La mia~una Miniera~Miniere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_QUARRY</zType>
+    <en-US>Quarry~a Quarry~Quarries</en-US>
+    <it-IT>Cava~una cava~Cave</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_LUMBERMILL</zType>
+    <en-US>Lumbermill~a Lumbermill~Lumbermills</en-US>
+    <it-IT>Segheria~una Lumbermill~Segherie di legname</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_PASTURE</zType>
+    <en-US>Pasture~a Pasture~Pastures</en-US>
+    <it-IT>Pascolo~un pascolo~Pascoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CAMP</zType>
+    <en-US>Camp~a Camp~Camps</en-US>
+    <it-IT>Campo~un Camp~Campi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GROVE</zType>
+    <en-US>Grove~a Grove~Groves</en-US>
+    <it-IT>Boschetto~un Boschetto~Boschi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_NETS</zType>
+    <en-US>Nets</en-US>
+    <it-IT>Reti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_HARBOR</zType>
+    <en-US>Harbor~a Harbor~Harbors</en-US>
+    <it-IT>Porto~un Porto~Porti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GRANARY</zType>
+    <en-US>Granary~a Granary~Granaries</en-US>
+    <it-IT>Granaio~un Granaio~Granai</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_WATERMILL</zType>
+    <en-US>Watermill~a Watermill~Watermills</en-US>
+    <it-IT>Mulino ad acqua~un mulino ad acqua~Mulini ad acqua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_WINDMILL</zType>
+    <en-US>Windmill~a Windmill~Windmills</en-US>
+    <it-IT>Mulino a vento~un mulino a vento~Mulini a vento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_HAMLET</zType>
+    <en-US>Hamlet~a Hamlet~Hamlets</en-US>
+    <it-IT>Amleto~un Amleto~Borghi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_VILLAGE</zType>
+    <en-US>Village~a Village~Villages</en-US>
+    <it-IT>Villaggio~un Villaggio~Villaggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_TOWN</zType>
+    <en-US>Town~a Town~Towns</en-US>
+    <it-IT>Città~una Città~Città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MINOR_CITY</zType>
+    <en-US>Minor City~a Minor City~Minor Cities</en-US>
+    <it-IT>Città minore~una città minore~Città minori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GARRISON_1</zType>
+    <en-US>Garrison~a Garrison~Garrisons</en-US>
+    <it-IT>Garrison~un presidio~Presidi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GARRISON_2</zType>
+    <en-US>Stronghold~a Stronghold~Strongholds</en-US>
+    <it-IT>Roccaforte~una roccaforte~Roccaforti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GARRISON_3</zType>
+    <en-US>Citadel~a Citadel~Citadels</en-US>
+    <it-IT>Cittadella~una Cittadella~Cittadelle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_BARRACKS</zType>
+    <en-US>Barracks~a Barracks~Barracks</en-US>
+    <it-IT>Caserma~una caserma~Caserma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_RANGE</zType>
+    <en-US>Range~a Range~Ranges</en-US>
+    <it-IT>Gamma~una Gamma~Gamme</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_THEATER_1</zType>
+    <en-US>Odeon~an Odeon~Odeons</en-US>
+    <it-IT>Odeon~un Odeon~Odeon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_THEATER_2</zType>
+    <en-US>Theater~a Theater~Theaters</en-US>
+    <it-IT>Teatro~una Teatro~Teatri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_THEATER_3</zType>
+    <en-US>Amphitheater~an Amphitheater~Amphitheaters</en-US>
+    <it-IT>Anfiteatro~un anfiteatro~Anfiteatri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_BATHS_1</zType>
+    <en-US>Cold Baths</en-US>
+    <it-IT>Bagni freddi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_BATHS_2</zType>
+    <en-US>Warm Baths</en-US>
+    <it-IT>Bagni caldi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_BATHS_3</zType>
+    <en-US>Heated Baths</en-US>
+    <it-IT>Bagni riscaldati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MARKET_1</zType>
+    <en-US>Market~a Market~Markets</en-US>
+    <it-IT>Il mercato~un Mercato~Mercati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MARKET_2</zType>
+    <en-US>Grocer~a Grocer~Grocers</en-US>
+    <it-IT>Drogheria~un droghiere~Fruttivendoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MARKET_3</zType>
+    <en-US>Fair~a Fair~Fairs</en-US>
+    <it-IT>Fiera~una Fiera~Fiere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_LIBRARY_1</zType>
+    <en-US>Library~a Library~Libraries</en-US>
+    <it-IT>Biblioteca~una Biblioteca~Biblioteche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_LIBRARY_2</zType>
+    <en-US>Academy~an Academy~Academies</en-US>
+    <it-IT>Accademia~un'Accademia~Accademie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_LIBRARY_3</zType>
+    <en-US>University~an University~Universities</en-US>
+    <it-IT>Università~un'università~Università</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_COURTHOUSE_1</zType>
+    <en-US>Courthouse~a Courthouse~Courthouses</en-US>
+    <it-IT>Palazzo di Giustizia~un Palazzo di Giustizia~Tribunali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_COURTHOUSE_2</zType>
+    <en-US>Ministry~a Ministry~Ministries</en-US>
+    <it-IT>Ministero~una Ministero~Ministeri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_COURTHOUSE_3</zType>
+    <en-US>Palace~a Palace~Palaces</en-US>
+    <it-IT>Palazzo~un Palazzo~Palazzi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_NINURTA</zType>
+    <en-US>Shrine of Ninurta~a Shrine of Ninurta</en-US>
+    <it-IT>Santuario di Ninurta~un Santuario di Ninurta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_MARS</zType>
+    <en-US>Shrine of Mars~a Shrine of Mars</en-US>
+    <it-IT>Santuario di Marte~un Santuario di Marte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_NUSKA</zType>
+    <en-US>Shrine of Nuska~a Shrine of Nuska</en-US>
+    <it-IT>Santuario di Nuska~un Santuario di Nuska</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ATAR</zType>
+    <en-US>Shrine of Atar~a Shrine of Atar</en-US>
+    <it-IT>Santuario di Atar~un Santuario di Atar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_VULCAN</zType>
+    <en-US>Shrine of Vulcan~a Shrine of Vulcan</en-US>
+    <it-IT>Santuario di Vulcano~un Santuario di Vulcano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_NABU</zType>
+    <en-US>Shrine of Nabu~a Shrine of Nabu</en-US>
+    <it-IT>Santuario di Nabu~un Santuario di Nabu</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ATHENA</zType>
+    <en-US>Shrine of Athena~a Shrine of Athena</en-US>
+    <it-IT>Santuario di Atena~un Santuario di Atena</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_SHAMASH</zType>
+    <en-US>Shrine of Shamash~a Shrine of Shamash</en-US>
+    <it-IT>Santuario di Shamash~un Santuario di Shamash</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_RA</zType>
+    <en-US>Shrine of Ra~a Shrine of Ra</en-US>
+    <it-IT>Santuario di Ra~un Santuario di Ra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_MITHRA</zType>
+    <en-US>Shrine of Mithra~a Shrine of Mithra</en-US>
+    <it-IT>Santuario di Mitra~un Santuario di Mitra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_MELQART</zType>
+    <en-US>Shrine of Melqart~a Shrine of Melqart</en-US>
+    <it-IT>Santuario di Melqart~un Santuario di Melqart</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_POSEIDON</zType>
+    <en-US>Shrine of Poseidon~a Shrine of Poseidon</en-US>
+    <it-IT>Santuario di Poseidone~un Santuario di Poseidone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ANAHITA</zType>
+    <en-US>Shrine of Anahita~a Shrine of Anahita</en-US>
+    <it-IT>Santuario di Anahita~un Santuario di Anahita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ISHTAR</zType>
+    <en-US>Shrine of Ishtar~a Shrine of Ishtar</en-US>
+    <it-IT>Santuario di Ishtar~un Santuario di Ishtar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ASTARTE</zType>
+    <en-US>Shrine of Astarte~a Shrine of Astarte</en-US>
+    <it-IT>Santuario di Astarte~un Santuario di Astarte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_VENUS</zType>
+    <en-US>Shrine of Venus~a Shrine of Venus</en-US>
+    <it-IT>Santuario di Venere~un Santuario di Venere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ERESHKIGAL</zType>
+    <en-US>Shrine of Ereshkigal~a Shrine of Ereshkigal</en-US>
+    <it-IT>Santuario di Ereshkigal~un Santuario di Ereshkigal</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_OSIRIS</zType>
+    <en-US>Shrine of Osiris~a Shrine of Osiris</en-US>
+    <it-IT>Santuario di Osiride~un Santuario di Osiride</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_HADES</zType>
+    <en-US>Shrine of Hades~a Shrine of Hades</en-US>
+    <it-IT>Santuario di Ade~un Santuario dell'Ade</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ESHMUN</zType>
+    <en-US>Shrine of Eshmun~a Shrine of Eshmun</en-US>
+    <it-IT>Santuario di Eshmun~un Santuario di Eshmun</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ISIS</zType>
+    <en-US>Shrine of Isis~a Shrine of Isis</en-US>
+    <it-IT>Santuario di Iside~un Santuario di Iside</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ASHUR</zType>
+    <en-US>Shrine of Ashur~a Shrine of Ashur</en-US>
+    <it-IT>Santuario di Ashur~un Santuario di Ashur</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_MARDUK</zType>
+    <en-US>Shrine of Marduk~a Shrine of Marduk</en-US>
+    <it-IT>Santuario di Marduk~un Santuario di Marduk</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_ZEUS</zType>
+    <en-US>Shrine of Zeus~a Shrine of Zeus</en-US>
+    <it-IT>Santuario di Zeus~un Santuario di Zeus</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_TANIT</zType>
+    <en-US>Shrine of Tanit~a Shrine of Tanit</en-US>
+    <it-IT>Santuario di Tanit~un Santuario di Tanit</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_VESTA</zType>
+    <en-US>Shrine of Vesta~a Shrine of Vesta</en-US>
+    <it-IT>Santuario di Vesta~un Santuario di Vesta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_NEITH</zType>
+    <en-US>Shrine of Neith~a Shrine of Neith</en-US>
+    <it-IT>Santuario di Neith~un Santuario di Neith</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_HVAR_KHSHAITA</zType>
+    <en-US>Shrine of Hvar Khshaita~a Shrine of Hvar Khshaita</en-US>
+    <it-IT>Santuario di Hvar Khshaita~il Santuario di Hvar Khshaita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_SERAPIS</zType>
+    <en-US>Shrine of Serapis</en-US>
+    <it-IT>Santuario di Serapide</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MONASTERY_ZOROASTRIANISM</zType>
+    <en-US>icon(RELIGION_ZOROASTRIANISM)Zoroastrian Monastery~a icon(RELIGION_ZOROASTRIANISM)Zoroastrian Monastery~icon(RELIGION_ZOROASTRIANISM)Zoroastrian Monasteries</en-US>
+    <it-IT>icon(RELIGION_ZOROASTRIANISM)Monastero zoroastriano~un'icona(RELIGION_ZOROASTRIANISM)Monastero zoroastriano~icon(RELIGION_ZOROASTRIANISM)Monasteri zoroastriani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MONASTERY_JUDAISM</zType>
+    <en-US>icon(RELIGION_JUDAISM)Jewish Monastery~a icon(RELIGION_JUDAISM)Jewish Monastery~icon(RELIGION_JUDAISM)Jewish Monasteries</en-US>
+    <it-IT>icon(RELIGION_JUDAISM)Monastero ebraico~un'icona(RELIGION_JUDAISM)Monastero ebraico~icon(RELIGION_JUDAISM)Monasteri ebraici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MONASTERY_CHRISTIANITY</zType>
+    <en-US>icon(RELIGION_CHRISTIANITY)Christian Monastery~a icon(RELIGION_CHRISTIANITY)Christian Monastery~icon(RELIGION_CHRISTIANITY)Christian Monasteries</en-US>
+    <it-IT>icon(RELIGION_CHRISTIANITY)Monastero cristiano~un'icona(RELIGION_CHRISTIANITY)Monastero cristiano~icon(RELIGION_CHRISTIANITY)Monasteri cristiani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MONASTERY_MANICHAEISM</zType>
+    <en-US>icon(RELIGION_MANICHAEISM)Manichaean Monastery~a icon(RELIGION_MANICHAEISM)Manichaean Monastery~icon(RELIGION_MANICHAEISM)Manichaean Monasteries</en-US>
+    <it-IT>icon(RELIGION_MANICHAEISM)Monastero manicheo~un'icona(RELIGION_MANICHAEISM)Monastero manicheo~icon(RELIGION_MANICHAEISM)Monasteri manichei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_TEMPLE_ZOROASTRIANISM</zType>
+    <en-US>icon(RELIGION_ZOROASTRIANISM)Zoroastrian Temple~a icon(RELIGION_ZOROASTRIANISM)Zoroastrian Temple~icon(RELIGION_ZOROASTRIANISM)Zoroastrian Temples</en-US>
+    <it-IT>icon(RELIGION_ZOROASTRIANISM)Tempio zoroastriano~un'icona(RELIGION_ZOROASTRIANISM)Tempio zoroastriano~icon(RELIGION_ZOROASTRIANISM)Templi zoroastriani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_TEMPLE_JUDAISM</zType>
+    <en-US>icon(RELIGION_JUDAISM)Jewish Temple~a icon(RELIGION_JUDAISM)Jewish Temple~icon(RELIGION_JUDAISM)Jewish Temples</en-US>
+    <it-IT>icon(RELIGION_JUDAISM)Tempio ebraico~un'icona(RELIGION_JUDAISM) Tempio ebraico~icon(RELIGION_JUDAISM)Templi ebraici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_TEMPLE_CHRISTIANITY</zType>
+    <en-US>icon(RELIGION_CHRISTIANITY)Christian Temple~a icon(RELIGION_CHRISTIANITY)Christian Temple~icon(RELIGION_CHRISTIANITY)Christian Temples</en-US>
+    <it-IT>icon(RELIGION_CHRISTIANITY)Tempio cristiano~un'icona(RELIGION_CHRISTIANITY)Tempio cristiano~icon(RELIGION_CHRISTIANITY)Templi cristiani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_TEMPLE_MANICHAEISM</zType>
+    <en-US>icon(RELIGION_MANICHAEISM)Manichaean Temple~a icon(RELIGION_MANICHAEISM)Manichaean Temple~icon(RELIGION_MANICHAEISM)Manichaean Temples</en-US>
+    <it-IT>icon(RELIGION_MANICHAEISM)Tempio manicheo~un'icona(RELIGION_MANICHAEISM)Tempio manicheo~icon(RELIGION_MANICHAEISM)Templi manichei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CATHEDRAL_ZOROASTRIANISM</zType>
+    <en-US>icon(RELIGION_ZOROASTRIANISM)Zoroastrian Cathedral~a icon(RELIGION_ZOROASTRIANISM)Zoroastrian Cathedral~icon(RELIGION_ZOROASTRIANISM)Zoroastrian Cathedrals</en-US>
+    <it-IT>icon(RELIGION_ZOROASTRIANISM)Cattedrale zoroastriana~icona(RELIGION_ZOROASTRIANISM)Cattedrale zoroastriana~icon(RELIGION_ZOROASTRIANISM)Cattedrali zoroastriane</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CATHEDRAL_JUDAISM</zType>
+    <en-US>icon(RELIGION_JUDAISM)Jewish Cathedral~a icon(RELIGION_JUDAISM)Jewish Cathedral~icon(RELIGION_JUDAISM)Jewish Cathedrals</en-US>
+    <it-IT>icon(RELIGION_JUDAISM)Cattedrale ebraica~un'icona(RELIGION_JUDAISM)Cattedrale ebraica~icon(RELIGION_JUDAISM)Cattedrali ebraiche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CATHEDRAL_CHRISTIANITY</zType>
+    <en-US>icon(RELIGION_CHRISTIANITY)Christian Cathedral~a icon(RELIGION_CHRISTIANITY)Christian Cathedral~icon(RELIGION_CHRISTIANITY)Christian Cathedrals</en-US>
+    <it-IT>icon(RELIGION_CHRISTIANITY)Cattedrale cristiana~un'icona(RELIGION_CHRISTIANITY)Cattedrale cristiana~icon(RELIGION_CHRISTIANITY)Cattedrali cristiane</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CATHEDRAL_MANICHAEISM</zType>
+    <en-US>icon(RELIGION_MANICHAEISM)Manichaean Cathedral~a icon(RELIGION_MANICHAEISM)Manichaean Cathedral~icon(RELIGION_MANICHAEISM)Manichaean Cathedrals</en-US>
+    <it-IT>icon(RELIGION_MANICHAEISM)Cattedrale manichea~un'icona(RELIGION_MANICHAEISM)Cattedrale manichea~icon(RELIGION_MANICHAEISM)Cattedrali manichee</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
+    <en-US>The Adur Burzen-Mihr</en-US>
+    <it-IT>L'Adur Burzen-Mihr</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
+    <en-US>The Temple of Solomon</en-US>
+    <it-IT>Il Tempio di Salomone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
+    <en-US>The Church of the Holy Sepulchre</en-US>
+    <it-IT>La Chiesa del Santo Sepolcro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
+    <en-US>The Cao'an</en-US>
+    <it-IT>Il Cao'an</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_PYRAMIDS</zType>
+    <en-US>The Pyramids</en-US>
+    <it-IT>Le piramidi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+    <en-US>The Great Ziggurat</en-US>
+    <it-IT>La Grande Ziggurat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_ORACLE</zType>
+    <en-US>The Oracle</en-US>
+    <it-IT>L'Oracolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_HANGING_GARDENS</zType>
+    <en-US>The Hanging Gardens</en-US>
+    <it-IT>I giardini pensili</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_NECROPOLIS</zType>
+    <en-US>The Necropolis</en-US>
+    <it-IT>La necropoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_ISHTAR_GATE</zType>
+    <en-US>The Ishtar Gate</en-US>
+    <it-IT>La Porta di Ishtar</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_LIGHTHOUSE</zType>
+    <en-US>The Lighthouse</en-US>
+    <it-IT>Il Faro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_APADANA</zType>
+    <en-US>The Apadana</en-US>
+    <it-IT>L'Apadana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MAUSOLEUM</zType>
+    <en-US>The Mausoleum</en-US>
+    <it-IT>Il Mausoleo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_ACROPOLIS</zType>
+    <en-US>The Acropolis</en-US>
+    <it-IT>L'Acropoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_COLOSSUS</zType>
+    <en-US>The Colossus</en-US>
+    <it-IT>Il Colosso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MUSAEUM</zType>
+    <en-US>The Musaeum</en-US>
+    <it-IT>Il Musaeum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+    <en-US>The Circus Maximus</en-US>
+    <it-IT>Il Circo Massimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_PANTHEON</zType>
+    <en-US>The Pantheon</en-US>
+    <it-IT>Il Pantheon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_HAGIA_SOPHIA</zType>
+    <en-US>The Hagia Sophia</en-US>
+    <it-IT>La Basilica di Santa Sofia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_VIA_RECTA_SOUK</zType>
+    <en-US>The Via Recta Souk</en-US>
+    <it-IT>Il souk di Via Recta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_LAURION_MINE</zType>
+    <en-US>Laurion Mine~a Laurion Mine~Laurion Mines</en-US>
+    <it-IT>Miniera di Laurion~una miniera di Laurion~Miniere di Laurion</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_FOREST_FIRE_TOMB</zType>
+    <en-US>Ancient Tomb~an Ancient Tomb~Ancient Tombs</en-US>
+    <it-IT>Antica tomba~una tomba antica~Tombe antiche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_FOREST_FIRE_MONUMENT</zType>
+    <en-US>National Monument~a National Monument~National Monuments</en-US>
+    <it-IT>Monumento nazionale~un monumento nazionale~Monumenti nazionali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE</zType>
+    <en-US>God's Consort Shrine~a God's Consort Shrine~God's Consort Shrines</en-US>
+    <it-IT>Santuario della Consorte di Dio~un Santuario della Consorte di Dio~Santuari della Consorte di Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE_F</zType>
+    <en-US>God's Consort Shrine~a God's Consort Shrine~God's Consort Shrines</en-US>
+    <it-IT>Santuario della Consorte di Dio~un Santuario della Consorte di Dio~Santuari della Consorte di Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_SHRINE_TRIBE_PAGANISM</zType>
+    <en-US>Tribal Shrine~a Tribal Shrine~Tribal Shrines</en-US>
+    <it-IT>Santuario tribale~un santuario tribale~Santuari tribali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_FARM_HINT</zType>
+    <en-US>Boosts link(YIELD_FOOD), which units consume every turn. If built over link(EFFECTCITY_RESOURCE_CROP) or next to a link(IMPROVEMENT_GRANARY), also increases link(YIELD_GROWTH), which makes cities produce link(UNIT_SETTLER,2) or link(UNIT_WORKER,2) faster.
+Can be further improved by developing a link(SPECIALISTCLASS_FARMER).</en-US>
+    <it-IT>Aumenta link(YIELD_FOOD), che le unità consumano a ogni turno. Se costruita sopra link(EFFECTCITY_RESOURCE_CROP) o accanto a una link(IMPROVEMENT_GRANARY), aumenta anche link(YIELD_GROWTH), che fa produrre alle città link(UNIT_SETTLER,2) o link(UNIT_WORKER,2) più velocemente.
+Può essere ulteriormente migliorato sviluppando un link(SPECIALISTCLASS_FARMER).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_MINE_HINT</zType>
+    <en-US>Boosts link(YIELD_IRON) production, which is needed for many military units. Higher output on Hills. Provides link(YIELD_MONEY) instead if built on link(RESOURCE_SILVER), link(RESOURCE_GOLD), link(RESOURCE_SALT) or link(RESOURCE_GEM).
+Can be developed with a link(SPECIALISTCLASS_MINER), which increases link(YIELD_TRAINING).</en-US>
+    <it-IT>Aumenta la produzione di link(YIELD_IRON), necessaria per molte unità militari. Maggiore produzione sulle Colline. Fornisce invece link(YIELD_MONEY) se costruito su link(RESOURCE_SILVER), link(RESOURCE_GOLD), link(RESOURCE_SALT) o link(RESOURCE_GEM).
+Può essere sviluppato con un link(SPECIALISTCLASS_MINER), che aumenta il link(YIELD_TRAINING).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_QUARRY_HINT</zType>
+    <en-US>Boosts link(YIELD_STONE) production, which is needed to construct most buildings and some units.
+		Can be further developed with link(SPECIALISTCLASS_STONECUTTER), which grants more stone and additional link(YIELD_CIVICS).</en-US>
+    <it-IT>Aumenta la produzione di link(YIELD_STONE), necessaria per costruire la maggior parte degli edifici e alcune unità.
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_LUMBERMILL_HINT</zType>
+    <en-US>The only improvement that provides link(YIELD_WOOD). Extra effective when built on a river.</en-US>
+    <it-IT>L'unico miglioramento che fornisce link(YIELD_WOOD). Particolarmente efficace se costruita su un fiume.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_PASTURE_HINT</zType>
+    <en-US>Provides link(YIELD_ORDERS) if built on link(RESOURCE_HORSE), or link(YIELD_FOOD) and link(YIELD_GROWTH) on other resources.</en-US>
+    <it-IT>Fornisce link(YIELD_ORDERS) se costruito su link(RESOURCE_HORSE), o link(YIELD_FOOD) e link(YIELD_GROWTH) su altre risorse.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_CAMP_HINT</zType>
+    <en-US>Provides yields depending on the resource it's built on. If built on link(RESOURCE_ELEPHANT) or link(RESOURCE_CAMEL), will allow the city to build units that require those resources, once the necessary technology is acquired. Extra effective next to a link(IMPROVEMENT_LUMBERMILL).</en-US>
+    <it-IT>Fornisce rendimenti a seconda della risorsa su cui è costruito. Se costruita su link(RESOURCE_ELEPHANT) o link(RESOURCE_CAMEL), permetterà alla città di costruire unità che richiedono quelle risorse, una volta acquisita la tecnologia necessaria. Particolarmente efficace accanto a un link(IMPROVEMENT_LUMBERMILL).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GROVE_HINT</zType>
+    <en-US>Usually built on a link(CONCEPT_LUXURY,1) resource, provides different yields depending on the resource.</en-US>
+    <it-IT>Solitamente costruito su una risorsa link(CONCEPT_LUXURY,1), fornisce rendimenti diversi a seconda della risorsa.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GRANARY_HINT</zType>
+    <en-US>Provides link(YIELD_GROWTH) and boosts adjacent link(IMPROVEMENT_FARM,2). Most effective when surrounded by link(IMPROVEMENT_FARM,2).
+Granaries do not have any associated link(CONCEPT_SPECIALIST).</en-US>
+    <it-IT>Fornisce link(YIELD_GROWTH) e potenzia i link(IMPROVEMENT_FARM,2) adiacenti. È più efficace quando è circondato da link(IMPROVEMENT_FARM,2).
+I granai non hanno link(CONCEPT_SPECIALIST) associati.</it-IT>
+  </Entry>
+</Root>

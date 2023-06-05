@@ -1,0 +1,3528 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_BONUS_FAMILY_SEAT</zType>
+    <en-US>Founded a link(CONCEPT_FAMILY_SEAT)</en-US>
+    <it-IT>Fondato un link(CONCEPT_FAMILY_SEAT)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_DISCOVERED_LANDMARK</zType>
+    <en-US>Discovered a Landmark</en-US>
+    <it-IT>Scoperto un punto di riferimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_NAMED_LANDMARK</zType>
+    <en-US>Named a Landmark</en-US>
+    <it-IT>Nominato punto di riferimento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_PLAYER_LEGITIMACY</zType>
+    <en-US>Player Event</en-US>
+    <it-IT>Evento del giocatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_FINISHED_AMBITION</zType>
+    <en-US>Finished an Ambition</en-US>
+    <it-IT>Finito un'ambizione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_FINISHED_LEGACY</zType>
+    <en-US>Finished a Legacy</en-US>
+    <it-IT>Finita un'eredità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_ABANDONED_AMBITION</zType>
+    <en-US>Abandoned an Ambition</en-US>
+    <it-IT>Abbandonare un'ambizione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_FAILED_LEGACY</zType>
+    <en-US>Failed a Legacy</en-US>
+    <it-IT>Un'eredità fallita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_FINISHED_GOAL</zType>
+    <en-US>Finished a Goal</en-US>
+    <it-IT>Finito un obiettivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_FINISHED_HOLY_SITE</zType>
+    <en-US>Built a link(CONCEPT_HOLY_SITE)</en-US>
+    <it-IT>Costruito un link(CONCEPT_HOLY_SITE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_FINISHED_WONDER_WEAK</zType>
+    <en-US>Built a link(CONCEPT_WONDER)</en-US>
+    <it-IT>Costruito un link(CONCEPT_WONDER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_FINISHED_WONDER_DEVELOPING</zType>
+    <en-US>Built a link(CONCEPT_WONDER)</en-US>
+    <it-IT>Costruito un link(CONCEPT_WONDER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_FINISHED_WONDER_STRONG</zType>
+    <en-US>Built a link(CONCEPT_WONDER)</en-US>
+    <it-IT>Costruito un link(CONCEPT_WONDER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_FINISHED_WONDER_LEGENDARY</zType>
+    <en-US>Built a link(CONCEPT_WONDER)</en-US>
+    <it-IT>Costruito un link(CONCEPT_WONDER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_INSPIRED_BY_WONDER</zType>
+    <en-US>Was inspired by a link(CONCEPT_WONDER)</en-US>
+    <it-IT>È stato ispirato da un link(CONCEPT_WONDER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_HIGH_SYNOD</zType>
+    <en-US>High Synod</en-US>
+    <it-IT>Alto Sinodo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_CONVERT_LEGITIMACY</zType>
+    <en-US>Used for {YIELD_ORDERS}</en-US>
+    <it-IT>Utilizzato per {YIELD_ORDERS}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_LEADER_ADOPTS</zType>
+    <en-US>Ruler Adopted a Child</en-US>
+    <it-IT>Il sovrano ha adottato un bambino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_BREAK_PEACE</zType>
+    <en-US>Broke a Peace Treaty</en-US>
+    <it-IT>Rottura di un trattato di pace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_END_ALLIANCE</zType>
+    <en-US>Ended an Alliance</en-US>
+    <it-IT>Conclusione di un'alleanza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TRIBE_MARRIAGE</zType>
+    <en-US>Married into a Tribe</en-US>
+    <it-IT>Sposato in una tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TRIBE_WAR_LEGITIMACY</zType>
+    <en-US>Was unafraid of Tribes</en-US>
+    <it-IT>Non temeva le tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TRIBE_TRUCE_LEGITIMACY</zType>
+    <en-US>Established a Truce with a Tribe</en-US>
+    <it-IT>Stabilire una tregua con una tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TRIBE_PEACE_LEGITIMACY</zType>
+    <en-US>Made Peace with a Tribe</en-US>
+    <it-IT>Fare pace con una tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TRIBE_ALLIANCE</zType>
+    <en-US>Made an Alliance with a Tribe</en-US>
+    <it-IT>Alleanza con una tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TRIBAL_INVASION_LEGITIMACY</zType>
+    <en-US>Was unafraid of a Tribal Invasion</en-US>
+    <it-IT>Non temeva l'invasione delle tribù.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TRIBE_ELIMINATED_LEGITIMACY</zType>
+    <en-US>Eliminated a Tribe</en-US>
+    <it-IT>Eliminato una tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_PLAYER_WAR_LEGITIMACY</zType>
+    <en-US>Was unafraid of War</en-US>
+    <it-IT>Non temeva la guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_INFLUENCE_WEAKEN</zType>
+    <en-US>Influence (Success, Weaken)</en-US>
+    <it-IT>Influenza (Success, Weaken)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_INTERCESSION_WEAKEN</zType>
+    <en-US>Intercession (Success, Weaken)</en-US>
+    <it-IT>Intercessione (Success, Weaken)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_LEGITIMIZE</zType>
+    <en-US>Legitimized a Bastard</en-US>
+    <it-IT>Legittimato un bastardo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_CHOSEN_HEIR</zType>
+    <en-US>Chose my Heir</en-US>
+    <it-IT>Scegliere il mio erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_INFILTRATE_REVEAL_EXPOSED</zType>
+    <en-US>Infiltrate (Success, Exposed)</en-US>
+    <it-IT>Infiltrarsi (Success, Exposed)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_SLANDER_SUCCESS_EXPOSED</zType>
+    <en-US>Slander (Success, Exposed)</en-US>
+    <it-IT>Calunnia (Success, Exposed)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED</zType>
+    <en-US>Assassinate (Kill, Exposed)</en-US>
+    <it-IT>Assassinare (Kill, Exposed)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED</zType>
+    <en-US>Assassinate (Fail, Exposed)</en-US>
+    <it-IT>Assassinare (Fail, Exposed)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_TREACHERY_SUCCESS</zType>
+    <en-US>Treachery (Success)</en-US>
+    <it-IT>Tradimento (Success)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_TREACHERY_EXPOSED</zType>
+    <en-US>Treachery (Exposed)</en-US>
+    <it-IT>Tradimento (Exposed)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_TREACHERY_FAILURE</zType>
+    <en-US>Treachery (Failure)</en-US>
+    <it-IT>Tradimento (Failure)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_INSURRECTION_REVOLT</zType>
+    <en-US>Insurrection (Revolt)</en-US>
+    <it-IT>Insurrezione (Revolt)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_INSURRECTION_EXPOSED</zType>
+    <en-US>Insurrection (Exposed)</en-US>
+    <it-IT>Insurrezione (Exposed)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_INSURRECTION_FAILURE</zType>
+    <en-US>Insurrection (Failure)</en-US>
+    <it-IT>Insurrezione (Failure)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_HIGH_SYNOD_SUCCESS</zType>
+    <en-US>High Synoid (Success)</en-US>
+    <it-IT>Alto Sinoide (Success)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_HIGH_SYNOD_FAILURE</zType>
+    <en-US>High Synod (Failure)</en-US>
+    <it-IT>Alto Sinodo (Failure)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_FAMILY_GIFT_SUCCESS</zType>
+    <en-US>Family Gift (Success)</en-US>
+    <it-IT>Regalo di famiglia (Success)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN</zType>
+    <en-US>Family Gift (Success, Weaken)</en-US>
+    <it-IT>Regalo di famiglia (Success, Weaken)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_PACIFY_CITY_SUCCESS</zType>
+    <en-US>Pacify City (Success)</en-US>
+    <it-IT>Pacificare la città (Success)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_PACIFY_CITY_SUCCESS_WEAKEN</zType>
+    <en-US>Pacify City (Success, Weaken)</en-US>
+    <it-IT>Pacificare la città (Success, Weaken)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_IMPRISON_UNJUST</zType>
+    <en-US>Imprison (Unjust)</en-US>
+    <it-IT>Imprigionare (Unjust)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_IMPRISON_ESCAPE</zType>
+    <en-US>Imprison (Escape)</en-US>
+    <it-IT>Imprigionare (Escape)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MISSIONRESULT_RELEASE_UNJUST</zType>
+    <en-US>Release (Unjust)</en-US>
+    <it-IT>Rilascio (Unjust)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_KILL_CHARACTER_AGENT</zType>
+    <en-US>Executed a foreign link(CONCEPT_AGENT)</en-US>
+    <it-IT>Eseguito un link(CONCEPT_AGENT) straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_ABDICATE</zType>
+    <en-US>Abdicated the throne</en-US>
+    <it-IT>Abdicò al trono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_PROJECT_PROTECTION_EDICTS</zType>
+    <en-US>Issued protection edicts</en-US>
+    <it-IT>Emissione di editti di protezione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_PROJECT_ROYAL_INSCRIPTIONS</zType>
+    <en-US>Erected royal inscriptions</en-US>
+    <it-IT>Iscrizioni reali erette</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_PROJECT_CORRUPTION_REFORM</zType>
+    <en-US>Eradicated corruption in the trade guilds</en-US>
+    <it-IT>Sradicata la corruzione nelle corporazioni commerciali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_FEAST_REJECTED_CITY_PLAYER</zType>
+    <en-US>Didn't pander to foreigners</en-US>
+    <it-IT>Non ha assecondato gli stranieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_MOUTHPIECE_OF_THE_GODS_OPTION_0</zType>
+    <en-US>Erected royal inscriptions</en-US>
+    <it-IT>Iscrizioni reali erette</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_DIVINE_MANDATE_OPTION_1</zType>
+    <en-US>Listened to my advisors</en-US>
+    <it-IT>Ho ascoltato i miei consulenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_OF_THE_PEOPLE_OPTION_0</zType>
+    <en-US>Acted as a humble example</en-US>
+    <it-IT>Ha agito come esempio umile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_QUESTION_AUTHORITY_OPTION_2</zType>
+    <en-US>Punished an outspoken General</en-US>
+    <it-IT>Punito un generale schietto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_COLLISION_COURSE_OPTION_1</zType>
+    <en-US>Stood up for the nation</en-US>
+    <it-IT>Si è schierato a favore della nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_A_DARK_PALL_OPTION_0</zType>
+    <en-US>Took my own life</en-US>
+    <it-IT>Mi sono tolto la vita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_DUEL_OF_FATES_OPTION_2</zType>
+    <en-US>Declared War when challenged</en-US>
+    <it-IT>Ha dichiarato guerra quando è stato sfidato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_DUEL_OF_FATES_VICTORIOUS_OPTION_0</zType>
+    <en-US>Was victorious in single combat</en-US>
+    <it-IT>Fu vittorioso in un combattimento singolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_DUEL_OF_FATES_DEFEATED_OPTION_0</zType>
+    <en-US>Was defeated in single combat</en-US>
+    <it-IT>È stato sconfitto in un combattimento singolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_FAMILY_RETREAT_OPTION_0</zType>
+    <en-US>Defied suspected plotting</en-US>
+    <it-IT>Smentito il sospetto di complotto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FAMILY_TARNISHED_OPTION_1_FAMILY</zType>
+    <en-US>Released a prisoner to please a Family</en-US>
+    <it-IT>Rilasciato un prigioniero per compiacere una famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PRETTY_PERSUASION_OPTION_2_CHARACTER_2</zType>
+    <en-US>Accepted multiple bribes</en-US>
+    <it-IT>Accettazione di tangenti multiple</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_UNLIKELY_ALLIES_OPTION_0_CHARACTER_3</zType>
+    <en-US>Gave in to foreign pressure</en-US>
+    <it-IT>Ha ceduto alle pressioni straniere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_ZIGGURAT_CRUMBLES_OPTION_RESTORE_PLAYER</zType>
+    <en-US>Saved The Great Ziggurat</en-US>
+    <it-IT>Salvata la Grande Ziggurat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_ZIGGURAT_CRUMBLES_OPTION_IMPROVE_PLAYER</zType>
+    <en-US>Improved The Great Ziggurat</en-US>
+    <it-IT>Migliorato Il Grande Ziggurat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_ZIGGURAT_CRUMBLES_OPTION_STUDY_PLAYER</zType>
+    <en-US>Restored and studied The Great Ziggurat</en-US>
+    <it-IT>Restaurato e studiato Il Grande Ziggurat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_ZIGGURAT_CRUMBLES_OPTION_SHRINE_PLAYER</zType>
+    <en-US>Improved The Great Ziggurat</en-US>
+    <it-IT>Migliorato Il Grande Ziggurat</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_GIANT_STATUE_CARVE</zType>
+    <en-US>Remade a statue in my image</en-US>
+    <it-IT>Rifare una statua a mia immagine e somiglianza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_CURSED_LAND_ROCKS</zType>
+    <en-US>Filled in an accursed hole</en-US>
+    <it-IT>Riempito in un buco maledetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_VULGAR_SPEECH_OPTION_2</zType>
+    <en-US>Replaced ancient text with my sigil</en-US>
+    <it-IT>Sostituito il testo antico con il mio sigillo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SACRED_TOMB_DESTROY</zType>
+    <en-US>Destroyed the Sacred Tomb</en-US>
+    <it-IT>Distrutta la tomba sacra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_NEW_HUMANS_OPTION_0_CHARACTER_0</zType>
+    <en-US>Destroyed strange human remains</en-US>
+    <it-IT>Distrutti strani resti umani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_EMERALD_MINE_REBUILT_OPTION_0_CHARACTER</zType>
+    <en-US>Rebuilt an ancient emerald mine</en-US>
+    <it-IT>Ricostruzione di un'antica miniera di smeraldi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HARVEST_CAUGHT_IN_THE_ACT_OPTION_0_CHARACTER</zType>
+    <en-US>Disciplined a thieving scout</en-US>
+    <it-IT>Disciplinato un esploratore ladro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HARVEST_CAUGHT_IN_THE_ACT_OPTION_1_CHARACTER</zType>
+    <en-US>Allowed a scout to steal silver</en-US>
+    <it-IT>Ha permesso a un esploratore di rubare l'argento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HARVEST_HUNTING_ACCIDENT_PLAYER</zType>
+    <en-US>Claimed royal hunting grounds</en-US>
+    <it-IT>Rivendicato terreno di caccia reale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WAYWARD_SON_PLAYER</zType>
+    <en-US>Took initiative against a hostile power</en-US>
+    <it-IT>Ha preso l'iniziativa contro una potenza ostile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_STRANGE_SCROLL_DESTROY</zType>
+    <en-US>Destroyed a strange and dangerous scroll</en-US>
+    <it-IT>Distrutta una strana e pericolosa pergamena</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_COMET_SIGHTED_OMEN</zType>
+    <en-US>A comet foretold our triumphs</en-US>
+    <it-IT>Una cometa ha predetto i nostri trionfi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_CULTURAL_PAGEANT</zType>
+    <en-US>Appropriated the culture of a vanquished tribe</en-US>
+    <it-IT>Appropriazione della cultura di una tribù sconfitta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_PLAYER_FIRST</zType>
+    <en-US>Vanquished a tribe and had no regrets</en-US>
+    <it-IT>Ha sconfitto una tribù e non ha avuto rimpianti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTSTORY_TRIBE_ELIMINATED_FATAL_OVERSIGHT</zType>
+    <en-US>Vanquished a tribe to which my spouse happened to belong</en-US>
+    <it-IT>Sconfitto una tribù alla quale apparteneva il mio coniuge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_PURGE</zType>
+    <en-US>Purged the land of a Tribe</en-US>
+    <it-IT>Ha ripulito la terra da una tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_FREEDOM</zType>
+    <en-US>Allowed a family to dictate the laws</en-US>
+    <it-IT>Consentire a una famiglia di dettare le leggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_AMBITION_FINISHED_SLAVERY_OPTION_FREEDOM</zType>
+    <en-US>Changed my mind after establishing a law</en-US>
+    <it-IT>Ho cambiato idea dopo aver stabilito una legge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_AMBITION_FINISHED_OPTION_NO</zType>
+    <en-US>Followed my own path</en-US>
+    <it-IT>Ho seguito il mio percorso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RIVER_CROSSING_1</zType>
+    <en-US>Bridged a natural landmark</en-US>
+    <it-IT>Un ponte su un punto di riferimento naturale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THOSE_BEFORE_3</zType>
+    <en-US>Refused to change my laws</en-US>
+    <it-IT>Rifiuto di cambiare le mie leggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_CONTACT_GRINNING_EMISSARY_WAR</zType>
+    <en-US>Refused Peace in exchange for a gift</en-US>
+    <it-IT>Rifiuto della pace in cambio di un regalo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MONSTERS_DEEP_FOLLOWUP</zType>
+    <en-US>Refused adoption of foreign Fisher</en-US>
+    <it-IT>Rifiuto di adozione di Fisher straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RESOLVED_ADULT_CHILDREN_DISPUTE</zType>
+    <en-US>Resolved my adult children's hunting dispute</en-US>
+    <it-IT>Risoluzione della controversia sulla caccia dei miei figli adulti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RESOLVED_DISAGREEMENT_COUNCIL_DISPUTE</zType>
+    <en-US>Resolved a council dispute</en-US>
+    <it-IT>Risoluzione di una controversia in consiglio comunale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_HUMBLE_ASSYRIA_ROOT_OPTION_1_NO</zType>
+    <en-US>Vowed to never pay tribute to Assyria</en-US>
+    <it-IT>Giurò di non pagare mai il tributo all'Assiria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_HUMBLE_OPTION_1_PLAYER</zType>
+    <en-US>Refused foreign diplomats</en-US>
+    <it-IT>Rifiuto di diplomatici stranieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_HUMBLE_REFUSE_OPTION_0_PLAYER_1</zType>
+    <en-US>Showed enemy spies no mercy</en-US>
+    <it-IT>Le spie nemiche non hanno avuto pietà</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_HUMBLE_PERSIA_EXCHANGE_OPTION_1_PLAYER_1</zType>
+    <en-US>Established an exchange of ideas with Persia</en-US>
+    <it-IT>Stabilire uno scambio di idee con la Persia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_FRIENDLY_EGYPT_REFUSED_DONATION_OPTION_1_PLAYER_1</zType>
+    <en-US>Stood up to Egypt</en-US>
+    <it-IT>Ha resistito all'Egitto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_FRIENDLY_LAVISH_GREECE_OPTION_0_PLAYER_1</zType>
+    <en-US>Sent extravagant gifts to Greece</en-US>
+    <it-IT>Invio di regali stravaganti in Grecia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_FRIENDLY_LAVISH_MORE_OPTION_0_PLAYER_1</zType>
+    <en-US>Exchanged extravagant gifts for Peace</en-US>
+    <it-IT>Scambio di regali stravaganti per la Pace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_ROME_OPTION_1_PLAYER_1</zType>
+    <en-US>Bowed to the will of Rome</en-US>
+    <it-IT>Inchinarsi alla volontà di Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_ROME_OPTION_0_PLAYER_1</zType>
+    <en-US>Stood up to Rome</en-US>
+    <it-IT>Ha resistito a Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_CAPTURED_ROMAN_CITY_OPTION_1_PLAYER_1</zType>
+    <en-US>Vowed to destroy the entire Roman civilization</en-US>
+    <it-IT>Giuramento di distruggere l'intera civiltà romana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_ROMANS_HAVE_TAKEN_OUR_CITY_OPTION_1_PLAYER_1</zType>
+    <en-US>Refused to bow to Rome even after they captured our City</en-US>
+    <it-IT>Rifiutò di inchinarsi a Roma anche dopo la cattura della nostra città.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_ROMANS_HAVE_TAKEN_OUR_CITY_OPTION_0_PLAYER_1</zType>
+    <en-US>Bowed to Rome after they captured our City</en-US>
+    <it-IT>Inchinarsi a Roma dopo aver conquistato la nostra città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_PERSIA_OPTION_1_PLAYER_1</zType>
+    <en-US>Stood up to Persia</en-US>
+    <it-IT>Resistere alla Persia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_PERSIA_RESPECT_OPTION_2_PLAYER_1</zType>
+    <en-US>Talked Persia out of requiring Tribute for Peace</en-US>
+    <it-IT>Ha convinto la Persia a non richiedere il Tributo per la Pace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_BABYLON_OPTION_2_PLAYER_1</zType>
+    <en-US>Talked Babylon into a Peace deal</en-US>
+    <it-IT>Ha convinto Babilonia ad un accordo di pace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_SUGGEST_OPTION_0_PLAYER_1</zType>
+    <en-US>My pride led us to Peace</en-US>
+    <it-IT>Il mio orgoglio ci ha portato alla pace</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_ASSYRIA_OPTION_1_PLAYER_1</zType>
+    <en-US>Rejected Assyria's Peace offer in the boldest way</en-US>
+    <it-IT>Rifiutò l'offerta di pace dell'Assiria nel modo più audace.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HOSTILE_NEIGHBORS_OPTION_4_PLAYER_1</zType>
+    <en-US>Defused tensions with hostile neighbors</en-US>
+    <it-IT>Disinnescato le tensioni con i vicini ostili</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HOSTILE_NEIGHBORS_WAR_OPTION_1_PLAYER_1</zType>
+    <en-US>Increased training and raised militias</en-US>
+    <it-IT>Aumento dell'addestramento e aumento delle milizie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CONTACT_BORDER_DISPUTE_OPTION_2_CHARACTER</zType>
+    <en-US>Calmed barbarian tempers</en-US>
+    <it-IT>Calmare gli animi dei barbari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CONTACT_MOMENTOUS_MEETING_OPTION_0_PLAYER_1</zType>
+    <en-US>Treated with strange travelers</en-US>
+    <it-IT>Trattati con strani viaggiatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CONTACT_MOMENTOUS_MEETING_OPTION_1_PLAYER_1</zType>
+    <en-US>Refused to treat with foreigners</en-US>
+    <it-IT>Rifiuto di trattare con gli stranieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CONTACT_LETHAL_AFFLICTION_OPTION_2_PLAYER_0</zType>
+    <en-US>Declared War after my subjects were poisoned</en-US>
+    <it-IT>Dichiarato guerra dopo che i miei sudditi sono stati avvelenati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_HONORARY_COUNSEL_OPTION_1_PLAYER_0</zType>
+    <en-US>Refused to house a foreign counsel</en-US>
+    <it-IT>Rifiuto di ospitare un avvocato straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_PLOTTING_HEIR_OPTION_1_CHARACTER_0</zType>
+    <en-US>Denied a foreign ruler's request</en-US>
+    <it-IT>Negata la richiesta di un sovrano straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_DEADLY_INHERITANCE_OPTION_2_CHARACTER_0</zType>
+    <en-US>Joined a plot to kill a visiting ruler</en-US>
+    <it-IT>Partecipa a un complotto per uccidere un sovrano in visita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WRITING_ON_THE_WALL_OPTION_0_CHARACTER_1</zType>
+    <en-US>Interpreted writings on a wall</en-US>
+    <it-IT>Scritte interpretate su un muro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_IMMUNITY_OPTION_3_CHARACTER_0</zType>
+    <en-US>Executed a foreign counsel for their crimes</en-US>
+    <it-IT>Giustiziato un avvocato straniero per i suoi crimini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CONTACT_SECRET_OF_THE_FOOL_OPTION_0_CHARACTER_1</zType>
+    <en-US>Turned away Pieface</en-US>
+    <it-IT>Pieface respinto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CONTACT_ART_AND_FAITH_1</zType>
+    <en-US>Banned foreign Iconography</en-US>
+    <it-IT>Iconografia straniera vietata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CONTACT_ART_AND_FAITH_2</zType>
+    <en-US>Allowed foreign Iconography</en-US>
+    <it-IT>Iconografia straniera consentita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CONTACT_ZEALOT_3</zType>
+    <en-US>Took a hostage from another Nation</en-US>
+    <it-IT>Preso un ostaggio da un'altra nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CONTACT_TROUBLE_ON_THE_ROAD</zType>
+    <en-US>Praised another Nation's heroism</en-US>
+    <it-IT>Ha lodato l'eroismo di un'altra nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_PARENTAL_WISDOM_0</zType>
+    <en-US>Asked for help with ruling</en-US>
+    <it-IT>Richiesta di aiuto per la sentenza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_PARENTAL_WISDOM_1</zType>
+    <en-US>Asked for help with ruling</en-US>
+    <it-IT>Richiesta di aiuto per la sentenza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_PARENTAL_WISDOM_2</zType>
+    <en-US>Carved out my own path</en-US>
+    <it-IT>Ho trovato la mia strada</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_ART</zType>
+    <en-US>Raised statues in my form</en-US>
+    <it-IT>Statue innalzate nella mia forma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_SUCCESSORS</zType>
+    <en-US>Rose above squabbles of succession</en-US>
+    <it-IT>Al di sopra delle dispute di successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_INSULT</zType>
+    <en-US>Ignored an insult from another ruler</en-US>
+    <it-IT>Ignorare un insulto da parte di un altro sovrano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_LEGACY_0</zType>
+    <en-US>Punished a dissenting city</en-US>
+    <it-IT>Punita una città dissenziente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_LEGACY_1</zType>
+    <en-US>Refused a dissenting city</en-US>
+    <it-IT>Rifiuto di una città dissenziente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_LEGACY_2</zType>
+    <en-US>Trod on an ancestor's legacy</en-US>
+    <it-IT>Calpestando l'eredità di un antenato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBAL_ENVOY_PEACE</zType>
+    <en-US>Made Peace with a Tribe</en-US>
+    <it-IT>Fare pace con una tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HOSTILE_GARRISON_ACCEPT</zType>
+    <en-US>Allowed the establishment of a Hostile Garrison</en-US>
+    <it-IT>Consentito l'istituzione di una guarnigione ostile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HOSTILE_GARRISON_EXPEL_YES</zType>
+    <en-US>Expelled a Hostile Garrison from my City</en-US>
+    <it-IT>Espulso un presidio ostile dalla mia città</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SCALES_OF_TRIBUTE_ACQUIESCE</zType>
+    <en-US>Gave in to demands for tribute</en-US>
+    <it-IT>Ha ceduto alle richieste di tributo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SECURING_PEACE_FURIOUS_EMISSARY_MISUNDERSTANDING</zType>
+    <en-US>Apologized to a Tribe</en-US>
+    <it-IT>Chiedere scusa a una tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ASSASSINATION_OF_MONARCH_SUCCESS</zType>
+    <en-US>Avenged the assassination of our Leader</en-US>
+    <it-IT>Vendicato l'assassinio del nostro leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_AT_PEACE_HUNTING_GROUNDS_DISPUTE_OPTION_2_PLAYER_1</zType>
+    <en-US>Called in a Favor to get a hunting party released</en-US>
+    <it-IT>Chiamata di favore per far rilasciare una squadra di cacciatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_UPSET_OPTION_1_PLAYER_1</zType>
+    <en-US>Inspired my people to go to War!</en-US>
+    <it-IT>Ha ispirato la mia gente ad andare in guerra!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_OPTION_1_PLAYER_1</zType>
+    <en-US>Trained Ranged Units to prepare for War</en-US>
+    <it-IT>Unità a distanza addestrate per prepararsi alla guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_OPTION_2_PLAYER_1</zType>
+    <en-US>Trained Melee Units to prepare for War</en-US>
+    <it-IT>Unità da mischia addestrate per prepararsi alla guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_2_OPTION_1_PLAYER_1</zType>
+    <en-US>Deployed Mounted Units in preparation for War</en-US>
+    <it-IT>Schieramento di unità a cavallo in preparazione alla guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_3_OPTION_1_PLAYER_1</zType>
+    <en-US>Recruited new Melee Units in preparation for War</en-US>
+    <it-IT>Reclutamento di nuove unità da mischia in preparazione alla guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_3_OPTION_2_PLAYER_1</zType>
+    <en-US>Organized special Mounted Units in preparation for War</en-US>
+    <it-IT>Organizzate unità speciali a cavallo in preparazione alla guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEMAND_TRIBUTE_REFUSE_LEGITIMACY</zType>
+    <en-US>Backed down after a link(MISSION_DEMAND_TRIBUTE) Mission</en-US>
+    <it-IT>Ritirata dopo un link(MISSION_DEMAND_TRIBUTE) Missione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_OPTION_1_PLAYER_1</zType>
+    <en-US>Negotiated Peace and an extradition treaty</en-US>
+    <it-IT>Pace negoziata e trattato di estradizione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_OPTION_0_PLAYER_1</zType>
+    <en-US>Delivered justice in international criminal cases</en-US>
+    <it-IT>La giustizia consegnata nei casi penali internazionali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_OPTION_2_PLAYER_1</zType>
+    <en-US>Failed to ensure that our accused would get fair trials</en-US>
+    <it-IT>Non ha garantito che i nostri imputati avessero un processo equo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_OPTION_3_PLAYER_1</zType>
+    <en-US>Pardoned our citizens of crimes against foreigners</en-US>
+    <it-IT>Ha graziato i nostri cittadini per i crimini contro gli stranieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_UPSET_OPTION_0_PLAYER_1</zType>
+    <en-US>Delivered justice in cases involving a neighboring Nation</en-US>
+    <it-IT>Ha reso giustizia in casi che coinvolgevano una nazione vicina.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_UPSET_OPTION_1_PLAYER_1</zType>
+    <en-US>Allowed another Nation to put our citizens on trial</en-US>
+    <it-IT>Consentire a un'altra nazione di processare i nostri cittadini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_OPTION_0_PLAYER_1</zType>
+    <en-US>Forged Peace with an agitated Nation</en-US>
+    <it-IT>Forgiato la pace con una nazione agitata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_OPTION_1_PLAYER_1</zType>
+    <en-US>Avoided conflict by sharing our knowledge</en-US>
+    <it-IT>Evitare i conflitti condividendo le nostre conoscenze</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_TRADE_OPTION_0_PLAYER_1</zType>
+    <en-US>Avoided a War by striking up a research agreement</en-US>
+    <it-IT>Evitare una guerra stipulando un accordo di ricerca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_AMBITION_CAPTURE_PLAYER_CITIES_NO_PLAYER_1</zType>
+    <en-US>Did not make our enemies pay</en-US>
+    <it-IT>Non abbiamo fatto pagare i nostri nemici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_AMBITION_NEW_PLAYER_WAR_NO_PLAYER_1</zType>
+    <en-US>Did not commit to War</en-US>
+    <it-IT>Non si è impegnato nella guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_WAR_MARRIAGE_YES</zType>
+    <en-US>Was pressured into a Tribal Marriage</en-US>
+    <it-IT>È stato costretto a un matrimonio tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_PLEASED_OPTION_1_PLAYER_1</zType>
+    <en-US>Built a Granary for a Nation who had Food struggles</en-US>
+    <it-IT>Costruì un granaio per una nazione che aveva difficoltà alimentari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_INTIMIDATED_OPTION_0_PLAYER_1</zType>
+    <en-US>Intimidated a foe who had been preparing to attack us</en-US>
+    <it-IT>Intimidito un nemico che si stava preparando ad attaccarci</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_ANGRY_OPTION_0_PLAYER_1</zType>
+    <en-US>Calmed an angry Nation through diplomacy</en-US>
+    <it-IT>Calmare una nazione arrabbiata con la diplomazia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_ANGRY_OPTION_1_PLAYER_1</zType>
+    <en-US>Tied up an angry Nation in diplomatic knots to delay a War</en-US>
+    <it-IT>Legare una nazione arrabbiata in nodi diplomatici per ritardare una guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_UPSET_OPTION_0_PLAYER_1</zType>
+    <en-US>Spent money to turn a burgeoning adversary into a Peace partner</en-US>
+    <it-IT>Spesa per trasformare un avversario in crescita in un partner di pace.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_ZEALOT_CAUTIOUS_OR_BETTER_OPTION_0_PLAYER_1</zType>
+    <en-US>Our grand religious mission to another Nation was a big success</en-US>
+    <it-IT>La nostra grande missione religiosa in un'altra nazione è stata un grande successo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_WAR_DECLARE_PLAY_TO_WIN</zType>
+    <en-US>Showed no fear to jealous Nations</en-US>
+    <it-IT>Non ha mostrato alcun timore nei confronti delle Nazioni gelose</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_PEACE_END_OPINION_PLAYER_1</zType>
+    <en-US>Begged for link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>Implorato per link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DINNER_WITH_A_RIVAL_OPTION_1_CHARACTER_2</zType>
+    <en-US>Boosted our General</en-US>
+    <it-IT>Ha potenziato il nostro generale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TOKEN_OF_GOODWILL_OPTION_0_PLAYER_1</zType>
+    <en-US>Refused to give a Tech to a foreign Nation</en-US>
+    <it-IT>Rifiuto di dare un tecnico a una nazione straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FACE_IN_GOLD_OPTION_0_PLAYER_1</zType>
+    <en-US>Refused any face but my own appearing on coins</en-US>
+    <it-IT>Rifiuto di far apparire sulle monete qualsiasi volto che non sia il mio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CARAVAN_OF_LOVE_OPTION_1_CHARACTER_2</zType>
+    <en-US>Warned my Heir of falling in love with a foreigner</en-US>
+    <it-IT>Messo in guardia il mio erede dall'innamorarsi di una straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_EXECUTED_SPIES_OPTION_1_CHARACTER_1</zType>
+    <en-US>Sent spies who were caught and executed</en-US>
+    <it-IT>Inviò spie che furono catturate e giustiziate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEW_ALLIANCE_OPTION_0_CHARACTER_1</zType>
+    <en-US>Successfully forced a Tribal Alliance</en-US>
+    <it-IT>Forzare con successo un'alleanza tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEMAND_TRIBUTE_MERCY_AGREE</zType>
+    <en-US>Backed out of a demanding tribute</en-US>
+    <it-IT>Si è tirato indietro da un tributo impegnativo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEMAND_TRIBUTE_THE_FAITHFUL_LEG</zType>
+    <en-US>Backed out of a demanding tribute</en-US>
+    <it-IT>Si è tirato indietro da un tributo impegnativo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEMAND_TRIBUTE_DENOUNCED</zType>
+    <en-US>Fought back against a corrupt religion head</en-US>
+    <it-IT>Combattere contro un capo religioso corrotto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEMAND_TRIBUTE_DEPOSED_RD</zType>
+    <en-US>Deposed a Religion head</en-US>
+    <it-IT>Deposto un capo della religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEMAND_TRIBUTE_MISSING_AMBASSADOR_3</zType>
+    <en-US>Reinforced border connections</en-US>
+    <it-IT>Collegamenti di confine rinforzati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEMAND_TRIBUTE_CUT_0</zType>
+    <en-US>Allowed my Ambassador’s shady dealings</en-US>
+    <it-IT>Consentire i loschi traffici del mio ambasciatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEMAND_TRIBUTE_CUT_1</zType>
+    <en-US>Remained honorable in my tribute dealings</en-US>
+    <it-IT>Ho mantenuto l'onore nei miei rapporti con i tributi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_A_FRIENDLY_WARNING_REJECT_PLAYER</zType>
+    <en-US>Refused tribal help</en-US>
+    <it-IT>Rifiuto dell'aiuto tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCESSION_THEM_VISIT_1</zType>
+    <en-US>Befriended a new ruler</en-US>
+    <it-IT>Fare amicizia con un nuovo sovrano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCESSION_THEM_VISIT_3</zType>
+    <en-US>Refused to treat with a new ruler</en-US>
+    <it-IT>Rifiutato di trattare con un nuovo righello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCCESSION_THEM_GIFTS_1</zType>
+    <en-US>Refused to return diplomatic gifts</en-US>
+    <it-IT>Rifiuto di restituire i doni diplomatici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCCESSION_THEM_PEACE_1</zType>
+    <en-US>Accepted a new ruler's Peace</en-US>
+    <it-IT>Accettare la pace di un nuovo sovrano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCCESSION_THEM_PRIDE_0</zType>
+    <en-US>Went to War to avenge an insult</en-US>
+    <it-IT>Andare in guerra per vendicare un insulto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCCESSION_THEM_PRIDE_1</zType>
+    <en-US>Returned an insult to a Proud ruler</en-US>
+    <it-IT>Restituito un insulto a un sovrano orgoglioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCCESSION_THEM_PRIDE_2</zType>
+    <en-US>Ignored an insult from a Proud ruler</en-US>
+    <it-IT>Ignorare un insulto di un sovrano orgoglioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCCESSION_THEM_TRIBUTE</zType>
+    <en-US>Refused to pay tribute</en-US>
+    <it-IT>Si è rifiutato di rendere omaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCCESSION_THEM_SNUBBED_1</zType>
+    <en-US>Refused to be snubbed by a new Leader</en-US>
+    <it-IT>Rifiuto di essere snobbato da un nuovo leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCCESSION_THEM_AGENT_0</zType>
+    <en-US>Exposed a Leader's agent</en-US>
+    <it-IT>Smascherato l'agente di un leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCESSION_THEM_DEPOSED_0</zType>
+    <en-US>Refused to treat with a new ruler</en-US>
+    <it-IT>Rifiutato di trattare con un nuovo righello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MOST_BLESSED_PEOPLE_ON_EARTH_OPTION_0_CHARACTER</zType>
+    <en-US>Told another Leader they are more blessed than myself</en-US>
+    <it-IT>Ho detto a un altro leader che sono più fortunati di me.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MOST_BLESSED_PEOPLE_ON_EARTH_OPTION_2_CHARACTER</zType>
+    <en-US>Claimed to be the most blessed</en-US>
+    <it-IT>Dichiarato il più benedetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_FORBIDDEN_KNOWLEDGE_OPTION_3_CHARACTER</zType>
+    <en-US>"Disregarded" Tribal knowledge</en-US>
+    <it-IT>"Conoscenze tribali "ignorate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_PROPHECY_OPTION_3_CHARACTER</zType>
+    <en-US>Claimed a divine right to rule</en-US>
+    <it-IT>Rivendicava il diritto divino di governare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_SMELLS_GOOD</zType>
+    <en-US>Impressed my people with incense</en-US>
+    <it-IT>Impressiona il mio popolo con l'incenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_OUT_FOR_BLOOD_COMBAT_REFUSE_CHARACTER_3</zType>
+    <en-US>Refused a duel of honor</en-US>
+    <it-IT>Rifiutato un duello d'onore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ENEMIES_TOGETHER_NO_PLAYER</zType>
+    <en-US>Refused a challenge</en-US>
+    <it-IT>Rifiuto di una sfida</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TREACHERY_THEM_AGENT_SECRETS_RETURN_PLAYER</zType>
+    <en-US>Humiliated enemy agents</en-US>
+    <it-IT>Agenti nemici umiliati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_IRON_AND_ANGUISH_OPTION_INVASION_CHARACTER_0</zType>
+    <en-US>Faced a link(CONCEPT_TRIBE_INVASION) without fear</en-US>
+    <it-IT>Affrontare un link(CONCEPT_TRIBE_INVASION) senza paura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_IRON_AND_ANGUISH_OPTION_PACIFY_CHARACTER_0</zType>
+    <en-US>Stood down in the face of a link(CONCEPT_TRIBE_INVASION)</en-US>
+    <it-IT>Si è fermato di fronte a un link(CONCEPT_TRIBE_INVASION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_GHOST_OF_ROMULUS_OPTION_1_CHARACTER_1</zType>
+    <en-US>Led plan to serve the people</en-US>
+    <it-IT>Piano guidato per servire il popolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_TRUCE_FOREIGN_RULE_OPTION_NO_CHARACTER_1</zType>
+    <en-US>Resisted an attempt at foreign rule</en-US>
+    <it-IT>Resistere a un tentativo di dominio straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_TRUCE_FOREIGN_RULE_OPTION_YES_CHARACTER_0</zType>
+    <en-US>Gave in to foreign rule</en-US>
+    <it-IT>Si è arreso al dominio straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_TRUCE_FOREIGN_RULE_OPTION_REGAL_CHARACTER_1</zType>
+    <en-US>Allowed an enemy to join our court</en-US>
+    <it-IT>Permettere a un nemico di unirsi alla nostra corte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_TRUCE_SOLEMN_PROCESSION_OPTION_NO_RELIGION_PLAYER_1</zType>
+    <en-US>Renounced the state religion to spite my enemy</en-US>
+    <it-IT>Rinuncia alla religione di stato per fare un dispetto al mio nemico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLAYER_TRUCE_RESPONSE_FESTERING_VENGEANCE_OPTION_APOLOGY_CHARACTER_1</zType>
+    <en-US>Begged for forgiveness</en-US>
+    <it-IT>Implorato il perdono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEADER_SMITING_FOES_STATUE</zType>
+    <en-US>Erected a statue in honor of my victories</en-US>
+    <it-IT>Eretto una statua in onore delle mie vittorie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ORDER_OF_BUSINESS_HEIR_FIRST_CHARACTER_1</zType>
+    <en-US>Celebrated the birth of my Heir</en-US>
+    <it-IT>Festeggiato la nascita del mio erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_BATTLEFIELD_BRILLIANCE_AMUSE</zType>
+    <en-US>Laughed in the face of danger</en-US>
+    <it-IT>Rideva di fronte al pericolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_SECRET_ALLIANCES_OPTION_1</zType>
+    <en-US>Declared War on a conspiring nation</en-US>
+    <it-IT>Dichiarato guerra a una nazione cospiratrice</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_YOUNG_HOSTAGE_OPTION_2</zType>
+    <en-US>Refused a Tribal ward</en-US>
+    <it-IT>Rifiuto di un reparto tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_WITCH_QUEEN_OPTION_2</zType>
+    <en-US>Removed a witch queen</en-US>
+    <it-IT>Rimosso una regina delle streghe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_TEACHING_THE_ENEMY_OPTION_0_CHARACTER_0</zType>
+    <en-US>Appointed a Tribal Courtier</en-US>
+    <it-IT>Nominato Cortigiano Tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_HOMELAND_BURNING_OPTION_2</zType>
+    <en-US>Was not afraid of unrest</en-US>
+    <it-IT>Non aveva paura dei disordini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_EXOTIC_INFLUENCE_OPTION_0_CHARACTER</zType>
+    <en-US>Refused Tribal customs</en-US>
+    <it-IT>Rifiutato Dogane tribali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_EXOTIC_INFLUENCE_OPTION_1_CHARACTER</zType>
+    <en-US>Displayed Tribal spoils</en-US>
+    <it-IT>Bottino tribale esposto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_EXOTIC_INFLUENCE_OPTION_3_CHARACTER</zType>
+    <en-US>Recovered the crest of an ancient hero</en-US>
+    <it-IT>Recuperato lo stemma di un antico eroe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_KINGS_RANSOM_OPTION_1_CHARACTER_0</zType>
+    <en-US>Took a Tribal royal family</en-US>
+    <it-IT>Ha preso una famiglia reale tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_CULT_OF_FLAME_SMASH</zType>
+    <en-US>Purified the Cult of Flame</en-US>
+    <it-IT>Purificato il Culto della Fiamma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_PRINCE_ENSLAVE</zType>
+    <en-US>Enslaved a Tribal chief</en-US>
+    <it-IT>Ha ridotto in schiavitù un capo tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_PRINCE_WARD</zType>
+    <en-US>Adopted a Tribal prince</en-US>
+    <it-IT>Adottato un principe tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_TRIBAL_CONFEDERATION_OPTION_1</zType>
+    <en-US>Warred with a Tribal confederation</en-US>
+    <it-IT>Guerra con una confederazione tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_RIVALS_OPTION_2</zType>
+    <en-US>Kept rival Tribes from seizing land</en-US>
+    <it-IT>Impedire alle tribù rivali di appropriarsi delle terre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_REBEL_GLADIATORS_OPTION_1</zType>
+    <en-US>Recruited Rebel gladiators as Citizens</en-US>
+    <it-IT>Reclutamento dei gladiatori ribelli come cittadini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LOVE_AND_WAR_OPTION_0_CHARACTER_0</zType>
+    <en-US>Refused a Tribal marriage proposal</en-US>
+    <it-IT>Rifiuto di una proposta di matrimonio tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ACQUIRED_TASTES_DESTROY</zType>
+    <en-US>Was not tempted by foreign philosophers</en-US>
+    <it-IT>Non è stato tentato da filosofi stranieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEFIANCE_OPTION_1_CHARACTER</zType>
+    <en-US>Rallied a City under siege</en-US>
+    <it-IT>Riunito una città sotto assedio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MERCY_IN_CITY_OPTION_0_PLAYER_1</zType>
+    <en-US>Made an example of an enemy City's leadership</en-US>
+    <it-IT>Fare un esempio della leadership di una città nemica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_TIDE_OF_BATTLE_OPTION_2_PLAYER_1</zType>
+    <en-US>Died in battle after refusing to retreat</en-US>
+    <it-IT>Morto in battaglia dopo aver rifiutato di ritirarsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GENERAL_DUEL</zType>
+    <en-US>Erected a statue of a famous duel</en-US>
+    <it-IT>Eretta una statua di un famoso duello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HONORED_ENEMY_LEG_NEG</zType>
+    <en-US>My General was honored by the enemy</en-US>
+    <it-IT>Il mio generale è stato onorato dal nemico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HONORED_ENEMY_LEG_POS</zType>
+    <en-US>My General was honored by the enemy</en-US>
+    <it-IT>Il mio generale è stato onorato dal nemico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BARRACKS_HEIR_1</zType>
+    <en-US>Refused the army's chosen Heir</en-US>
+    <it-IT>Ha rifiutato l'erede scelto dall'esercito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THREE_WEEKS_2</zType>
+    <en-US>My Heir returned from elopement in disgrace</en-US>
+    <it-IT>Il mio erede è tornato dalla fuga in disgrazia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUDDEN_RETURN_WELCOME</zType>
+    <en-US>Welcomed back an eloper</en-US>
+    <it-IT>Diamo il benvenuto a un eloper</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_TRANSLATIONS_YES_LEADER</zType>
+    <en-US>Looked to foreign texts for knowledge</en-US>
+    <it-IT>Si è guardato a testi stranieri per la conoscenza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_TRANSLATIONS_EDUCATED</zType>
+    <en-US>Translated foreign texts myself</en-US>
+    <it-IT>Tradurre personalmente testi stranieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INCRIMINATING_MESSAGES_OPTION_0_CHARACTER_0</zType>
+    <en-US>Exposed an alliance against me</en-US>
+    <it-IT>Ha smascherato un'alleanza contro di me</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BASELESS_ACCUSATIONS_OPTION_0_CHARACTER_0</zType>
+    <en-US>Made false accusations</en-US>
+    <it-IT>Accuse false</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTSTORY_NO_EVIDENCE_CHARACTER_2</zType>
+    <en-US>Ordered a failed investigation</en-US>
+    <it-IT>Ordinata un'indagine fallita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WINNING_FAVOR_OPTION_2_CHARACTER_2</zType>
+    <en-US>Threatened a family</en-US>
+    <it-IT>Minaccia a una famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WINNING_FAVOR_OPTION_0_PLOTTING_AGAINST</zType>
+    <en-US>{0_character} has fallen in with dissident nobles and now seems to be plotting against you.</en-US>
+    <it-IT>{0_character} è entrato in contatto con nobili dissidenti e ora sembra complottare contro di voi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WINNING_FAVOR_OPTION_0_INFLUENCED_BY</zType>
+    <en-US>{0_character} has resisted the influence of dissident nobles, and your relationship is better than ever.</en-US>
+    <it-IT>{0_character} ha resistito all'influenza dei nobili dissidenti e il vostro rapporto è migliore che mai.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_FEAST_OPTION_3_CHARACTER</zType>
+    <en-US>Attended a tribal feast alone</en-US>
+    <it-IT>Partecipare da solo a una festa tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_RIVALS_2</zType>
+    <en-US>My child was under-performing in studies</en-US>
+    <it-IT>Mio figlio aveva un rendimento insufficiente negli studi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TEEN_IDOL_0</zType>
+    <en-US>My child was encouraged in leadership</en-US>
+    <it-IT>Mio figlio è stato incoraggiato nella leadership</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TEEN_IDOL_1</zType>
+    <en-US>My child followed others</en-US>
+    <it-IT>Mio figlio ha seguito altri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_LOST_RELATIVE_OPTION_0_CHARACTER_0</zType>
+    <en-US>Held an audience with a lost relative</en-US>
+    <it-IT>Udienza con un parente scomparso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_LOST_RELATIVE_OPTION_2_CHARACTER_0</zType>
+    <en-US>Ignored the false Heir</en-US>
+    <it-IT>Ignorato il falso erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_A_PRIVATE_AUDIENCE_OPTION_0</zType>
+    <en-US>Added a mysterious relative to the court</en-US>
+    <it-IT>Aggiunta di un parente misterioso alla corte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_DEMAND_FOR_JUSTICE_OPTION_0</zType>
+    <en-US>Jailed the false relative</en-US>
+    <it-IT>Incarcerato il falso parente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_DEMAND_FOR_JUSTICE_OPTION_1</zType>
+    <en-US>Added a questionable relative to my court</en-US>
+    <it-IT>Aggiunta di un parente discutibile alla mia corte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_PEACEMAKER_OPTION_2</zType>
+    <en-US>Stayed out of foreign affairs</en-US>
+    <it-IT>Rimasto fuori dagli affari esteri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_COURTLY_DRAMA_OPTION_2</zType>
+    <en-US>My reign is bigger than literature</en-US>
+    <it-IT>Il mio regno è più grande della letteratura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_TAX_HIKE_OPTION_1</zType>
+    <en-US>Refused to raise taxes</en-US>
+    <it-IT>Rifiuto di aumentare le tasse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_FORBIDDEN_KNOWLEDGE_OPTION_2</zType>
+    <en-US>Disregarded Tribal knowledge</en-US>
+    <it-IT>Conoscenze tribali ignorate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_KIDNAPPED_CONSORT_OPTION_1</zType>
+    <en-US>Kept a kidnapped consort</en-US>
+    <it-IT>Ha tenuto una consorte rapita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_KIDNAPPED_CONSORT_OPTION_2</zType>
+    <en-US>Removed my son as Heir</en-US>
+    <it-IT>Rimosso mio figlio come erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_AMITY_OR_TREASON_OPTION_0</zType>
+    <en-US>Agreed to abdicate</en-US>
+    <it-IT>Ha accettato di abdicare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_TEDIUM_ON_THE_THRONE_OPTION_0</zType>
+    <en-US>Appointed a horse to council</en-US>
+    <it-IT>Nominato un cavallo al consiglio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_THE_WILD_HUNT_OPTION_0</zType>
+    <en-US>Went on the Wild Hunt</en-US>
+    <it-IT>C'è stata una caccia selvaggia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_THE_WILD_HUNT_OPTION_1</zType>
+    <en-US>Refused the Wild Hunt</en-US>
+    <it-IT>Rifiuto della caccia selvaggia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_A_FAMILY_WARNING_OPTION_1</zType>
+    <en-US>Imprisoned a member of a noble family</en-US>
+    <it-IT>Imprigionato un membro di una famiglia nobile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_JOB_OPENING_OPTION_0</zType>
+    <en-US>Took over a minister's role on the council</en-US>
+    <it-IT>Ha assunto il ruolo di ministro nel Consiglio di amministrazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_FAMILY_COUNCIL_OPTION_0</zType>
+    <en-US>Imprisoned those who wished to curb my power</en-US>
+    <it-IT>Imprigionati coloro che volevano limitare il mio potere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_FAMILY_COUNCIL_OPTION_2</zType>
+    <en-US>Attempted cooperative leadership</en-US>
+    <it-IT>Tentativo di leadership cooperativa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_AN_EXODUS_OPTION_0</zType>
+    <en-US>Nobles abandoned our Nation</en-US>
+    <it-IT>I nobili hanno abbandonato la nostra nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_AN_EXODUS_OPTION_1</zType>
+    <en-US>Made Peace with my rivals</en-US>
+    <it-IT>Ho fatto pace con i miei rivali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_A_BITTER_ALLIANCE_OPTION_0</zType>
+    <en-US>Warred with former allies</en-US>
+    <it-IT>Guerra con gli ex alleati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_A_MAN_OF_PEACE_OPTION_1</zType>
+    <en-US>Disagreed with a retiring General</en-US>
+    <it-IT>In disaccordo con un generale in pensione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_DAUGHTERS_DREAM_OPTION_0</zType>
+    <en-US>Executed a murderous father</en-US>
+    <it-IT>Giustiziato un padre assassino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_TOO_MUCH_OF_A_GOOD_THING_OPTION_0</zType>
+    <en-US>Defied medicine</en-US>
+    <it-IT>Sfidare la medicina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_ROYAL_BIRTH_PRESENT</zType>
+    <en-US>Celebrated a royal birth</en-US>
+    <it-IT>Celebrazione di una nascita reale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BULLYING_HEIR_ESCALATION_DISCOVERED_OK</zType>
+    <en-US>Plotted to kill my own Heir</en-US>
+    <it-IT>Complottato per uccidere il mio stesso erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HOLD_COURT_HAPPY_FAMILIES_OK</zType>
+    <en-US>Held Court successfully</en-US>
+    <it-IT>La Corte si è espressa con successo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_BRUTAL_HEIR_OPTION_1</zType>
+    <en-US>Allowed my Heir to act out</en-US>
+    <it-IT>Permettere al mio erede di recitare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HEIR_HOLY_WAR_OPTION_0</zType>
+    <en-US>Dealt with zealots</en-US>
+    <it-IT>Trattare con gli zeloti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HEIR_COMING_OF_AGE_GIFTS_PLAYER</zType>
+    <en-US>Commissioned new regalia for my Heir</en-US>
+    <it-IT>Commissionata una nuova regalia per il mio erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_2</zType>
+    <en-US>Ejected my Heir</en-US>
+    <it-IT>Espulso il mio erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MASTER_OF_WHISPERS_FRIENDS</zType>
+    <en-US>Denied my spouse's affair</en-US>
+    <it-IT>Negata la relazione del mio coniuge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ASSASSINATION_BETRAYAL_ADMIT</zType>
+    <en-US>Admitted my role in a failed assassination attempt</en-US>
+    <it-IT>Ammesso il mio ruolo in un tentativo di assassinio fallito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FAMILY_PARTISANS_HELP</zType>
+    <en-US>Made concessions to a disloyal Family</en-US>
+    <it-IT>Ha fatto concessioni a una famiglia sleale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SABOTAGE_OK</zType>
+    <en-US>Punished a disloyal Family</en-US>
+    <it-IT>Punita una famiglia sleale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FAVORED_VASSAL_CEREMONY_OK_PLAYER</zType>
+    <en-US>Funded a vassal ceremony</en-US>
+    <it-IT>Finanziamento di una cerimonia vassallatica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GP_A_PROMOTION_OPTION_2_CHARACTER_1</zType>
+    <en-US>Installed a Steward of the Chamber</en-US>
+    <it-IT>Insediato un Amministratore della Camera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GP_POISON_ON_THE_TREE_OPTION_0_CHARACTER_1</zType>
+    <en-US>Purged a conspirator</en-US>
+    <it-IT>Epurato un cospiratore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GP_A_GRUESOME_EXAMPLE_OPTION_0_CHARACTER_1</zType>
+    <en-US>Took no prisoners</en-US>
+    <it-IT>Non ha fatto prigionieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GP_FOREIGN_FIGHTERS_OPTION_1_CHARACTER_1</zType>
+    <en-US>Refused foreign fighters</en-US>
+    <it-IT>Combattenti stranieri rifiutati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GP_TABOOS_OPTION_0_CHARACTER_1</zType>
+    <en-US>Refused to allow human dissections</en-US>
+    <it-IT>Rifiuto di consentire la dissezione umana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GP_LEFT_BEHIND_OPTION_2_CHARACTER_1</zType>
+    <en-US>Gilded my halls with imported marble</en-US>
+    <it-IT>Ho decorato i miei saloni con marmi d'importazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GP_MERCHANT_TOWN_OPTION_1_CHARACTER_1</zType>
+    <en-US>Refused a request to establish a Merchant Town</en-US>
+    <it-IT>Respinta la richiesta di istituire una Città Mercantile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEATH_VANISHED_OPTION_2</zType>
+    <en-US>Disapproved of my dead child's behavior</en-US>
+    <it-IT>Disapprovava il comportamento del mio bambino morto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DEATH_THE_PRICE_OF_POWER_OPTION_0_CHARACTER</zType>
+    <en-US>Disowned my tainted child</en-US>
+    <it-IT>Disconosciuto il mio bambino contaminato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_MYSTERIOUS_INFANT_OPTION_0_CHARACTER_0</zType>
+    <en-US>Adopted a mysterious child</en-US>
+    <it-IT>Adottato un bambino misterioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_MYSTERIOUS_INFANT_OPTION_2_CHARACTER_0</zType>
+    <en-US>Refused adoption of a mysterious child</en-US>
+    <it-IT>Rifiuto di adozione di un bambino misterioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_COMMON_LOVE_OPTION_1_CHARACTER_0</zType>
+    <en-US>Allowed my child to marry a commoner</en-US>
+    <it-IT>Permettere a mio figlio di sposare una popolana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_COMMON_LOVE_OPTION_2_CHARACTER_0</zType>
+    <en-US>Celebrated a storybook romance</en-US>
+    <it-IT>Celebrazione di una storia d'amore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_THE_PUPPIES_OPTION_1_CHARACTER_1</zType>
+    <en-US>Had to enlist a problem child</en-US>
+    <it-IT>Ho dovuto arruolare un bambino problematico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_ELOPED_OPTION_2_CHARACTER_0</zType>
+    <en-US>Brought back an eloping child</en-US>
+    <it-IT>Ha riportato un bambino in fuga</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_DOWNWARD_SPIRAL_OPTION_1</zType>
+    <en-US>Stayed in the city while my spouse mourned</en-US>
+    <it-IT>Sono rimasto in città mentre il mio coniuge era in lutto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_OPPORTUNISTS_OPTION_1</zType>
+    <en-US>Stood up to rival threats</en-US>
+    <it-IT>Resistere alle minacce dei rivali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_OPPORTUNISTS_OPTION_2</zType>
+    <en-US>Imprisoned a rival who threatened me</en-US>
+    <it-IT>Imprigionato un rivale che mi aveva minacciato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_HARSH_WORDS_OPTION_0</zType>
+    <en-US>Bowed to the military's will</en-US>
+    <it-IT>Si è piegato alla volontà dell'esercito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEADER_WISDOM_WITH_AGE_OPTION_1</zType>
+    <en-US>Upheld the laws of succession</en-US>
+    <it-IT>Mantenere le leggi sulla successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEADER_BLOODLESS_REBELLION_OPTION_2</zType>
+    <en-US>Brought my rival to ruin</en-US>
+    <it-IT>Ha portato il mio rivale alla rovina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEADER_BLOODLESS_REBELLION_OPTION_3</zType>
+    <en-US>Reasserted right to rule</en-US>
+    <it-IT>Riaffermato il diritto di governare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEADER_LEGACY_OF_GOLD_OPTION_0</zType>
+    <en-US>Protected my legacy of riches</en-US>
+    <it-IT>Ho protetto la mia eredità di ricchezze</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEADER_TWILIGHT_YEARS_OPTION_0_CHARACTER_2</zType>
+    <en-US>My parent abdicated to me</en-US>
+    <it-IT>Il mio genitore ha abdicato a me</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_FINAL_CAMPAIGN_OPTION_1</zType>
+    <en-US>Cemented my martial legacy</en-US>
+    <it-IT>Ho consolidato la mia eredità marziale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEADER_BIOGRAPHY_OPTION_0</zType>
+    <en-US>Refused a biography of my life</en-US>
+    <it-IT>Rifiuto di una biografia della mia vita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_PROBLEM_CHILD_OPTION_0</zType>
+    <en-US>Made a foolish sibling Chancellor</en-US>
+    <it-IT>Ha fatto un fratello sciocco Cancelliere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_DEATH_IN_THE_FAMILY_OPTION_1</zType>
+    <en-US>Admitted to a military blunder</en-US>
+    <it-IT>Ha ammesso di aver commesso un errore militare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GRADUATED_RIVAL_MENTOR_OPTION_1_CHARACTER_1</zType>
+    <en-US>Allowed a rival to influence my child</en-US>
+    <it-IT>Permettere a un rivale di influenzare mio figlio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GRADUATE_AIR_OF_CERTAINTY_OPTION_2</zType>
+    <en-US>Could not decide between my child and a Courtier</en-US>
+    <it-IT>Non riuscivo a decidere tra mio figlio e un Cortigiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_DISCIPLINARY_ACTION_OPTION_2_CHARACTER_1</zType>
+    <en-US>Covered up my child's misdeeds</en-US>
+    <it-IT>Coprendo le malefatte di mio figlio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GRADUATE_TAKING_THE_MANTLE_OPTION_1_CHARACTER_1</zType>
+    <en-US>Bowed to pressure over governorship</en-US>
+    <it-IT>Ha ceduto alle pressioni sul governatorato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GRADUATE_A_RAISED_VOICE_OPTION_0_CHARACTER_1</zType>
+    <en-US>Let criticism go unanswered</en-US>
+    <it-IT>Lasciare che le critiche rimangano senza risposta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GRADUATE_A_RAISED_VOICE_OPTION_2_CHARACTER_1</zType>
+    <en-US>Disciplined a rowdy youth</en-US>
+    <it-IT>Disciplinato un giovane chiassoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLEA_FOR_MERCY_YES</zType>
+    <en-US>Showed mercy for the guilty</en-US>
+    <it-IT>Ha mostrato misericordia per i colpevoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WORD_OF_A_COUP_THE_COUP_SUCCEEDS</zType>
+    <en-US>Allowed a Coup</en-US>
+    <it-IT>Consentito un colpo di stato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HEIR_BYPASSED_COUP</zType>
+    <en-US>Fell victim to a Coup</en-US>
+    <it-IT>Caduto vittima di un colpo di stato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LOVE_AFFAIR_END</zType>
+    <en-US>Was forced to send away my lover</en-US>
+    <it-IT>Sono stato costretto a mandare via il mio amante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_SPECIAL_RECOGNITION_01_OPTION_0_CHARACTER_0</zType>
+    <en-US>Caved to demands for special recognition</en-US>
+    <it-IT>Cedere alle richieste di riconoscimento speciale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_SPECIAL_RECOGNITION_02_OPTION_0_CHARACTER_0</zType>
+    <en-US>Expelled an attempt usurper</en-US>
+    <it-IT>Espulso un tentativo di usurpazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PAY_TO_PLAY_OPTION_0_CHARACTER_1</zType>
+    <en-US>Refused to pay a courtier dispensation</en-US>
+    <it-IT>Rifiuto di pagare una dispensa al cortigiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_AFFAIRS_OF_THE_HEART_OPTION_2_CHARACTER_1</zType>
+    <en-US>Executed a nosy churl</en-US>
+    <it-IT>Giustiziato un ficcanaso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_WICKED_CHARGES_OPTION_1_CHARACTER_1</zType>
+    <en-US>Faced charges of wickedness in court</en-US>
+    <it-IT>Accuse di malvagità in tribunale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_WARMONGERS_OPTION_1_CHARACTER_1</zType>
+    <en-US>Waged War against Tribes</en-US>
+    <it-IT>Guerra contro le tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_THE_SPEECHES_OPTION_1_CHARACTER_1</zType>
+    <en-US>Addressed critical speeches</en-US>
+    <it-IT>Discorsi critici affrontati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ALLIANCE_UPKEEP_LEGITIMACY</zType>
+    <en-US>Humbled ourselves for a link(CONCEPT_ALLIANCE_PLAYER)</en-US>
+    <it-IT>Umiliati per un link(CONCEPT_ALLIANCE_PLAYER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_ALLIANCE_UPKEEP_LEGITIMACY</zType>
+    <en-US>Humbled ourselves for a link(CONCEPT_ALLIANCE_TRIBE)</en-US>
+    <it-IT>Umiliati per un link(CONCEPT_ALLIANCE_TRIBE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBE_PEACE_UPKEEP_LEGITIMACY</zType>
+    <en-US>Humbled ourselves for link(DIPLOMACY_PEACE)</en-US>
+    <it-IT>Umiliati per link(DIPLOMACY_PEACE)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_LOVE_KILLS_OPTION_0_CHARACTER_2</zType>
+    <en-US>Decried murder allegations</en-US>
+    <it-IT>Accuse di omicidio respinte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_FAMILY_FEUD_OPTION_0_CHARACTER_1</zType>
+    <en-US>Bowed to pressure from an Oligarch</en-US>
+    <it-IT>Si è piegato alle pressioni di un oligarca</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_EXPLORING_ENDS_LEGITIMACY</zType>
+    <en-US>Commissioned a great exploration</en-US>
+    <it-IT>Commissionata una grande esplorazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_DEATH_COMES_OPTION_0_CHARACTER_1</zType>
+    <en-US>Begged for a foreign ruler's forgiveness</en-US>
+    <it-IT>Implorato il perdono di un sovrano straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_A_CALL_FOR_HELP_OPTION_2_CHARACTER_1</zType>
+    <en-US>Brokered Peace between warring nations</en-US>
+    <it-IT>Ha mediato la pace tra nazioni in guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_INSIDER_OPTION_2_CHARACTER_1</zType>
+    <en-US>Refused a foreign ruler's demands</en-US>
+    <it-IT>Rifiuto delle richieste di un sovrano straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHARACTER_A_NOBLE_UPBRINGING_OPTION_1_PLAYER</zType>
+    <en-US>Did not fraternize with a captured princess</en-US>
+    <it-IT>non ha fraternizzato con una principessa catturata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_AT_DEATHS_DOOR_OPTION_2_CHARACTER_1</zType>
+    <en-US>Ignored a ruler's desperate plea</en-US>
+    <it-IT>Ignorato il disperato appello di un sovrano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MOTHER_IN_EXILE_RETURN</zType>
+    <en-US>Let a murderer return home</en-US>
+    <it-IT>Che un assassino torni a casa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_UNFAITHFUL_TIDINGS_STOP_LEADER</zType>
+    <en-US>Was chastened for being unfaithful</en-US>
+    <it-IT>È stato castigato per essere stato infedele</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CONFIRMATION_YES</zType>
+    <en-US>Got bullied into confirming my Heir</en-US>
+    <it-IT>Sono stato costretto a confermare il mio erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CULTURE_VISITOR_FROM_THE_EAST_OPTION_2_CHARACTER_1</zType>
+    <en-US>Rejected the influence of a foreign prophet </en-US>
+    <it-IT>Rifiuto dell'influenza di un profeta straniero </it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TUTOR_RULE_OF_LAW_OPTION_0_CHARACTER_2</zType>
+    <en-US>Got recognition as the seat of law</en-US>
+    <it-IT>Ha ottenuto il riconoscimento di sede della legge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TUTOR_BETRAYED_OPTION_1_CHARACTER_2</zType>
+    <en-US>Left the Heir's fate to chance</en-US>
+    <it-IT>Lasciare al caso il destino dell'erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_SECRET_STRIKE_OPTION_0_CHARACTER_0</zType>
+    <en-US>Refused to approve a murder plot</en-US>
+    <it-IT>Rifiutato di approvare un complotto omicida</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_A_TIME_TO_REAP_OPTION_3_CHARACTER_0</zType>
+    <en-US>Let a Courtier walk away</en-US>
+    <it-IT>Lasciate che un cortigiano se ne vada</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTSTORY_TRAIT_ENTRAILS</zType>
+    <en-US>Held an audience with a diviner</en-US>
+    <it-IT>Ha avuto un'udienza con un rabdomante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_DISTURBING_THE_PEACE_OPTION_2_CHARACTER_0</zType>
+    <en-US>Held a foreign Heir for ransom</en-US>
+    <it-IT>Detenzione di un erede straniero a scopo di riscatto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FREED_SLAVE_KEEP</zType>
+    <en-US>Stood up to Epictetus</en-US>
+    <it-IT>Si è alzato in piedi per Epitteto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_WILD_REVELS_OPTION_1_CHARACTER_0</zType>
+    <en-US>Did not participate in wild revels (but really did)</en-US>
+    <it-IT>Non ha partecipato ai bagordi selvaggi (but really did)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_RIDING_CONTEST_OPTION_1_CHARACTER_0</zType>
+    <en-US>Rode in Tribal contests</en-US>
+    <it-IT>Corse nei concorsi tribali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_AMNESTY_OPTION_1_CHARACTER_0</zType>
+    <en-US>Defied calls to release a prisoner</en-US>
+    <it-IT>Ha sfidato gli appelli a rilasciare un prigioniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_SECRET_FUND_OPTION_0_CHARACTER</zType>
+    <en-US>Overlooked Family tax theft</en-US>
+    <it-IT>Furto d'imposta familiare trascurato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_PUSHED_TOO_FAR_OPTION_0_CHARACTER_0</zType>
+    <en-US>Gave a vengeful Courtier a second chance</en-US>
+    <it-IT>Ha dato a un cortigiano vendicativo una seconda possibilità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_PUSHED_TOO_FAR_OPTION_1_CHARACTER_0</zType>
+    <en-US>Punished a treacherous Courtier</en-US>
+    <it-IT>Punito un cortigiano traditore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_THE_TRAVELER_OPTION_2_CHARACTER_0</zType>
+    <en-US>Gave bed to a traveling beggar</en-US>
+    <it-IT>Ha dato un letto a un mendicante itinerante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_SACRILEGE_OPTION_0_CHARACTER</zType>
+    <en-US>Appeased a Tribe</en-US>
+    <it-IT>Placare una tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_UNCHALLENGED_OPTION_0_CHARACTER_1</zType>
+    <en-US>Returned with stories of my authority</en-US>
+    <it-IT>Tornato con le storie della mia autorità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_THE_MYSTIC_OPTION_0</zType>
+    <en-US>Brought a strange mystic to court</en-US>
+    <it-IT>Portato a corte uno strano mistico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_MONKEYS_PAW_OPTION_1_CHARACTER_1</zType>
+    <en-US>Ignored childish stories</en-US>
+    <it-IT>Storie infantili ignorate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CUTS_BOTH_WAYS_OPTION_0_CHARACTER_0</zType>
+    <en-US>Gained renown from roaming poets</en-US>
+    <it-IT>Ha guadagnato fama presso i poeti itineranti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CRONE_KILLER_OPTION_0_CHARACTER_0</zType>
+    <en-US>Slayed a dastardly crone</en-US>
+    <it-IT>Ucciso una strega malvagia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_IN_PRIVATE_OPTION_2_CHARACTER_1</zType>
+    <en-US>Rebuffed a Tribal ruler</en-US>
+    <it-IT>Rimbambito un sovrano tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_SURPRISE_PROPOSAL_OPTION_2_CHARACTER_1</zType>
+    <en-US>Married a Tribal Leader</en-US>
+    <it-IT>Ha sposato un capo tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_THE_ORPHAN_EATER_OPTION_0_CHARACTER_3</zType>
+    <en-US>Refused a Tribal General</en-US>
+    <it-IT>Rifiuto di un Generale Tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_REQUEST_REFUSED_OPTION_0_CHARACTER_1</zType>
+    <en-US>Pleaded with a Tribal ruler</en-US>
+    <it-IT>Implorato da un governante tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLEA_FOR_LENIENCY_OPTION_1_CHARACTER_2</zType>
+    <en-US>Refused leniency for a political prisoner</en-US>
+    <it-IT>Rifiutata la clemenza per un prigioniero politico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_ALLIES_OF_CONVENIENCE_OPTION_3_CHARACTER_2</zType>
+    <en-US>Exposed potential plotters</en-US>
+    <it-IT>Esposti potenziali complottisti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_YOUR_SPOUSES_WEDDING_OPTION_2_CHARACTER_0</zType>
+    <en-US>Insulted a foreign ruler on their wedding day</en-US>
+    <it-IT>Insultato un sovrano straniero il giorno del matrimonio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_IN_SEARCH_OF_TRUTH_OPTION_0_CHARACTER_1</zType>
+    <en-US>Insisted that a royal Heir return to court</en-US>
+    <it-IT>Ha insistito per il ritorno a corte di un erede reale.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_CARAVAN_ATTACK_OPTION_1_CHARACTER_1</zType>
+    <en-US>Refused to accept blame for a Tribal incident</en-US>
+    <it-IT>Rifiuto di accettare la colpa di un incidente tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_VOYAGE_RUSE_OPTION_1_CHARACTER_2</zType>
+    <en-US>Punished a plotter</en-US>
+    <it-IT>Punito un complottista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_LONG_NIGHT_OPTION_1_CHARACTER_1</zType>
+    <en-US>Executed my murderous Heir</en-US>
+    <it-IT>Giustiziato il mio erede assassino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_UNEXPECTED_GUEST_OPTION_1_CHARACTER_2</zType>
+    <en-US>Scolded my Heir for interrupting a meeting</en-US>
+    <it-IT>Sgridato il mio erede per aver interrotto una riunione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_VIOLENT_ALTERCATION_OPTION_1_CHARACTER_2</zType>
+    <en-US>Refused to punish my rightful Heir</en-US>
+    <it-IT>Rifiuto di punire il mio legittimo erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DISHONOR_OUR_ANCESTORS_OPTION_1_CHARACTER_2</zType>
+    <en-US>Imprisoned my rightful Heir</en-US>
+    <it-IT>Imprigionato il mio legittimo erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ROGUE_NATION_OPTION_0_CHARACTER_1</zType>
+    <en-US>Allowed some city autonomy</en-US>
+    <it-IT>Consentita una certa autonomia cittadina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SNAKE_CHARMER_OPTION_0_CHARACTER_1</zType>
+    <en-US>Did not seek revenge on a Tribal ruler</en-US>
+    <it-IT>Non ha cercato di vendicarsi di un governante tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_FEEL_THE_PRESSURE_OPTION_0_CHARACTER_1</zType>
+    <en-US>Would not bow to pressure</en-US>
+    <it-IT>Non si è piegato alle pressioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLOTTING_NOBLES_OPTION_1</zType>
+    <en-US>Unjustly imprisoned nobles</en-US>
+    <it-IT>Nobili ingiustamente imprigionati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEGITIMIZE_BASTARDS_BODY_RELEASE</zType>
+    <en-US>Did not prosecute the murder of a royal bastard</en-US>
+    <it-IT>Non ha perseguito l'omicidio di un bastardo reale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INTERCESSION_YOUNG_BOND</zType>
+    <en-US>My Heir bonded with nobles</en-US>
+    <it-IT>Il mio erede si è legato ai nobili</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INTERCESSION_ELOPEMENT_LEGITIMACY</zType>
+    <en-US>My Heir had a scandalous marriage</en-US>
+    <it-IT>Il mio erede ha avuto un matrimonio scandaloso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INTERCESSION_FEAST_IGNORE</zType>
+    <en-US>Ignored Family slander</en-US>
+    <it-IT>Calunnia familiare ignorata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INTERCESSION_FEAST_ACCEPT</zType>
+    <en-US>Accepted a drunken apology</en-US>
+    <it-IT>Ha accettato le scuse di un ubriaco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INTERCESSION_FAMILY_UNITED_LEG_NEG</zType>
+    <en-US>Interfered in Family affairs</en-US>
+    <it-IT>Interferito negli affari della famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INTERCESSION_FAMILY_UNITED_LEG_POS</zType>
+    <en-US>Was above Family affairs</en-US>
+    <it-IT>Era al di sopra degli affari di famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MERCINARY_ARMY_1</zType>
+    <en-US>Invited an exile home</en-US>
+    <it-IT>Invitato a casa un esule</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLEA_FOR_FORGIVENESS_0</zType>
+    <en-US>Revoked a punishment</en-US>
+    <it-IT>Revoca di una punizione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLEA_FOR_FORGIVENESS_1</zType>
+    <en-US>Upheld a punishment</en-US>
+    <it-IT>Accoglimento di una punizione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_COVERT_MARRIAGE_LEADER</zType>
+    <en-US>Married for love</en-US>
+    <it-IT>Sposati per amore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FALLEN_SPYMASTER_OPTION_1_CHARACTER_0</zType>
+    <en-US>Refused to cower before a conspiracy</en-US>
+    <it-IT>Si è rifiutato di arrendersi di fronte a una cospirazione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FALLEN_SPYMASTER_OPTION_2_CHARACTER_0</zType>
+    <en-US>Reacted a bit too fearfully to a conspiracy</en-US>
+    <it-IT>Reazione un po' troppo timorosa a una cospirazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HAPPINESS_FOUND_RELIGION_NO</zType>
+    <en-US>The people look to me for divine guidance</en-US>
+    <it-IT>Il popolo guarda a me per avere una guida divina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FOREST_FIRE_EMBERS_OPTION_0_PLAYER</zType>
+    <en-US>Helped my people after a forest fire</en-US>
+    <it-IT>Ho aiutato la mia gente dopo un incendio nella foresta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FOREST_FIRE_ORPHAN_OPTION_0_PLAYER</zType>
+    <en-US>Invited a forest fire orphan to my Court</en-US>
+    <it-IT>Invitato un orfano di incendio boschivo alla mia Corte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FOREST_FIRE_ORPHAN_OPTION_1_PLAYER</zType>
+    <en-US>Invited a forest fire orphan to be a Scribe</en-US>
+    <it-IT>Ha invitato un orfano dell'incendio boschivo a diventare scriba.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FOREST_FIRE_TOMB_OPTION_1_PLAYER</zType>
+    <en-US>Preserved an ancient tomb</en-US>
+    <it-IT>Conservazione di un'antica tomba</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FOREST_FIRE_TOMB_OPTION_0_PLAYER</zType>
+    <en-US>Looted an ancient tomb</en-US>
+    <it-IT>Saccheggiare un'antica tomba</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FOREST_FIRE_MONUMENT_OPTION_2_PLAYER</zType>
+    <en-US>Refused to honor an ancient tomb</en-US>
+    <it-IT>Rifiutato di onorare un'antica tomba</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FOREST_FIRE_MONUMENT_OPTION_1_PLAYER</zType>
+    <en-US>Decreed an ancient tomb to be a Monument</en-US>
+    <it-IT>Decretata la trasformazione di un'antica tomba in monumento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEW_TYPE_OF_ANIMAL_SYMBOL_PLAYER</zType>
+    <en-US>Made a noble creature a symbol of our Nation</en-US>
+    <it-IT>Ha fatto di una nobile creatura un simbolo della nostra nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CULTURE_A_BEACON_OPTION_0_CHARACTER_1</zType>
+    <en-US>Added foreign refugees to my military</en-US>
+    <it-IT>Aggiunta di rifugiati stranieri al mio esercito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CULTURE_A_BEACON_OPTION_2_CHARACTER_1</zType>
+    <en-US>Gave foreign refugees citizenship</en-US>
+    <it-IT>Ha concesso la cittadinanza ai rifugiati stranieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CULTURE_TEMPLE_HYMNS_OPTION_2_CHARACTER</zType>
+    <en-US>Strengthened the link(CONCEPT_STATE_RELIGION)</en-US>
+    <it-IT>Rafforzato il link(CONCEPT_STATE_RELIGION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CULTURE_FREEDOM_MOVEMENT_OPTION_1_CHARACTER</zType>
+    <en-US>Permitted anti-slavery sentiment</en-US>
+    <it-IT>Permesso il sentimento antischiavista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CULTURE_THE_PUBLIC_PURSE_OPTION_1_CHARACTER</zType>
+    <en-US>Paid to influence nobles</en-US>
+    <it-IT>Pagati per influenzare i nobili</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GLADIATOR_GAMES_SOLDIER</zType>
+    <en-US>Personally trained a cohort of link(PROJECT_GLADIATORS)</en-US>
+    <it-IT>Abbiamo addestrato personalmente una coorte di link(PROJECT_GLADIATORS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_OLYMPIAD_SPEECH</zType>
+    <en-US>Gave an eloquent speech during the link(PROJECT_OLYMPICS)</en-US>
+    <it-IT>Ha tenuto un discorso eloquente durante il link(PROJECT_OLYMPICS)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_LABYRINTH_SUCCESS</zType>
+    <en-US>Solved the infamous link(PROJECT_LABYRINTH)</en-US>
+    <it-IT>Risolto il famigerato link(PROJECT_LABYRINTH)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CITY_ANARCHY_DISTRACT</zType>
+    <en-US>Choose to entertain the Rebels</en-US>
+    <it-IT>Scegliere di intrattenere i Ribelli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUPPORTING_THE_FAITH_OPTION_REFUSE</zType>
+    <en-US>Refused to bow to religious demands</en-US>
+    <it-IT>Rifiuto di piegarsi alle richieste religiose</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FOUNDING_FAITH_THEM_YES</zType>
+    <en-US>Supported a foreign faith</en-US>
+    <it-IT>Sostenere una fede straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BLESSINGS_OF_OUR_ANCESTORS_OPTION_1_PLAYER</zType>
+    <en-US>Forbade the veneration of ancestors</en-US>
+    <it-IT>Vietata la venerazione degli antenati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_RIGHTEOUS_PATH_OPTION_2_CHARACTER</zType>
+    <en-US>Avoided a difficult decision about religion</en-US>
+    <it-IT>Evitare una decisione difficile sulla religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SHRINE_REFUSE</zType>
+    <en-US>Refused to bow to the pagans</en-US>
+    <it-IT>Rifiuto di inchinarsi ai pagani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_DEDICATION_2</zType>
+    <en-US>Forged my own path</en-US>
+    <it-IT>Ho forgiato il mio percorso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FIRE_OF_FIRES_YES</zType>
+    <en-US>Donated embers for a sacred fire</en-US>
+    <it-IT>Braci donate per un fuoco sacro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FIRE_OF_FIRES_NO</zType>
+    <en-US>Refused embers for a sacred fire</en-US>
+    <it-IT>Braci rifiutate per un fuoco sacro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HOUSE_OF_SONG</zType>
+    <en-US>Compared my palace to the Divine's</en-US>
+    <it-IT>paragonare il mio palazzo a quello del Divino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BEATING_THE_POETS_RULER</zType>
+    <en-US>Showed skills as an Orator</en-US>
+    <it-IT>Ha dimostrato capacità di oratore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_OFFERINGS_TO_THE_DEAD_1</zType>
+    <en-US>Moved past a tragic loss</en-US>
+    <it-IT>Superata una tragica perdita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INTO_THE_SKY_1</zType>
+    <en-US>Abandoned traditional burial practices</en-US>
+    <it-IT>Pratiche di sepoltura tradizionale abbandonate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INTO_THE_SKY_2</zType>
+    <en-US>Upheld traditional burial practices</en-US>
+    <it-IT>Mantenimento delle pratiche di sepoltura tradizionali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_IMPERFECT_MADE_PERFECT_0</zType>
+    <en-US>Refused to forgive a subject</en-US>
+    <it-IT>Rifiuto di perdonare un soggetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_IMPERFECT_MADE_PERFECT_1</zType>
+    <en-US>Publicly forgave a subject</en-US>
+    <it-IT>Perdonare pubblicamente un soggetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INSCRIPTIONS_TO_AHURA_MAZDA_0</zType>
+    <en-US>Erected royal inscriptions</en-US>
+    <it-IT>Iscrizioni reali erette</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTIONS_NOWRUZ_1</zType>
+    <en-US>Toasted the Court</en-US>
+    <it-IT>Brindisi alla Corte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTIONS_SACRIFICIAL_DEER_2</zType>
+    <en-US>Hunted an impressive stag</en-US>
+    <it-IT>Caccia a un cervo impressionante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTIONS_RITUAL_AND_LIFE_0</zType>
+    <en-US>Allowed myself to be bound by religious legal code</en-US>
+    <it-IT>Mi sono lasciato vincolare da un codice giuridico religioso.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTIONS_RITUAL_AND_LIFE_1</zType>
+    <en-US>Refused religious legal code</en-US>
+    <it-IT>Codice giuridico religioso rifiutato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTIONS_DIVINE_PRIEST_0</zType>
+    <en-US>Adopted a new god as a patron</en-US>
+    <it-IT>Ha adottato un nuovo dio come patrono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTIONS_FOUNDING_AVESTAN_1</zType>
+    <en-US>Claimed to be part of a divine lineage</en-US>
+    <it-IT>Affermava di far parte di una stirpe divina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RIVAL_AT_THE_BRIDGE_LEG_0</zType>
+    <en-US>Got final vengeance on a rival</en-US>
+    <it-IT>Vendetta finale su un rivale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RIVAL_AT_THE_BRIDGE_LEG_1</zType>
+    <en-US>Forgave a rival after their death</en-US>
+    <it-IT>Perdonare un rivale dopo la sua morte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MEDICAL_AID_PAID</zType>
+    <en-US>Paid for an opponent's treatment</en-US>
+    <it-IT>Ha pagato per il trattamento di un avversario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGIOUS_GOVERNOR_LEGIT</zType>
+    <en-US>Refused a proposed Governor</en-US>
+    <it-IT>Rifiuto di una proposta di Governatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ZURVANITES_1</zType>
+    <en-US>Allowed Ahura Mazda to be weakened</en-US>
+    <it-IT>Permise ad Ahura Mazda di essere indebolito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ZURVANITES_2</zType>
+    <en-US>Allowed Ahura Mazda to be weakened</en-US>
+    <it-IT>Permise ad Ahura Mazda di essere indebolito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BONDED_BY_FAITH_0</zType>
+    <en-US>Accepted a Religion Head’s alliance</en-US>
+    <it-IT>Accettato l'alleanza di un Capo Religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BABY_IN_THE_BASKET_0</zType>
+    <en-US>Accepted a child from the river</en-US>
+    <it-IT>Accettato un bambino dal fiume</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BABY_IN_THE_BASKET_3</zType>
+    <en-US>Cast out a child from the river</en-US>
+    <it-IT>Gettare un bambino dal fiume</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ASHERAH_1</zType>
+    <en-US>Bowed to my spouse's demands</en-US>
+    <it-IT>Mi sono piegato alle richieste del mio coniuge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ASHERAH_2</zType>
+    <en-US>Bowed to my spouse's demands</en-US>
+    <it-IT>Mi sono piegato alle richieste del mio coniuge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WEALTH_OF_DAVID_RELIGION_LEG_NEG</zType>
+    <en-US>Allowed my ancestor’s tomb to be defiled</en-US>
+    <it-IT>Permettere che la tomba del mio antenato venga profanata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WEALTH_OF_DAVID_RELIGION_LEG_POS</zType>
+    <en-US>Avenged the robbing of my ancestor's tomb</en-US>
+    <it-IT>Vendicato il furto della tomba del mio antenato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEADER_OF_FAITH_1</zType>
+    <en-US>Treated equally with a religion head</en-US>
+    <it-IT>Trattati allo stesso modo con una testa di religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GENEROUS_OFFER_REFUSE</zType>
+    <en-US>Turned down a donation</en-US>
+    <it-IT>Rifiuto di una donazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGIOUS_ABDICATION</zType>
+    <en-US>Refused to abdicate</en-US>
+    <it-IT>Rifiuto di abdicare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGIOUS_INTRIGUE_DISCOVERED_0</zType>
+    <en-US>Begged a religion head for forgiveness</en-US>
+    <it-IT>Implorato il perdono di un capo religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LAW_HEAVENS_CHOSEN_OPTION_0_CHARACTER</zType>
+    <en-US>Clarified my mortality</en-US>
+    <it-IT>Chiarito la mia mortalità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LAW_UNPAID_DEBTS_OPTION_0_CHARACTER_0</zType>
+    <en-US>Considered coin debasement</en-US>
+    <it-IT>Considerato uno svilimento della moneta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RULE_BY_GODS_WILL_OPTION_0_PLAYER</zType>
+    <en-US>Accepted the title Defender of the Faith</en-US>
+    <it-IT>Ha accettato il titolo di Difensore della Fede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_COLOSSUS_ANCESTOR</zType>
+    <en-US>Dedicated the Colossus to my ancestor</en-US>
+    <it-IT>Dedicato il Colosso al mio antenato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NECROPOLIS_RECORD_CITY</zType>
+    <en-US>Recorded my ancestor's accomplishments at the Necropolis</en-US>
+    <it-IT>Registrazione delle imprese dei miei antenati alla Necropoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DINOSAUR_BONES_SLAVERY_VERSION_OPTION_2</zType>
+    <en-US>Destroyed the bones of monsters</en-US>
+    <it-IT>Distrutto le ossa dei mostri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DINOSAUR_BONES_FREEDOM_VERSION_OPTION_2</zType>
+    <en-US>Commissioned an epic poem about Dragons</en-US>
+    <it-IT>Commissionato un poema epico sui draghi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DINOSAUR_BONES_LITERATURE_VERSION_OPTION_2</zType>
+    <en-US>Preserved bones for study</en-US>
+    <it-IT>Ossa conservate per lo studio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PILLAGING_TRIBE_SUCCESS</zType>
+    <en-US>Got revenge against a Tribe</en-US>
+    <it-IT>Vendetta contro una tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_EXOTIC_PETS_MONKEY_BAD_POLITICS</zType>
+    <en-US>Prioritized quality time with my pet monkey</en-US>
+    <it-IT>Privilegiare il tempo di qualità con la mia scimmia domestica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MYSTERIOUS_SWORD_USING_DISPLAY_LEADER</zType>
+    <en-US>Put my Mysterious Sword on display for all</en-US>
+    <it-IT>Mettere la mia Spada Misteriosa in mostra per tutti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MYSTERIOUS_SWORD_BREAK_ACCEPT</zType>
+    <en-US>Broke the Sword of the Gods</en-US>
+    <it-IT>Spezzata la Spada degli Dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ASCETIC_MOVEMENT_ALLOW</zType>
+    <en-US>Was unafraid of the Ascetic movement</en-US>
+    <it-IT>Non temeva il movimento ascetico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INSOLENT_GENERALS_TRAINING_CHARACTER_0</zType>
+    <en-US>Allowed foreign generals to insult my people</en-US>
+    <it-IT>Permesso a generali stranieri di insultare il mio popolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_VIEW_FROM_THE_THRONE_OPTION_2</zType>
+    <en-US>Sat alone on the high throne</en-US>
+    <it-IT>Seduto da solo sull'alto trono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WONDER_ETERNAL_REST_OPTION_2</zType>
+    <en-US>Built myself a grand Mausoleum</en-US>
+    <it-IT>Costruito io stesso un grande mausoleo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WONDER_GODS_AND_MEN_OPTION_0</zType>
+    <en-US>Built a dynastic sanctuary</en-US>
+    <it-IT>Costruito un santuario dinastico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGION_NOMADS_OPTION_1</zType>
+    <en-US>Refused to permit a foreign faith</en-US>
+    <it-IT>Rifiuto di consentire una fede straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGION_THE_APOSTLES_OPTION_1_CHARACTER</zType>
+    <en-US>Broke up a Christian gathering</en-US>
+    <it-IT>Distrutto un raduno cristiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGION_YOUR_BLESSING_OPTION_2_CHARACTER_1</zType>
+    <en-US>Kept a Courtier from leaving</en-US>
+    <it-IT>Ha impedito a un cortigiano di andarsene</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CULTURE_GADFLY_OPTION_0</zType>
+    <en-US>Added a gadfly to the Court</en-US>
+    <it-IT>Aggiunta di un tafano alla Corte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CULTURE_GADFLY_OPTION_1</zType>
+    <en-US>Banished a gadfly from the Nation</en-US>
+    <it-IT>Bandito un tafano dalla Nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TECH_VAULTING_NEW_OBSESSION_OPTION_0_CHARACTER_0</zType>
+    <en-US>Chose a new royal Ambition</en-US>
+    <it-IT>Scegliere una nuova ambizione reale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TECH_LATEEN_CAPSIZED_SPIES_OPTION_0_CHARACTER_0</zType>
+    <en-US>Revealed treachery</en-US>
+    <it-IT>Tradimento svelato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TECH_WINDLASS_ROPE_AND_WINCH_OPTION_0_CHARACTER_0</zType>
+    <en-US>Refused to build a torture device</en-US>
+    <it-IT>Rifiuto di costruire un dispositivo di tortura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TECH_BARDING_NOBLE_EXCESS_OPTION_0_CHARACTER_0</zType>
+    <en-US>Claimed a noble's horse armor</en-US>
+    <it-IT>Rivendicato l'armatura del cavallo di un nobile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TECH_BARDING_CLEMENCY_OPTION_2_CHARACTER_0</zType>
+    <en-US>Negotiated a political exile</en-US>
+    <it-IT>Ha negoziato un esilio politico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_TREACHERY_OPTION_2_CHARACTER_1</zType>
+    <en-US>Bowed to a traitor's pressure</en-US>
+    <it-IT>Si è piegato alle pressioni di un traditore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_ALLIED_INTELLIGENCE_OPTION_1_CHARACTER_1</zType>
+    <en-US>Relied on a Tribe to smuggle spies</en-US>
+    <it-IT>Si è affidato a una Tribù per contrabbandare le spie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SEDITIOUS_MEETINGS_OPTION_2_CHARACTER_1</zType>
+    <en-US>Bowed to pressure for political reform</en-US>
+    <it-IT>Ha ceduto alle pressioni per una riforma politica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_BAD_BLOOD_OPTION_2_CHARACTER_1</zType>
+    <en-US>Warned a nation against meddling</en-US>
+    <it-IT>Mettere in guardia una nazione dall'intromettersi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_FAMILY_DEBTS_OPTION_1_CHARACTER_1</zType>
+    <en-US>Threatened lowly debt collectors</en-US>
+    <it-IT>Minacciati i piccoli esecutori di crediti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGION_THE_CONVERTED_OPTION_3_CHARACTER_0</zType>
+    <en-US>Bent to Christian influence</en-US>
+    <it-IT>Piegati all'influenza cristiana</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGION_AWAITING_EXECUTION_OPTION_0_CHARACTER</zType>
+    <en-US>Used the state to protect a religion</en-US>
+    <it-IT>Usare lo Stato per proteggere una religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGION_AWAITING_EXECUTION_OPTION_1_CHARACTER</zType>
+    <en-US>Did not mix politics and religion</en-US>
+    <it-IT>Non ha mescolato politica e religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGION_OUR_ALLEGIANCE_OPTION_1_CHARACTER</zType>
+    <en-US>Proclaimed that my armies fight for me, not a god</en-US>
+    <it-IT>Proclamato che i miei eserciti combattono per me, non per un dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRAIT_MONSOON_OPTION_2_CHARACTER</zType>
+    <en-US>Continued exploring</en-US>
+    <it-IT>Continua l'esplorazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_SHARED_INTERESTS_OPTION_0_CHARACTER</zType>
+    <en-US>Formed a friendship with a foreign ruler</en-US>
+    <it-IT>Stringere amicizia con un sovrano straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_MAKING_PEACE_OPTION_1_CHARACTER_1</zType>
+    <en-US>Sentenced a mutinous General to a short prison term</en-US>
+    <it-IT>Condannato un generale ammutinato a una breve pena detentiva</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_THE_RANT_OPTION_2_CHARACTER_1</zType>
+    <en-US>Toyed with a foreign ruler</en-US>
+    <it-IT>Giocare con un sovrano straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_INNER_CIRCLE_OPTION_0</zType>
+    <en-US>Added a foreign advisor to court</en-US>
+    <it-IT>Aggiunta di un consigliere straniero alla corte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELATIONSHIP_GIVE_AN_INCH_OPTION_0_CHARACTER_1</zType>
+    <en-US>Refused to bow to foreign pressure</en-US>
+    <it-IT>Rifiuto di piegarsi alle pressioni straniere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HAPPINESS_PLEASURE_BANQUET_OPTION_2</zType>
+    <en-US>Made a fool of myself at a banquet</en-US>
+    <it-IT>Mi sono reso ridicolo a un banchetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_REINED_IN_OPTION_1_CHARACTER_0</zType>
+    <en-US>Refused to impose Tyranny</en-US>
+    <it-IT>Rifiuto di imporre la tirannia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HANDS_TIED_OPTION_2_CHARACTER_0</zType>
+    <en-US>Publicly admonished my outspoken Heir</en-US>
+    <it-IT>Ammonito pubblicamente il mio schietto Erede</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_BIG_PICTURE_OPTION_1_CHARACTER_0</zType>
+    <en-US>Defended existing laws</en-US>
+    <it-IT>Difesa delle leggi esistenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUPPLY_CHAIN_WOES_OPTION_0_CHARACTER_0</zType>
+    <en-US>Caved to worker protests</en-US>
+    <it-IT>Ha ceduto alle proteste dei lavoratori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_IRREPARABLE_DAMAGE_OPTION_2_CHARACTER_0</zType>
+    <en-US>Broke up a radical sect</en-US>
+    <it-IT>Rottamazione di una setta radicale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SMALL_MINDEDNESS_OPTION_1_CHARACTER_0</zType>
+    <en-US>Was bullied by a rival Family</en-US>
+    <it-IT>È stato vittima di bullismo da parte di una famiglia rivale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEADERS_OR_LUNATICS_OPTION_2_CHARACTER_0</zType>
+    <en-US>Removed an eccentric Governor</en-US>
+    <it-IT>Rimozione di un governatore eccentrico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_A_MESSY_AFFAIR_OPTION_1_CHARACTER_1</zType>
+    <en-US>Investigated a controversial murder</en-US>
+    <it-IT>Indagine su un omicidio controverso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HIRED_KILLERS_OPTION_2_CHARACTER_0</zType>
+    <en-US>Pledged to root out conspirators</en-US>
+    <it-IT>Impegnato a sradicare i cospiratori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LAST_KISS_OPTION_0_CHARACTER_2</zType>
+    <en-US>Accused a Family of murder</en-US>
+    <it-IT>Accusato di omicidio una famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WOOD_SHORTAGES_OPTION_0_PLAYER_0</zType>
+    <en-US>Needed foreign aid</en-US>
+    <it-IT>Aiuto estero necessario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SLANDER_NO_MORE_SECRETS_OPTION_0_PLAYER_0</zType>
+    <en-US>My spies surrendered state secrets</en-US>
+    <it-IT>Le mie spie hanno consegnato i segreti di Stato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PACIFY_SEND_HIM_OUT_OPTION_2_PLAYER</zType>
+    <en-US>Heard a rebellious City's demands</en-US>
+    <it-IT>Ascoltate le richieste di una città ribelle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DIVORCE_FLIGHT_FROM_NATION_OPTION_0_CHARACTER_0</zType>
+    <en-US>Declared my traitorous Heir as illegitimate</en-US>
+    <it-IT>Dichiarato illegittimo il mio erede traditore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INFLUENCE_A_DEADLY_REQUEST_OPTION_2_CHARACTER_2</zType>
+    <en-US>Fought off usurpers</en-US>
+    <it-IT>Combattere gli usurpatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FEAR_OF_THE_OTHER_OPTION_1_CHARACTER_3</zType>
+    <en-US>Ignored public unrest</en-US>
+    <it-IT>Ignorare i disordini pubblici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SECRET_RITUALS_OPTION_0_CHARACTER_3</zType>
+    <en-US>Did not enforce authority</en-US>
+    <it-IT>Non ha applicato l'autorità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SPECIAL_STATUS_OPTION_2_CHARACTER_1</zType>
+    <en-US>Fought to end corruption</en-US>
+    <it-IT>Ha lottato per porre fine alla corruzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_IN_REMEMBRANCE_OPTION_1_CHARACTER_2</zType>
+    <en-US>Refused to honor one ruler above all</en-US>
+    <it-IT>Rifiuto di onorare un sovrano al di sopra di tutti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MILITARY_GRIEVANCES_OPTION_0_CHARACTER_2</zType>
+    <en-US>Refused military pressure</en-US>
+    <it-IT>Rifiuto della pressione militare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBAL_MERCENARIES_0</zType>
+    <en-US>Took Tribal Mercenaries</en-US>
+    <it-IT>Mercenari Tribali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBAL_MERCENARIES_1</zType>
+    <en-US>Took Tribal Mercenaries</en-US>
+    <it-IT>Presi mercenari tribali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBAL_MERCENARIES_2</zType>
+    <en-US>Refused Tribal Mercenaries</en-US>
+    <it-IT>Mercenari tribali rifiutati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TWO_MOTHERS_ONE_CHILD_2</zType>
+    <en-US>Decreed a brutal judgment</en-US>
+    <it-IT>Decretato un giudizio brutale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_END_OF_A_SIEGE_BAD_OPTION_1</zType>
+    <en-US>Was fooled by a wooden horse</en-US>
+    <it-IT>È stato ingannato da un cavallo di legno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TROOPS_RANSACK_OPTION_1_LEADER</zType>
+    <en-US>Gave away our share of the spoils</en-US>
+    <it-IT>Abbiamo dato via la nostra parte di bottino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TROOPS_RANSACK_SLAVERY_OPTION_2</zType>
+    <en-US>Showed my enemies no mercy</en-US>
+    <it-IT>Non ho avuto pietà dei miei nemici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MERCENARY_DEMANDS_YES</zType>
+    <en-US>Caved to mercenary demands</en-US>
+    <it-IT>Ha ceduto alle richieste dei mercenari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_POLEMICIST_GRACIOUS</zType>
+    <en-US>Ignored a hostile polemicist</en-US>
+    <it-IT>Ignorato un polemista ostile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_POLEMICIST_ELOQUENT</zType>
+    <en-US>Rebutted a hostile polemicist</en-US>
+    <it-IT>Controbattere un polemista ostile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RIOTS_AT_THE_RACES_OPTION_1</zType>
+    <en-US>Was frightened of angering the people</en-US>
+    <it-IT>Aveva paura di irritare il popolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LEGITIMACY_CALENDAR</zType>
+    <en-US>Named a new calendar after myself</en-US>
+    <it-IT>Dare il mio nome a un nuovo calendario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CAPTURED_NOBLE_EXECUTE</zType>
+    <en-US>Executed a foreign noble to send a message</en-US>
+    <it-IT>Giustiziato un nobile straniero per inviare un messaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MONUMENTAL_EVENING</zType>
+    <en-US>A memorable feast was thrown in my honor</en-US>
+    <it-IT>In mio onore è stato organizzato un banchetto memorabile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DISMAL_EVENING</zType>
+    <en-US>A terrible feast was thrown in my honor</en-US>
+    <it-IT>Un terribile banchetto è stato organizzato in mio onore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SUCCESSION_POWER_STRUGGLES_OPTION_REMOVE_LEADER</zType>
+    <en-US>Dealt with a corrupt member of a family</en-US>
+    <it-IT>Trattare con un membro corrotto di una famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CODE_OF_LAWS_MYSELF_PLAYER</zType>
+    <en-US>Personally appointed the nation's judges</en-US>
+    <it-IT>Ha nominato personalmente i giudici della nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAIVE_AMBASSADOR_CHASTIZE_CHARACTER</zType>
+    <en-US>Chastised an incompetent Ambassador</en-US>
+    <it-IT>Castigato un ambasciatore incompetente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FIFTH_COLUMN_EXECUTE_CITY</zType>
+    <en-US>Made an example of a traitorous subject</en-US>
+    <it-IT>Un esempio di soggetto traditore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FIFTH_COLUMN_DENY_CITY</zType>
+    <en-US>Denied the possibility of traitors</en-US>
+    <it-IT>Negata la possibilità di traditori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INTERFAITH_DIALOGUE_ATTEND_CITY</zType>
+    <en-US>Attended an interfaith dialogue</en-US>
+    <it-IT>Partecipazione a un dialogo interreligioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_KILLED_IN_COLD_WATER_NO_SUSPICION_TERROR_DISMISS_CITY</zType>
+    <en-US>Refused to take action</en-US>
+    <it-IT>Rifiuto di agire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_KILLED_IN_COLD_WATER_SUSPICION_CAUGHT_RED_HANDED_SELF_CITY</zType>
+    <en-US>Captured a murderer</en-US>
+    <it-IT>Catturato un assassino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_MENACE_ELIMINATED_COHORTES_CITY</zType>
+    <en-US>Reinforced the city guard</en-US>
+    <it-IT>Rafforzamento della guardia cittadina</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_MENACE_ELIMINATED_EXECUTION_CITY</zType>
+    <en-US>Publicly executed a murderer</en-US>
+    <it-IT>Esecuzione pubblica di un assassino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_KILLED_IN_COLD_WATER_A_FIERY_END_HIGHPROB_REPAIR</zType>
+    <en-US>Repaired damage caused by the murderer</en-US>
+    <it-IT>Riparazione dei danni causati dall'assassino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LOST_IN_TRANSLATION_CUNNING_PLAYER_0</zType>
+    <en-US>Charmed my neighbors in a diplomatic mediation</en-US>
+    <it-IT>Incantato i miei vicini in una mediazione diplomatica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_A_GREEN_DEDICATION_SELF_CHARACTER_1</zType>
+    <en-US>Gained support from a Governor</en-US>
+    <it-IT>Ottenere il sostegno di un governatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GOLDEN_GIFTS_WEAR_CHARACTER</zType>
+    <en-US>Became resplendent in golden gifts</en-US>
+    <it-IT>Diventa splendente di doni d'oro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_VICTORY_FOR_THE_LEADER_SELF_CHARACTER_0</zType>
+    <en-US>A General proclaimed my good leadership</en-US>
+    <it-IT>Un generale ha proclamato la mia buona leadership</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RESISTANCE_TO_ATENISM_OPTION_1_PLAYER_0</zType>
+    <en-US>Allowed other gods to Aten</en-US>
+    <it-IT>Consentito ad altre divinità di Aten</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RESISTANCE_TO_ATENISM_OPTION_2_PLAYER_0</zType>
+    <en-US>Centralized religion into the worship of Aten</en-US>
+    <it-IT>Centralizzazione della religione nel culto di Aten</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PURIM_BAN_PLAYER</zType>
+    <en-US>Banned a festival that spoke ill of the Nation</en-US>
+    <it-IT>Vietato un festival che parlava male della Nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PLOT_BY_HERETICS_SURRENDER_PLAYER</zType>
+    <en-US>Surrendered to blackmail</en-US>
+    <it-IT>Si è arreso al ricatto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ATENISM_PLOT_UNCOVERED_PUNISH_PLAYER</zType>
+    <en-US>Punished would-be assassins</en-US>
+    <it-IT>Puniti gli aspiranti assassini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BLOODSHED_AMONG_THE_RIGHTEOUS_ELOQUENT_CHARACTER</zType>
+    <en-US>Emphasized that our people are the true followers of the faith</en-US>
+    <it-IT>Sottolineato che il nostro popolo è il vero seguace della fede.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_COMING_OF_AGE_SELF_PLAYER</zType>
+    <en-US>Personally led coming of age ceremonies</en-US>
+    <it-IT>Cerimonie di passaggio alla maggiore età condotte personalmente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INAPPROPRIATE_FAITH_CONVINCE_LEGITIMACY</zType>
+    <en-US>Led a Family to the light</en-US>
+    <it-IT>Ha condotto una famiglia alla luce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_AN_UNUSUAL_CHANCELLOR_PROCLAIM</zType>
+    <en-US>Refused to name a Chancellor</en-US>
+    <it-IT>Si è rifiutato di nominare un Cancelliere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_INSOLENT_GENERAL_OPTION_1_PLAYER</zType>
+    <en-US>Rebuked an insolent General</en-US>
+    <it-IT>Rimproverò un generale insolente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_UNEXPECTED_REUNION_REINSTATE_CHARACTER_1</zType>
+    <en-US>Forgave a deserter General</en-US>
+    <it-IT>Ha perdonato un generale disertore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_UNEXPECTED_REUNION_IMPRISON_CHARACTER_1</zType>
+    <en-US>Punished a deserter General</en-US>
+    <it-IT>Punito un generale disertore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BATTLE_IN_THE_SKIES_LEGITIMACY_CITY</zType>
+    <en-US>Promised protection after astrological signs</en-US>
+    <it-IT>Protezione promessa dopo i segni astrologici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGIOUS_PILGRIMS_WAR_HOSTAGES_FAIL_DEPORT_CHARACTER</zType>
+    <en-US>Failed to deal with foreign hostages</en-US>
+    <it-IT>Mancata gestione degli ostaggi stranieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGIOUS_PRAISE_YES</zType>
+    <en-US>Allowed other Families to sponsor religious events</en-US>
+    <it-IT>Consentire ad altre Famiglie di sponsorizzare eventi religiosi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RELIGIOUS_PRAISE_NO</zType>
+    <en-US>Prevented other Families from sponsoring religious events</en-US>
+    <it-IT>Impedito ad altre Famiglie di sponsorizzare eventi religiosi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CULINARY_ESCAPADES_3</zType>
+    <en-US>Was shown up by another Family</en-US>
+    <it-IT>È stato presentato da un'altra famiglia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBAL_TRAINING_1</zType>
+    <en-US>Turned down Tribal training</en-US>
+    <it-IT>Rifiuto della formazione tribale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TRIBAL_TRAINING_3</zType>
+    <en-US>Accepted Tribal training</en-US>
+    <it-IT>Formazione tribale accettata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_LEADER_MARK_LARGE</zType>
+    <en-US>Made a large change to the nation</en-US>
+    <it-IT>Ha apportato un grande cambiamento alla nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_LEADER_MARK_SMALL</zType>
+    <en-US>Made changes to the nation</en-US>
+    <it-IT>Modifiche alla nazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_FOREIGN_LIT</zType>
+    <en-US>Encouraged national literature</en-US>
+    <it-IT>Incoraggiare la letteratura nazionale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_MORAL_CORRUPTION_0</zType>
+    <en-US>Allowed morally corrupt athletics</en-US>
+    <it-IT>Consentita un'atletica moralmente corrotta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_MORAL_CORRUPTION_1</zType>
+    <en-US>Steered a student away from corruption</en-US>
+    <it-IT>Ha allontanato uno studente dalla corruzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_MUSIC_0</zType>
+    <en-US>Encouraged a student in playing music</en-US>
+    <it-IT>Incoraggiare uno studente a suonare la musica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_CURSE_OF_AGADE_0</zType>
+    <en-US>Instilled pride in my successor</en-US>
+    <it-IT>Ha instillato l'orgoglio nel mio successore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_CURSE_OF_AGADE_1</zType>
+    <en-US>Encouraged humility in my successor</en-US>
+    <it-IT>Ha incoraggiato l'umiltà nel mio successore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LEGIT_LOSS_FIVE</zType>
+    <en-US>Failed to lead</en-US>
+    <it-IT>Non è riuscito a guidare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LEGIT_LOSS_DEBT</zType>
+    <en-US>Refused to pay debts</en-US>
+    <it-IT>Rifiuto di pagare i debiti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_LEGIT_POISONED_MY_PREDECESSOR</zType>
+    <en-US>Poisoned my predecessor</en-US>
+    <it-IT>Avvelenato il mio predecessore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_LEGITIMACY_FROM_SCHEMING</zType>
+    <en-US>Schemed a way out of a War</en-US>
+    <it-IT>Escogitare una via d'uscita dalla guerra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_LEGITIMACY_LOVE_AFFAIR_KEEP</zType>
+    <en-US>Was unashamed of my lover</en-US>
+    <it-IT>Non mi vergogno del mio amante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_LEGITIMACY_REJECTED_CHILD</zType>
+    <en-US>Rejected a mysterious child</en-US>
+    <it-IT>Rifiutato un bambino misterioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_RELIGION_HEAD_REFUSED</zType>
+    <en-US>Refused a religious head</en-US>
+    <it-IT>Rifiuto di un capo religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_RELIGION_HEAD_HUMBLED_BY</zType>
+    <en-US>Was humbled by a religious head</en-US>
+    <it-IT>È stato umiliato da un capo religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_RETURNED_BODIES</zType>
+    <en-US>Honored fallen bodyguards</en-US>
+    <it-IT>Onorate le guardie del corpo cadute</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WILD_REVELS_DISCOVERED</zType>
+    <en-US>Gained a reputation as a foolish drunk</en-US>
+    <it-IT>Si è guadagnato la reputazione di ubriacone sciocco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RAID_FRIENDS_IN_FAR_PLACES</zType>
+    <en-US>Protected a Courtier from invaders</en-US>
+    <it-IT>Ha protetto un cortigiano dagli invasori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_AUTONOMOUS_EMPRESS_1</zType>
+    <en-US>Allowed autonomous rule</en-US>
+    <it-IT>Regola autonoma consentita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SLAVE_REVOLT_4_FORGIVENESS_REBEL_SLAVE</zType>
+    <en-US>Made a deal with the rebel slaves</en-US>
+    <it-IT>Ha fatto un accordo con gli schiavi ribelli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SLAVE_REVOLT_4_FORGIVENESS_PLAYER</zType>
+    <en-US>Made a deal with the rebel slaves</en-US>
+    <it-IT>Ha fatto un accordo con gli schiavi ribelli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MYTHICAL_BEASTS</zType>
+    <en-US>Adopted an elephant as a royal symbol</en-US>
+    <it-IT>Adottato un elefante come simbolo reale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_MEDJAY</zType>
+    <en-US>The Medjay</en-US>
+    <it-IT>Il Medjay</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_SACRED_BAND</zType>
+    <en-US>The Sacred Band</en-US>
+    <it-IT>La Banda Sacra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_IMMORTALS</zType>
+    <en-US>The Immortals</en-US>
+    <it-IT>Gli Immortali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_COMPANIONS</zType>
+    <en-US>The Companions</en-US>
+    <it-IT>I compagni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_NUMERUS_BATAVORUM</zType>
+    <en-US>The Numerus Batavorum</en-US>
+    <it-IT>Il Numerus Batavorum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_SILVER_SHIELDS</zType>
+    <en-US>The Silver Shields</en-US>
+    <it-IT>Gli scudi d'argento</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_HARII</zType>
+    <en-US>The Harii</en-US>
+    <it-IT>Gli Harii</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_PAINTED_WARRIORS</zType>
+    <en-US>The Painted Demons</en-US>
+    <it-IT>I demoni dipinti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_WARRIORS_OF_GOD</zType>
+    <en-US>The Warriors of God</en-US>
+    <it-IT>I guerrieri di Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_TERRORS</zType>
+    <en-US>The Terrors</en-US>
+    <it-IT>I terrori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_FURIES</zType>
+    <en-US>The Furies</en-US>
+    <it-IT>Le Furie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_PRAISE_OF_THE_TWO_LANDS</zType>
+    <en-US>Praise of the Two Lands</en-US>
+    <it-IT>Elogio delle due terre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_WILD_HUNTERS</zType>
+    <en-US>The Wild Hunters</en-US>
+    <it-IT>I cacciatori selvaggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_GROWING_MILITARY_MIGHT_PROMOTE_FROM_WITHIN</zType>
+    <en-US>Promoted an elite bodyguard from within</en-US>
+    <it-IT>Promosso dall'interno una guardia del corpo d'élite</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DAUGHTER_OF_THE_STORM_TEMPLE_REFUSE</zType>
+    <en-US>Refused treatment from the Daughter of the Storm</en-US>
+    <it-IT>Rifiuto di cure da parte della Figlia della Tempesta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_OUT_FOR_BLOOD_COMBAT_LOSE_BEG_CHARACTER_3</zType>
+    <en-US>Begged for life in a duel</en-US>
+    <it-IT>Implorato per la vita in un duello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_COIN_FACE</zType>
+    <en-US>Put my face on a coin</en-US>
+    <it-IT>Mettere la mia faccia su una moneta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ROCK_IGNORED_SWORD</zType>
+    <en-US>Ignored a sign to change the succession</en-US>
+    <it-IT>Ignorato un segno per cambiare la successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MERCY_FOR_THE_WEAK_ANGRY_FAMILIES</zType>
+    <en-US>Refused to heed the wisdom of your vassals</en-US>
+    <it-IT>Rifiutate di ascoltare la saggezza dei vostri vassalli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_DISPLAY_OF_BENEVOLENCE_LEGITIMACY</zType>
+    <en-US>Greater appreciation from your peers for your display of benevolence</en-US>
+    <it-IT>Maggiore apprezzamento da parte dei vostri colleghi per la vostra dimostrazione di benevolenza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_LUXURY_SEEKERS_LEGITIMACY</zType>
+    <en-US>Allowed an impatient family to dictate your rule</en-US>
+    <it-IT>Permettere a una famiglia impaziente di dettare le vostre regole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WORLD_TOUR_OPTION_1_CITY</zType>
+    <en-US>Spread culture through drama</en-US>
+    <it-IT>Diffondere la cultura attraverso il teatro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TAKING_TROPHIES</zType>
+    <en-US>Collected a truly magnificent set of antlers</en-US>
+    <it-IT>Raccolto un set di corna davvero magnifico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MARBLE_MADNESS_GATE</zType>
+    <en-US>Built a gate statue</en-US>
+    <it-IT>Costruire una statua per il cancello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_PURPLE_DYE</zType>
+    <en-US>Wore Purple</en-US>
+    <it-IT>Indossato in viola</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_SHARED_PURPLE</zType>
+    <en-US>Wore purple</en-US>
+    <it-IT>Indossato in viola</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_MERCY_FOR_THE_WEAK_LEGITIMACY</zType>
+    <en-US>Showed mercy to those weaker than you</en-US>
+    <it-IT>Mostrare misericordia a chi è più debole di voi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MARRIAGE_TRIBE_LEADER_YES_CHARACTER_1</zType>
+    <en-US>Married tribal leader</en-US>
+    <it-IT>Leader tribale sposato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BOUND_BY_AN_OATH_NO_CHARACTER_1</zType>
+    <en-US>Became known as an oath-breaker</en-US>
+    <it-IT>Diventa noto come trasgressore di giuramenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ANCESTRAL_OATH_NO_CHARACTER_3</zType>
+    <en-US>Broke an ancestral oath</en-US>
+    <it-IT>Ha infranto un giuramento ancestrale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DRUNKEN_AMBITION_NO_PLAYER</zType>
+    <en-US>Became a renowned drunk</en-US>
+    <it-IT>Diventa un famoso ubriacone</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_INFLUENCE_OF_PYGMALION_OPTION_2_CHARACTER_0</zType>
+    <en-US>Refused Pygmalion</en-US>
+    <it-IT>Pigmalione rifiutato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_GHOST_OF_ROMULUS_OPTION_2_CHARACTER_0</zType>
+    <en-US>Refused to honor brother</en-US>
+    <it-IT>Rifiutato di onorare il fratello</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RIVALS3_RENEWED_HOPE_PEACE_PLAYER_1</zType>
+    <en-US>Peace with rivals</en-US>
+    <it-IT>Pace con i rivali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_GOD_QUEEN_OPTION_0_CHARACTER</zType>
+    <en-US>Birth myth</en-US>
+    <it-IT>Il mito della nascita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_EARLY_AMBITIONS_NO</zType>
+    <en-US>Forging my own path</en-US>
+    <it-IT>Creare il mio percorso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RIGHTFUL_HEIR_DEAD_OKAY_CHARACTER_2</zType>
+    <en-US>No longer regent</en-US>
+    <it-IT>Non più reggente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_TRUE_GOD_ATEN_MONOTHEISM_CHARACTER_0</zType>
+    <en-US>Child of Aten</en-US>
+    <it-IT>Figlio di Aten</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_AKHENATEN_OPTION_0</zType>
+    <en-US>Named after Aten</en-US>
+    <it-IT>Prende il nome da Aten</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_LEONIDAS_PERSIA_LEGITIMACY</zType>
+    <en-US>Threw Persians down a well</en-US>
+    <it-IT>Gettò i Persiani in un pozzo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PERICLES_CIMON_RETURNS_ACCEPT_LEADER</zType>
+    <en-US>Invited Cimon to the court</en-US>
+    <it-IT>Invitato a corte Cimon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PERICLES_CIMON_RETURNS_REFUSE</zType>
+    <en-US>Did not allow Cimon to return</en-US>
+    <it-IT>Non ha permesso a Cimone di tornare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TECH_ECONOMIC_REFORM</zType>
+    <en-US>Free link(COURTIER_MERCHANT)</en-US>
+    <it-IT>Libero link(COURTIER_MERCHANT)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TECH_MILITARY_PRESTIGE</zType>
+    <en-US>Free link(COURTIER_SOLDIER)</en-US>
+    <it-IT>Libero link(COURTIER_SOLDIER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_TECH_INDUSTRIAL_PROGRESS</zType>
+    <en-US>Free link(COURTIER_MINISTER)</en-US>
+    <it-IT>Libero link(COURTIER_MINISTER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_SHOEMAKER_WITTY</zType>
+    <en-US>{0_character} debated with merchant philosophers and has become link(TRAIT_WITTY).</en-US>
+    <it-IT>{0_character} ha discusso con i filosofi mercanti ed è diventato link(TRAIT_WITTY).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_SHOEMAKER_BOLD</zType>
+    <en-US>{0_character} debated with merchant philosophers and has become link(TRAIT_BOLD).</en-US>
+    <it-IT>{0_character} ha discusso con i filosofi mercanti ed è diventato link(TRAIT_BOLD).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_SHOEMAKER_HUMBLE</zType>
+    <en-US>{0_character} debated with merchant philosophers and has become link(TRAIT_HUMBLE).</en-US>
+    <it-IT>{0_character} ha discusso con i filosofi mercanti ed è diventato link(TRAIT_HUMBLE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_SHOEMAKER_RIGHTEOUS</zType>
+    <en-US>{0_character} debated with merchant philosophers and has become link(TRAIT_RIGHTEOUS).</en-US>
+    <it-IT>{0_character} ha discusso con i filosofi mercanti ed è diventato link(TRAIT_RIGHTEOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_HANNIBAL_LEGITIMACY_PENALTY</zType>
+    <en-US>Tensions with influential Carthaginians</en-US>
+    <it-IT>Tensioni con gli influenti Cartaginesi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ROME_HANNIBAL_GIFT_ACCEPT_CARTHAGE</zType>
+    <en-US>Sent gifts to Rome</en-US>
+    <it-IT>Invio di doni a Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HANNIBAL_ROME_WAR_LEGITIMACY</zType>
+    <en-US>Vowed to destroy Rome</en-US>
+    <it-IT>Giurò di distruggere Roma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_UNDEFEATED_TOUGH</zType>
+    <en-US>{0_character} has trained with the finest warriors of the nation and has become link(TRAIT_TOUGH).</en-US>
+    <it-IT>{0_character} si è allenato con i migliori guerrieri della nazione ed è diventato link(TRAIT_TOUGH).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_UNDEFEATED_HECKLER</zType>
+    <en-US>{0_character} has taken a page from the book of {masculine_0:his:her} military instructors and has become a link(TRAIT_HECKLER).</en-US>
+    <it-IT>{0_character} ha preso una pagina dal libro degli istruttori militari di {masculine_0:his:her} ed è diventato un link(TRAIT_HECKLER).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_UNDEFEATED_SWIFT</zType>
+    <en-US>{0_character} has trained with the finest warriors of the nation and has become link(TRAIT_SWIFT).</en-US>
+    <it-IT>{0_character} si è allenato con i migliori guerrieri della nazione ed è diventato link(TRAIT_SWIFT).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_DISPUTING_TEACHERS_INTELLIGENT</zType>
+    <en-US>In the case of {0_character}, an unorthodox curriculum seems to be succeeding. {0_character} has become link(TRAIT_INTELLIGENT).</en-US>
+    <it-IT>Nel caso di {0_character}, un curriculum non ortodosso sembra avere successo. {0_character} è diventato link(TRAIT_INTELLIGENT).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_DISPUTING_TEACHERS_INSANE</zType>
+    <en-US>{0_character}'s behavior has become strange indeed following an unorthodox tutoring regime. {masculine_0:He:She} has become to all appearances link(TRAIT_INSANE).</en-US>
+    <it-IT>Il comportamento di {0_character} è diventato strano in seguito a un regime di tutoraggio non ortodosso. {masculine_0:Lui:Lei} è diventato a tutti gli effetti link(TRAIT_INSANE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_UNCANNY_INSPIRING</zType>
+    <en-US>Locked away in {masculine_0:his:her} laboratory, {0_character}'s many insights have made {masculine_0:him:her} an link(TRAIT_INSPIRING) presence.</en-US>
+    <it-IT>Rinchiuso nel laboratorio di {masculine_0:his:her}, le numerose intuizioni di {0_character} hanno reso {masculine_0:him:her} una presenza di link(TRAIT_INSPIRING).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_UNCANNY_INSANE</zType>
+    <en-US>Locked away in {masculine_0:his:her} laboratory, {0_character} has become increasingly erratic and to all appearances link(TRAIT_INSANE).</en-US>
+    <it-IT>Rinchiuso nel laboratorio di {masculine_0:his:her}, {0_character} è diventato sempre più irregolare e a quanto pare link(TRAIT_INSANE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_CALLING_BLESSED</zType>
+    <en-US>{0_character} speaks of a direct connection with God, and there is no denying {masculine_0:he:she} seems link(TRAIT_BLESSED).</en-US>
+    <it-IT>{0_character} parla di un legame diretto con Dio, e non si può negare che {masculine_0:he:she} sembri link(TRAIT_BLESSED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_CALLING_INSPIRING</zType>
+    <en-US>{0_character} speaks of a direct connection with God in a way others cannot help but find link(TRAIT_INSPIRING).</en-US>
+    <it-IT>{0_character} parla di un legame diretto con Dio in un modo che gli altri non possono fare a meno di trovare link(TRAIT_INSPIRING).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_CALLING_PIOUS</zType>
+    <en-US>{0_character} speaks of a direct connection with God and is counted among the nation's most link(TRAIT_PIOUS).</en-US>
+    <it-IT>{0_character} parla di un legame diretto con Dio ed è annoverato tra i più link(TRAIT_PIOUS) della nazione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_CALLING_ASCETIC</zType>
+    <en-US>{0_character} speaks of a direct connection with God, in His name forgoing all luxury and becoming an link(TRAIT_ASCETIC).</en-US>
+    <it-IT>{0_character} parla di un legame diretto con Dio, nel Suo nome rinuncia a ogni lusso e diventa un link(TRAIT_ASCETIC).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_CALLING_INSANE</zType>
+    <en-US>{0_character} speaks of a direct connection with God, and rumors abound that {masculine_0:he:she} has become link(TRAIT_INSANE).</en-US>
+    <it-IT>{0_character} parla di un collegamento diretto con Dio e si dice che {masculine_0:he:she} sia diventato link(TRAIT_INSANE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_SEE_THE_WORLD_OPTION_1_EXPLORING</zType>
+    <en-US>{0_character}'s scouting has taken {masculine_0:him:her} farther and farther into the unknown, and {masculine_0:he:she} is now link(TRAIT_EXPLORING).</en-US>
+    <it-IT>L'esplorazione di {0_character} ha portato {masculine_0:him:her} sempre più lontano nell'ignoto, e {masculine_0:he:she} è ora link(TRAIT_EXPLORING).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_SEE_THE_WORLD_OPTION_1_MISSING</zType>
+    <en-US>{0_character} never reported back from the last scouting expedition and is now link(TRAIT_MISSING).</en-US>
+    <it-IT>{0_character} non ha mai fatto rapporto dall'ultima spedizione esplorativa e ora è link(TRAIT_MISSING).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_SEE_THE_WORLD_OPTION_3_LOYAL</zType>
+    <en-US>{0_character} dutifully remained home rather than go out into the world, and it is plain to see {masculine_0:he:she} is link(TRAIT_LOYAL) to a fault.</en-US>
+    <it-IT>{0_character} è rimasto doverosamente a casa piuttosto che uscire nel mondo, ed è evidente che {masculine_0:he:she} è link(TRAIT_LOYAL) in difetto.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_SEE_THE_WORLD_OPTION_3_BITTER</zType>
+    <en-US>{0_character} dutifully remained home rather than go out into the world but has become most link(TRAIT_BITTER).</en-US>
+    <it-IT>{0_character} è rimasto doverosamente a casa piuttosto che uscire nel mondo, ma è diventato molto link(TRAIT_BITTER).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_BIRTH_CHILD_OF_PROPHECY_CURSED</zType>
+    <en-US>Following the dramatic prophecy at the birth of {0_character}, it has become increasingly clear {masculine_0:he:she} has been link(TRAIT_CURSED).</en-US>
+    <it-IT>Dopo la drammatica profezia della nascita di {0_character}, è diventato sempre più chiaro che {masculine_0:he:she} è stato link(TRAIT_CURSED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_BIRTH_CHILD_OF_PROPHECY_BLESSED</zType>
+    <en-US>Following the dramatic prophecy at the birth of {0_character}, it has become increasingly clear {masculine_0:he:she} is truly link(TRAIT_BLESSED).</en-US>
+    <it-IT>Dopo la drammatica profezia della nascita di {0_character}, è diventato sempre più chiaro che {masculine_0:he:she} è veramente link(TRAIT_BLESSED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_BIRTH_CHILD_OF_PROPHECY_DIVINE</zType>
+    <en-US>Following the dramatic prophecy at the birth of {0_character}, it has become increasingly clear {masculine_0:he:she} is link(TRAIT_DIVINE) in the eyes of the heavens.</en-US>
+    <it-IT>Dopo la drammatica profezia della nascita di {0_character}, è diventato sempre più chiaro che {masculine_0:he:she} è link(TRAIT_DIVINE) agli occhi del cielo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_PHYSICAL_CONFRONTATION_PROUD</zType>
+    <en-US>{0_character} has begun to consider everyone, including {masculine_0:his:her} instructors, beneath {masculine_0:him:her}, and is now link(TRAIT_PROUD).</en-US>
+    <it-IT>{0_character} ha iniziato a considerare tutti, compresi gli istruttori di {masculine_0:his:her}, sotto {masculine_0:him:her} e ora è link(TRAIT_PROUD).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_PHYSICAL_CONFRONTATION_CRUEL</zType>
+    <en-US>{0_character} has taken to enjoying violence against {masculine_0:his:her} instructors, and is now link(TRAIT_CRUEL).</en-US>
+    <it-IT>{0_character} ha iniziato a godere della violenza contro gli istruttori di {masculine_0:his:her} e ora è link(TRAIT_CRUEL).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_PHYSICAL_CONFRONTATION_INTOLERANT</zType>
+    <en-US>{0_character} has taken to responding to any difference of opinion with violence or disdain, and is now link(TRAIT_INTOLERANT).</en-US>
+    <it-IT>{0_character} ha iniziato a rispondere a qualsiasi divergenza di opinione con violenza o disprezzo, e ora è link(TRAIT_INTOLERANT).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_AIRY_AND_MENDACIOUS_STYLE_ELOQUENT</zType>
+    <en-US>{0_character} has taken after {masculine_0:his:her} skilled sophist teacher, and is now link(TRAIT_ELOQUENT).</en-US>
+    <it-IT>{0_character} ha preso il posto di {masculine_0:his:her}, abile insegnante di sofistica, e ora è link(TRAIT_ELOQUENT).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_AIRY_AND_MENDACIOUS_STYLE_DEBAUCHED</zType>
+    <en-US>{0_character} has taken after {masculine_0:his:her} favorite sophist teacher, and is now link(TRAIT_DEBAUCHED).</en-US>
+    <it-IT>{0_character} ha preso da {masculine_0:his:her} l'insegnante di sofistica preferito e ora è link(TRAIT_DEBAUCHED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_AIRY_AND_MENDACIOUS_STYLE_SCHEMER</zType>
+    <en-US>{0_character} has taken after {masculine_0:his:her} favorite sophist teacher, and has found {masculine_0:his:her} calling as a link(TRAIT_SCHEMER_ARCHETYPE).</en-US>
+    <it-IT>{0_character} ha preso da {masculine_0:his:her} l'insegnante di sofistica preferito e ha trovato in {masculine_0:his:her} la sua vocazione come link(TRAIT_SCHEMER_ARCHETYPE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_OF_PROPHECY_PROPHET</zType>
+    <en-US>{0_character} has studied with a great foreteller, and is now {masculine_0:himself:herself} a link(TRAIT_PROPHET).</en-US>
+    <it-IT>{0_character} ha studiato con un grande preveggente e ora è {masculine_0:himself:herself} un link(TRAIT_PROPHET).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_OF_PROPHECY_FOOLISH</zType>
+    <en-US>{0_character} has been led astray by a foreteller, and is now link(TRAIT_FOOLISH).</en-US>
+    <it-IT>{0_character} è stato traviato da un preveggente e ora è link(TRAIT_FOOLISH).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_OF_PROPHECY_ZEALOT</zType>
+    <en-US>{0_character}'s beliefs have been fired by a study of prophesy, and many call {masculine_0:him:her} a link(TRAIT_ZEALOT_ARCHETYPE).</en-US>
+    <it-IT>Le convinzioni di {0_character} sono state alimentate dallo studio della profezia e molti chiamano {masculine_0:him:her} un link(TRAIT_ZEALOT_ARCHETYPE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_OPPOSING_VIEWS_GRACIOUS</zType>
+    <en-US>{0_character}, guided by piety, has become link(TRAIT_GRACIOUS).</en-US>
+    <it-IT>{0_character}, guidato dalla pietà, è diventato link(TRAIT_GRACIOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_OPPOSING_VIEWS_SUPERSTITIOUS</zType>
+    <en-US>{0_character} obsesses over the whims of fate, and has become link(TRAIT_SUPERSTITIOUS).</en-US>
+    <it-IT>{0_character} è ossessionato dai capricci del destino ed è diventato link(TRAIT_SUPERSTITIOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_OPPOSING_VIEWS_EDUCATED</zType>
+    <en-US>{0_character} seeks ever more earthly explanations of the world, and has become link(TRAIT_EDUCATED).</en-US>
+    <it-IT>{0_character} cerca spiegazioni sempre più terrene del mondo ed è diventato link(TRAIT_EDUCATED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_STUDY_OPPOSING_VIEWS_GREEDY</zType>
+    <en-US>{0_character} has turned away from the heavens to find meaning, and some say {masculine_0:he:she} has become link(TRAIT_GREEDY).</en-US>
+    <it-IT>{0_character} si è allontanato dal cielo per trovare un senso, e alcuni dicono che {masculine_0:he:she} è diventato link(TRAIT_GREEDY).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_BOOKISH_DEMEANOR_ROMANTIC</zType>
+    <en-US>{0_character} has developed a particular taste for tales of romance, and has become link(TRAIT_ROMANTIC).</en-US>
+    <it-IT>{0_character} ha sviluppato un gusto particolare per le storie d'amore ed è diventato link(TRAIT_ROMANTIC).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_BOOKISH_DEMEANOR_EXTRAVAGANT</zType>
+    <en-US>{0_character} has become obsessed with collecting the rare and ancient, and has become link(TRAIT_EXTRAVAGANT).</en-US>
+    <it-IT>{0_character} è diventato ossessionato dal collezionismo di oggetti rari e antichi ed è diventato link(TRAIT_EXTRAVAGANT).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_BOOKISH_DEMEANOR_INSPIRING</zType>
+    <en-US>{0_character}'s studies have given {masculine_0:him:her} a stirring quote for any occasion, and {masculine_0:he:she} has become known as link(TRAIT_INSPIRING).</en-US>
+    <it-IT>Gli studi di {0_character} hanno dato a {masculine_0:him:her} una citazione stimolante per ogni occasione, e {masculine_0:he:she} è diventato noto come link(TRAIT_INSPIRING).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_BOOKISH_DEMEANOR_ELOQUENT</zType>
+    <en-US>{0_character}'s broad base of knowledge has made {masculine_0:him:her} at home in any debate, and even those that disagree can't help but find {masculine_0:him:her} link(TRAIT_ELOQUENT).</en-US>
+    <it-IT>L'ampia base di conoscenze di {0_character} ha reso {masculine_0:him:her} a suo agio in qualsiasi dibattito, e anche coloro che non sono d'accordo non possono fare a meno di trovare {masculine_0:him:her} link(TRAIT_ELOQUENT).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_BIG_QUESTIONS_PIOUS</zType>
+    <en-US>{0_character} has concluded that the divine guides all our fates, and has become most link(TRAIT_PIOUS).</en-US>
+    <it-IT>{0_character} ha concluso che il divino guida tutti i nostri destini ed è diventato il più link(TRAIT_PIOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_BIG_QUESTIONS_SUPERSTITIOUS</zType>
+    <en-US>{0_character} has grown to fear the capricious heavens, and has become quite link(TRAIT_SUPERSTITIOUS).</en-US>
+    <it-IT>{0_character} ha iniziato a temere il cielo capriccioso ed è diventato del tutto link(TRAIT_SUPERSTITIOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_BIG_QUESTIONS_INTELLIGENT</zType>
+    <en-US>{0_character} questions everything, surely a sign of the link(TRAIT_INTELLIGENT).</en-US>
+    <it-IT>Il {0_character} mette in discussione tutto, sicuramente un segno del link(TRAIT_INTELLIGENT).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_BIG_QUESTIONS_PROUD</zType>
+    <en-US>{0_character} has concluded that none stand above {masculine_0:him:her}, not even the heavens, and any would call {masculine_0:him:her} link(TRAIT_PROUD).</en-US>
+    <it-IT>{0_character} ha concluso che nessuno sta al di sopra di {masculine_0:him:her}, nemmeno i cieli, e chiunque potrebbe chiamare {masculine_0:him:her} link(TRAIT_PROUD).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_BIG_QUESTIONS_INSPIRING</zType>
+    <en-US>{0_character} has internalized a deep belief that, with determination and ingenuity, all is possible, an link(TRAIT_INSPIRING) attitude.</en-US>
+    <it-IT>{0_character} ha interiorizzato la profonda convinzione che, con determinazione e ingegno, tutto è possibile, un atteggiamento da link(TRAIT_INSPIRING).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_AFFAIRS_OF_THE_CITY_RUTHLESS</zType>
+    <en-US>{0_character} has learned to place nothing above {masculine_0:his:her} ambition, becoming increasingly link(TRAIT_RUTHLESS).</en-US>
+    <it-IT>{0_character} ha imparato a non mettere nulla al di sopra delle ambizioni di {masculine_0:his:her}, diventando sempre più link(TRAIT_RUTHLESS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_AFFAIRS_OF_THE_CITY_CORRUPT</zType>
+    <en-US>{0_character} has learned that for those such as {masculine_0:him:her}, laws are at most suggestions, a notably link(TRAIT_CORRUPT) attitude.</en-US>
+    <it-IT>{0_character} ha imparato che per coloro che sono come {masculine_0:him:her}, le leggi sono al massimo dei suggerimenti, un atteggiamento che è particolarmente di link(TRAIT_CORRUPT).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_AFFAIRS_OF_THE_CITY_RIGHTEOUS</zType>
+    <en-US>{0_character} does not compromise on matters of principle, becoming a link(TRAIT_RIGHTEOUS) voice in the nation.</en-US>
+    <it-IT>{0_character} non scende a compromessi su questioni di principio, diventando una voce link(TRAIT_RIGHTEOUS) nella nazione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_AFFAIRS_OF_THE_CITY_FOOLISH</zType>
+    <en-US>{0_character} rarely considers compromise, and is widely considered link(TRAIT_FOOLISH) at court.</en-US>
+    <it-IT>{0_character} raramente prende in considerazione il compromesso ed è ampiamente considerato link(TRAIT_FOOLISH) in tribunale.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FEAST_EXTRAVAGANT</zType>
+    <en-US>{0_character} has become used to being lavished in festivities, developing an link(TRAIT_EXTRAVAGANT) habit.</en-US>
+    <it-IT>Il {0_character} si è abituato a essere imbandito nei festeggiamenti, sviluppando un'abitudine link(TRAIT_EXTRAVAGANT).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FEAST_PROUD</zType>
+    <en-US>{0_character} has become quick to remind anyone of {masculine_0:his:her} role as heir of the glorious nation, and is seen everywhere as imperious and link(TRAIT_PROUD).</en-US>
+    <it-IT>{0_character} è diventato veloce nel ricordare a chiunque il ruolo di {masculine_0:his:her} come erede della gloriosa nazione, ed è visto ovunque come imperioso e link(TRAIT_PROUD).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_TUTOR_INTELLIGENT</zType>
+    <en-US>Debates with your hired tutor have proved quite insightful, and despite your age, you have begun to develop a reputation as an link(TRAIT_INTELLIGENT) thinker.</en-US>
+    <it-IT>I dibattiti con il suo tutor si sono rivelati molto proficui e, nonostante la sua età, ha iniziato a farsi una reputazione come pensatore.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_TUTOR_EDUCATED</zType>
+    <en-US>Your hired tutor has proved most adept, and in a short time you find yourself well-versed and link(TRAIT_EDUCATED) on a broad array of topics.</en-US>
+    <it-IT>Il tutor che avete assunto si è dimostrato molto abile e in breve tempo vi siete ritrovati ben preparati e link(TRAIT_EDUCATED) su un'ampia gamma di argomenti.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_YOUNG_RULER_TUTOR_MISERABLE</zType>
+    <en-US>As the months drag by, trying to balance time learning with a tutor alongside your rulership duties has left you tired and link(TRAIT_MISERABLE).</en-US>
+    <it-IT>Con il passare dei mesi, il tentativo di bilanciare l'apprendimento con un tutor con i vostri doveri di governanti vi ha lasciato stanchi e link(TRAIT_MISERABLE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_PROPHECY_RIGHTEOUS</zType>
+    <en-US>With time, you have only become more and more convinced that those ancient etchings showing your visage herald you as one of link(TRAIT_RIGHTEOUS) judgment.</en-US>
+    <it-IT>Con il tempo, sei diventato sempre più convinto che quelle antiche incisioni che mostrano il tuo volto ti annunciano come uno del giudizio link(TRAIT_RIGHTEOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_PROPHECY_DIVINE</zType>
+    <en-US>With time, you have only become more and more convinced that those ancient etchings showing your visage herald you as one of link(TRAIT_DIVINE) destiny.</en-US>
+    <it-IT>Con il tempo, siete diventati sempre più convinti che quelle antiche incisioni che mostrano il vostro volto vi annunciano come uno del link(TRAIT_DIVINE) destino.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_PROPHECY_SUPERSTITIOUS</zType>
+    <en-US>Though others may call it link(TRAIT_SUPERSTITIOUS), you have only become more and more convinced that those ancient etchings showing your visage contain dire and cryptic warnings.</en-US>
+    <it-IT>Anche se altri lo chiamano link(TRAIT_SUPERSTITIOUS), siete sempre più convinti che quelle antiche incisioni che mostrano il vostro volto contengano avvertimenti terribili e criptici.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_PROPHECY_BLESSED</zType>
+    <en-US>Your mind keeps returning to those ancient uncovered etchings that seemed to depict your bloodline. As you consider their significance, you can only conclude that you and your reign have been link(TRAIT_BLESSED).</en-US>
+    <it-IT>La vostra mente continua a tornare a quelle antiche incisioni scoperte che sembravano raffigurare la vostra linea di sangue. Considerando il loro significato, potete solo concludere che voi e il vostro regno siete stati link(TRAIT_BLESSED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_PROPHECY_INSPIRING</zType>
+    <en-US>Your mind keeps returning to those ancient uncovered etchings that seemed to depict your bloodline. With weight of ancient legacy at your side, you have come to project a certain link(TRAIT_INSPIRING) presence.</en-US>
+    <it-IT>La vostra mente continua a tornare a quelle antiche incisioni scoperte che sembravano raffigurare la vostra linea di sangue. Con il peso dell'antica eredità al tuo fianco, sei arrivato a proiettare una certa presenza link(TRAIT_INSPIRING).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUINS_PROPHECY_CURSED</zType>
+    <en-US>Your mind keeps uneasily returning to those ancient uncovered etchings that seemed to depict your bloodline. As time passes, unease turns to unhappy conviction, and fate has seen fit that you be link(TRAIT_CURSED).</en-US>
+    <it-IT>La tua mente continua a tornare inquieta a quelle antiche incisioni scoperte che sembravano raffigurare la tua linea di sangue. Con il passare del tempo, l'inquietudine si trasforma in una convinzione infelice e il destino ha voluto che tu fossi link(TRAIT_CURSED).</it-IT>
+  </Entry>
+</Root>

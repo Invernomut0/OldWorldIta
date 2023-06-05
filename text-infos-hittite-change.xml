@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_NATION_HITTITE_STORY</zType>
+    <en-US>      I am Hattusili I, creator of nations and conqueror of empires. I bring fear to the hearts of Kings and Queens, and make Pharaohs kneel before me whether they admit it or not. In my mortal days I am a King and in immortality I am a God.
+      My people are the Hittites, the hidden people. Sense our presence until it is too late. Unwise you'd be to think we are not real or it will be much too late. Save your people and kneel before me.
+      I demand loyalty and the weak kneel before me. I denied my sons the throne, and with my passing my reign goes to my grandson. He will lead our people into eternity and keep my legacy.
+      I am Hattusili, King of Hattusa.
+</en-US>
+    <it-IT>      Io sono Hattusili I, creatore di nazioni e conquistatore di imperi. Porto la paura nei cuori di Re e Regine e faccio inginocchiare i Faraoni davanti a me, che lo ammettano o meno. Nei miei giorni mortali sono un Re e nell'immortalità sono un Dio.
+      Il mio popolo è quello degli Ittiti, il popolo nascosto. Percepite la nostra presenza finché non è troppo tardi. Non è saggio pensare che non siamo reali o sarà troppo tardi. Salva il tuo popolo e inginocchiati davanti a me.
+      Esigo fedeltà e i deboli si inginocchiano davanti a me. Ho negato il trono ai miei figli e con la mia scomparsa il regno passa a mio nipote. Egli guiderà il nostro popolo nell'eternità e manterrà la mia eredità.
+      Io sono Hattusili, Re di Hattusa.
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GUIDE_TECH_HITTITE_CHARIOT_1_BONUS</zType>
+    <en-US>This bonus grants a free link(UNIT_HITTITE_CHARIOT_1) Unit in your Capital. A mounted and ranged Unit that is unique to link(NATION_HITTITE), the link(UNIT_HITTITE_CHARIOT_1) moves especially quickly for harassing your enemies. If a bonus card is not researched when it appears, it is permanently trashed once discarded and will not appear again.</en-US>
+    <it-IT>Questo bonus concede una link(UNIT_HITTITE_CHARIOT_1) nella vostra Capitale. Un'unità a cavallo e a distanza unica di link(NATION_HITTITE), il link(UNIT_HITTITE_CHARIOT_1) si muove in modo particolarmente rapido per molestare i nemici. Se una carta bonus non è stata studiata quando appare, una volta scartata viene definitivamente cestinata e non apparirà più.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GUIDE_TECH_HITTITE_CHARIOT_2_BONUS</zType>
+    <en-US>This bonus grants a free link(UNIT_HITTITE_CHARIOT_2) Unit in your Capital. A mounted and ranged Unit that is unique to link(NATION_HITTITE), the link(UNIT_HITTITE_CHARIOT_2) moves especially quickly for harassing your enemies. If a bonus card is not researched when it appears, it is permanently trashed once discarded and will not appear again.</en-US>
+    <it-IT>Questo bonus concede una link(UNIT_HITTITE_CHARIOT_2) nella vostra Capitale. Un'unità a cavallo e a distanza unica di link(NATION_HITTITE), il link(UNIT_HITTITE_CHARIOT_2) si muove in modo particolarmente rapido per molestare i nemici. Se una carta bonus non è stata studiata quando appare, una volta scartata viene definitivamente cestinata e non apparirà più.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_HITTITE_CHARIOT_1_BONUS</zType>
+    <en-US>Free link(UNIT_HITTITE_CHARIOT_1)</en-US>
+    <it-IT>Libero link(UNIT_HITTITE_CHARIOT_1)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_HITTITE_CHARIOT_2_BONUS</zType>
+    <en-US>Free link(UNIT_HITTITE_CHARIOT_2)</en-US>
+    <it-IT>Libero link(UNIT_HITTITE_CHARIOT_2)</it-IT>
+  </Entry>
+</Root>

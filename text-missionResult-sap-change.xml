@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_QUELL_DISSENT_EVENT</zType>
+    <en-US>Quell Religious Dissent Event</en-US>
+    <it-IT>Evento per sedare il dissenso religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_QUELL_DISSENT_EVENT_DESCRIPTION</zType>
+    <en-US>The Quell Religious Dissent Mission of {CHARACTER-SUBJECT} has led to an event...</en-US>
+    <it-IT>La missione "Sedare il dissenso religioso" di {CHARACTER-SUBJECT} ha portato a un evento...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_QUELL_DISSENT</zType>
+    <en-US>Quell Religious Dissent</en-US>
+    <it-IT>Sedare il dissenso religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_QUELL_DISSENT_DESCRIPTION</zType>
+    <en-US>{CHARACTER-SUBJECT} met with the dissatisfied leaders and reports that the Religious Dissent has been dispersed.</en-US>
+    <it-IT>{CHARACTER-SUBJECT} ha incontrato i leader insoddisfatti e riferisce che il dissenso religioso è stato disperso.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MAKE_CLERGY_EVENT</zType>
+    <en-US>Make Clergy Event</en-US>
+    <it-IT>Fare evento per il clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MAKE_CLERGY_EVENT_DESCRIPTION</zType>
+    <en-US>The Make Clergy Mission of {CHARACTER-SUBJECT} has led to an event...</en-US>
+    <it-IT>La missione Make Clergy di {CHARACTER-SUBJECT} ha portato ad un evento...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MAKE_CLERGY</zType>
+    <en-US>Make Clergy</en-US>
+    <it-IT>Fare clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSIONRESULT_MAKE_CLERGY_DESCRIPTION</zType>
+    <en-US>{CHARACTER-TARGET} has been inducted into the clergy</en-US>
+    <it-IT>{CHARACTER-TARGET} è stato introdotto nel clero</it-IT>
+  </Entry>
+</Root>

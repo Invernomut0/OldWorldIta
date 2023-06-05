@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_NATION_HITTITE</zType>
+    <en-US>Hatti~Hittite~a Hittite~Hittites</en-US>
+    <it-IT>Hatti~Ittita~un ittita~Ittiti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NATION_HITTITE_F</zType>
+    <en-US>Hatti~Hittite~a Hittite~Hittites</en-US>
+    <it-IT>Hatti~Ittita~un ittita~Ittiti</it-IT>
+  </Entry>
+</Root>

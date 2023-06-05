@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_UI_EVENT_PACK_RELIGION_NAME</zType>
+    <en-US>Custom Reminder</en-US>
+    <it-IT>Promemoria personalizzato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_PACK_RELIGION_DESC</zType>
+    <en-US>Custom Reminder</en-US>
+    <it-IT>Promemoria personalizzato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_PACK_RELIGION_TOGGLE</zType>
+    <en-US>Enable Event Pack</en-US>
+    <it-IT>Abilita il pacchetto eventi</it-IT>
+  </Entry>
+</Root>

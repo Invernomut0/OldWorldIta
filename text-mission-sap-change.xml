@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_MISSION_QUELL_DISSENT_ZOROASTRIANISM</zType>
+    <en-US>Quell link(RELIGION_ZOROASTRIANISM,1) Dissent</en-US>
+    <it-IT>Fonte link(RELIGION_ZOROASTRIANISM,1) Dissenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_QUELL_DISSENT_ZOROASTRIANISM_TARGET</zType>
+    <en-US>Quell link(RELIGION_ZOROASTRIANISM,1) Dissent in</en-US>
+    <it-IT>Fonte link(RELIGION_ZOROASTRIANISM,1) Dissenso in</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_QUELL_DISSENT_JUDAISM</zType>
+    <en-US>Quell link(RELIGION_JUDAISM,1) Dissent</en-US>
+    <it-IT>Fonte link(RELIGION_JUDAISM,1) Dissenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_QUELL_DISSENT_JUDAISM_TARGET</zType>
+    <en-US>Quell link(RELIGION_JUDAISM,1) Dissent in</en-US>
+    <it-IT>Fonte link(RELIGION_JUDAISM,1) Dissenso in</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_QUELL_DISSENT_CHRISTIANITY</zType>
+    <en-US>Quell link(RELIGION_CHRISTIANITY,1) Dissent</en-US>
+    <it-IT>Fonte link(RELIGION_CHRISTIANITY,1) Dissenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_QUELL_DISSENT_CHRISTIANITY_TARGET</zType>
+    <en-US>Quell link(RELIGION_CHRISTIANITY,1) Dissent in</en-US>
+    <it-IT>Fonte link(RELIGION_CHRISTIANITY,1) Dissenso in</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_QUELL_DISSENT_MANICHAEISM</zType>
+    <en-US>Quell link(RELIGION_MANICHAEISM,1) Dissent</en-US>
+    <it-IT>Fonte link(RELIGION_MANICHAEISM,1) Dissenso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_QUELL_DISSENT_MANICHAEISM_TARGET</zType>
+    <en-US>Quell link(RELIGION_MANICHAEISM,1) Dissent in</en-US>
+    <it-IT>Fonte link(RELIGION_MANICHAEISM,1) Dissenso in</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_MAKE_CLERGY</zType>
+    <en-US>Induct into the Clergy</en-US>
+    <it-IT>Integrazione nel clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MISSION_MAKE_CLERGY_CHARACTER</zType>
+    <en-US>Induct into the Clergy via</en-US>
+    <it-IT>Induzione al clero tramite</it-IT>
+  </Entry>
+</Root>

@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DISSENT_ZOROASTRIANISM</zType>
+    <en-US>Zoroastrian Dissent</en-US>
+    <it-IT>Dissenso zoroastriano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DISSENT_JUDAISM</zType>
+    <en-US>Jewish Dissent</en-US>
+    <it-IT>Dissenso ebraico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DISSENT_CHRISTIANITY</zType>
+    <en-US>Christian Dissent</en-US>
+    <it-IT>Dissenso cristiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DISSENT_MANICHAEISM</zType>
+    <en-US>Manichaean Dissent</en-US>
+    <it-IT>Dissenso manicheo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_ZOROASTRIAN_DISSENT_REBELS</zType>
+    <en-US>Inspired by the link(EFFECTCITY_DISSENT_ZOROASTRIANISM), {0_family} link(TRIBE_REBELS) of {2_city} have taken up arms for their religion and formed {3,1_unit} near the city!</en-US>
+    <it-IT>Ispirati dal link(EFFECTCITY_DISSENT_ZOROASTRIANISM), {0_family} link(TRIBE_REBELS) di {2_city} hanno preso le armi per la loro religione e hanno formato {3,1_unit} vicino alla città!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_JEWISH_DISSENT_REBELS</zType>
+    <en-US>Inspired by the link(EFFECTCITY_DISSENT_JUDAISM), {0_family} link(TRIBE_REBELS) of {2_city} have taken up arms for their religion and formed {3,1_unit} near the city!</en-US>
+    <it-IT>Ispirati dal link(EFFECTCITY_DISSENT_JUDAISM), {0_family} link(TRIBE_REBELS) di {2_city} hanno preso le armi per la loro religione e hanno formato {3,1_unit} vicino alla città!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CHRISTIAN_DISSENT_REBELS</zType>
+    <en-US>Inspired by the link(EFFECTCITY_DISSENT_CHRISTIANITY), {0_family} link(TRIBE_REBELS) of {2_city} have taken up arms for their religion and formed {3,1_unit} near the city!</en-US>
+    <it-IT>Ispirati dal link(EFFECTCITY_DISSENT_CHRISTIANITY), {0_family} link(TRIBE_REBELS) di {2_city} hanno preso le armi per la loro religione e hanno formato {3,1_unit} vicino alla città!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_MANICHAEAN_DISSENT_REBELS</zType>
+    <en-US>Inspired by the link(EFFECTCITY_DISSENT_MANICHAEISM), {0_family} link(TRIBE_REBELS) of {2_city} have taken up arms for their religion and formed {3,1_unit} near the city!</en-US>
+    <it-IT>Ispirati dal link(EFFECTCITY_DISSENT_MANICHAEISM), {0_family} link(TRIBE_REBELS) di {2_city} hanno preso le armi per la loro religione e hanno formato {3,1_unit} vicino alla città!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_OF_THE_HERO</zType>
+    <en-US>Hero Cult of the Protector</en-US>
+    <it-IT>Eroe Culto del Protettore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_OF_THE_FALLEN_GODDESS</zType>
+    <en-US>Cult of the Fallen Goddess</en-US>
+    <it-IT>Culto della Dea Caduta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_PROJECT_MONASTIC_TRADITIONS</zType>
+    <en-US>Reformed Monastic Traditions</en-US>
+    <it-IT>Tradizioni monastiche riformate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_CAVALRY_CULT</zType>
+    <en-US>Cavalry Cult</en-US>
+    <it-IT>Culto della cavalleria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_AMAZON_CULT</zType>
+    <en-US>Amazon Cult</en-US>
+    <it-IT>Culto di Amazon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_PROJECT_DIVINE_STEED</zType>
+    <en-US>Divine-Bred Horses</en-US>
+    <it-IT>Cavalli allevati in modo divino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_MARTYR_CULT</zType>
+    <en-US>Cult of the Martyr</en-US>
+    <it-IT>Culto del martire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_DUAL_CULT</zType>
+    <en-US>Cult of the Joined Gods</en-US>
+    <it-IT>Culto degli dei uniti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_CULT_OF_THE_ANGELIC_DIVINE</zType>
+    <en-US>Cult of the Angelic Divine</en-US>
+    <it-IT>Culto del Divino Angelico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_ECSTATIC_CULT</zType>
+    <en-US>Ecstatic Cult</en-US>
+    <it-IT>Culto estatico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_CULT_OF_THE_MOTHER</zType>
+    <en-US>Cult of the Mother</en-US>
+    <it-IT>Culto della Madre</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_CULT_OF_ISIS_AND_SERAPIS</zType>
+    <en-US>Cult of Isis and Serapis</en-US>
+    <it-IT>Culto di Iside e Serapide</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_CULT_OF_MITHRAS</zType>
+    <en-US>Cult of Mithras</en-US>
+    <it-IT>Culto di Mitra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_CULT_OF_THE_HEALER</zType>
+    <en-US>Cult of the Healer</en-US>
+    <it-IT>Culto del guaritore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_UNTAXED_TEMPLES</zType>
+    <en-US>Untaxed temples</en-US>
+    <it-IT>Templi non tassati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_PAGAN_STATUE_TEMPLE</zType>
+    <en-US>Temple of the Statue</en-US>
+    <it-IT>Tempio della Statua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_PIOUS</zType>
+    <en-US>link(TRAIT_PIOUS) link(CONCEPT_GOVERNOR)</en-US>
+    <it-IT>link(TRAIT_PIOUS) link(CONCEPT_GOVERNOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_CLERGY_PAGAN</zType>
+    <en-US>Pagan Clergy link(CONCEPT_GOVERNOR)</en-US>
+    <it-IT>Clero Pagano link(CONCEPT_GOVERNOR)</it-IT>
+  </Entry>
+</Root>

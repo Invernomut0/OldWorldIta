@@ -1,0 +1,2113 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_TRAIT_PICK_LATER_ARCHETYPE</zType>
+    <en-US>Pick Later</en-US>
+    <it-IT>Scegliere più tardi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RANDOM_ARCHETYPE</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PRESET_ARCHETYPE</zType>
+    <en-US>Preset Leader</en-US>
+    <it-IT>Leader preimpostato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HERO_ARCHETYPE</zType>
+    <en-US>Hero~a Hero~Heroes</en-US>
+    <it-IT>Eroe~un Eroe~Gli eroi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HERO_ARCHETYPE_F</zType>
+    <en-US>Hero~a Hero~Heroes</en-US>
+    <it-IT>Eroe~un Eroe~Gli eroi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMMANDER_ARCHETYPE</zType>
+    <en-US>Commander~a Commander~Commanders</en-US>
+    <it-IT>Comandante~un Comandante~Comandanti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMMANDER_ARCHETYPE_F</zType>
+    <en-US>Commander~a Commander~Commanders</en-US>
+    <it-IT>Comandante~un Comandante~Comandanti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE</zType>
+    <en-US>Tactician~a Tactician~Tacticians</en-US>
+    <it-IT>Tattico~un Tattico~Tattici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE_F</zType>
+    <en-US>Tactician~a Tactician~Tacticians</en-US>
+    <it-IT>Tattico~un Tattico~Tattici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ZEALOT_ARCHETYPE</zType>
+    <en-US>Zealot~a Zealot~Zealots</en-US>
+    <it-IT>Zelota~uno Zelota~Zeloti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ZEALOT_ARCHETYPE_F</zType>
+    <en-US>Zealot~a Zealot~Zealots</en-US>
+    <it-IT>Zelota~uno Zelota~Zeloti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCHEMER_ARCHETYPE</zType>
+    <en-US>Schemer~a Schemer~Schemers</en-US>
+    <it-IT>Schematico~uno Schematore~Schemrmitori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCHEMER_ARCHETYPE_F</zType>
+    <en-US>Schemer~a Schemer~Schemers</en-US>
+    <it-IT>Schematico~uno Schematico~Schematici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ORATOR_ARCHETYPE</zType>
+    <en-US>Orator~an Orator~Orators</en-US>
+    <it-IT>Oratore~un Oratore~Oratori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ORATOR_ARCHETYPE_F</zType>
+    <en-US>Orator~an Orator~Orators</en-US>
+    <it-IT>Oratore~un Oratore~Oratori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_JUDGE_ARCHETYPE</zType>
+    <en-US>Judge~a Judge~Judges</en-US>
+    <it-IT>Giudice~un Giudice~Giudici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_JUDGE_ARCHETYPE_F</zType>
+    <en-US>Judge~a Judge~Judges</en-US>
+    <it-IT>Giudice~un Giudice~Giudici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BUILDER_ARCHETYPE</zType>
+    <en-US>Builder~a Builder~Builders</en-US>
+    <it-IT>Costruttore~un Costruttore~Costruttori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BUILDER_ARCHETYPE_F</zType>
+    <en-US>Builder~a Builder~Builders</en-US>
+    <it-IT>Costruttore~un Costruttore~Costruttori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE</zType>
+    <en-US>Scholar~a Scholar~Scholars</en-US>
+    <it-IT>Studioso~uno Studioso~Studiosi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE_F</zType>
+    <en-US>Scholar~a Scholar~Scholars</en-US>
+    <it-IT>Studioso~uno Studioso~Studiosi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE</zType>
+    <en-US>Diplomat~a Diplomat~Diplomats</en-US>
+    <it-IT>Diplomatico~un Diplomatico~Diplomatici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_F</zType>
+    <en-US>Diplomat~a Diplomat~Diplomats</en-US>
+    <it-IT>Diplomatico~un Diplomatico~Diplomatici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AFFABLE</zType>
+    <en-US>Affable</en-US>
+    <it-IT>Affabile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AFFABLE_F</zType>
+    <en-US>Affable</en-US>
+    <it-IT>Affabile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AFFABLE_GAIN_1</zType>
+    <en-US>Friendly and social to all, {0_character} is {1_trait}.</en-US>
+    <it-IT>Amichevole e socievole con tutti, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AFFABLE_GAIN_2</zType>
+    <en-US>{0_character} is always an agreeable companion and is now known to be {1_trait}.</en-US>
+    <it-IT>{0_character} è sempre un compagno piacevole ed è ora noto come {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRUEL</zType>
+    <en-US>Cruel</en-US>
+    <it-IT>Crudele</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRUEL_F</zType>
+    <en-US>Cruel</en-US>
+    <it-IT>Crudele</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRUEL_GAIN_1</zType>
+    <en-US>Keen to inflict pain and suffering, {0_character} is {1_trait}.</en-US>
+    <it-IT>Desideroso di infliggere dolore e sofferenza, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRUEL_GAIN_2</zType>
+    <en-US>{0_character} finds enjoyment in hurting others. {masculine_0:He:She} is {1_trait}.</en-US>
+    <it-IT>{0_character} trova piacere nel fare del male agli altri. {masculine_0:Lui:Lei} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ELOQUENT</zType>
+    <en-US>Eloquent</en-US>
+    <it-IT>Eloquente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ELOQUENT_F</zType>
+    <en-US>Eloquent</en-US>
+    <it-IT>Eloquente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ELOQUENT_GAIN_1</zType>
+    <en-US>Never at a loss for words, {0_character} is {1_trait}.</en-US>
+    <it-IT>Mai a corto di parole, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ELOQUENT_GAIN_2</zType>
+    <en-US>{0_character} is quick-witted and silver-tongued, a most {1_trait} person!</en-US>
+    <it-IT>{0_character} è arguto e dalla lingua d'argento, una persona molto {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTOLERANT</zType>
+    <en-US>Intolerant</en-US>
+    <it-IT>Intollerante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTOLERANT_F</zType>
+    <en-US>Intolerant</en-US>
+    <it-IT>Intollerante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTOLERANT_GAIN_1</zType>
+    <en-US>Disgusted by differing beliefs, {0_character} is {1_trait}.</en-US>
+    <it-IT>Disgustato da convinzioni diverse, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTOLERANT_GAIN_2</zType>
+    <en-US>{0_character} has no patience for different ways of life. {masculine_0:He:She} is {1_trait}.</en-US>
+    <it-IT>{0_character} non ha pazienza per i diversi modi di vivere. {masculine_0:Lui:Lei} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WARLIKE</zType>
+    <en-US>Warlike</en-US>
+    <it-IT>Bellico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WARLIKE_F</zType>
+    <en-US>Warlike</en-US>
+    <it-IT>Bellico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WARLIKE_GAIN_1</zType>
+    <en-US>Always ready to fight, {0_character} is {1_trait}.</en-US>
+    <it-IT>Sempre pronto a combattere, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WARLIKE_GAIN_2</zType>
+    <en-US>{0_character} is skilled with the sword, spear, and shield. A most {1_trait} person!</en-US>
+    <it-IT>{0_character} è abile con la spada, la lancia e lo scudo. Una persona davvero {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SLOTHFUL</zType>
+    <en-US>Slothful</en-US>
+    <it-IT>Accidioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SLOTHFUL_F</zType>
+    <en-US>Slothful</en-US>
+    <it-IT>Accidioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SLOTHFUL_GAIN_1</zType>
+    <en-US>Unwilling to put effort into anything, {0_character} is {1_trait}.</en-US>
+    <it-IT>Non volendo impegnarsi in nulla, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SLOTHFUL_GAIN_2</zType>
+    <en-US>{0_character} never gets around to doing anything. {masculine_0:He:She} is {1_trait}.</en-US>
+    <it-IT>{0_character} non riesce mai a fare nulla. {masculine_0:Lui:Lei} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSPIRING</zType>
+    <en-US>Inspiring</en-US>
+    <it-IT>Ispiratore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSPIRING_F</zType>
+    <en-US>Inspiring</en-US>
+    <it-IT>Ispiratore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSPIRING_GAIN_1</zType>
+    <en-US>Able to give a rousing speech on demand, {0_character} is {1_trait}.</en-US>
+    <it-IT>In grado di tenere un discorso appassionato su richiesta, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSPIRING_GAIN_2</zType>
+    <en-US>{0_character} is able to uplift anyone with {masculine_0:his:her} words. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} è in grado di elevare chiunque con le parole di {masculine_0:his:her}. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_UNCOUTH</zType>
+    <en-US>Uncouth</en-US>
+    <it-IT>Scortese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_UNCOUTH_F</zType>
+    <en-US>Uncouth</en-US>
+    <it-IT>Scortese</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_UNCOUTH_GAIN_1</zType>
+    <en-US>Lacking grace and manners, {0_character} is {1_trait}.</en-US>
+    <it-IT>Privo di grazia e di buone maniere, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_UNCOUTH_GAIN_2</zType>
+    <en-US>{0_character} is strange and foul. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} è strano e ripugnante. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTELLIGENT</zType>
+    <en-US>Intelligent</en-US>
+    <it-IT>Intelligente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTELLIGENT_F</zType>
+    <en-US>Intelligent</en-US>
+    <it-IT>Intelligente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTELLIGENT_GAIN_1</zType>
+    <en-US>Easily able to learn and understand new things, {0_character} is {1_trait}.</en-US>
+    <it-IT>Facilmente in grado di imparare e capire cose nuove, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INTELLIGENT_GAIN_2</zType>
+    <en-US>{0_character} is swift to understand new situations. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} è veloce nel comprendere nuove situazioni. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FOOLISH</zType>
+    <en-US>Foolish</en-US>
+    <it-IT>Stupido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FOOLISH_F</zType>
+    <en-US>Foolish</en-US>
+    <it-IT>Stupido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FOOLISH_GAIN_1</zType>
+    <en-US>Unwise and often absurd, {0_character} is {1_trait}.</en-US>
+    <it-IT>Scorretto e spesso assurdo, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FOOLISH_GAIN_2</zType>
+    <en-US>{0_character} has poor judgement and rarely makes sense. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} ha una scarsa capacità di giudizio e raramente ha senso. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROSPEROUS</zType>
+    <en-US>Prosperous</en-US>
+    <it-IT>Prosperoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROSPEROUS_F</zType>
+    <en-US>Prosperous</en-US>
+    <it-IT>Prosperoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROSPEROUS_GAIN_1</zType>
+    <en-US>A master of making money, {0_character} is {1_trait}.</en-US>
+    <it-IT>Un maestro nel fare soldi, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROSPEROUS_GAIN_2</zType>
+    <en-US>{0_character} can spin straw into gold. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} può trasformare la paglia in oro. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXTRAVAGANT</zType>
+    <en-US>Extravagant</en-US>
+    <it-IT>Stravagante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXTRAVAGANT_F</zType>
+    <en-US>Extravagant</en-US>
+    <it-IT>Stravagante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXTRAVAGANT_GAIN_1</zType>
+    <en-US>A prolific spender, {0_character} is known to be {1_trait}.</en-US>
+    <it-IT>Spendaccione, {0_character} è noto per essere {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXTRAVAGANT_GAIN_2</zType>
+    <en-US>{0_character} buys anything which strikes {masculine_0:his:her} fancy. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} compra tutto ciò che colpisce la fantasia di {masculine_0:his:her}. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FRUGAL</zType>
+    <en-US>Frugal</en-US>
+    <it-IT>Frugale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FRUGAL_F</zType>
+    <en-US>Frugal</en-US>
+    <it-IT>Frugale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FRUGAL_GAIN_1</zType>
+    <en-US>Never keen on spending money, {0_character} is {1_trait}.</en-US>
+    <it-IT>Mai propenso a spendere soldi, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FRUGAL_GAIN_2</zType>
+    <en-US>{0_character} can spin straw into gold. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} può trasformare la paglia in oro. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CORRUPT</zType>
+    <en-US>Corrupt</en-US>
+    <it-IT>Corrotto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CORRUPT_F</zType>
+    <en-US>Corrupt</en-US>
+    <it-IT>Corrotto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CORRUPT_GAIN_1</zType>
+    <en-US>Dishonest and greedy, {0_character} is {1_trait}.</en-US>
+    <it-IT>Disonesto e avido, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CORRUPT_GAIN_2</zType>
+    <en-US>{0_character} will do anything for personal gain. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} farà qualsiasi cosa per guadagno personale. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RIGHTEOUS</zType>
+    <en-US>Righteous</en-US>
+    <it-IT>Giusto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RIGHTEOUS_F</zType>
+    <en-US>Righteous</en-US>
+    <it-IT>Giusto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RIGHTEOUS_GAIN_1</zType>
+    <en-US>Always taking the moral position, {0_character} is {1_trait}.</en-US>
+    <it-IT>Assumendo sempre la posizione morale, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RIGHTEOUS_GAIN_2</zType>
+    <en-US>{0_character} always tries to do what is best. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} cerca sempre di fare ciò che è meglio. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DEBAUCHED</zType>
+    <en-US>Debauched</en-US>
+    <it-IT>Debosciato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DEBAUCHED_F</zType>
+    <en-US>Debauched</en-US>
+    <it-IT>Debosciato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DEBAUCHED_GAIN_1</zType>
+    <en-US>Ready to indulge in any vice, {0_character} is known to be {1_trait}.</en-US>
+    <it-IT>Pronto ad abbandonarsi a qualsiasi vizio, {0_character} è noto per essere {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DEBAUCHED_GAIN_2</zType>
+    <en-US>{0_character} lives deliciously. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} vive deliziosamente. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROBUST</zType>
+    <en-US>Robust</en-US>
+    <it-IT>Robusto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROBUST_F</zType>
+    <en-US>Robust</en-US>
+    <it-IT>Robusto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROBUST_GAIN_1</zType>
+    <en-US>Healthy and tough, {0_character} is known to be {1_trait}.</en-US>
+    <it-IT>Sano e robusto, {0_character} è noto per essere {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROBUST_GAIN_2</zType>
+    <en-US>{0_character} is strong as an ox and never ill. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} è forte come un bue e non si ammala mai. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_VIGILANT</zType>
+    <en-US>Vigilant</en-US>
+    <it-IT>Vigile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_VIGILANT_F</zType>
+    <en-US>Vigilant</en-US>
+    <it-IT>Vigile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_VIGILANT_GAIN_1</zType>
+    <en-US>Ever watchful, many call {0_character} {1_trait}.</en-US>
+    <it-IT>Sempre vigili, molti chiamano {0_character} {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_VIGILANT_GAIN_2</zType>
+    <en-US>{0_character} is always on the lookout for danger. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} è sempre alla ricerca di pericoli. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STRICT</zType>
+    <en-US>Strict</en-US>
+    <it-IT>Rigoroso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STRICT_F</zType>
+    <en-US>Strict</en-US>
+    <it-IT>Rigoroso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STRICT_GAIN_1</zType>
+    <en-US>A servant of duty, many call {0_character} {1_trait}.</en-US>
+    <it-IT>Un servitore del dovere, che molti chiamano {0_character}. {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STRICT_GAIN_2</zType>
+    <en-US>{0_character} is disciplined and attentive. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} è disciplinato e attento. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EQUESTRIAN</zType>
+    <en-US>Equestrian</en-US>
+    <it-IT>Equitazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EQUESTRIAN_F</zType>
+    <en-US>Equestrian</en-US>
+    <it-IT>Equitazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EQUESTRIAN_GAIN_1</zType>
+    <en-US>An expert rider and trainer of horses, {0_character} is known as an {1_trait}.</en-US>
+    <it-IT>Esperto cavaliere e addestratore di cavalli, {0_character} è noto come {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EQUESTRIAN_GAIN_2</zType>
+    <en-US>{0_character} is never far from {masculine_0:his:her} horse. {masculine_0:He:She} is an {1_trait}!</en-US>
+    <it-IT>{0_character} non è mai lontano dal cavallo {masculine_0:his:her}. {masculine_0:Lui:Lei} è un {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CARPENTER</zType>
+    <en-US>Carpenter</en-US>
+    <it-IT>Falegname</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CARPENTER_F</zType>
+    <en-US>Carpenter</en-US>
+    <it-IT>Falegname</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CARPENTER_GAIN_1</zType>
+    <en-US>A master woodworker, {0_character} is famed as a {1_trait}.</en-US>
+    <it-IT>Maestro falegname, {0_character} è famoso come {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PATHFINDER</zType>
+    <en-US>Pathfinder</en-US>
+    <it-IT>Pathfinder</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PATHFINDER_F</zType>
+    <en-US>Pathfinder</en-US>
+    <it-IT>Pathfinder</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PATHFINDER_GAIN_1</zType>
+    <en-US>A confident hunter, scout, and gamekeeper, {0_character} is a renowned {1_trait}.</en-US>
+    <it-IT>Cacciatore, esploratore e guardiacaccia sicuro di sé, {0_character} è un rinomato {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CULTIVATOR</zType>
+    <en-US>Cultivator</en-US>
+    <it-IT>Coltivatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CULTIVATOR_F</zType>
+    <en-US>Cultivator</en-US>
+    <it-IT>Coltivatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CULTIVATOR_GAIN_1</zType>
+    <en-US>Green of thumb, {0_character} is a {1_trait} who can grow anything!</en-US>
+    <it-IT>Il pollice verde, {0_character} è un {1_trait} che può coltivare qualsiasi cosa!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_NATURALIST</zType>
+    <en-US>Naturalist</en-US>
+    <it-IT>Naturalista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_NATURALIST_F</zType>
+    <en-US>Naturalist</en-US>
+    <it-IT>Naturalista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_NATURALIST_GAIN_1</zType>
+    <en-US>A keen student of plants and animals, {0_character} is a {1_trait} of some fame!</en-US>
+    <it-IT>Appassionato di piante e animali, {0_character} è un {1_trait} di una certa fama!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DELVER</zType>
+    <en-US>Delver</en-US>
+    <it-IT>Delver</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DELVER_F</zType>
+    <en-US>Delver</en-US>
+    <it-IT>Delver</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DELVER_GAIN_1</zType>
+    <en-US>Able to excavate anything, {0_character} is a {1_trait}!</en-US>
+    <it-IT>In grado di scavare qualsiasi cosa, {0_character} è un {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CUNNING</zType>
+    <en-US>Cunning</en-US>
+    <it-IT>Astuzia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CUNNING_F</zType>
+    <en-US>Cunning</en-US>
+    <it-IT>Astuzia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CUNNING_GAIN_1</zType>
+    <en-US>With a gift for negotiation, {0_character} is known as {1_trait}!</en-US>
+    <it-IT>Con il dono della negoziazione, {0_character} è conosciuto come {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CUNNING_GAIN_2</zType>
+    <en-US>{0_character} can get anything {masculine_0:he:she} wants while keeping the other party pleased. {masculine_0:He:She} is quite {1_trait}!</en-US>
+    <it-IT>{0_character} può ottenere tutto ciò che {masculine_0:he:she} desidera, mantenendo l'altra parte soddisfatta. {masculine_0:Lui:Lei} è proprio {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TRACKER</zType>
+    <en-US>Tracker</en-US>
+    <it-IT>Inseguitore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TRACKER_F</zType>
+    <en-US>Tracker</en-US>
+    <it-IT>Inseguitore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TRACKER_GAIN_1</zType>
+    <en-US>Able to track any trail, {0_character} is an expert {1_trait}!</en-US>
+    <it-IT>In grado di seguire qualsiasi traccia, {0_character} è un esperto {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SWIFT</zType>
+    <en-US>Swift</en-US>
+    <it-IT>Swift</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SWIFT_F</zType>
+    <en-US>Swift</en-US>
+    <it-IT>Swift</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SWIFT_GAIN_1</zType>
+    <en-US>Fast as a stooping hawk, everyone knows {0_character} to be {1_trait}!</en-US>
+    <it-IT>Veloci come un falco, tutti sanno che {0_character} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BESIEGER</zType>
+    <en-US>Besieger</en-US>
+    <it-IT>Besieger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BESIEGER_F</zType>
+    <en-US>Besieger</en-US>
+    <it-IT>Besieger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BESIEGER_GAIN_1</zType>
+    <en-US>An expert in siege warfare, {0_character} is known as a {1_trait}.</en-US>
+    <it-IT>Esperto di guerra d'assedio, {0_character} è noto come {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TOUGH</zType>
+    <en-US>Tough</en-US>
+    <it-IT>Difficile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TOUGH_F</zType>
+    <en-US>Tough</en-US>
+    <it-IT>Difficile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TOUGH_GAIN_1</zType>
+    <en-US>Strong and determined, {0_character} is regarded as {1_trait}.</en-US>
+    <it-IT>Forte e determinato, {0_character} è considerato come {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLOODTHIRSTY</zType>
+    <en-US>Bloodthirsty</en-US>
+    <it-IT>Sanguinario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLOODTHIRSTY_F</zType>
+    <en-US>Bloodthirsty</en-US>
+    <it-IT>Sanguinario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLOODTHIRSTY_GAIN_1</zType>
+    <en-US>{0_character} is a {1_trait} monster!</en-US>
+    <it-IT>{0_character} è un mostro {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLOODTHIRSTY_GAIN_2</zType>
+    <en-US>Happiest when engaging in extreme violence, {0_character} is {1_trait}!</en-US>
+    <it-IT>Più felice quando si dedica alla violenza estrema, {0_character} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HECKLER</zType>
+    <en-US>Heckler</en-US>
+    <it-IT>Heckler</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HECKLER_F</zType>
+    <en-US>Heckler</en-US>
+    <it-IT>Heckler</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HECKLER_GAIN_1</zType>
+    <en-US>{0_character} never gives {masculine_0:his:her} enemies peace. {masculine_0:He:She} is an unrelenting {1_trait}.</en-US>
+    <it-IT>{0_character} non dà mai pace ai nemici di {masculine_0:his:her}. {masculine_0:Lui:Lei} è un {1_trait} implacabile.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STEADFAST</zType>
+    <en-US>Steadfast</en-US>
+    <it-IT>Saldezza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STEADFAST_F</zType>
+    <en-US>Steadfast</en-US>
+    <it-IT>Saldezza</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STEADFAST_GAIN_1</zType>
+    <en-US>{0_character} will always hold firm to {masculine_0:his:her} chosen position. {masculine_0:He:She} is {1_trait}.</en-US>
+    <it-IT>{0_character} manterrà sempre la posizione scelta da {masculine_0:his:her}. {masculine_0:Lui:Lei} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HERBALIST</zType>
+    <en-US>Herbalist</en-US>
+    <it-IT>Erborista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HERBALIST_F</zType>
+    <en-US>Herbalist</en-US>
+    <it-IT>Erborista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HERBALIST_GAIN_1</zType>
+    <en-US>An expert {1_trait}, {0_character} knows more about the uses of plants than most!</en-US>
+    <it-IT>Un esperto {1_trait}, {0_character} conosce gli usi delle piante meglio di molti altri!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HIGHLANDER</zType>
+    <en-US>Highlander</en-US>
+    <it-IT>Highlander</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HIGHLANDER_F</zType>
+    <en-US>Highlander</en-US>
+    <it-IT>Highlander</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HIGHLANDER_GAIN_1</zType>
+    <en-US>{0_character} is at home in the hills and mountains. {masculine_0:He:She} is a {1_trait}.</en-US>
+    <it-IT>{0_character} è di casa tra le colline e le montagne. {masculine_0:Lui:Lei} è un {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RANGER</zType>
+    <en-US>Ranger</en-US>
+    <it-IT>Ranger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RANGER_F</zType>
+    <en-US>Ranger</en-US>
+    <it-IT>Ranger</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RANGER_GAIN_1</zType>
+    <en-US>{0_character} is able to move silently through the forests, an expert {1_trait}!</en-US>
+    <it-IT>{0_character} è in grado di muoversi silenziosamente nelle foreste, un esperto {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BRAVE</zType>
+    <en-US>Brave</en-US>
+    <it-IT>Coraggioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BRAVE_F</zType>
+    <en-US>Brave</en-US>
+    <it-IT>Coraggioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BRAVE_GAIN_1</zType>
+    <en-US>If {0_character} feels fear, none can tell. {masculine_0:He:She} is exceptionally {1_trait}!</en-US>
+    <it-IT>Se {0_character} prova paura, nessuno può dirlo. {masculine_0:Lui:Lei} è eccezionalmente {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SHIELDBEARER</zType>
+    <en-US>Shieldbearer</en-US>
+    <it-IT>Portatore di scudi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SHIELDBEARER_F</zType>
+    <en-US>Shieldbearer</en-US>
+    <it-IT>Portatore di scudi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SHIELDBEARER_GAIN_1</zType>
+    <en-US>{0_character} believes that the best offence is an impenetrable defence. {masculine_0:He:She} is a {1_trait}!</en-US>
+    <it-IT>{0_character} crede che il miglior attacco sia una difesa impenetrabile. {masculine_0:Lui:Lei} è un {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FIERCE</zType>
+    <en-US>Fierce</en-US>
+    <it-IT>Feroce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FIERCE_F</zType>
+    <en-US>Fierce</en-US>
+    <it-IT>Feroce</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FIERCE_GAIN_1</zType>
+    <en-US>Aggressive to a fault, many would call {0_character} {1_trait} if not for the fear {masculine_0:he:she} may take offense!</en-US>
+    <it-IT>Aggressivo fino all'inverosimile, molti chiamerebbero {0_character} {1_trait} se non fosse per il timore che {masculine_0:he:she} possa offendersi!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HORSEBANE</zType>
+    <en-US>Horsebane</en-US>
+    <it-IT>Cavallo di ritorno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HORSEBANE_F</zType>
+    <en-US>Horsebane</en-US>
+    <it-IT>Cavallo di ritorno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HORSEBANE_GAIN_1</zType>
+    <en-US>{0_character} is so skilled at fighting against mounted opponents that {masculine_0:he:she} is known as {1_trait}!</en-US>
+    <it-IT>{0_character} è così abile nel combattere contro avversari montati che {masculine_0:he:she} è conosciuto come {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ENGINEER</zType>
+    <en-US>Engineer</en-US>
+    <it-IT>Ingegnere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ENGINEER_F</zType>
+    <en-US>Engineer</en-US>
+    <it-IT>Ingegnere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ENGINEER_GAIN_1</zType>
+    <en-US>Always tinkering with something, {0_character} is an {1_trait}!</en-US>
+    <it-IT>Sempre a armeggiare con qualcosa, {0_character} è un {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BOLD</zType>
+    <en-US>Bold</en-US>
+    <it-IT>In grassetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BOLD_F</zType>
+    <en-US>Bold</en-US>
+    <it-IT>In grassetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BOLD_GAIN_1</zType>
+    <en-US>Never afraid to take risks, {0_character} is {1_trait}!</en-US>
+    <it-IT>Senza mai avere paura di rischiare, {0_character} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TIMID</zType>
+    <en-US>Timid</en-US>
+    <it-IT>Timido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TIMID_F</zType>
+    <en-US>Timid</en-US>
+    <it-IT>Timido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_TIMID_GAIN_1</zType>
+    <en-US>Scared to take any risks or even make mistakes, {0_character} has become {1_trait}!</en-US>
+    <it-IT>Impaurito di correre rischi o addirittura di commettere errori, {0_character} è diventato {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GRACIOUS</zType>
+    <en-US>Gracious</en-US>
+    <it-IT>Grazioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GRACIOUS_F</zType>
+    <en-US>Gracious</en-US>
+    <it-IT>Grazioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GRACIOUS_GAIN_1</zType>
+    <en-US>Kind and pleasant, {0_character} is {1_trait}!</en-US>
+    <it-IT>Gentile e simpatico, {0_character} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GREEDY</zType>
+    <en-US>Greedy</en-US>
+    <it-IT>Avido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GREEDY_F</zType>
+    <en-US>Greedy</en-US>
+    <it-IT>Avido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GREEDY_GAIN_1</zType>
+    <en-US>{0_character} would sell {masculine_0:his:her} own grandmother for two coins. Everyone knows {masculine_0:him:her} to be {1_trait}!</en-US>
+    <it-IT>{0_character} venderebbe la nonna di {masculine_0:his:her} per due monete. Tutti sanno che {masculine_0:him:her} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROMANTIC</zType>
+    <en-US>Romantic</en-US>
+    <it-IT>Romantico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROMANTIC_F</zType>
+    <en-US>Romantic</en-US>
+    <it-IT>Romantico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ROMANTIC_GAIN_1</zType>
+    <en-US>Deeply affectionate and prone to passionate gestures, {0_character} is a hopeless {1_trait}!</en-US>
+    <it-IT>Profondamente affettuoso e incline a gesti passionali, {0_character} è un {1_trait} senza speranza!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BITTER</zType>
+    <en-US>Bitter</en-US>
+    <it-IT>Amaro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BITTER_F</zType>
+    <en-US>Bitter</en-US>
+    <it-IT>Amaro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BITTER_GAIN_1</zType>
+    <en-US>{0_character} cannot let go of grievances and is often angry. A most {1_trait} person!</en-US>
+    <it-IT>{0_character} non riesce a lasciar andare i rancori e spesso si arrabbia. Una persona molto {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EDUCATED</zType>
+    <en-US>Educated</en-US>
+    <it-IT>Educato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EDUCATED_F</zType>
+    <en-US>Educated</en-US>
+    <it-IT>Educato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EDUCATED_GAIN_1</zType>
+    <en-US>{0_character} has studied long and hard, and is now known as an {1_trait} person.</en-US>
+    <it-IT>{0_character} ha studiato a lungo e duramente e ora è conosciuto come una persona {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SUPERSTITIOUS</zType>
+    <en-US>Superstitious</en-US>
+    <it-IT>Superstizioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SUPERSTITIOUS_F</zType>
+    <en-US>Superstitious</en-US>
+    <it-IT>Superstizioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SUPERSTITIOUS_GAIN_1</zType>
+    <en-US>{0_character}, being {1_trait}, believes in many strange and mysterious things.</en-US>
+    <it-IT>{0_character}, essendo {1_trait}, crede in molte cose strane e misteriose.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMPASSIONATE</zType>
+    <en-US>Compassionate</en-US>
+    <it-IT>Compassionevole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMPASSIONATE_F</zType>
+    <en-US>Compassionate</en-US>
+    <it-IT>Compassionevole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMPASSIONATE_GAIN_1</zType>
+    <en-US>{0_character} has a great deal of sympathy and concern for others. {masculine_0:He:She} is {1_trait}.</en-US>
+    <it-IT>{0_character} ha una grande simpatia e preoccupazione per gli altri. {masculine_0:Lui:Lei} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RUTHLESS</zType>
+    <en-US>Ruthless</en-US>
+    <it-IT>Spietato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RUTHLESS_F</zType>
+    <en-US>Ruthless</en-US>
+    <it-IT>Spietato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RUTHLESS_GAIN_1</zType>
+    <en-US>{0_character} will do whatever it takes to get what {masculine_0:he:she} wants. {masculine_0:He:She} is {1_trait}!</en-US>
+    <it-IT>{0_character} farà tutto il necessario per ottenere ciò che {masculine_0:he:she} vuole. {masculine_0:Lui:Lei} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PIOUS</zType>
+    <en-US>Pious</en-US>
+    <it-IT>Pio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PIOUS_F</zType>
+    <en-US>Pious</en-US>
+    <it-IT>Pio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PIOUS_GAIN_1</zType>
+    <en-US>Devoted to {masculine_0:his:her} faith, {0_character} is {1_trait}.</en-US>
+    <it-IT>Dedicato alla fede {masculine_0:his:her}, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WANTON</zType>
+    <en-US>Wanton</en-US>
+    <it-IT>Volgare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WANTON_F</zType>
+    <en-US>Wanton</en-US>
+    <it-IT>Volgare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WANTON_GAIN_1</zType>
+    <en-US>Keen to indulge in the pleasures of the flesh, {0_character} is {1_trait}.</en-US>
+    <it-IT>Desideroso di abbandonarsi ai piaceri della carne, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LOYAL</zType>
+    <en-US>Loyal</en-US>
+    <it-IT>Fedele</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LOYAL_F</zType>
+    <en-US>Loyal</en-US>
+    <it-IT>Fedele</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LOYAL_GAIN_1</zType>
+    <en-US>Devoted to any cause {masculine_0:he:she} swears to, everyone knows that {0_character} is {1_trait}!</en-US>
+    <it-IT>Devoto a qualsiasi causa per cui {masculine_0:he:she} giura, tutti sanno che {0_character} è {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DECEITFUL</zType>
+    <en-US>Deceitful</en-US>
+    <it-IT>Ingannevole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DECEITFUL_F</zType>
+    <en-US>Deceitful</en-US>
+    <it-IT>Ingannevole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DECEITFUL_GAIN_1</zType>
+    <en-US>{0_character} never seems to keep {masculine_0:his:her} word and is now known to be {1_trait}.</en-US>
+    <it-IT>{0_character} non sembra mai mantenere la parola di {masculine_0:his:her} e ora si sa che è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HUMBLE</zType>
+    <en-US>Humble</en-US>
+    <it-IT>Umile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HUMBLE_F</zType>
+    <en-US>Humble</en-US>
+    <it-IT>Umile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HUMBLE_GAIN_1</zType>
+    <en-US>Modest and never one to put {masculine_0:him:her}self first, {0_character} is {1_trait}.</en-US>
+    <it-IT>Modesto e mai disposto a mettere {masculine_0:him:her} se stesso al primo posto, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROUD</zType>
+    <en-US>Proud</en-US>
+    <it-IT>Orgoglioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROUD_F</zType>
+    <en-US>Proud</en-US>
+    <it-IT>Orgoglioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROUD_GAIN_1</zType>
+    <en-US>{0_character} takes a deep pleasure in {masculine_0:his:her} own achievements. It is no lie to call {masculine_0:him:her} {1_trait}.</en-US>
+    <it-IT>{0_character} prova un profondo piacere per i risultati ottenuti da {masculine_0:his:her}. Non è una bugia chiamare {masculine_0:him:her} {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WITTY</zType>
+    <en-US>Witty</en-US>
+    <it-IT>Spiritoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WITTY_F</zType>
+    <en-US>Witty</en-US>
+    <it-IT>Spiritoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WITTY_GAIN_1</zType>
+    <en-US>{0_character} is {1_trait}, able to make anyone laugh with {masculine_0:his:her} quick tongue and inventive jokes!</en-US>
+    <it-IT>{0_character} è {1_trait}, in grado di far ridere chiunque con {masculine_0:his:her} una lingua veloce e battute inventive!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SPOILED</zType>
+    <en-US>Spoiled</en-US>
+    <it-IT>Viziato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SPOILED_F</zType>
+    <en-US>Spoiled</en-US>
+    <it-IT>Viziato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SPOILED_GAIN_1</zType>
+    <en-US>{0_character} is likely to fly into a rage if {masculine_0:he:she} does not get {masculine_0:his:her} own way, a most {1_trait} person!</en-US>
+    <it-IT>{0_character} è probabile che vada su tutte le furie se {masculine_0:he:she} non ottiene {masculine_0:his:her}, una persona molto {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_PHILOSOPHY</zType>
+    <en-US>Philosophy Student</en-US>
+    <it-IT>Studente di filosofia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_PHILOSOPHY_DESCRIPTION</zType>
+    <en-US>Can lead to link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), or link(TRAIT_SCHOLAR_ARCHETYPE)</en-US>
+    <it-IT>Può portare a link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE) o link(TRAIT_SCHOLAR_ARCHETYPE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_PHILOSOPHY_F</zType>
+    <en-US>Philosophy Student</en-US>
+    <it-IT>Studente di filosofia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_POLITICS</zType>
+    <en-US>Politics Student</en-US>
+    <it-IT>Studente di politica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_POLITICS_DESCRIPTION</zType>
+    <en-US>Can lead to link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE), or link(TRAIT_DIPLOMAT_ARCHETYPE)</en-US>
+    <it-IT>Può portare a link(TRAIT_HERO_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), link(TRAIT_SCHOLAR_ARCHETYPE) o link(TRAIT_DIPLOMAT_ARCHETYPE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_POLITICS_F</zType>
+    <en-US>Politics Student</en-US>
+    <it-IT>Studente di politica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_TACTICS</zType>
+    <en-US>Tactics Student</en-US>
+    <it-IT>Studente di tattica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_TACTICS_DESCRIPTION</zType>
+    <en-US>Can lead to link(TRAIT_HERO_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE), or link(TRAIT_SCHEMER_ARCHETYPE)</en-US>
+    <it-IT>Può portare a link(TRAIT_HERO_ARCHETYPE), link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_ZEALOT_ARCHETYPE) o link(TRAIT_SCHEMER_ARCHETYPE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_TACTICS_F</zType>
+    <en-US>Tactics Student</en-US>
+    <it-IT>Studente di tattica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_COMMERCE</zType>
+    <en-US>Commerce Student</en-US>
+    <it-IT>Studente di commercio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_COMMERCE_DESCRIPTION</zType>
+    <en-US>Can lead to link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE), or link(TRAIT_DIPLOMAT_ARCHETYPE)</en-US>
+    <it-IT>Può portare a link(TRAIT_COMMANDER_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_BUILDER_ARCHETYPE) o link(TRAIT_DIPLOMAT_ARCHETYPE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STUDY_COMMERCE_F</zType>
+    <en-US>Commerce Student</en-US>
+    <it-IT>Studente di commercio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXPLORING</zType>
+    <en-US>Exploring</en-US>
+    <it-IT>Esplorazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXPLORING_F</zType>
+    <en-US>Exploring</en-US>
+    <it-IT>Esplorazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXPLORING_DESCRIPTION</zType>
+    <en-US>Exploring characters will experience unique events while discovering the world around them.</en-US>
+    <it-IT>I personaggi in esplorazione vivranno eventi unici mentre scoprono il mondo che li circonda.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXOTIC</zType>
+    <en-US>Exotic</en-US>
+    <it-IT>Esotico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXOTIC_F</zType>
+    <en-US>Exotic</en-US>
+    <it-IT>Esotico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLESSED</zType>
+    <en-US>Blessed</en-US>
+    <it-IT>Beato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLESSED_F</zType>
+    <en-US>Blessed</en-US>
+    <it-IT>Beato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLESSED_DESCRIPTION</zType>
+    <en-US>Some people are blessed with better fortune than others. Who knows what good things it might lead to?</en-US>
+    <it-IT>Alcune persone hanno la fortuna di essere più fortunate di altre. Chi può sapere a quali cose buone può portare?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CURSED</zType>
+    <en-US>Cursed</en-US>
+    <it-IT>Maledetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CURSED_F</zType>
+    <en-US>Cursed</en-US>
+    <it-IT>Maledetto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CURSED_DESCRIPTION</zType>
+    <en-US>Nobody knows whether curses are real, but the misfortune some people attract definitely is. Whatever comes next will likely not be pleasant.</en-US>
+    <it-IT>Nessuno sa se le maledizioni siano reali, ma la sfortuna che alcune persone attirano lo è sicuramente. Qualunque cosa accada, probabilmente non sarà piacevole.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL</zType>
+    <en-US>Ill</en-US>
+    <it-IT>Malato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_F</zType>
+    <en-US>Ill</en-US>
+    <it-IT>Malato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_GAIN_1</zType>
+    <en-US>{0_character} has fallen {1_trait}.</en-US>
+    <it-IT>{0_character} è caduto {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_GAIN_2</zType>
+    <en-US>With a mild fever and a runny nose, {0_character} is rather {1_trait}.</en-US>
+    <it-IT>Con una leggera febbre e il naso che cola, {0_character} è piuttosto {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_GAIN_3</zType>
+    <en-US>{0_character} is feeling {1_trait}, light-headed and weak.</en-US>
+    <it-IT>{0_character} si sente {1_trait}, stordito e debole.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_GAIN_4</zType>
+    <en-US>{0_character} has been feeling quite poor lately, and is now {1_trait}.</en-US>
+    <it-IT>{0_character} si è sentito piuttosto male ultimamente e ora è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_GAIN_5</zType>
+    <en-US>The health of {0_character} has begun to decline, and {masculine_0:he:she} is now {1_trait}.</en-US>
+    <it-IT>La salute di {0_character} ha iniziato a declinare e {masculine_0:he:she} è ora {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_LOSS_1</zType>
+    <en-US>{0_character} is no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
+    <it-IT>{0_character} non è più {1_trait}, {masculine_0:he:she} ha recuperato completamente!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_LOSS_2</zType>
+    <en-US>{0_character} has recovered from {masculine_0:his:her} malaise and is no longer {1_trait}.</en-US>
+    <it-IT>{0_character} si è ripreso dal malessere di {masculine_0:his:her} e non è più {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ILL_LOSS_3</zType>
+    <en-US>{0_character} is thankfully feeling much better now, and is no longer {1_trait}.</en-US>
+    <it-IT>Per fortuna, {0_character} sta molto meglio e non è più {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL</zType>
+    <en-US>Severely Ill</en-US>
+    <it-IT>Gravemente malato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_F</zType>
+    <en-US>Severely Ill</en-US>
+    <it-IT>Gravemente malato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_1</zType>
+    <en-US>Afflicted by nigh-constant vomiting and diarrhea, {0_character} is {1_trait}.</en-US>
+    <it-IT>Afflitto da vomito e diarrea quasi costanti, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_2</zType>
+    <en-US>{0_character} is {1_trait}, suffering from a high fever and constant shaking, leaving {masculine_0:him:her} barely able to walk.</en-US>
+    <it-IT>{0_character} è {1_trait}, che soffre di febbre alta e trema continuamente, lasciando {masculine_0:him:her} a malapena in grado di camminare.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_3</zType>
+    <en-US>{1_trait}, coughing up bloody mucus and suffering from sharp pains in {masculine_0:his:her} chest, {0_character} fears {masculine_0:he:she} does not have much time left.</en-US>
+    <it-IT>{1_trait}, tossendo muco sanguinolento e soffrendo di forti dolori al petto {masculine_0:his:her}, {0_character} teme che a {masculine_0:he:she} non rimanga molto tempo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_4</zType>
+    <en-US>Always having been a bit sickly, {0_character} has now become {1_trait}.</en-US>
+    <it-IT>Da sempre un po' malaticcio, {0_character} è ora diventato {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_5</zType>
+    <en-US>The health of {0_character} has taken a serious turn for the worse, and {masculine_0:he:she} is now {1_trait}.</en-US>
+    <it-IT>La salute di {0_character} è peggiorata e {masculine_0:he:she} è diventato {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_1</zType>
+    <en-US>{0_character} is no longer {1_trait}, {masculine_0:he:she} has made an amazing recovery!</en-US>
+    <it-IT>{0_character} non è più {1_trait}, {masculine_0:he:she} si è ripreso alla grande!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_2</zType>
+    <en-US>Although {masculine_0:he:she} was at death's door, {0_character} has miraculously recovered from being {1_trait}.</en-US>
+    <it-IT>Sebbene {masculine_0:he:she} fosse in punto di morte, {0_character} si è miracolosamente ripreso dall'essere {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_3</zType>
+    <en-US>{0_character} is now on the road to recovery, and no longer {1_trait}.</en-US>
+    <it-IT>{0_character} è ora sulla via della guarigione e non più {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INCUBATED</zType>
+    <en-US>Incubated</en-US>
+    <it-IT>Incubato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INCUBATED_F</zType>
+    <en-US>Incubated</en-US>
+    <it-IT>Incubato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INCUBATED_LOSS_1</zType>
+    <en-US>{0_character} has returned from the sacred areas and is no longer {1_trait}.</en-US>
+    <it-IT>{0_character} è tornato dalle aree sacre e non è più {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POISONED</zType>
+    <en-US>Poisoned</en-US>
+    <it-IT>Avvelenato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POISONED_F</zType>
+    <en-US>Poisoned</en-US>
+    <it-IT>Avvelenato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POISONED_LOSS_1</zType>
+    <en-US>{0_character} has recovered and is no longer {1_trait}.</en-US>
+    <it-IT>{0_character} si è ripreso e non è più {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MISERABLE</zType>
+    <en-US>Miserable</en-US>
+    <it-IT>Miserabile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MISERABLE_F</zType>
+    <en-US>Miserable</en-US>
+    <it-IT>Miserabile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCARRED</zType>
+    <en-US>Scarred</en-US>
+    <it-IT>Sfregiato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCARRED_F</zType>
+    <en-US>Scarred</en-US>
+    <it-IT>Sfregiato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCARRED_GAIN_1</zType>
+    <en-US>{0_character} has recovered from {masculine_0:his:her} recent injury, but it has left {masculine_0:him:her} {1_trait} forever.</en-US>
+    <it-IT>{0_character} si è ripreso dal recente infortunio di {masculine_0:his:her}, ma ha lasciato per sempre {masculine_0:him:her} {1_trait} per sempre.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCARRED_GAIN_2</zType>
+    <en-US>After a recent wound, {0_character} is now most impressively {1_trait}!</en-US>
+    <it-IT>Dopo una recente ferita, {0_character} è ora incredibilmente {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SCARRED_GAIN_3</zType>
+    <en-US>While {masculine_0:his:her} injury has healed, {0_character} is now hideously {1_trait}!</en-US>
+    <it-IT>Mentre la ferita di {masculine_0:his:her} è guarita, {0_character} è ora orribilmente {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRIPPLED</zType>
+    <en-US>Crippled</en-US>
+    <it-IT>Storpio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRIPPLED_F</zType>
+    <en-US>Crippled</en-US>
+    <it-IT>Storpio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CRIPPLED_GAIN_1</zType>
+    <en-US>{0_character} will never be the same again. A recent injury has {1_trait} {masculine_0:him:her}!</en-US>
+    <it-IT>{0_character} non sarà più lo stesso. Un recente infortunio ha fatto sì che {1_trait} {masculine_0:him:her}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLINDED</zType>
+    <en-US>Blinded</en-US>
+    <it-IT>Accecato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLINDED_F</zType>
+    <en-US>Blinded</en-US>
+    <it-IT>Accecato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BLINDED_GAIN_1</zType>
+    <en-US>{0_character} will never see again and must try to adapt to a life in darkness, {masculine_0:he:she} has been {1_trait}!</en-US>
+    <it-IT>{0_character} non vedrà mai più e dovrà cercare di adattarsi a una vita nell'oscurità, {masculine_0:he:she} è stato {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_IMPRISONED</zType>
+    <en-US>Imprisoned</en-US>
+    <it-IT>Imprigionato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_IMPRISONED_F</zType>
+    <en-US>Imprisoned</en-US>
+    <it-IT>Imprigionato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FUGITIVE</zType>
+    <en-US>Fugitive</en-US>
+    <it-IT>Fuggitivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FUGITIVE_F</zType>
+    <en-US>Fugitive</en-US>
+    <it-IT>Fuggitivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MISSING</zType>
+    <en-US>Missing</en-US>
+    <it-IT>Mancante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MISSING_F</zType>
+    <en-US>Missing</en-US>
+    <it-IT>Mancante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_UNDER_ASYLUM</zType>
+    <en-US>Under Asylum</en-US>
+    <it-IT>Sotto asilo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_UNDER_ASYLUM_F</zType>
+    <en-US>Under Asylum</en-US>
+    <it-IT>Sotto asilo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ELOPED</zType>
+    <en-US>Eloped</en-US>
+    <it-IT>Scappati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ELOPED_F</zType>
+    <en-US>Eloped</en-US>
+    <it-IT>Scappati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CAPTURED</zType>
+    <en-US>Captured</en-US>
+    <it-IT>Catturato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CAPTURED_F</zType>
+    <en-US>Captured</en-US>
+    <it-IT>Catturato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXILED</zType>
+    <en-US>Exiled</en-US>
+    <it-IT>Esiliato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXILED_F</zType>
+    <en-US>Exiled</en-US>
+    <it-IT>Esiliato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DESERTER</zType>
+    <en-US>Deserter</en-US>
+    <it-IT>Disertore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DESERTER_F</zType>
+    <en-US>Deserter</en-US>
+    <it-IT>Disertore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXCLUDED</zType>
+    <en-US>Excluded from Succession</en-US>
+    <it-IT>Esclusi dalla successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_EXCLUDED_F</zType>
+    <en-US>Excluded from Succession</en-US>
+    <it-IT>Esclusi dalla successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FAMILY_EXCLUDED</zType>
+    <en-US>Family Excluded from Succession</en-US>
+    <it-IT>Famiglia esclusa dalla successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FAMILY_EXCLUDED_F</zType>
+    <en-US>Family Excluded from Succession</en-US>
+    <it-IT>Famiglia esclusa dalla successione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DOOMED</zType>
+    <en-US>Doomed</en-US>
+    <it-IT>Condannato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DOOMED_F</zType>
+    <en-US>Doomed</en-US>
+    <it-IT>Condannato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DOOMED_DESCRIPTION</zType>
+    <en-US>It is said that Atropos, the oldest of the Fates, is responsible for deciding how to end the thread of one's Life. To be visited by Atropos would mean you are Doomed.</en-US>
+    <it-IT>Si dice che Atropo, la più antica delle Parche, sia responsabile di decidere come concludere il filo della propria vita. Essere visitati da Atropo significa essere condannati.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GAY</zType>
+    <en-US>Gay</en-US>
+    <it-IT>Gay</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GAY_F</zType>
+    <en-US>Gay</en-US>
+    <it-IT>Gay</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BISEXUAL</zType>
+    <en-US>Bisexual</en-US>
+    <it-IT>Bisessuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BISEXUAL_F</zType>
+    <en-US>Bisexual</en-US>
+    <it-IT>Bisessuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BASTARD</zType>
+    <en-US>Bastard</en-US>
+    <it-IT>Bastardo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BASTARD_F</zType>
+    <en-US>Bastard</en-US>
+    <it-IT>Bastardo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LEGITIMIZED</zType>
+    <en-US>Legitimized</en-US>
+    <it-IT>Legittimato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LEGITIMIZED_F</zType>
+    <en-US>Legitimized</en-US>
+    <it-IT>Legittimato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SLIGHTED</zType>
+    <en-US>Slighted</en-US>
+    <it-IT>Leggero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SLIGHTED_F</zType>
+    <en-US>Slighted</en-US>
+    <it-IT>Leggero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLAIMED</zType>
+    <en-US>Claimed</en-US>
+    <it-IT>Rivendicato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLAIMED_F</zType>
+    <en-US>Claimed</en-US>
+    <it-IT>Rivendicato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY</zType>
+    <en-US>Clergy</en-US>
+    <it-IT>Clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_F</zType>
+    <en-US>Clergy</en-US>
+    <it-IT>Clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ASCETIC</zType>
+    <en-US>Ascetic</en-US>
+    <it-IT>Ascetico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ASCETIC_F</zType>
+    <en-US>Ascetic</en-US>
+    <it-IT>Ascetico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ARTIST</zType>
+    <en-US>Artist</en-US>
+    <it-IT>Artista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ARTIST_F</zType>
+    <en-US>Artist</en-US>
+    <it-IT>Artista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FAMOUS</zType>
+    <en-US>Famous</en-US>
+    <it-IT>Famoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_FAMOUS_F</zType>
+    <en-US>Famous</en-US>
+    <it-IT>Famoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INFAMOUS</zType>
+    <en-US>Infamous</en-US>
+    <it-IT>Infame</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INFAMOUS_F</zType>
+    <en-US>Infamous</en-US>
+    <it-IT>Infame</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ADOPTED</zType>
+    <en-US>Adopted</en-US>
+    <it-IT>Adottato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ADOPTED_F</zType>
+    <en-US>Adopted</en-US>
+    <it-IT>Adottato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PREGNANT</zType>
+    <en-US>Pregnant</en-US>
+    <it-IT>Incinta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ABDICATED</zType>
+    <en-US>Abdicated</en-US>
+    <it-IT>Abdicato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ABDICATED_F</zType>
+    <en-US>Abdicated</en-US>
+    <it-IT>Abdicato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_REGENT</zType>
+    <en-US>Regent</en-US>
+    <it-IT>Reggente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_REGENT_F</zType>
+    <en-US>Regent</en-US>
+    <it-IT>Reggente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RIGHTFUL_HEIR</zType>
+    <en-US>Rightful Heir</en-US>
+    <it-IT>Erede legittimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_RIGHTFUL_HEIR_F</zType>
+    <en-US>Rightful Heir</en-US>
+    <it-IT>Erede legittimo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DIVINE</zType>
+    <en-US>Divine</en-US>
+    <it-IT>Divino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DIVINE_F</zType>
+    <en-US>Divine</en-US>
+    <it-IT>Divino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SOLDIER</zType>
+    <en-US>Soldier</en-US>
+    <it-IT>Soldato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SOLDIER_F</zType>
+    <en-US>Soldier</en-US>
+    <it-IT>Soldato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DRUNK</zType>
+    <en-US>Drunk</en-US>
+    <it-IT>Ubriaco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DRUNK_F</zType>
+    <en-US>Drunk</en-US>
+    <it-IT>Ubriaco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DRUNK_GAIN_1</zType>
+    <en-US>After one too many nights of revels, {0_character} is now a {1_trait}.</en-US>
+    <it-IT>Dopo una notte di bagordi di troppo, {0_character} è ora un {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DRUNK_GAIN_2</zType>
+    <en-US>{0_character} has lately spent too many evenings with just a pitcher of wine for company and is now a {1_trait}.</en-US>
+    <it-IT>Ultimamente {0_character} ha trascorso troppe serate in compagnia di una caraffa di vino e ora è un {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSANE</zType>
+    <en-US>Insane</en-US>
+    <it-IT>Folle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSANE_F</zType>
+    <en-US>Insane</en-US>
+    <it-IT>Folle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_INSANE_GAIN_1</zType>
+    <en-US>{0_character} has gone completely mad! {masculine_0:He:She} is now {1_trait}.</en-US>
+    <it-IT>{0_character} è completamente impazzito! {masculine_0:Lui:Lei} è ora {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MOURNING</zType>
+    <en-US>Mourning</en-US>
+    <it-IT>Lutto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MOURNING_F</zType>
+    <en-US>Mourning</en-US>
+    <it-IT>Lutto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MOURNING_LOSS_1</zType>
+    <en-US>The grieving of {0_character} is at an end. {masculine_0:He:She} is no longer {1_trait}.</en-US>
+    <it-IT>Il lutto di {0_character} è terminato. {masculine_0:Lui:Lei} non è più {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROPHET</zType>
+    <en-US>Prophet</en-US>
+    <it-IT>Profeta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PROPHET_F</zType>
+    <en-US>Prophet</en-US>
+    <it-IT>Profeta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ARCHON</zType>
+    <en-US>Archon</en-US>
+    <it-IT>Arconte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ARCHON_F</zType>
+    <en-US>Archon</en-US>
+    <it-IT>Arconte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_KING_OF_TYRE</zType>
+    <en-US>King of Tyre</en-US>
+    <it-IT>Re di Tiro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CHEIF_PRIEST_OF_MELQUART</zType>
+    <en-US>Chief Priest of Melquart in Tyre</en-US>
+    <it-IT>Capo sacerdote di Melquart a Tiro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CHEIF_PRIEST_OF_MELQUART_F</zType>
+    <en-US>Chief Priest of Melquart in Tyre</en-US>
+    <it-IT>Capo sacerdote di Melquart a Tiro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MYSTERIOUS_SWORD</zType>
+    <en-US>Mysterious Sword</en-US>
+    <it-IT>Spada misteriosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MYSTERIOUS_SWORD_F</zType>
+    <en-US>Mysterious Sword</en-US>
+    <it-IT>Spada misteriosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SWORD_OF_THE_GODS</zType>
+    <en-US>Sword of the Gods Owner</en-US>
+    <it-IT>Proprietario della Spada degli Dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SWORD_OF_THE_GODS_F</zType>
+    <en-US>Sword of the Gods Owner</en-US>
+    <it-IT>Proprietario della Spada degli Dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PET_FISH</zType>
+    <en-US>Pet Fish Owner</en-US>
+    <it-IT>Proprietario di pesci da compagnia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PET_FISH_F</zType>
+    <en-US>Pet Fish Owner</en-US>
+    <it-IT>Proprietario di pesci da compagnia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PET_MONKEY</zType>
+    <en-US>Pet Monkey Owner</en-US>
+    <it-IT>Proprietario di una scimmia da compagnia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PET_MONKEY_F</zType>
+    <en-US>Pet Monkey Owner</en-US>
+    <it-IT>Proprietario di una scimmia da compagnia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MONKEY_ASSASSIN</zType>
+    <en-US>Monkey Assassin Owner</en-US>
+    <it-IT>Proprietario di Monkey Assassin</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MONKEY_ASSASSIN_F</zType>
+    <en-US>Monkey Assassin Owner</en-US>
+    <it-IT>Proprietario di Monkey Assassin</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MONKEY_PAW</zType>
+    <en-US>Monkey Paw Owner</en-US>
+    <it-IT>Proprietario di Monkey Paw</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MONKEY_PAW_F</zType>
+    <en-US>Monkey Paw Owner</en-US>
+    <it-IT>Proprietario di Monkey Paw</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DOG_OWNER</zType>
+    <en-US>Dog Owner</en-US>
+    <it-IT>Proprietario di cani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DOG_OWNER_F</zType>
+    <en-US>Dog Owner</en-US>
+    <it-IT>Proprietario di cani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_OVERSEER_OF_THE_FIELDS</zType>
+    <en-US>Overseer of the Fields</en-US>
+    <it-IT>Sorvegliante dei campi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_OVERSEER_OF_THE_FIELDS_F</zType>
+    <en-US>Overseer of the Fields</en-US>
+    <it-IT>Sorvegliante dei campi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POSSESSOR_OF_VENERATION</zType>
+    <en-US>Possessor of Veneration</en-US>
+    <it-IT>Possessore di Venerazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POSSESSOR_OF_VENERATION_F</zType>
+    <en-US>Possessor of Veneration</en-US>
+    <it-IT>Possessore di Venerazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STEWARD_OF_THE_CHAMBER</zType>
+    <en-US>Steward of the Chamber</en-US>
+    <it-IT>Amministratore della Camera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_STEWARD_OF_THE_CHAMBER_F</zType>
+    <en-US>Steward of the Chamber</en-US>
+    <it-IT>Amministratore della Camera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMULET_OWNER_POSITIVE</zType>
+    <en-US>Open Fertility Amulet Owner</en-US>
+    <it-IT>Proprietario dell'amuleto della fertilità aperto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMULET_OWNER_POSITIVE_F</zType>
+    <en-US>Open Fertility Amulet Owner</en-US>
+    <it-IT>Proprietario dell'amuleto della fertilità aperto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMULET_OWNER_NEGATIVE</zType>
+    <en-US>Locked Fertility Amulet Owner</en-US>
+    <it-IT>Proprietario dell'amuleto della fertilità bloccato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMULET_OWNER_NEGATIVE_F</zType>
+    <en-US>Locked Fertility Amulet Owner</en-US>
+    <it-IT>Proprietario dell'amuleto della fertilità bloccato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GODS_CONSORT</zType>
+    <en-US>God's Consort</en-US>
+    <it-IT>Consorte di Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_GODS_CONSORT_F</zType>
+    <en-US>God's Consort</en-US>
+    <it-IT>Consorte di Dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DROUGHT_STRICKEN</zType>
+    <en-US>Drought Stricken</en-US>
+    <it-IT>Colpiti dalla siccità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DROUGHT_STRICKEN_F</zType>
+    <en-US>Drought Stricken</en-US>
+    <it-IT>Colpiti dalla siccità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_DROUGHT_STRICKEN_LOSS_1</zType>
+    <en-US>The rains have returned. {0_character} is no longer {1_trait}!</en-US>
+    <it-IT>Le piogge sono tornate. {0_character} non è più {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HORSE</zType>
+    <en-US>Horse</en-US>
+    <it-IT>Cavallo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HORSE_F</zType>
+    <en-US>Horse</en-US>
+    <it-IT>Cavallo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HORSE_DESCRIPTION</zType>
+    <en-US>Everyone knows what a horse is.</en-US>
+    <it-IT>Tutti sanno cos'è un cavallo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMARNA_REFORMER</zType>
+    <en-US>Amarna Reformer</en-US>
+    <it-IT>Riformatore di Amarna</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMARNA_REFORMER_F</zType>
+    <en-US>Amarna Reformer</en-US>
+    <it-IT>Riformatore di Amarna</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BARRACKS_INSTRUCTOR</zType>
+    <en-US>Barracks Instructor</en-US>
+    <it-IT>Istruttore di caserma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BARRACKS_INSTRUCTOR_F</zType>
+    <en-US>Barracks Instructor</en-US>
+    <it-IT>Istruttore di caserma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SAVIOR_OF_THE_THRONE</zType>
+    <en-US>Savior of the Throne</en-US>
+    <it-IT>Salvatore del Trono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SAVIOR_OF_THE_THRONE_F</zType>
+    <en-US>Savior of the Throne</en-US>
+    <it-IT>Salvatore del Trono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SAOSHYANT</zType>
+    <en-US>Saoshyant</en-US>
+    <it-IT>Saoshyant</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SAOSHYANT_F</zType>
+    <en-US>Saoshyant</en-US>
+    <it-IT>Saoshyant</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WOUNDED</zType>
+    <en-US>Wounded</en-US>
+    <it-IT>Ferito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WOUNDED_F</zType>
+    <en-US>Wounded</en-US>
+    <it-IT>Ferito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WOUNDED_GAIN_1</zType>
+    <en-US>{0_character} has been {1_trait}!</en-US>
+    <it-IT>{0_character} è stato {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_WOUNDED_LOSS_1</zType>
+    <en-US>{0_character} is no longer {1_trait}, {masculine_0:he:she} doesn't even have a scar!</en-US>
+    <it-IT>{0_character} non è più {1_trait}, {masculine_0:he:she} non ha nemmeno una cicatrice!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_WOUNDED</zType>
+    <en-US>Severely Wounded</en-US>
+    <it-IT>Ferite gravi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_WOUNDED_F</zType>
+    <en-US>Severely Wounded</en-US>
+    <it-IT>Ferite gravi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_WOUNDED_GAIN_1</zType>
+    <en-US>{0_character} has been {1_trait}, it remains to be seen if {masculine_0:he:she} will recover.</en-US>
+    <it-IT>{0_character} è stato {1_trait}, resta da vedere se {masculine_0:he:she} si riprenderà.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SEVERELY_WOUNDED_LOSS_1</zType>
+    <en-US>{0_character} has made a miraculous recovery after being {1_trait}, the grievous injury has healed entirely!</en-US>
+    <it-IT>{0_character} è guarito miracolosamente dopo essere stato {1_trait}, la grave ferita è guarita completamente!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_REBEL_SLAVE</zType>
+    <en-US>Rebel Slave</en-US>
+    <it-IT>Schiavo ribelle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_REBEL_SLAVE_F</zType>
+    <en-US>Rebel Slave</en-US>
+    <it-IT>Schiavo ribelle</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMMANDER_ROYAL_GUARD</zType>
+    <en-US>Commander of the Royal Guard</en-US>
+    <it-IT>Comandante della Guardia Reale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMMANDER_ROYAL_GUARD_F</zType>
+    <en-US>Commander of the Royal Guard</en-US>
+    <it-IT>Comandante della Guardia Reale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMMANDER_BORDER_FORTS</zType>
+    <en-US>Commander of the BorderLands</en-US>
+    <it-IT>Comandante delle Terre di Confine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_COMMANDER_BORDER_FORTS_F</zType>
+    <en-US>Commander of the BorderLands</en-US>
+    <it-IT>Comandante delle Terre di Confine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POLITICAL_WARD</zType>
+    <en-US>Political Ward</en-US>
+    <it-IT>Circoscrizione politica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POLITICAL_WARD_F</zType>
+    <en-US>Political Ward</en-US>
+    <it-IT>Circoscrizione politica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LEONIDAS_LEADER</zType>
+    <en-US>Indomitable</en-US>
+    <it-IT>Indomabile</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LEONIDAS_LEADER_DOOMED</zType>
+    <en-US>Fated to Die</en-US>
+    <it-IT>Destinato a morire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_LEONIDAS_LEADER_DOOMED_DESCRIPTION</zType>
+    <en-US>Leonidas can achieve great things but he will not live to an old age.</en-US>
+    <it-IT>Leonida può realizzare grandi cose, ma non vivrà fino alla vecchiaia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PERICLES_LEADER</zType>
+    <en-US>First Citizen</en-US>
+    <it-IT>Primo cittadino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLAIMANT</zType>
+    <en-US>Claimant</en-US>
+    <it-IT>Richiedente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLAIMANT_F</zType>
+    <en-US>Claimant</en-US>
+    <it-IT>Richiedente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLAIMANT_DESC</zType>
+    <en-US>Although not the ruler anymore, this character still has a claim to the throne.</en-US>
+    <it-IT>Anche se non è più il sovrano, questo personaggio ha ancora diritto al trono.</it-IT>
+  </Entry>
+</Root>

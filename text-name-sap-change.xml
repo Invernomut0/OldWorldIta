@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_NAME_CHARACTER_MANI</zType>
+    <en-US>Mani</en-US>
+    <it-IT>Mani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAME_CHARACTER_SAUL</zType>
+    <en-US>Saul</en-US>
+    <it-IT>Saul</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAME_CHARACTER_PAUL</zType>
+    <en-US>Paul</en-US>
+    <it-IT>Paolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAME_CHARACTER_JOSEPHUS</zType>
+    <en-US>Josephus</en-US>
+    <it-IT>Giuseppe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAME_CHARACTER_OSTANES</zType>
+    <en-US>Ostanes</en-US>
+    <it-IT>Ostanes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAME_CHARACTER_ERIOPIS</zType>
+    <en-US>Eriopis</en-US>
+    <it-IT>Eriopis</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAME_CHARACTER_SAPPHO</zType>
+    <en-US>Sappho</en-US>
+    <it-IT>Saffo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAME_CHARACTER_HYPATIA</zType>
+    <en-US>Hypatia</en-US>
+    <it-IT>Ipazia</it-IT>
+  </Entry>
+</Root>

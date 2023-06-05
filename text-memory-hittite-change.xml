@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_GRANTED_EXCLUSIVE_CHARTER</zType>
+    <en-US>Granted an exclusive trade right</en-US>
+    <it-IT>Concessione di un diritto commerciale esclusivo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_KEPT_OLD_GRUDGE</zType>
+    <en-US>Refused to forget an old grudge</en-US>
+    <it-IT>Rifiuto di dimenticare un vecchio rancore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_FORGAVE_OLD_GRUDGE</zType>
+    <en-US>Forgave an old grudge</en-US>
+    <it-IT>Perdonare un vecchio rancore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_GREATEST_CHARIOT_BATTLE</zType>
+    <en-US>Impressed by our miltary prowess</en-US>
+    <it-IT>Impressionati dalla nostra abilità militare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_MUTUAL_MILITARY_RESPECT_GRANTED</zType>
+    <en-US>Worthy opponent and respected partner</en-US>
+    <it-IT>Degno avversario e partner rispettato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_MUTUAL_MILITARY_RESPECT_DENIED</zType>
+    <en-US>Denied us mutual respect</en-US>
+    <it-IT>Ci ha negato il rispetto reciproco</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_INSTALLED_OUR_FAMILY</zType>
+    <en-US>Installed our family on the throne</en-US>
+    <it-IT>Ha installato la nostra famiglia sul trono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_ANCIENT_SACKING</zType>
+    <en-US>Sacked our city in the past</en-US>
+    <it-IT>Ha saccheggiato la nostra città in passato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_FORGAVE_OLD_GRUDGE</zType>
+    <en-US>Forgave an old grudge</en-US>
+    <it-IT>Perdonare un vecchio rancore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYPLAYER_KEPT_OLD_GRUDGE</zType>
+    <en-US>Refused to forget an old grudge</en-US>
+    <it-IT>Rifiuto di dimenticare un vecchio rancore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_ANCIENT_USURPER</zType>
+    <en-US>Tried to install usurpers on our throne</en-US>
+    <it-IT>Hanno cercato di insediare degli usurpatori sul nostro trono.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYCHARACTER_NAMED_UNIT_MESEDI_CHARACTER</zType>
+    <en-US>Named us Gal Mesedi!</en-US>
+    <it-IT>Chiamateci Gal Mesedi!</it-IT>
+  </Entry>
+</Root>

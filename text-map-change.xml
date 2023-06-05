@@ -1,0 +1,783 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HIGH_RESOURCES</zType>
+    <en-US>High</en-US>
+    <it-IT>Alto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HIGH_RESOURCES_HELP</zType>
+    <en-US>More resources on the map</en-US>
+    <it-IT>Altre risorse sulla mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_MEDIUM_RESOURCES</zType>
+    <en-US>Medium</en-US>
+    <it-IT>Medio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_MEDIUM_RESOURCES_HELP</zType>
+    <en-US>Default amount of resources</en-US>
+    <it-IT>Quantità di risorse predefinita</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_LOW_RESOURCES</zType>
+    <en-US>Low</en-US>
+    <it-IT>Basso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_LOW_RESOURCES_HELP</zType>
+    <en-US>Fewer resources on the map</en-US>
+    <it-IT>Meno risorse sulla mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DEFAULT_RESOURCES</zType>
+    <en-US>Default</en-US>
+    <it-IT>Predefinito</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DEFAULT_RESOURCES_HELP</zType>
+    <en-US>Use the map's designed resource placement</en-US>
+    <it-IT>Utilizzare la collocazione delle risorse progettata dalla mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_RANDOM_RESOURCES</zType>
+    <en-US>Randomized</en-US>
+    <it-IT>Randomizzato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_RANDOM_RESOURCES_HELP</zType>
+    <en-US>Use random resource placement</en-US>
+    <it-IT>Utilizzare il posizionamento casuale delle risorse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_PLAYER_START_ANYWHERE</zType>
+    <en-US>Anywhere</en-US>
+    <it-IT>Ovunque</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_PLAYER_START_ANYWHERE_HELP</zType>
+    <en-US>Start anywhere</en-US>
+    <it-IT>Iniziare ovunque</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_WATER_SIZE_RANDOM</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_WATER_SIZE_RANDOM_HELP</zType>
+    <en-US>Choose a random option</en-US>
+    <it-IT>Scegliere un'opzione casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_COAST</zType>
+    <en-US>Coastal</en-US>
+    <it-IT>Costiera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_COAST_HELP</zType>
+    <en-US>Start adjacent to salt water</en-US>
+    <it-IT>Inizio adiacente all'acqua salata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_INLAND</zType>
+    <en-US>Inland</en-US>
+    <it-IT>Entroterra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_PLAYER_START_INLAND_HELP</zType>
+    <en-US>Start away from the coast</en-US>
+    <it-IT>Iniziare lontano dalla costa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_RANDOM</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_RANDOM_HELP</zType>
+    <en-US>Varied in number and distribution</en-US>
+    <it-IT>Variano in numero e distribuzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FIVE</zType>
+    <en-US>Five Tribes</en-US>
+    <it-IT>Cinque tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FIVE_HELP</zType>
+    <en-US>Wide variation in size of Tribes</en-US>
+    <it-IT>Ampia variazione delle dimensioni delle tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FOUR</zType>
+    <en-US>Four Tribes</en-US>
+    <it-IT>Quattro tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_FOUR_HELP</zType>
+    <en-US>Tribes will be placed in quadrants</en-US>
+    <it-IT>Le tribù saranno disposte in quadranti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_THREE</zType>
+    <en-US>Three Tribes</en-US>
+    <it-IT>Tre tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TRIBES_THREE_HELP</zType>
+    <en-US>Tribes of similar sizes. More unaffiliated camps.</en-US>
+    <it-IT>Tribù di dimensioni simili. Più campi non affiliati.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_RANDOM</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_RANDOM_HELP</zType>
+    <en-US>Choose a random option</en-US>
+    <it-IT>Scegliere un'opzione casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_TUNDRA</zType>
+    <en-US>Tundra</en-US>
+    <it-IT>Tundra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_TUNDRA_HELP</zType>
+    <en-US>The map will include some Tundra</en-US>
+    <it-IT>La mappa includerà alcune zone di Tundra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_DESERT</zType>
+    <en-US>Desert</en-US>
+    <it-IT>Deserto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_DESERT_HELP</zType>
+    <en-US>The map will include a major Desert</en-US>
+    <it-IT>La mappa includerà un grande Deserto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_MOUNTAINS</zType>
+    <en-US>Extra Mountains</en-US>
+    <it-IT>Montagne extra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_MOUNTAINS_HELP</zType>
+    <en-US>The map will include extra Mountains</en-US>
+    <it-IT>La mappa includerà montagne extra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_WATER</zType>
+    <en-US>Extra Water</en-US>
+    <it-IT>Acqua extra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_SEASIDE_TERRAIN_WATER_HELP</zType>
+    <en-US>The map will include extra Water</en-US>
+    <it-IT>La mappa includerà acqua extra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_PLAYER_START_PLATEAU</zType>
+    <en-US>The Plateau</en-US>
+    <it-IT>L'altopiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_PLAYER_START_PLATEAU_HELP</zType>
+    <en-US>Start in the south on a great plateau</en-US>
+    <it-IT>Iniziare a sud su un grande altopiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_PLAYER_START_MIDLAND</zType>
+    <en-US>The Midland</en-US>
+    <it-IT>Il Midland</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_PLAYER_START_MIDLAND_HELP</zType>
+    <en-US>Start in the middle latitudes</en-US>
+    <it-IT>Iniziare alle medie latitudini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_PLAYER_START_TUNDRA</zType>
+    <en-US>Near the Tundra</en-US>
+    <it-IT>Vicino alla tundra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_PLAYER_START_TUNDRA_HELP</zType>
+    <en-US>Start in the north, where it is colder</en-US>
+    <it-IT>Iniziare dal nord, dove fa più freddo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_LARGE</zType>
+    <en-US>Large Seas</en-US>
+    <it-IT>Grandi mari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_LARGE_HELP</zType>
+    <en-US>Fewer, larger seas of irregular shape</en-US>
+    <it-IT>Meno mari, più grandi e di forma irregolare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_SMALL</zType>
+    <en-US>Small Jagged Seas</en-US>
+    <it-IT>Piccoli mari frastagliati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_WATER_SIZE_SMALL_HELP</zType>
+    <en-US>Several small seas will be narrow and jagged. They may interconnect.</en-US>
+    <it-IT>Diversi piccoli mari saranno stretti e frastagliati. Potrebbero interconnettersi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_RANDOM</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_RANDOM_HELP</zType>
+    <en-US>Choose a random option</en-US>
+    <it-IT>Scegliere un'opzione casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_FAR_NORTH</zType>
+    <en-US>Far North</en-US>
+    <it-IT>Estremo Nord</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_FAR_NORTH_HELP</zType>
+    <en-US>Bays that range offscreen to the north</en-US>
+    <it-IT>Baie che si estendono fuori dallo schermo verso nord</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_MIDDLE_NORTH</zType>
+    <en-US>Middle North</en-US>
+    <it-IT>Centro Nord</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARID_WATER_LOCATION_MIDDLE_NORTH_HELP</zType>
+    <en-US>Seas with land passage to their north</en-US>
+    <it-IT>Mari con passaggio terrestre a nord</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_SIX</zType>
+    <en-US>Six Tribes</en-US>
+    <it-IT>Sei tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_SIX_HELP</zType>
+    <en-US>Six tribes distributed evenly around the inland sea(s)</en-US>
+    <it-IT>Sei tribù distribuite uniformemente intorno al mare interno(s)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_RANDOM</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_RANDOM_HELP</zType>
+    <en-US>Varied in number and distribution</en-US>
+    <it-IT>Variano in numero e distribuzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_FOUR</zType>
+    <en-US>Four Tribes</en-US>
+    <it-IT>Quattro tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_FOUR_HELP</zType>
+    <en-US>Tribes will be placed in quadrants</en-US>
+    <it-IT>Le tribù saranno disposte in quadranti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_THREE</zType>
+    <en-US>Three Tribes</en-US>
+    <it-IT>Tre tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_THREE_HELP</zType>
+    <en-US>One Tribe per latitude band</en-US>
+    <it-IT>Una Tribù per fascia di latitudine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO</zType>
+    <en-US>Two Tribes</en-US>
+    <it-IT>Due tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO_HELP</zType>
+    <en-US>One west, one east</en-US>
+    <it-IT>Uno a ovest, uno a est</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO_INLAND</zType>
+    <en-US>Two Tribes, Inland</en-US>
+    <it-IT>Due tribù, entroterra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_TWO_INLAND_HELP</zType>
+    <en-US>Tribes inhabit land away from the water</en-US>
+    <it-IT>Le tribù abitano in terre lontane dall'acqua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_BARBARIANS</zType>
+    <en-US>Barbarians Only</en-US>
+    <it-IT>Solo per i barbari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_INLAND_SEA_TRIBES_BARBARIANS_HELP</zType>
+    <en-US>No Tribes, only Barbarian camps</en-US>
+    <it-IT>Niente tribù, solo accampamenti di barbari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_SEA</zType>
+    <en-US>Coastal</en-US>
+    <it-IT>Costiera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_SEA_HELP</zType>
+    <en-US>Start adjacent to salt water</en-US>
+    <it-IT>Inizio adiacente all'acqua salata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_INLAND</zType>
+    <en-US>Inland</en-US>
+    <it-IT>Entroterra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_PLAYER_START_INLAND_HELP</zType>
+    <en-US>Start away from the sea</en-US>
+    <it-IT>Iniziare lontano dal mare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_FOREST</zType>
+    <en-US>Forest</en-US>
+    <it-IT>Foresta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_FOREST_HELP</zType>
+    <en-US>Tribes own the great forest. Nations start in the plains.</en-US>
+    <it-IT>Le tribù possiedono la grande foresta. Le nazioni nascono nelle pianure.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_PLAINS</zType>
+    <en-US>Plains</en-US>
+    <it-IT>Pianure</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_PLAINS_HELP</zType>
+    <en-US>Tribes occupy the open plains. Nations start in the forest.</en-US>
+    <it-IT>Le tribù occupano le pianure aperte. Le nazioni nascono nella foresta.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_SCATTERED</zType>
+    <en-US>Scattered</en-US>
+    <it-IT>Sparsi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_HARDWOOD_FOREST_TRIBES_SCATTERED_HELP</zType>
+    <en-US>Nations and Tribes can start anywhere.</en-US>
+    <it-IT>Le nazioni e le tribù possono iniziare ovunque.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_CONTINENT</zType>
+    <en-US>On the Continent</en-US>
+    <it-IT>Sul continente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_CONTINENT_HELP</zType>
+    <en-US>Start on the main continent. Selecting a high number of Nations may require some to start in the north.</en-US>
+    <it-IT>Iniziare dal continente principale. La selezione di un numero elevato di nazioni può richiedere che alcune inizino nel nord.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_ISLANDS</zType>
+    <en-US>Islands and Peninsulas</en-US>
+    <it-IT>Isole e penisole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_ISLANDS_HELP</zType>
+    <en-US>Start in the north, on an island or peninsula. Selecting a high number of Nations may require some to start on the continent.</en-US>
+    <it-IT>Iniziare a nord, su un'isola o una penisola. La selezione di un numero elevato di nazioni può richiedere che alcune inizino sul continente.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_NATIVE</zType>
+    <en-US>Native</en-US>
+    <it-IT>Nativo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_NATIVE_HELP</zType>
+    <en-US>Use Tribal homelands native to the Northern Ocean</en-US>
+    <it-IT>Utilizzare le terre d'origine tribali dell'Oceano del Nord</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_RANDOM</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_NORTHERN_OCEAN_TRIBES_RANDOM_HELP</zType>
+    <en-US>Randomly distribute tribes</en-US>
+    <it-IT>Distribuzione casuale delle tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_SEA</zType>
+    <en-US>Coastal</en-US>
+    <it-IT>Costiera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_SEA_HELP</zType>
+    <en-US>Start adjacent to salt water</en-US>
+    <it-IT>Inizio adiacente all'acqua salata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_INLAND</zType>
+    <en-US>Inland</en-US>
+    <it-IT>Entroterra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_PLAYER_START_INLAND_HELP</zType>
+    <en-US>Start away from the coast</en-US>
+    <it-IT>Iniziare lontano dalla costa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_RANDOM</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_RANDOM_HELP</zType>
+    <en-US>Varied in number and distribution</en-US>
+    <it-IT>Variano in numero e distribuzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_SCATTERED</zType>
+    <en-US>Five Tribes</en-US>
+    <it-IT>Cinque tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_SCATTERED_HELP</zType>
+    <en-US>Tribe placement will be scattered</en-US>
+    <it-IT>Il posizionamento delle tribù sarà sparso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_QUADRANTS</zType>
+    <en-US>Four Tribes</en-US>
+    <it-IT>Quattro tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_QUADRANTS_HELP</zType>
+    <en-US>Tribes will be placed in quadrants</en-US>
+    <it-IT>Le tribù saranno disposte in quadranti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_INLAND</zType>
+    <en-US>Inland Only</en-US>
+    <it-IT>Solo entroterra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_INLAND_HELP</zType>
+    <en-US>Two Tribes in play, with all camps away from the ocean</en-US>
+    <it-IT>Due Tribù in gioco, con tutti gli accampamenti lontani dall'oceano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_COASTAL</zType>
+    <en-US>Coastal Only</en-US>
+    <it-IT>Solo costiera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TRIBES_COASTAL_HELP</zType>
+    <en-US>Two Tribes in play, with all camps near the coast</en-US>
+    <it-IT>Due Tribù in gioco, con tutti gli accampamenti vicino alla costa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_EITHER</zType>
+    <en-US>Either</en-US>
+    <it-IT>O</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_EITHER_HELP</zType>
+    <en-US>Extreme terrain can be either Tundra or Desert</en-US>
+    <it-IT>I terreni estremi possono essere Tundra o Deserto.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_TUNDRA</zType>
+    <en-US>Tundra</en-US>
+    <it-IT>Tundra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_TUNDRA_HELP</zType>
+    <en-US>Extreme terrain on the map will be Tundra</en-US>
+    <it-IT>Il terreno estremo sulla mappa sarà la Tundra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_DESERT</zType>
+    <en-US>Desert</en-US>
+    <it-IT>Deserto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENT_TERRAIN_DESERT_HELP</zType>
+    <en-US>Extreme terrain on the map will be Desert</en-US>
+    <it-IT>Il terreno estremo sulla mappa sarà il Deserto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_PLATEAU</zType>
+    <en-US>The Plateau</en-US>
+    <it-IT>L'Altopiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_PLATEAU_HELP</zType>
+    <en-US>Start in the south on a great plateau</en-US>
+    <it-IT>Iniziare a sud su un grande altopiano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_MIDLAND</zType>
+    <en-US>The Midland</en-US>
+    <it-IT>Il Midland</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_MIDLAND_HELP</zType>
+    <en-US>Start in the middle latitudes</en-US>
+    <it-IT>Iniziare alle medie latitudini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_OCEAN</zType>
+    <en-US>Near the Ocean</en-US>
+    <it-IT>Vicino all'oceano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_OCEAN_HELP</zType>
+    <en-US>Start in the north, near the ocean</en-US>
+    <it-IT>Iniziare a nord, vicino all'oceano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_ARCHIPELAGO</zType>
+    <en-US>Archipelago</en-US>
+    <it-IT>Arcipelago</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_ARCHIPELAGO</zType>
+    <en-US>A large stretch of water containing many islands.</en-US>
+    <it-IT>Un grande specchio d'acqua contenente molte isole.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_ARID_PLATEAU</zType>
+    <en-US>Arid Plateau</en-US>
+    <it-IT>Altopiano arido</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_ARID_PLATEAU</zType>
+    <en-US>A region deep inland, behind a mountain range, where little rain falls.{br}{br}Balanced to support two teams in multi-player games.</en-US>
+    <it-IT>Una regione dell'entroterra, dietro una catena montuosa, dove cade poca pioggia.{br}{br}Bilanciato per supportare due squadre nelle partite a più giocatori.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_COASTAL_RAIN_BASIN</zType>
+    <en-US>Coastal Rain Basin</en-US>
+    <it-IT>Bacino pluviale costiero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_COASTAL_RAIN_BASIN</zType>
+    <en-US>A coastal region bordered by a mountain range, which catches rain and creates a fertile band near the mountains.{br}{br}Balanced to support two teams in multi-player games.</en-US>
+    <it-IT>Una regione costiera delimitata da una catena montuosa, che cattura le piogge e crea una fascia fertile vicino alle montagne.{br}{br}Bilanciato per supportare due squadre nelle partite a più giocatori.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_CONTINENT</zType>
+    <en-US>Continent</en-US>
+    <it-IT>Continente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_CONTINENT</zType>
+    <en-US>A small continent, on the scale of Australia. Guaranteed to be circumnavigable within the map boundary.</en-US>
+    <it-IT>Un piccolo continente, alla scala dell'Australia. Garantito come circumnavigabile entro i confini della mappa.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_CONTINENTS</zType>
+    <en-US>Multiple Continents</en-US>
+    <it-IT>Più continenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_CONTINENTS</zType>
+    <en-US>Two or Three Continents.</en-US>
+    <it-IT>Due o tre continenti.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_DISJUNCTION</zType>
+    <en-US>Disjunction</en-US>
+    <it-IT>Disgiunzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_DISJUNCTION</zType>
+    <en-US>A series of channels extend radially from the center, dividing a land map into separate regions.{br}{br}Balanced to support either teams or free-for-all in multi-player games.</en-US>
+    <it-IT>Una serie di canali si estende radialmente dal centro, dividendo una mappa terrestre in regioni separate.{br}{br}Bilanciato per supportare sia le squadre che il free-for-all nelle partite multigiocatore.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_HARDWOOD_FOREST</zType>
+    <en-US>Hardwood Forest</en-US>
+    <it-IT>Foresta di latifoglie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_HARDWOOD_FOREST</zType>
+    <en-US>Land whose northern half is covered with a dense hardwood forest. South of the leafy trees lies a band of lush terrain. Rains come from the west, but there are also seas to north and south.</en-US>
+    <it-IT>Una terra la cui metà settentrionale è coperta da una fitta foresta di latifoglie. A sud degli alberi frondosi si trova una fascia di terreno lussureggiante. Le piogge provengono da ovest, ma ci sono anche mari a nord e a sud.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_INLAND_SEA</zType>
+    <en-US>Inland Sea</en-US>
+    <it-IT>Mare interno</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_INLAND_SEA</zType>
+    <en-US>Land that completely surrounds a sea or group of seas.{br}{br}Balanced to support free-for-all in multi-player games.</en-US>
+    <it-IT>Terra che circonda completamente un mare o un gruppo di mari.{br}{br}Bilanciato per supportare il free-for-all nelle partite a più giocatori.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_NORTHERN_OCEAN</zType>
+    <en-US>Northern Ocean</en-US>
+    <it-IT>Oceano del Nord</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_NORTHERN_OCEAN</zType>
+    <en-US>A cold oceanic region containing numerous islands, large and small, bordered by a continent to the south. Resources on the continent are depleted (fewer resources per city).{br}{br}An adventure map intended for single player games, with larger dimensions to compensate for a lower percentage of habitable tiles.</en-US>
+    <it-IT>Una fredda regione oceanica contenente numerose isole, grandi e piccole, delimitata da un continente a sud. Le risorse sul continente sono esaurite (fewer resources per city).{br}{br}Una mappa avventura destinata alle partite per giocatore singolo, con dimensioni maggiori per compensare la minore percentuale di tessere abitabili.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_NAME_SEASIDE</zType>
+    <en-US>Seaside</en-US>
+    <it-IT>Mare</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_HELP_SEASIDE</zType>
+    <en-US>A region bordered by or containing large seas, gulfs, or bays, offering a substantial amount of coastline.{br}{br}Default map type for Old World, inspired by the Middle East but with a generally milder climate.</en-US>
+    <it-IT>Una regione delimitata da o contenente grandi mari, golfi o baie, con una notevole quantità di coste.{br}{br}Tipo di mappa predefinito per il Vecchio Mondo, ispirato al Medio Oriente ma con un clima generalmente più mite.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_WEIGHTED_RANDOM</zType>
+    <en-US>Weighted Random</en-US>
+    <it-IT>Casuale ponderato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_WEIGHTED_RANDOM_HELP</zType>
+    <en-US>Each of the eight continent generation methods has an equal chance to be used</en-US>
+    <it-IT>Ognuno degli otto metodi di generazione dei continenti ha le stesse possibilità di essere utilizzato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TWO_EVEN</zType>
+    <en-US>Two Continents, Split Evenly</en-US>
+    <it-IT>Due continenti, divisi equamente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TWO_EVEN_HELP</zType>
+    <en-US>Two continents of nearly-equal size</en-US>
+    <it-IT>Due continenti di dimensioni quasi uguali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_EVEN</zType>
+    <en-US>Three Continents, Split Evenly</en-US>
+    <it-IT>Tre continenti, divisi equamente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_EVEN_HELP</zType>
+    <en-US>Three continents of nearly-equal size</en-US>
+    <it-IT>Tre continenti di dimensioni quasi uguali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_UNEVEN</zType>
+    <en-US>Three Continents, Split Unevenly</en-US>
+    <it-IT>Tre continenti, divisi in modo diseguale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_UNEVEN_HELP</zType>
+    <en-US>Three continents of uneven sizes</en-US>
+    <it-IT>Tre continenti di dimensioni non uniformi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TEAMS</zType>
+    <en-US>One continent per team</en-US>
+    <it-IT>Un continente per squadra</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_DISJUNCTION_CONTINENTS_TEAMS_HELP</zType>
+    <en-US>One continent per team, with size proportional to the number of team members</en-US>
+    <it-IT>Un continente per squadra, con dimensioni proporzionali al numero di membri della squadra.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTIONS_SINGLE_MIRROR_HELP</zType>
+    <en-US>East-West symmetric map. Requires two teams.</en-US>
+    <it-IT>Mappa simmetrica est-ovest. Richiede due squadre.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTIONS_SINGLE_KING_OF_THE_HILL_HELP</zType>
+    <en-US>A resource-rich center instead of water at the channel intersection area</en-US>
+    <it-IT>Un centro ricco di risorse al posto dell'acqua nell'area di intersezione dei canali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTIONS_SINGLE_GOOD_PLAYER_START_RESOURCES_HELP</zType>
+    <en-US>All starting locations have access to important resources like horses or iron</en-US>
+    <it-IT>Tutte le località di partenza hanno accesso a risorse importanti come i cavalli o il ferro.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_SMALL</zType>
+    <en-US>Small</en-US>
+    <it-IT>Piccolo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_MEDIUM</zType>
+    <en-US>Medium</en-US>
+    <it-IT>Medio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_LARGE</zType>
+    <en-US>Large</en-US>
+    <it-IT>Grande</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_SMALL_HELP</zType>
+    <en-US>Small Islands</en-US>
+    <it-IT>Piccole isole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_MEDIUM_HELP</zType>
+    <en-US>Water occupies approximately half of the map</en-US>
+    <it-IT>L'acqua occupa circa la metà della mappa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_ARCHIPELAGO_LANDMASS_LARGE_HELP</zType>
+    <en-US>Land occupies more area than water</en-US>
+    <it-IT>La terra occupa una superficie maggiore dell'acqua</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_RANDOM</zType>
+    <en-US>Random</en-US>
+    <it-IT>Casuale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_TWO</zType>
+    <en-US>Two Continents</en-US>
+    <it-IT>Due continenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_THREE</zType>
+    <en-US>Three Continents</en-US>
+    <it-IT>Tre continenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_RANDOM_HELP</zType>
+    <en-US>Either two or three continents</en-US>
+    <it-IT>Due o tre continenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_TWO_HELP</zType>
+    <en-US>Two continents, one in the North and one in the South</en-US>
+    <it-IT>Due continenti, uno a Nord e uno a Sud</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MAP_OPTION_CONTINENTS_NUMBER_THREE_HELP</zType>
+    <en-US>Three continents, with either the North or South containing two continents</en-US>
+    <it-IT>Tre continenti, con il Nord o il Sud contenenti due continenti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PREMADE_MAP_MEDITERRANEAN_DESCRIPTION</zType>
+    <en-US>A four-player map set in the Mediterranean area</en-US>
+    <it-IT>Una mappa per quattro giocatori ambientata nell'area del Mediterraneo</it-IT>
+  </Entry>
+</Root>

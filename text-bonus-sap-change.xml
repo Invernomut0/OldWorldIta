@@ -1,0 +1,658 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HIGH_SYNOD_AWKWARD_REFUSE_CHARACTER_2</zType>
+    <en-US>Refused to answer to the High Synod</en-US>
+    <it-IT>Si è rifiutato di rispondere all'Alto Sinodo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_REVELATION_ON_THE_ROAD_PERSECUTION_END_PLAYER</zType>
+    <en-US>Stopped ongoing persecutions</en-US>
+    <it-IT>Interruzione delle persecuzioni in corso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_DIVINE_REFUSE_CHARACTER_1</zType>
+    <en-US>Refused to be influenced by clergy</en-US>
+    <it-IT>Rifiuto di farsi influenzare dal clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_DIVINE_EXILE_CHARACTER_1</zType>
+    <en-US>Was completely uninfluenced by clergy</en-US>
+    <it-IT>Non è stato influenzato dal clero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HIGH_SYNOD_AWKWARD_APOLOGIZE_CHARACTER_2</zType>
+    <en-US>Apologized to religious leaders</en-US>
+    <it-IT>Si è scusato con i leader religiosi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_CHURCH_OF_MANI_COPY_DECRY_CHARACTER_1</zType>
+    <en-US>Decried foreign religion</en-US>
+    <it-IT>Decriminazione della religione straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_LAWS_OF_GOD_OPTION_0_PLAYER</zType>
+    <en-US>Following the priests</en-US>
+    <it-IT>Seguendo i sacerdoti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_LAWS_OF_GOD_OPTION_2_PLAYER</zType>
+    <en-US>Stopped religious influence</en-US>
+    <it-IT>Interruzione dell'influenza religiosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BONES_OF_THE_MARTYR_OPTION_2_CHARACTER_1</zType>
+    <en-US>Celebrated a martyr</en-US>
+    <it-IT>Celebrato un martire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BONES_OF_THE_MARTYR_OPTION_3_CHARACTER_1</zType>
+    <en-US>Displayed the bone of the Martyr</en-US>
+    <it-IT>Esposto l'osso del Martire</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_UNDERCOVER_PRIESTS_OPTION_1_CHARACTER</zType>
+    <en-US>Was aided by religious propaganda</en-US>
+    <it-IT>È stata aiutata dalla propaganda religiosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_RUMORS_OF_OSTANES_BURN_CHARACTER</zType>
+    <en-US>Burned magic texts</en-US>
+    <it-IT>Testi magici bruciati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ILLUMINATED_TEXT_OPTION_1_PLAYER_1</zType>
+    <en-US>Displayed the illuminated text</en-US>
+    <it-IT>Visualizzazione del testo illuminato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAMED_UNIT_SHIELDS</zType>
+    <en-US>Shields of the Disciples</en-US>
+    <it-IT>Scudi dei Discepoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAMED_UNIT_SPEARS</zType>
+    <en-US>Arms of the Divine</en-US>
+    <it-IT>Le braccia del divino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAMED_UNIT_FIRE</zType>
+    <en-US>The Divine Fire</en-US>
+    <it-IT>Il fuoco divino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_NAMED_UNIT_HOLY_CITY</zType>
+    <en-US>Defenders of the Holy City</en-US>
+    <it-IT>Difensori della Città Santa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_KING_AND_THE_GOD_OPTION_0_CHARACTER_1</zType>
+    <en-US>Made another ruler recognize my divinity</en-US>
+    <it-IT>Ha fatto sì che un altro sovrano riconoscesse la mia divinità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_OF_THE_RIVER_OPTION_0</zType>
+    <en-US>Encouraged claims of divinity</en-US>
+    <it-IT>Incoraggiava le pretese di divinità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CURSED_OPTION_2_CHARACTER_1</zType>
+    <en-US>Gave a public apology</en-US>
+    <it-IT>Si è scusato pubblicamente</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ACTS_OF_THE_PAGAN_MARTYRS_OPTION_3_CHARACTER_0</zType>
+    <en-US>Led persecutions</en-US>
+    <it-IT>Persecuzioni guidate</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_BOUND_BY_BLOOD_OPTION_2_CHARACTER_1</zType>
+    <en-US>Rejected ties with a foreign nation</en-US>
+    <it-IT>Rifiuto di legami con una nazione straniera</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTSTORY_SACRED_GAMES_VICTORY_CHARACTER_0</zType>
+    <en-US>My champion won the sacred games</en-US>
+    <it-IT>Il mio campione ha vinto i giochi sacri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_TRAIL_OF_HEROES_OPTION_3_PLAYER</zType>
+    <en-US>Returned empty-handed from hunting</en-US>
+    <it-IT>Tornato a mani vuote dalla caccia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_OPTION_0_PLAYER</zType>
+    <en-US>Slayed a giant lion in close combat</en-US>
+    <it-IT>Ucciso un leone gigante in combattimento ravvicinato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_OPTION_1_PLAYER</zType>
+    <en-US>Hunted a giant lion</en-US>
+    <it-IT>A caccia di un leone gigante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_OPTION_2_PLAYER</zType>
+    <en-US>Let the giant lion go</en-US>
+    <it-IT>Lascia andare il leone gigante</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MORE_THAN_STORIES_OPTION_2_CHARACTER_1</zType>
+    <en-US>Protected classical myths</en-US>
+    <it-IT>Miti classici protetti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SACRED_CHASTITY_OPTION_0_CHARACTER_1</zType>
+    <en-US>Protected my bloodline from chastity</en-US>
+    <it-IT>Ho protetto la mia discendenza dalla castità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_FACE_OF_GOLD_OPTION_0_CHARACTER</zType>
+    <en-US>Depicted myself on divine coins</en-US>
+    <it-IT>Mi sono raffigurato su monete divine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_FACE_OF_GOLD_OPTION_1_CHARACTER</zType>
+    <en-US>Depicted the old gods on divine coins</en-US>
+    <it-IT>raffigurati gli antichi dei su monete divine</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FOR_VICTORY_OPTION_0_CITY</zType>
+    <en-US>Built a shrine of victory</en-US>
+    <it-IT>Costruito un santuario della vittoria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_BLOOD_OF_HEROES_OPTION_0_CHARACTER_1</zType>
+    <en-US>Became overshadowed by a hero's bloodline</en-US>
+    <it-IT>Diventa oscurato dalla linea di sangue di un eroe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_DEIFIED_KING_OPTION_1_CITY</zType>
+    <en-US>Raised a statue of the previous ruler</en-US>
+    <it-IT>Innalzato una statua del precedente sovrano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LED_BY_THE_STARS_OPTION_0_CHARACTER_1</zType>
+    <en-US>Expelled all divination</en-US>
+    <it-IT>Espulsa ogni divinazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_AUGURES_OPTION_0_CHARACTER</zType>
+    <en-US>The augurs divined a favorable future for me</en-US>
+    <it-IT>Gli auguri hanno previsto un futuro favorevole per me</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_OTHER_WORLD_OPTION_3_CHARACTER_1</zType>
+    <en-US>Refused foreign ways</en-US>
+    <it-IT>Rifiuto delle vie straniere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_NEXT_JOURNEY_WONDER</zType>
+    <en-US>Buried my predecessor in a wonder of the world</en-US>
+    <it-IT>Seppellito il mio predecessore in una meraviglia del mondo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CROWNED_IN_FAITH_OPTION_1_CHARACTER</zType>
+    <en-US>Refused state religion</en-US>
+    <it-IT>Rifiuto della religione di stato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ELEUSIAN_MYSTERIES_OPTION_2_CHARACTER</zType>
+    <en-US>Expelled the mystery cult</en-US>
+    <it-IT>Espulso il culto del mistero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ELEUSIAN_MYSTERIES_OPTION_0_CHARACTER</zType>
+    <en-US>Became initiated into the Mysteries</en-US>
+    <it-IT>Divenne iniziato ai Misteri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ISIS_AND_SERAPIS_OPTION_0_PLAYER_1</zType>
+    <en-US>Welcomed a foreign cult</en-US>
+    <it-IT>Accolto un culto straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ISIS_AND_SERAPIS_OPTION_2_PLAYER_1</zType>
+    <en-US>Refused a foreign cult</en-US>
+    <it-IT>Rifiuto di un culto straniero</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_UNDUE_INFLUENCE_OPTION_2_CHARACTER_0</zType>
+    <en-US>Allowed unrestricted cult worship</en-US>
+    <it-IT>Consentito il culto senza restrizioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_UNDUE_INFLUENCE_OPTION_0_LEADER</zType>
+    <en-US>Restricted cult worship</en-US>
+    <it-IT>Culto limitato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_OPTION_2_CHARACTER_1</zType>
+    <en-US>Refused to endear myself to a religious head</en-US>
+    <it-IT>Mi sono rifiutato di affezionarmi a un capo religioso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SEEKING_REPENTANCE_OPTION_0_CHARACTER_1</zType>
+    <en-US>Debased myself for forgiveness</en-US>
+    <it-IT>Mi sono svilito per ottenere il perdono</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_SPREADING_WORD_OPTION_2_CHARACTER_1</zType>
+    <en-US>Supported state religion</en-US>
+    <it-IT>Sostenuto la religione di stato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_ALL_BUT_A_NAME_OPTION_0_PLAYER_1</zType>
+    <en-US>Supported the pagan gods</en-US>
+    <it-IT>Sostenere le divinità pagane</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PATRONAGE_OF_THE_GODS_OPTION_0_CITY</zType>
+    <en-US>Was a patron of the old gods</en-US>
+    <it-IT>Era un patrono degli antichi dei</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_OFFERINGS_TO_TYRE_OPTION_0_PLAYER</zType>
+    <en-US>Broke ties with the gods of Tyre</en-US>
+    <it-IT>Rottura dei legami con gli dei di Tiro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_OFFERINGS_TO_TYRE_OPTION_1_PLAYER</zType>
+    <en-US>Encouraged donations to the gods of Tyre</en-US>
+    <it-IT>Incoraggiate le donazioni agli dei di Tiro</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_DESCENDED_FROM_ASTARTE_OPTION_1_PLAYER</zType>
+    <en-US>Appointed a special advisor</en-US>
+    <it-IT>Nominato un consulente speciale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LOCAL_GODS_OPTION_2_PLAYER</zType>
+    <en-US>Outlawed tribal gods</en-US>
+    <it-IT>Divinità tribali fuorilegge</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_QUIRINUS_OPTION_2_PLAYER</zType>
+    <en-US>Claimed superiority over a god</en-US>
+    <it-IT>Rivendicazione di superiorità rispetto a un dio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_POET_IN_VOGUE_OPTION_2_CHARACTER</zType>
+    <en-US>Expelled the influence of an astrologer</en-US>
+    <it-IT>Scacciata l'influenza di un astrologo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_ONE_GOD_OPTION_0_RELIGION</zType>
+    <en-US>Excused religion from sacrifices</en-US>
+    <it-IT>Esclusa la religione dai sacrifici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_ONE_GOD_OPTION_1_CITY</zType>
+    <en-US>Forced religion into sacrifices</en-US>
+    <it-IT>Costringere la religione ai sacrifici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CARMEN_OPTION_0_POET</zType>
+    <en-US>After diligently training with the tutor you hired, {0_character} has gained a reputation as a skilled link(TRAIT_POET).</en-US>
+    <it-IT>Dopo essersi allenato diligentemente con il tutor che avete assunto, {0_character} si è guadagnato la reputazione di abile link(TRAIT_POET).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CARMEN_OPTION_0_MAGE</zType>
+    <en-US>{0_character}'s training in verse has only encouraged {masculine_0:his:her} interest in the esoteric arts, and people now speak in hushed awe of the powers of the link(TRAIT_MAGIC_PRACTITIONER).</en-US>
+    <it-IT>La formazione in versi di {0_character} ha solo incoraggiato l'interesse di {masculine_0:his:her} per le arti esoteriche, e la gente ora parla con silenziosa soggezione dei poteri del link(TRAIT_MAGIC_PRACTITIONER).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_FORGOTTEN_PROPHET_3_CURSED</zType>
+    <en-US>Since drinking from the waters, hardship has dogged your every step. Have you been link(TRAIT_CURSED) by the divine?</en-US>
+    <it-IT>Da quando hai bevuto dalle acque, le difficoltà hanno accompagnato ogni tuo passo. Sei stato link(TRAIT_CURSED) dal divino?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_FORGOTTEN_PROPHET_3_DIVINE</zType>
+    <en-US>As time passes, you are increasingly sure that you were found worthy and have been link(TRAIT_BLESSED).</en-US>
+    <it-IT>Con il passare del tempo, si è sempre più sicuri di essere stati ritenuti degni e di essere stati link(TRAIT_BLESSED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_OF_GOD_EDUCATE_RIGHTEOUS</zType>
+    <en-US>The religious tutors have had a profound effect on {0_character}, who is now a link(TRAIT_RIGHTEOUS) devotee of the faith.</en-US>
+    <it-IT>I tutor religiosi hanno avuto un effetto profondo su {0_character}, che ora è un devoto della fede di link(TRAIT_RIGHTEOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_OF_GOD_EDUCATE_INTELLIGENT</zType>
+    <en-US>The religious tutors have had a profound effect on {0_character}, who has proved to be very link(TRAIT_INTELLIGENT) despite a disregard for {masculine_0:his:her} studies.</en-US>
+    <it-IT>I tutori religiosi hanno avuto un effetto profondo su {0_character}, che si è dimostrato molto link(TRAIT_INTELLIGENT) nonostante il disinteresse per gli studi di {masculine_0:his:her}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHILD_OF_GOD_EDUCATE_EDUCATED</zType>
+    <en-US>The religious tutors have had a profound effect on {0_character}, who has shown an incredible aptitude for {masculine_0:his:her} studies and is now well link(TRAIT_EDUCATED).</en-US>
+    <it-IT>I tutor religiosi hanno avuto un effetto profondo su {0_character}, che ha dimostrato un'incredibile attitudine agli studi di {masculine_0:his:her} e ora sta bene link(TRAIT_EDUCATED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_RIVER_EXOTIC</zType>
+    <en-US>The court whispers of how you commune with the dead. Although some are scared of your experience, to most it has built an link(TRAIT_EXOTIC) appeal.</en-US>
+    <it-IT>Il tribunale sussurra di come lei sia in comunione con i morti. Sebbene alcuni siano spaventati dalla vostra esperienza, per la maggior parte di essi essa ha creato un fascino link(TRAIT_EXOTIC).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_RIVER_EDUCATED</zType>
+    <en-US>Your time with the oracle has taught you many secrets, things not commonly known. You are now link(TRAIT_EDUCATED).</en-US>
+    <it-IT>Il tempo trascorso con l'oracolo ti ha insegnato molti segreti, cose che non sono comunemente note. Ora sei link(TRAIT_EDUCATED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_RIVER_MAGIC</zType>
+    <en-US>Your time with the seer proved most instructive, as the oracle shared her esoteric arts and trained you as a link(TRAIT_MAGIC_PRACTITIONER).</en-US>
+    <it-IT>Il tempo trascorso con la veggente si è rivelato molto istruttivo: l'oracolo ha condiviso le sue arti esoteriche e ti ha addestrato come link(TRAIT_MAGIC_PRACTITIONER).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_VOICE_OF_THE_RIVER_SUPERSTITIOUS</zType>
+    <en-US>After listening to the prophecies of the seer, you see the will of the gods in even the smallest occurrences. Surely they will be pleased with such link(TRAIT_SUPERSTITIOUS) attention?</en-US>
+    <it-IT>Dopo aver ascoltato le profezie del veggente, vedete la volontà degli dei anche nei più piccoli avvenimenti. Sicuramente saranno contenti di questa attenzione?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_WOUNDED</zType>
+    <en-US>Although you bested the beast, your fight with the lion has left you link(TRAIT_WOUNDED). The court prays for your recovery.</en-US>
+    <it-IT>Anche se hai sconfitto la bestia, la lotta con il leone ti ha lasciato link(TRAIT_WOUNDED). La Corte prega per la tua guarigione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_SEVERELY_WOUNDED</zType>
+    <en-US>Although you bested the beast, your fight with the lion has left you link(TRAIT_SEVERELY_WOUNDED). The court prays for your recovery.</en-US>
+    <it-IT>Anche se hai sconfitto la bestia, la lotta con il leone ti ha lasciato link(TRAIT_SEVERELY_WOUNDED). La Corte prega per la tua guarigione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_CRIPPLED</zType>
+    <en-US>Felling the lion came at a steep cost. A bite to your leg has made it difficult to walk and you are now link(TRAIT_CRIPPLED).</en-US>
+    <it-IT>L'abbattimento del leone ha avuto un costo elevato. Un morso alla gamba ha reso difficile camminare e ora sei link(TRAIT_CRIPPLED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_FELLING_A_MYTH_BLINDED</zType>
+    <en-US>As you struck the killing blow on the lion, a final vicious slash of its claws caught your face. Although victorious, you are now link(TRAIT_BLINDED).</en-US>
+    <it-IT>Mentre sferravate il colpo di grazia al leone, un ultimo fendente feroce dei suoi artigli vi ha colpito in faccia. Anche se vittorioso, ora sei link(TRAIT_BLINDED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_A_HAND_WITHDRAWN_CHASTE</zType>
+    <en-US>Resigned to {masculine_0:his:her} fate of a life without marriage, {0_character} has adopted a demure and link(TRAIT_CHASTE) life.</en-US>
+    <it-IT>Rassegnata al destino di {masculine_0:his:her} di una vita senza matrimonio, {0_character} ha adottato una vita pudica e link(TRAIT_CHASTE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_A_HAND_WITHDRAWN_WANTON</zType>
+    <en-US>Resigned to a life without marriage, {0_character} has decided to enjoy a link(TRAIT_WANTON) life outside of wedlock.</en-US>
+    <it-IT>Rassegnato a una vita senza matrimonio, {0_character} ha deciso di godersi una vita link(TRAIT_WANTON) fuori dal matrimonio.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SCHOOL_OF_REASON_EDUCATED</zType>
+    <en-US>Under the guidance of Hypatia, {0_character} has become a keen student and is well link(TRAIT_EDUCATED).</en-US>
+    <it-IT>Sotto la guida di Ipazia, {0_character} è diventato uno studente appassionato e sta bene link(TRAIT_EDUCATED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SCHOOL_OF_REASON_INTELLIGENT</zType>
+    <en-US>Under the guidance of Hypatia, {0_character} has shown a keen eye for grasping complex ideas and is now link(TRAIT_INTELLIGENT).</en-US>
+    <it-IT>Sotto la guida di Ipazia, {0_character} ha mostrato un occhio attento a cogliere idee complesse e ora è link(TRAIT_INTELLIGENT).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SCHOOL_OF_REASON_ENGINEER</zType>
+    <en-US>Under the guidance of Hypatia, {0_character} has shown great interest in her ideas around astrolabes and other mechanics, studying as an link(TRAIT_ENGINEER).</en-US>
+    <it-IT>Sotto la guida di Ipazia, {0_character} ha mostrato grande interesse per le sue idee sugli astrolabi e altre meccaniche, studiando come link(TRAIT_ENGINEER).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_A_MEMORY_FOR_THE_GODS_INTELLIGENT</zType>
+    <en-US>{0_character} has taken to the memory techniques and the link(TRAIT_INTELLIGENT) student is now easily able to recall even the most obscure of facts.</en-US>
+    <it-IT>{0_character} si è abituato alle tecniche di memoria e lo studente link(TRAIT_INTELLIGENT) è ora in grado di ricordare facilmente anche i fatti più oscuri.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_A_MEMORY_FOR_THE_GODS_POET</zType>
+    <en-US>Not content with memorizing passages, {0_character} has started writing {masculine_0:his:her} own and is performing the works as a link(TRAIT_POET).</en-US>
+    <it-IT>Non contento di memorizzare i brani, {0_character} ha iniziato a scrivere {masculine_0:his:her} propri e sta eseguendo le opere come link(TRAIT_POET).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_A_MEMORY_FOR_THE_GODS_IMPIOUS</zType>
+    <en-US>Although the memory techniques are useful, the main lesson {0_character} has taken away from {masculine_0:his:her} link(TRAIT_IMPIOUS) teacher is a willful disregard from the gods.</en-US>
+    <it-IT>Sebbene le tecniche di memoria siano utili, la lezione principale che {0_character} ha tratto dall'insegnante {masculine_0:his:her} link(TRAIT_IMPIOUS) è la mancanza di volontà da parte degli dei.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHRISTIAN_ASCETICISM_CHASTE</zType>
+    <en-US>{0_character} has vowed to remain link(TRAIT_CHASTE), to better dedicate {masculine_0:himself:herself} to God.</en-US>
+    <it-IT>{0_character} ha fatto voto di rimanere link(TRAIT_CHASTE), per meglio dedicare {masculine_0:himself:herself} a Dio.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHRISTIAN_ASCETICISM_ASCETIC</zType>
+    <en-US>Inspired by the letters, {0_character} has decided to forgo earthly pleasures and has started living as an link(TRAIT_ASCETIC).</en-US>
+    <it-IT>Ispirato dalle lettere, {0_character} ha deciso di rinunciare ai piaceri terreni e ha iniziato a vivere come link(TRAIT_ASCETIC).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHRISTIAN_ASCETICISM_PIOUS</zType>
+    <en-US>Even at such a young age, {0_character} is becoming known for {masculine_0:his:her} link(TRAIT_PIOUS) devotion to God.</en-US>
+    <it-IT>Anche a un'età così giovane, {0_character} si sta facendo conoscere per la sua {masculine_0:his:her} link(TRAIT_PIOUS) devozione a Dio.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_CHRISTIAN_ASCETICISM_RIGHTEOUS</zType>
+    <en-US>Encouraged by the faithful, {0_character} has become headstrong and link(TRAIT_RIGHTEOUS) in {masculine_0:his:her} beliefs.</en-US>
+    <it-IT>Incoraggiato dai fedeli, {0_character} è diventato testardo e link(TRAIT_RIGHTEOUS) nelle convinzioni di {masculine_0:his:her}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HYBRIS_INSANE</zType>
+    <en-US>Regretfully, any attempt to ask {0_character} about matters of state makes it clear that your new courtier is completely link(TRAIT_INSANE).</en-US>
+    <it-IT>Purtroppo, qualsiasi tentativo di chiedere a {0_character} questioni di stato rende chiaro che il vostro nuovo cortigiano è completamente link(TRAIT_INSANE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_HYBRIS_BLESSED</zType>
+    <en-US>Although it is unclear if the gods really do speak to {0_character}, the link(TRAIT_BLESSED) courtier is certainly followed by good luck...</en-US>
+    <it-IT>Anche se non è chiaro se gli dei parlino davvero a {0_character}, il cortigiano di link(TRAIT_BLESSED) è certamente seguito dalla fortuna...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WHERE_LIGHTNING_STRIKES_SUPERSTITIOUS</zType>
+    <en-US>The sight of Jupiter's anger makes you determined to avoid such a fate yourself, no matter how link(TRAIT_SUPERSTITIOUS) it may appear to others.</en-US>
+    <it-IT>La vista della rabbia di Giove vi rende determinati a evitare voi stessi un simile destino, per quanto link(TRAIT_SUPERSTITIOUS) possa apparire agli altri.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WHERE_LIGHTNING_STRIKES_PIOUS</zType>
+    <en-US>It is a frightful thing to behold such destruction wrought by the gods. The awe and majesty of Jupiter's wrath inspires a newfound respect for the gods as you vow to remain link(TRAIT_PIOUS).</en-US>
+    <it-IT>È una cosa spaventosa vedere una tale distruzione operata dagli dei. La soggezione e la maestosità dell'ira di Giove ispirano un nuovo rispetto per gli dèi, mentre tu giuri di rimanere link(TRAIT_PIOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WHERE_LIGHTNING_STRIKES_BRAVE</zType>
+    <en-US>When another storm hits, you stay to witness the full fury, knowing that with such a god on your side there is nothing to fear. With Jupiter by your side, you are now link(TRAIT_BRAVE).</en-US>
+    <it-IT>Quando un'altra tempesta si abbatte su di voi, rimanete ad assistere alla sua furia, sapendo che con un tale dio al vostro fianco non c'è nulla da temere. Con Giove al vostro fianco, ora siete link(TRAIT_BRAVE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEWFOUND_FAITH_EDUCATED</zType>
+    <en-US>{0_character} has taken keen interest in the teachings of {masculine_0:his:her} tutors, quickly becoming a well link(TRAIT_EDUCATED) student.</en-US>
+    <it-IT>{0_character} si è interessato agli insegnamenti dei tutor di {masculine_0:his:her}, diventando rapidamente un buon studente di link(TRAIT_EDUCATED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEWFOUND_FAITH_PIOUS</zType>
+    <en-US>{0_character} has done you proud, focusing on the religious teachings of the tutors and engaging in link(TRAIT_PIOUS) reflection.</en-US>
+    <it-IT>{0_character} vi ha reso orgogliosi, concentrandosi sugli insegnamenti religiosi dei tutor e impegnandosi in una riflessione link(TRAIT_PIOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NEWFOUND_FAITH_HUMBLE</zType>
+    <en-US>{0_character} has been awed in {masculine_0:his:her} religious teachings, the stories of miracles and divinity keeping the {masculine_0:boy:girl} link(TRAIT_HUMBLE).</en-US>
+    <it-IT>Il {0_character} è stato affascinato dagli insegnamenti religiosi del {masculine_0:his:her}, dalle storie di miracoli e divinità che tengono in vita il {masculine_0:boy:girl}. link(TRAIT_HUMBLE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PILGRIMAGE_RIGHTEOUS</zType>
+    <en-US>Weeks on the road have shaped {0_character}, whose link(TRAIT_RIGHTEOUS) dedication to {masculine_0:his:her} religion grows with every step.</en-US>
+    <it-IT>Le settimane di viaggio hanno plasmato {0_character}, la cui dedizione alla religione {masculine_0:his:her} cresce a ogni passo.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PILGRIMAGE_PIOUS</zType>
+    <en-US>Weeks on the road have shaped {0_character}, giving {masculine_0:him:her} time to pray in link(TRAIT_PIOUS) reflection.</en-US>
+    <it-IT>Le settimane di viaggio hanno plasmato {0_character}, dando a {masculine_0:him:her} il tempo di pregare nella riflessione di link(TRAIT_PIOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PILGRIMAGE_TOUGH</zType>
+    <en-US>Weeks on the road have shaped {0_character}, molding {masculine_0:him:her} into a link(TRAIT_TOUGH) and well-worn traveler ready to face any hardship.</en-US>
+    <it-IT>Le settimane di viaggio hanno plasmato {0_character}, modellando {masculine_0:him:her} in un viaggiatore link(TRAIT_TOUGH) e ben rodato, pronto ad affrontare qualsiasi difficoltà.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LIKE_HEROES_OF_OLD_ILL</zType>
+    <en-US>After the battle the visions do not cease, but each one leaves you weak, feverish, and link(TRAIT_ILL).</en-US>
+    <it-IT>Dopo la battaglia, le visioni non cessano, ma ognuna di esse vi lascia deboli, febbricitanti e con un senso di malessere.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LIKE_HEROES_OF_OLD_IMPIOUS</zType>
+    <en-US>Determined not to lose yourself to visions, you reject the gods entirely. Better to be link(TRAIT_IMPIOUS) than mad.</en-US>
+    <it-IT>Deciso a non perdersi nelle visioni, rifiuta completamente gli dei. Meglio essere link(TRAIT_IMPIOUS) che pazzi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_LIKE_HEROES_OF_OLD_WARLIKE</zType>
+    <en-US>Although the visions do not return, the memory of the gods standing by your side stirs you to fight. Your eagerness to fight leads to your link(TRAIT_WARLIKE) reputation.</en-US>
+    <it-IT>Anche se le visioni non tornano, il ricordo degli dei al tuo fianco ti spinge a combattere. L'ansia di combattere porta alla tua reputazione link(TRAIT_WARLIKE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_IMMORAL_MYSTERIES_WANTON</zType>
+    <en-US>Whatever carnal pleasure {0_character} is seeking from these 'mysteries' is not enough. {masculine_0:He:She} has soon fully embraced the pursuit of link(TRAIT_WANTON) pleasure.</en-US>
+    <it-IT>Qualunque piacere carnale {0_character} cerchi da questi "misteri" non è sufficiente. {masculine_0:Lui:Lei} ha presto abbracciato completamente la ricerca del piacere di link(TRAIT_WANTON).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_IMMORAL_MYSTERIES_CORRUPT</zType>
+    <en-US>{0_character} is soon conducting favors for {masculine_0:his:her} fellow 'initiates' as the link(TRAIT_CORRUPT) group flout all rules to help each other reap the benefits of their positions.</en-US>
+    <it-IT>{0_character} si trova presto a fare favori ai compagni "iniziati" di {masculine_0:his:her}, mentre il gruppo link(TRAIT_CORRUPT) si fa beffe di tutte le regole per aiutarsi a vicenda a raccogliere i frutti delle proprie posizioni.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_IMMORAL_MYSTERIES_DEBAUCHED</zType>
+    <en-US>{0_character}'s parties have continued regularly with no sign of stopping. It seems {masculine_0:he:she} is well and truly link(TRAIT_DEBAUCHED).</en-US>
+    <it-IT>Le feste di {0_character} sono continuate regolarmente e non accennano a fermarsi. Sembra che {masculine_0:he:she} sia davvero link(TRAIT_DEBAUCHED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SHRINE_OF_THE_HEALING_GOD_CURSED</zType>
+    <en-US>Although your illness is gone, a foreboding looms over you. The image of the broken shrine of healing returns as you wonder if you are link(TRAIT_CURSED).</en-US>
+    <it-IT>Sebbene la malattia sia scomparsa, un presagio incombe su di voi. L'immagine del santuario di guarigione rotto ritorna mentre vi chiedete se siete link(TRAIT_CURSED).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SHRINE_OF_THE_HEALING_GOD_IMPIOUS</zType>
+    <en-US>Your illness is gone and there has been no retribution from the god of healing. Deciding there is nothing to fear from the gods, you soon stop paying attention to them altogether and become link(TRAIT_IMPIOUS).</en-US>
+    <it-IT>La malattia è scomparsa e non c'è stata alcuna punizione da parte del dio della guarigione. Decidendo che non c'è nulla da temere dagli dei, smettete presto di prestar loro attenzione e diventate link(TRAIT_IMPIOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_SHRINE_OF_THE_HEALING_GOD_SUPERSTITIOUS</zType>
+    <en-US>Your illness is gone and there has been no retribution from the gods... yet. link(TRAIT_SUPERSTITIOUS) amulets and charms to ward off ill omens adorn your neck, and the priests make regular sacrifices in your name.</en-US>
+    <it-IT>La tua malattia è scomparsa e non c'è stata alcuna punizione da parte degli dei... per ora. {Amuleti e ciondoli per scongiurare i cattivi auspici ti adornano il collo e i sacerdoti fanno regolarmente sacrifici in tuo nome.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_EYES_OF_GREEN_POET</zType>
+    <en-US>The letters from {0_character} continue as {masculine_0:he:she} describes the green-eyed statue. Factual texts slowly transition to lyrics as {masculine_0:he:she} writes, and by the time {masculine_0:he:she} moves on, it is as a link(TRAIT_POET).</en-US>
+    <it-IT>Le lettere di {0_character} continuano mentre {masculine_0:he:she} descrive la statua dagli occhi verdi. I testi fattuali passano lentamente a testi mentre {masculine_0:he:she} scrive, e quando {masculine_0:he:she} va avanti, è come link(TRAIT_POET).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_EYES_OF_GREEN_ARTIST</zType>
+    <en-US>The green-eyed statue grasps {0_character} completely, and {masculine_0:he:she} studies in the local workshops, discovering the crafts of the locals. By the time {masculine_0:he:she} leaves, {0_character} is making {masculine_0:his:her} own statues as an link(TRAIT_ARTIST).</en-US>
+    <it-IT>La statua dagli occhi verdi cattura completamente {0_character} e {masculine_0:he:she} studia nelle botteghe locali, scoprendo i mestieri della gente del posto. Quando {masculine_0:he:she} se ne va, {0_character} sta realizzando le statue di {masculine_0:his:her} come link(TRAIT_ARTIST).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_EYES_OF_GREEN_SLOTHFUL</zType>
+    <en-US>Although {0_character} stays with the green-eyed statue, {masculine_0:he:she} wastes the time in the local area whiling away the hours in link(TRAIT_SLOTHFUL) conversation with the locals. When it is time to move again, {masculine_0:he:she} does so reluctantly.</en-US>
+    <it-IT>Sebbene {0_character} rimanga con la statua dagli occhi verdi, {masculine_0:he:she} perde tempo nell'area locale, trascorrendo le ore in link(TRAIT_SLOTHFUL) conversazione con la gente del posto. Quando arriva il momento di spostarsi di nuovo, {masculine_0:he:she} lo fa a malincuore.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_OPEN_DISSENT_CRUEL</zType>
+    <en-US>{0_character} has grown steadily more radical, believing that even the most link(TRAIT_CRUEL) violence is justified for {masculine_0:his:her} religion.</en-US>
+    <it-IT>{0_character} è diventato sempre più radicale, ritenendo che anche la violenza più link(TRAIT_CRUEL) sia giustificata dalla religione {masculine_0:his:her}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_OPEN_DISSENT_FOOLISH</zType>
+    <en-US>{0_character} has been easily misled by the priests of {masculine_0:his:her} sect, who are exploiting such link(TRAIT_FOOLISH) gullibility the full.</en-US>
+    <it-IT>{0_character} è stato facilmente ingannato dai sacerdoti della setta {masculine_0:his:her}, che sfruttano al massimo questa credulità di link(TRAIT_FOOLISH).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_OPEN_DISSENT_INTELLIGENT</zType>
+    <en-US>Rather than unquestioningly embracing the sect's doctrines, {0_character} has learned to judge the teachings of {masculine_0:his:her} sect and form {masculine_0:his:her} own beliefs, becoming link(TRAIT_INTELLIGENT) through such critical thinking.</en-US>
+    <it-IT>Piuttosto che abbracciare indiscutibilmente le dottrine della setta, {0_character} ha imparato a giudicare gli insegnamenti della setta di {masculine_0:his:her} e a formare le proprie convinzioni, diventando link(TRAIT_INTELLIGENT) grazie a questo pensiero critico.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_AFFABLE</zType>
+    <en-US>Spending time with the people in praise of Amun, you enjoy such connection and soon gain a reputation as link(TRAIT_AFFABLE) and approachable.</en-US>
+    <it-IT>Trascorrendo del tempo con le persone in lode di Amon, godete di questo legame e presto vi guadagnate la reputazione di essere link(TRAIT_AFFABLE) e avvicinabili.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_PROSPEROUS</zType>
+    <en-US>Seeing people trading at the festival sparks new ideas on how to improve the nation's markets and trade. Surely Amun is watching over your link(TRAIT_PROSPEROUS) rule.</en-US>
+    <it-IT>Vedere le persone che commerciano al festival fa nascere nuove idee su come migliorare i mercati e il commercio della nazione. Sicuramente Amon veglia sul vostro governo link(TRAIT_PROSPEROUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_DEBAUCHED</zType>
+    <en-US>When the festival draws to a close, you wish that it wouldn't. So you continue the festivities at the palace, until tales of your link(TRAIT_DEBAUCHED) revels are spreading across the kingdom.</en-US>
+    <it-IT>Quando la festa volge al termine, desiderate che non sia così. Così continuate i festeggiamenti a palazzo, finché i racconti dei vostri bagordi si diffondono in tutto il regno.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_PIOUS</zType>
+    <en-US>Spending time in devotion to Amun reminds you of the importance of the god to your rule. Going forward, you vow to remain link(TRAIT_PIOUS) and faithful to the gods.</en-US>
+    <it-IT>Trascorrere del tempo in devozione ad Amon vi ricorda l'importanza del dio per il vostro governo. In futuro, giurate di rimanere link(TRAIT_PIOUS) e fedeli agli dei.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_GRACIOUS</zType>
+    <en-US>The act of devotion to Amun stays with you after the festival, as you find yourself reflecting on the preciousness of life each day and making sure to stay link(TRAIT_GRACIOUS).</en-US>
+    <it-IT>L'atto di devozione ad Amon rimane anche dopo la festa, perché ci si ritrova a riflettere ogni giorno sulla preziosità della vita e ad assicurarsi di rimanere link(TRAIT_GRACIOUS).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_BEAUTIFUL_FESTIVAL_INTOLERANT</zType>
+    <en-US>As the festival closes, it is clear to you that the gods of {PLAYER-0} stand above all others. Surely it is natural to be link(TRAIT_INTOLERANT) to followers of these lesser gods?</en-US>
+    <it-IT>Mentre il festival si chiude, vi è chiaro che gli dèi di {PLAYER-0} sono al di sopra di tutti gli altri. È naturale essere link(TRAIT_INTOLERANT) per i seguaci di queste divinità minori?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_KING_FOR_A_DAY_BOLD</zType>
+    <en-US>Refusing to hide from the gods has filled you with confidence to act while you can and to take link(TRAIT_BOLD) and decisive action.</en-US>
+    <it-IT>Rifiutare di nascondersi dagli dei vi ha riempito di fiducia per agire finché siete in tempo e per intraprendere link(TRAIT_BOLD) azioni decisive.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_KING_FOR_A_DAY_CURSED</zType>
+    <en-US>After refusing the ritual of substitution, the thought of the bad omens will not leave you. Every sign of bad luck strengthens the idea that you are link(TRAIT_CURSED) and the gods are punishing you for your hubris.</en-US>
+    <it-IT>Dopo aver rifiutato il rituale di sostituzione, il pensiero dei cattivi presagi non vi abbandonerà. Ogni segno di sfortuna rafforza l'idea che siete link(TRAIT_CURSED) e che gli dei vi stanno punendo per la vostra arroganza.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_POET_IN_VOGUE_EXTRAVAGANT</zType>
+    <en-US>The astrologer poet is such an amusing diversion that you continue to spend money on lavish and link(TRAIT_EXTRAVAGANT) entertainments for the court.</en-US>
+    <it-IT>Il poeta astrologo è un diversivo così divertente che continuate a spendere soldi per intrattenimenti sfarzosi e link(TRAIT_EXTRAVAGANT) per la corte.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_POET_IN_VOGUE_SUPERSTITIOUS</zType>
+    <en-US>After the astrologer poet divines your fortune, the lure to ask such diviners for your future becomes a habit. It may be link(TRAIT_SUPERSTITIOUS), but at least your amulets will keep you safe.</en-US>
+    <it-IT>Dopo che l'astrologo poeta ha predetto la vostra fortuna, il richiamo a chiedere a tali indovini il vostro futuro diventa un'abitudine. Può essere link(TRAIT_SUPERSTITIOUS), ma almeno i vostri amuleti vi terranno al sicuro.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WAYWARD_CULT_INTERCEDED_FOR</zType>
+    <en-US>Your agents report that the reports of the cult being antagonistic were false. Quite the opposite in fact, and the cult's praise has left {0_character} link(RELATIONSHIP_INTERCEDED_FOR).</en-US>
+    <it-IT>I vostri agenti riferiscono che le notizie sull'antagonismo della setta erano false. Anzi, è proprio il contrario, e le lodi della setta hanno lasciato {0_character} link(RELATIONSHIP_INTERCEDED_FOR).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WAYWARD_CULT_SUSPICIOUS_OF</zType>
+    <en-US>Although there are no signs of the cult taking action against your rule, {0_character} has noticed your agents and is now link(RELATIONSHIP_SUSPICIOUS_OF) your intentions.</en-US>
+    <it-IT>Anche se non ci sono segni di azione della setta contro la vostra regola, {0_character} ha notato i vostri agenti e ora sta link(RELATIONSHIP_SUSPICIOUS_OF) le vostre intenzioni.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WAYWARD_CULT_PLOTTING_AGAINST</zType>
+    <en-US>Sadly, the reports were true. {0_character} and other members of the cult are actively link(RELATIONSHIP_PLOTTING_AGAINST) you. Now is a time for caution.</en-US>
+    <it-IT>Purtroppo, le notizie erano vere. {0_character} e altri membri della setta vi stanno attivamente link(RELATIONSHIP_PLOTTING_AGAINST). È il momento di essere prudenti.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_ENDEARED_TO</zType>
+    <en-US>Your attempts to charm {0_character} go well and the religious leader is soon link(RELATIONSHIP_ENDEARED_TO) you. It appears the two of you have more in common than your religion.</en-US>
+    <it-IT>I vostri tentativi di affascinare {0_character} vanno a buon fine e il capo religioso vi raggiunge subito link(RELATIONSHIP_ENDEARED_TO). Sembra che voi due abbiate in comune molto più della vostra religione.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_INFLUENCED_BY</zType>
+    <en-US>Despite your different approaches to life, {0_character} is interested in your opinions and is even link(RELATIONSHIP_INFLUENCED_BY) some of your ideas. It is a good first step towards friendship.</en-US>
+    <it-IT>Nonostante i vostri diversi approcci alla vita, {0_character} è interessato alle vostre opinioni e si fa anche link(RELATIONSHIP_INFLUENCED_BY) delle vostre idee. È un buon primo passo verso l'amicizia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_SUSPICIOUS_OF</zType>
+    <en-US>From the outset, {0_character} is link(RELATIONSHIP_SUSPICIOUS_OF) your intentions, determined that you are making an effort only to request some kind of favor.</en-US>
+    <it-IT>Fin dall'inizio, {0_character} è link(RELATIONSHIP_SUSPICIOUS_OF) le vostre intenzioni, determinato che state facendo uno sforzo solo per richiedere un qualche tipo di favore.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_MY_BROTHER_IN_CHRIST_ESTRANGED_FROM</zType>
+    <en-US>The divide between you and {0_character} is too wide. Despite your best efforts, the conversations quickly become arguments until the two of you are link(RELATIONSHIP_ESTRANGED_FROM) each other.</en-US>
+    <it-IT>Il divario tra voi e {0_character} è troppo ampio. Nonostante i vostri sforzi, le conversazioni si trasformano rapidamente in discussioni, fino a quando i due non si trovano l'uno di fronte all'altro.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PERSECUTED_FAITH_PLOTTING_AGAINST</zType>
+    <en-US>Whispers in the court suggest that, spurred by the persecution of {masculine_0:his:her} religion, {0_character} is seeking the help of other discontents and link(RELATIONSHIP_PLOTTING_AGAINST) you.</en-US>
+    <it-IT>I sussurri a corte suggeriscono che, spinto dalla persecuzione della religione di {masculine_0:his:her}, {0_character} stia cercando l'aiuto di altri scontenti e di link(RELATIONSHIP_PLOTTING_AGAINST) voi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_PERSECUTED_FAITH_TERRIFIED_OF</zType>
+    <en-US>Afraid that stepping out of line will result in {masculine_0:his:her} inclusion in the persecutions, {0_character} is link(RELATIONSHIP_TERRIFIED_OF) you.</en-US>
+    <it-IT>Temendo che uscire dalle righe comporti l'inclusione nelle persecuzioni, {0_character} è link(RELATIONSHIP_TERRIFIED_OF) voi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_TALES_OF_LEADERS_PAST_OPTION_0_CHARACTER_2</zType>
+    <en-US>Allowed a slanderous poem</en-US>
+    <it-IT>Consentito un poema diffamatorio</it-IT>
+  </Entry>
+</Root>

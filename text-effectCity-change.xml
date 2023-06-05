@@ -1,0 +1,548 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SEAT_SOURCE</zType>
+    <en-US>in link(CONCEPT_FAMILY_SEAT)</en-US>
+    <it-IT>in link(CONCEPT_FAMILY_SEAT)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</zType>
+    <en-US>as link(CONCEPT_STATE_RELIGION)</en-US>
+    <it-IT>come link(CONCEPT_STATE_RELIGION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CAPITAL_SOURCE</zType>
+    <en-US>and link(CONCEPT_CAPITAL)</en-US>
+    <it-IT>e link(CONCEPT_CAPITAL)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_STATE_RELIGION_CITY</zType>
+    <en-US>and link(CONCEPT_STATE_RELIGION)</en-US>
+    <it-IT>e link(CONCEPT_STATE_RELIGION)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CARAVAN_SOURCE</zType>
+    <en-US>link(TRAIT_CUNNING) link(CONCEPT_GOVERNOR) or link(FAMILYCLASS_TRADERS) link(CONCEPT_FAMILY_SEAT)</en-US>
+    <it-IT>link(TRAIT_CUNNING) link(CONCEPT_GOVERNOR) o link(FAMILYCLASS_TRADERS) link(CONCEPT_FAMILY_SEAT)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_BASE</zType>
+    <en-US>Base</en-US>
+    <it-IT>Base</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CAPITAL</zType>
+    <en-US>Capital</en-US>
+    <it-IT>Capitale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_FAMILY_SEAT</zType>
+    <en-US>link(CONCEPT_FAMILY_SEAT)</en-US>
+    <it-IT>link(CONCEPT_FAMILY_SEAT)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CONNECTED</zType>
+    <en-US>Connected</en-US>
+    <it-IT>Collegato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CONNECTED_F</zType>
+    <en-US>Connected</en-US>
+    <it-IT>Collegato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DAMAGED</zType>
+    <en-US>Damaged</en-US>
+    <it-IT>Danneggiato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_DAMAGED_F</zType>
+    <en-US>Damaged</en-US>
+    <it-IT>Danneggiato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_HOLY_CITY</zType>
+    <en-US>link(CONCEPT_HOLY_CITY)</en-US>
+    <it-IT>link(CONCEPT_HOLY_CITY)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CITIZEN</zType>
+    <en-US>Citizen</en-US>
+    <it-IT>Cittadino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CITIZEN_F</zType>
+    <en-US>Citizen</en-US>
+    <it-IT>Cittadino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_POPULATION</zType>
+    <en-US>Population</en-US>
+    <it-IT>Popolazione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_UNIT_CARAVAN</zType>
+    <en-US>link(UNIT_CARAVAN) Access</en-US>
+    <it-IT>link(UNIT_CARAVAN) Accesso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY</zType>
+    <en-US>City Luxury</en-US>
+    <it-IT>Città di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_LANDOWNERS_HONEY</zType>
+    <en-US>Landowners Honey</en-US>
+    <it-IT>Proprietari terrieri Miele</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_LANDOWNERS_OLIVE</zType>
+    <en-US>Landowners Olives</en-US>
+    <it-IT>Proprietari terrieri Olive</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_CHAMPIONS_WINE</zType>
+    <en-US>Champions Wine</en-US>
+    <it-IT>Campioni del vino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_CHAMPIONS_DYE</zType>
+    <en-US>Champions Dyes</en-US>
+    <it-IT>Campioni di tintura</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_STATESMEN_PEARL</zType>
+    <en-US>Statesmen Pearls</en-US>
+    <it-IT>Perle degli statisti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_STATESMEN_WINE</zType>
+    <en-US>Statesmen Wine</en-US>
+    <it-IT>Statista Vino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_PATRONS_GEM</zType>
+    <en-US>Patrons Gems</en-US>
+    <it-IT>Gemme dei Patroni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_PATRONS_INCENSE</zType>
+    <en-US>Patrons Incense</en-US>
+    <it-IT>Incenso dei Patroni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_CLERICS_INCENSE</zType>
+    <en-US>Clerics Incense</en-US>
+    <it-IT>Incenso per chierici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_CLERICS_LAVENDER</zType>
+    <en-US>Clerics Lavender</en-US>
+    <it-IT>Chierici Lavanda</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_SAGES_LAVENDER</zType>
+    <en-US>Sages Lavender</en-US>
+    <it-IT>Salvia Lavanda</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_SAGES_SALT</zType>
+    <en-US>Sages Salt</en-US>
+    <it-IT>Sale dei Saggi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_TRADERS_OLIVE</zType>
+    <en-US>Traders Olives</en-US>
+    <it-IT>Commercianti Olive</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_TRADERS_PEARL</zType>
+    <en-US>Traders Pearls</en-US>
+    <it-IT>Perle dei commercianti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_ARTISANS_DYE</zType>
+    <en-US>Artisans Dyes</en-US>
+    <it-IT>Tinture artigianali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_ARTISANS_GEM</zType>
+    <en-US>Artisans Gems</en-US>
+    <it-IT>Artigiani Gemme</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_RIDERS_SALT</zType>
+    <en-US>Riders Salt</en-US>
+    <it-IT>Sale dei cavalieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_RIDERS_FUR</zType>
+    <en-US>Riders Fur</en-US>
+    <it-IT>Pelliccia dei cavalieri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_HUNTERS_FUR</zType>
+    <en-US>Hunters Fur</en-US>
+    <it-IT>Pelliccia di cacciatore</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_LUXURY_HUNTERS_HONEY</zType>
+    <en-US>Hunters Honey</en-US>
+    <it-IT>Miele dei cacciatori</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_DECREE</zType>
+    <en-US>Decree</en-US>
+    <it-IT>Decreto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_FAMILYCLASS_HUNTERS_SEAT_HUNT</zType>
+    <en-US>Hunt</en-US>
+    <it-IT>Caccia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CULTURE_WEAK</zType>
+    <en-US>Weak City</en-US>
+    <it-IT>Città debole</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CULTURE_DEVELOPING</zType>
+    <en-US>Developing City</en-US>
+    <it-IT>Città in via di sviluppo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CULTURE_STRONG</zType>
+    <en-US>Strong City</en-US>
+    <it-IT>Città forte</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CULTURE_LEGENDARY</zType>
+    <en-US>Legendary City</en-US>
+    <it-IT>Città leggendaria</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HUNTING</zType>
+    <en-US>Shrine of the Hunt</en-US>
+    <it-IT>Santuario della caccia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_GNOSTICISM</zType>
+    <en-US>Gnosticism Temple</en-US>
+    <it-IT>Tempio dello gnosticismo</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_REDEMPTION</zType>
+    <en-US>Redemption Cathedral</en-US>
+    <it-IT>Cattedrale della Redenzione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_ENLIGHTENMENT</zType>
+    <en-US>Enlightenment Cathedral</en-US>
+    <it-IT>Cattedrale dei Lumi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONFAMILY_FURIOUS</zType>
+    <en-US>Furious Family</en-US>
+    <it-IT>Famiglia Furiosa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONFAMILY_ANGRY</zType>
+    <en-US>Angry Family</en-US>
+    <it-IT>Famiglia arrabbiata</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONFAMILY_UPSET</zType>
+    <en-US>Upset Family</en-US>
+    <it-IT>Famiglia sconvolta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONFAMILY_PLEASED</zType>
+    <en-US>Pleased Family</en-US>
+    <it-IT>Famiglia soddisfatta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_OPINIONFAMILY_FRIENDLY</zType>
+    <en-US>Friendly Family</en-US>
+    <it-IT>Famiglia amica</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_PROJECT_TREASURY</zType>
+    <en-US>Treasury~a Treasury~Treasuries</en-US>
+    <it-IT>Titoli di Stato</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_PROJECT_FORUM</zType>
+    <en-US>Forum~a Forum~Forums</en-US>
+    <it-IT>Forum</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE</zType>
+    <en-US>Archive~an Archive~Archives</en-US>
+    <it-IT>Archivio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_SALT_LUXURY</zType>
+    <en-US>Salt Luxury</en-US>
+    <it-IT>Sale di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_GEM_LUXURY</zType>
+    <en-US>Gems Luxury</en-US>
+    <it-IT>Gemme di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_FUR_LUXURY</zType>
+    <en-US>Fur Luxury</en-US>
+    <it-IT>Pelliccia di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_HONEY_LUXURY</zType>
+    <en-US>Honey Luxury</en-US>
+    <it-IT>Miele di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_INCENSE_LUXURY</zType>
+    <en-US>Incense Luxury</en-US>
+    <it-IT>Incenso di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_LAVENDER_LUXURY</zType>
+    <en-US>Lavender Luxury</en-US>
+    <it-IT>Lusso alla lavanda</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_WINE_LUXURY</zType>
+    <en-US>Wine Luxury</en-US>
+    <it-IT>Vino di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_OLIVE_LUXURY</zType>
+    <en-US>Olives Luxury</en-US>
+    <it-IT>Olive di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_DYE_LUXURY</zType>
+    <en-US>Dyes Luxury</en-US>
+    <it-IT>Tinture di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_PEARL_LUXURY</zType>
+    <en-US>Pearls Luxury</en-US>
+    <it-IT>Perle di lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_RESOURCE_CROP</zType>
+    <en-US>Crop Resource~a Crop Resource~Crop Resources</en-US>
+    <it-IT>Risorse per le colture</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_RURAL</zType>
+    <en-US>Rural Specialist~a Rural Specialist~Rural Specialists</en-US>
+    <it-IT>Specialisti rurali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_RURAL_F</zType>
+    <en-US>Rural Specialist~a Rural Specialist~Rural Specialists</en-US>
+    <it-IT>Specialisti rurali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_APPRENTICE</zType>
+    <en-US>Apprentice Specialist</en-US>
+    <it-IT>Apprendista specialista</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_MASTER</zType>
+    <en-US>Master Specialist</en-US>
+    <it-IT>Specialista Master</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_MASTER_F</zType>
+    <en-US>Master Specialist</en-US>
+    <it-IT>Specialista Master</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_ELDER</zType>
+    <en-US>Elder Specialist</en-US>
+    <it-IT>Specialista degli anziani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_SPECIALIST_ELDER_F</zType>
+    <en-US>Elder Specialist</en-US>
+    <it-IT>Specialista degli anziani</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ZEALOT_ARCHETYPE_STATE</zType>
+    <en-US>link(TRAIT_ZEALOT_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_ZEALOT_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE</zType>
+    <en-US>link(TRAIT_ORATOR_ARCHETYPE) link(CONCEPT_GOVERNOR)</en-US>
+    <it-IT>link(TRAIT_ORATOR_ARCHETYPE) link(CONCEPT_GOVERNOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
+    <en-US>link(TRAIT_ORATOR_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_ORATOR_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_DIPLOMAT_ARCHETYPE</zType>
+    <en-US>link(TRAIT_DIPLOMAT_ARCHETYPE) link(CONCEPT_GOVERNOR)</en-US>
+    <it-IT>link(TRAIT_DIPLOMAT_ARCHETYPE) link(CONCEPT_GOVERNOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_JUDGE_ARCHETYPE</zType>
+    <en-US>link(TRAIT_JUDGE_ARCHETYPE) link(CONCEPT_GOVERNOR)</en-US>
+    <it-IT>link(TRAIT_JUDGE_ARCHETYPE) link(CONCEPT_GOVERNOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE</zType>
+    <en-US>link(TRAIT_BUILDER_ARCHETYPE) link(CONCEPT_GOVERNOR)</en-US>
+    <it-IT>link(TRAIT_BUILDER_ARCHETYPE) link(CONCEPT_GOVERNOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
+    <en-US>link(TRAIT_BUILDER_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_BUILDER_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_SCHOLAR_ARCHETYPE</zType>
+    <en-US>link(TRAIT_SCHOLAR_ARCHETYPE) link(CONCEPT_GOVERNOR)</en-US>
+    <it-IT>link(TRAIT_SCHOLAR_ARCHETYPE) link(CONCEPT_GOVERNOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_SCHOLAR_INQUIRY</zType>
+    <en-US>Inquiry</en-US>
+    <it-IT>Richiesta di informazioni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_SCHOLAR_ARCHETYPE_ALL</zType>
+    <en-US>link(TRAIT_SCHOLAR_ARCHETYPE) Leader</en-US>
+    <it-IT>link(TRAIT_SCHOLAR_ARCHETYPE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_AFFABLE_ALL</zType>
+    <en-US>link(TRAIT_AFFABLE) Leader</en-US>
+    <it-IT>link(TRAIT_AFFABLE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_CRUEL_ALL</zType>
+    <en-US>link(TRAIT_CRUEL) Leader</en-US>
+    <it-IT>link(TRAIT_CRUEL) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ELOQUENT_ALL</zType>
+    <en-US>link(TRAIT_ELOQUENT) Leader</en-US>
+    <it-IT>link(TRAIT_ELOQUENT) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_INTOLERANT_ALL</zType>
+    <en-US>link(TRAIT_INTOLERANT) Leader</en-US>
+    <it-IT>link(TRAIT_INTOLERANT) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_WARLIKE_ALL</zType>
+    <en-US>link(TRAIT_WARLIKE) Leader</en-US>
+    <it-IT>link(TRAIT_WARLIKE) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_SLOTHFUL_ALL</zType>
+    <en-US>link(TRAIT_SLOTHFUL) Leader</en-US>
+    <it-IT>link(TRAIT_SLOTHFUL) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_INSPIRING_ALL</zType>
+    <en-US>link(TRAIT_INSPIRING) Leader</en-US>
+    <it-IT>link(TRAIT_INSPIRING) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_UNCOUTH_ALL</zType>
+    <en-US>link(TRAIT_UNCOUTH) Leader</en-US>
+    <it-IT>link(TRAIT_UNCOUTH) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_INTELLIGENT_ALL</zType>
+    <en-US>link(TRAIT_INTELLIGENT) Leader</en-US>
+    <it-IT>link(TRAIT_INTELLIGENT) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_FOOLISH_ALL</zType>
+    <en-US>link(TRAIT_FOOLISH) Leader</en-US>
+    <it-IT>link(TRAIT_FOOLISH) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_PROSPEROUS_ALL</zType>
+    <en-US>link(TRAIT_PROSPEROUS) Leader</en-US>
+    <it-IT>link(TRAIT_PROSPEROUS) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_EXTRAVAGANT_ALL</zType>
+    <en-US>link(TRAIT_EXTRAVAGANT) Leader</en-US>
+    <it-IT>link(TRAIT_EXTRAVAGANT) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_FRUGAL_ALL</zType>
+    <en-US>link(TRAIT_FRUGAL) Leader</en-US>
+    <it-IT>link(TRAIT_FRUGAL) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_CORRUPT_ALL</zType>
+    <en-US>link(TRAIT_CORRUPT) Leader</en-US>
+    <it-IT>link(TRAIT_CORRUPT) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_RIGHTEOUS_ALL</zType>
+    <en-US>link(TRAIT_RIGHTEOUS) Leader</en-US>
+    <it-IT>link(TRAIT_RIGHTEOUS) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_DEBAUCHED_ALL</zType>
+    <en-US>link(TRAIT_DEBAUCHED) Leader</en-US>
+    <it-IT>link(TRAIT_DEBAUCHED) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_ROBUST</zType>
+    <en-US>link(TRAIT_ROBUST) Leader</en-US>
+    <it-IT>link(TRAIT_ROBUST) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_VIGILANT</zType>
+    <en-US>link(TRAIT_VIGILANT) Leader</en-US>
+    <it-IT>link(TRAIT_VIGILANT) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_STRICT</zType>
+    <en-US>link(TRAIT_STRICT) Leader</en-US>
+    <it-IT>link(TRAIT_STRICT) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_EQUESTRIAN</zType>
+    <en-US>link(TRAIT_EQUESTRIAN) Leader</en-US>
+    <it-IT>link(TRAIT_EQUESTRIAN) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_CARPENTER</zType>
+    <en-US>link(TRAIT_CARPENTER) Leader</en-US>
+    <it-IT>link(TRAIT_CARPENTER) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_PATHFINDER</zType>
+    <en-US>link(TRAIT_PATHFINDER) Leader</en-US>
+    <it-IT>link(TRAIT_PATHFINDER) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_CULTIVATOR</zType>
+    <en-US>link(TRAIT_CULTIVATOR) Leader</en-US>
+    <it-IT>link(TRAIT_CULTIVATOR) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_NATURALIST</zType>
+    <en-US>link(TRAIT_NATURALIST) Leader</en-US>
+    <it-IT>link(TRAIT_NATURALIST) Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_TRAIT_DELVER</zType>
+    <en-US>link(TRAIT_DELVER) Leader</en-US>
+    <it-IT>link(TRAIT_DELVER) Leader</it-IT>
+  </Entry>
+</Root>

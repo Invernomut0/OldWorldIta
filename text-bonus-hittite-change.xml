@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_WORTHY_OPPONENTS_PEACE_OFFER_DENIED_US</zType>
+    <en-US>Refused to treat with an opponent</en-US>
+    <it-IT>Rifiuto di trattare con un avversario</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_MESEDI_UNIT</zType>
+    <en-US>The Mesedi</en-US>
+    <it-IT>Il Mesedi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_NAMED_UNIT_GOLDEN_SPEARMEN</zType>
+    <en-US>The Golden Spearmen</en-US>
+    <it-IT>Gli Spearmen d'oro</it-IT>
+  </Entry>
+</Root>

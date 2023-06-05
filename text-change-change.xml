@@ -1,0 +1,1028 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_LOVERS_ELOPE_TITLE</zType>
+    <en-US>Lovers Steal Away</en-US>
+    <it-IT>Gli amanti si allontanano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CAMELS_AND_PAWS</zType>
+    <en-US>In the middle of the day, your dog comes barreling through the court, caterwauling and whimpering as it runs between courtiers and skids on the stone floors. Gasps of exclamation fill the air as your dog charges across the room, leaps into your lap and spins around before dropping into your lap and licking your face affectionately.
+A harried servant rushes into the court. "My apologies, my {TITLE-0}. The dog startled several camels. {CHARACTER-1} was thrown from {G1:his:her} camel and chased the dog across the courtyard." The servant bows again, distress plain upon their face.
+How shall we handle this matter?</en-US>
+    <it-IT>Nel bel mezzo della giornata, il vostro cane arriva a tutta velocità nella corte, emettendo suoni e mugolii mentre corre tra i cortigiani e sbanda sul pavimento di pietra. L'aria si riempie di esclamazioni quando il cane attraversa la stanza, vi salta in grembo e vi gira intorno prima di cadervi in braccio e leccarvi affettuosamente il viso.
+Un servitore affannato si precipita nella corte. "Le mie scuse, mio {TITLE-0}. Il cane ha spaventato diversi cammelli. {CHARACTER-1} è stato sbalzato da {G1:his:her} cammello e ha inseguito il cane per tutto il cortile". Il servitore si inchina di nuovo, l'angoscia è evidente sul suo volto.
+Come dobbiamo gestire la questione?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TUTORIAL_CHOP_WOOD</zType>
+    <en-US>Your {UNIT-0} has moved onto a link(VEGETATION_TREES) Tile. link(UNIT_WORKER,2) can spend one link(YIELD_ORDERS,3) to cut down link(VEGETATION_TREES) with the  icon(REMOVE_TREES) button in the Actions panel on the left, and two link(YIELD_ORDERS) can be spent to fully clear the land. These actions both harvest link(YIELD_WOOD,1) and add it to your stockpile. The Tile in question does not have to be in your territory to  icon(REMOVE_TREES) cut down the link(VEGETATION_TREES).
+Once cut down, link(VEGETATION_TREES) take some time to regrow. If you build an link(CONCEPT_IMPROVEMENT) on a link(VEGETATION_TREES,1) Tile, the link(YIELD_WOOD) is automatically harvested as the land is Cleared, all at the cost of three link(YIELD_ORDERS).
+Eventually, you can research the link(TECH_FORESTRY) Tech to enable the construction of link(IMPROVEMENT_LUMBERMILL,2), which are a more regular and sustainable source of link(YIELD_WOOD). However, they must be built on a link(VEGETATION_TREES) Tile, so don't Cut down all of your forests!
+You can also spend link(YIELD_MONEY,1) to purchase link(YIELD_WOOD) directly from the top bar where it shows your current stockpile totals.</en-US>
+    <it-IT>Il tuo {UNIT-0} si è spostato su una tessera link(VEGETATION_TREES). Tegola. Il link(UNIT_WORKER,2) può spendere un link(YIELD_ORDERS,3) per abbattere il link(VEGETATION_TREES) con il pulsante icona(REMOVE_TREES) nel pannello Azioni a sinistra, e due link(YIELD_ORDERS) possono essere spesi per ripulire completamente il terreno. Queste azioni raccolgono link(YIELD_WOOD,1) e lo aggiungono alle scorte. Non è necessario che la tessera in questione si trovi nel vostro territorio per poter icon(REMOVE_TREES) abbattere il link(VEGETATION_TREES).
+Una volta abbattuto, il link(VEGETATION_TREES) impiega un po' di tempo per ricrescere. Se si costruisce un link(CONCEPT_IMPROVEMENT) su una tessera link(VEGETATION_TREES,1) il link(YIELD_WOOD) viene automaticamente raccolto quando il terreno viene ripulito, il tutto al costo di tre link(YIELD_ORDERS).
+Alla fine, si può ricercare la link(TECH_FORESTRY) per consentire la costruzione di link(IMPROVEMENT_LUMBERMILL,2), che sono una fonte più regolare e sostenibile di link(YIELD_WOOD). Tuttavia, devono essere costruiti su una tessera link(VEGETATION_TREES) quindi non abbattete tutte le vostre foreste!
+È anche possibile spendere link(YIELD_MONEY,1) per acquistare link(YIELD_WOOD) direttamente dalla barra in alto che mostra il totale delle scorte.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_INFLUENCE_OF_MONEY</zType>
+    <en-US>{CHARACTER-1} asks to speak with you privately, gesturing to a secluded hallway. Servants and courtiers carry on about their business in the wide halls.
+"Your majesty has taken an interest in me," {CHARACTER-1} says and smiles with practiced ease. "But I do not wish to flatter myself. Instead, I would like to propose a deal where I gain your financial support in return for my political support."</en-US>
+    <it-IT>{CHARACTER-1} chiede di parlare con voi in privato, indicando un corridoio appartato. I servitori e i cortigiani continuano a fare i loro affari nelle ampie sale.
+"Vostra Maestà si è interessata a me", dice {CHARACTER-1} e sorride con disinvoltura. "Ma non voglio adularmi. Vorrei invece proporvi un accordo per ottenere il vostro sostegno finanziario in cambio del mio appoggio politico".</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_FINAL_FAVOR_PLAYER</zType>
+    <en-US>At the funeral of {CHARACTER-0}, you are approached by the new {TITLE-1} {CHARACTER-SHORT-1} with tears in {G1:his:her} eyes and steel in {G1:his:her} posture.
+"I shall not beat around the bush. {CHARACTER-SHORT-0} told me that {G0:he:she} owed you a debt. I would see that debt repaid. Will you accept?"</en-US>
+    <it-IT>Al funerale di {CHARACTER-0}, vi si avvicina il nuovo {TITLE-1} {CHARACTER-SHORT-1} con le lacrime agli occhi e la postura d'acciaio di {G1:his:her}.
+"Non voglio menare il can per l'aia. {CHARACTER-SHORT-0} mi ha detto che {G0:he:she} ha un debito con te. Vorrei che quel debito fosse ripagato. Accetterai?"</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ANTICHRIST</zType>
+    <en-US>Word has reached you that {FAMILY-1} priests are starting their daily prayers by denouncing {CHARACTER-SHORT-2} of {PLAYER-3} as the Antichrist. They claim {G2:he:she} is the prophesied {G2:man:woman} of sin whose lawlessness and duplicity shall soon be revealed.
+It will not take long for this to become known in {PLAYER-3} unless the {FAMILY-1} prayers change.</en-US>
+    <it-IT>Vi è giunta notizia che i sacerdoti di {FAMILY-1} iniziano le loro preghiere quotidiane denunciando {CHARACTER-SHORT-2} di {PLAYER-3} come l'Anticristo. Essi affermano che {G2:he:she} è il profetizzato {G2:man:woman} del peccato, la cui illegalità e doppiezza saranno presto rivelate.
+Non ci vorrà molto perché ciò diventi noto a {PLAYER-3}, a meno che le preghiere di {FAMILY-1} non cambino.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_AGENT_WOUNDED</zType>
+    <en-US>Urgent word has arrived from the network of agents in {CITY-1}: {CHARACTER-0} has been wounded while trying to retrieve secrets from {PLAYER-2,2} informant. The meeting was a trap, guards surrounding the building and forcing {CHARACTER-SHORT-0} to cut a path through.
+Luckily, the informant was killed, and {CHARACTER-SHORT-0} kept {G0:his:her} face covered, so {G0:his:her} role there is not compromised. However, the wound could get worse if it is not seen to soon.</en-US>
+    <it-IT>Dalla rete di agenti di {CITY-1} è giunta una notizia urgente: {CHARACTER-0} è stato ferito mentre cercava di recuperare dei segreti dall'informatore di {PLAYER-2,2}. L'incontro era una trappola: le guardie hanno circondato l'edificio e costretto {CHARACTER-SHORT-0} a farsi strada.
+Fortunatamente l'informatore è stato ucciso e {CHARACTER-SHORT-0} ha tenuto il volto di {G0:his:her} coperto, quindi il ruolo di {G0:his:her} non è compromesso. Tuttavia, la ferita potrebbe peggiorare se non viene curata al più presto.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PLAYER_TRUCE</zType>
+    <en-US>A group of riders approaches our front lines, led by an Envoy from {CHARACTER-0}. In respectful terms, {G0:he:she} extends an offer of truce.
+{PLAYER-0} is willing to end the fighting.</en-US>
+    <it-IT>Un gruppo di cavalieri si avvicina alle nostre linee del fronte, guidato da un inviato di {CHARACTER-0}. In termini rispettosi, {G0:he:she} propone una tregua.
+{PLAYER-0} è disposto a porre fine ai combattimenti.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_PROPHET_IN_CHAINS</zType>
+    <en-US>When your men stormed {CITY-4}, they found {CHARACTER-SHORT-2} at the bottom of a dry well in the city dungeons. They have brought this so called prophet to you.
+Weeping, {CHARACTER-SHORT-2} kneels before you. "Thus said Jehovah, {CHARACTER-SHORT-1} shall come against {CITY-4}, and seize it with fire. O {CHARACTER-SHORT-1}, these prophecies have come to pass by your hand, and the will of Jehovah, the God of {RELIGION-0}.</en-US>
+    <it-IT>Quando i tuoi uomini hanno preso d'assalto {CITY-4}, hanno trovato {CHARACTER-SHORT-2} in fondo a un pozzo secco nelle prigioni della città. Hanno portato da te questo cosiddetto profeta.
+Piangendo, {CHARACTER-SHORT-2} si inginocchia davanti a te. "Così ha detto Geova: {CHARACTER-SHORT-1} verrà contro {CITY-4} e la catturerà con il fuoco. O {CHARACTER-SHORT-1}, queste profezie sono avvenute per mano tua e per volontà di Geova, il Dio di {RELIGION-0}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CHANCELLOR_RELIGION_HEAD_FAMILY_GIFT_MISSION</zType>
+    <en-US>The family of {CHARACTER-SHORT-3}, the {FAMILY-0,1}, feel that you have been neglecting them despite the fact that {CHARACTER-SHORT-3} is the head of your link(CONCEPT_STATE_RELIGION), {RELIGION-4}.
+Your Chancellor {CHARACTER-SHORT-1} believes that we ought to reach out to the {FAMILY-0,1}. {G1:He:She} suggests sending them link(MISSION_FAMILY_GIFT).
+Shall we follow the advice of {CHARACTER-1}?</en-US>
+    <it-IT>La famiglia di {CHARACTER-SHORT-3}, i {FAMILY-0,1}, ritiene che lei li abbia trascurati nonostante il fatto che {CHARACTER-SHORT-3} sia a capo della sua link(CONCEPT_STATE_RELIGION), {RELIGION-4}.
+Il vostro Cancelliere {CHARACTER-SHORT-1} ritiene che si debba raggiungere il {FAMILY-0,1}. {G1:Lui:Lei} suggerisce di inviare loro link(MISSION_FAMILY_GIFT).
+Seguiamo il consiglio di {CHARACTER-1}?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_STUDY_DISCIPLINARY_ACTION_OPTION_0</zType>
+    <en-US>{CHARACTER-0} must behave {G0:himself:herself} or be punished!</en-US>
+    <it-IT>{CHARACTER-0} deve comportarsi bene {G0:himself:herself} o essere punito!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_PROJECT_AUTO_REPAIR</zType>
+    <en-US>(Cities automatically heal {0_value} HP each {1_turnScale})</en-US>
+    <it-IT>(Cities automatically heal {0_value} HP each {1_turnScale})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TILE_ADD_GENERAL_BUTTON</zType>
+    <en-US>{true_0:Replace:Add} link(CONCEPT_GENERAL)</en-US>
+    <it-IT>{true_0:Replace:Add} link(CONCEPT_GENERAL)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TILE_ADD_GENERAL_BUTTON_ONE</zType>
+    <en-US>{true_1:Replace:Add} link(CONCEPT_GENERAL) ({0_candidatesAvailable})</en-US>
+    <it-IT>{true_1:Replace:Add} link(CONCEPT_GENERAL) ({0_candidatesAvailable})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TILE_ADD_GENERAL_BUTTON_TWO</zType>
+    <en-US>{true_2:Replace:Add} link(CONCEPT_GENERAL) ({0_candidatesWithJobs}, {1_candidatesAvailable})</en-US>
+    <it-IT>{true_2:Replace:Add} link(CONCEPT_GENERAL) ({0_candidatesWithJobs}, {1_candidatesAvailable})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_AMBASSADOR</zType>
+    <en-US>link(COUNCIL_AMBASSADOR)</en-US>
+    <it-IT>link(COUNCIL_AMBASSADOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_AMBASSADOR_F</zType>
+    <en-US>link(COUNCIL_AMBASSADOR,F)</en-US>
+    <it-IT>link(COUNCIL_AMBASSADOR,F)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHANCELLOR</zType>
+    <en-US>link(COUNCIL_CHANCELLOR)</en-US>
+    <it-IT>link(COUNCIL_CHANCELLOR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_CHANCELLOR_F</zType>
+    <en-US>link(COUNCIL_CHANCELLOR,F)</en-US>
+    <it-IT>link(COUNCIL_CHANCELLOR,F)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_SPYMASTER</zType>
+    <en-US>link(COUNCIL_SPYMASTER)</en-US>
+    <it-IT>link(COUNCIL_SPYMASTER)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECT_SPYMASTER_F</zType>
+    <en-US>link(COUNCIL_SPYMASTER,F)</en-US>
+    <it-IT>link(COUNCIL_SPYMASTER,F)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_WIDGET_FORTIFY</zType>
+    <en-US>link(CONCEPT_FORTIFY) Unit
+Gains {0_amount} per {1_turnScale}, up to {2_max}%. At max level, unit will counterattack during melee combat.</en-US>
+    <it-IT>link(CONCEPT_FORTIFY) Unità
+Guadagna {0_amount} per {1_turnScale}, fino a {2_max}%. Al livello massimo, l'unità contrattacca durante il combattimento in mischia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_WIDGET_TESTUDO</zType>
+    <en-US>link(CONCEPT_TESTUDO) Formation
+Gains {0_amount} vs ranged Units per {1_turnScale}, up to {2_max}%. At max level, will counterattack during melee combat.</en-US>
+    <it-IT>link(CONCEPT_TESTUDO) Formazione
+Guadagna {0_amount} contro le Unità a distanza per {1_turnScale}, fino a {2_max}%. Al massimo livello, contrattacca durante il combattimento in mischia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RIGHTFUL_HEIR</zType>
+    <en-US>In the morning light, {CHARACTER-1} sweeps into the court. Your courtiers gasp and gesture meaningfully among themselves. The distraught young leader who left the throne to {G1:his:her} regent has matured into {G1:an imposing man:a majestic woman}.
+"I thank you for your fine efforts on my behalf," {CHARACTER-SHORT-1} says to you and the court. "But the time has come for me to retake my rightful inheritance - the throne you now sit upon."
+How shall you respond?</en-US>
+    <it-IT>Nella luce del mattino, {CHARACTER-1} entra nella corte. I vostri cortigiani sussultano e gesticolano significativamente tra loro. Il giovane leader sconvolto che ha lasciato il trono al reggente {G1:his:her} è maturato in {G1:an imposing man:a majestic woman}.
+"Vi ringrazio per i vostri sforzi in mio favore", dice {CHARACTER-SHORT-1} a voi e alla corte. "Ma è giunto il momento che io riprenda la mia legittima eredità: il trono su cui ora siedi".
+Come dovrete rispondere?</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RIGHTFUL_HEIR_REGENT_DEAD</zType>
+    <en-US>{CHARACTER-2} is dead and you have been named {TITLE-3}. However, things are not so clear cut. Your courtiers gasp and gesture meaningfully among themselves as {CHARACTER-1} sweeps into the hall, {p.is_sub.S1=SUBJECT_ADULT:no longer the sniffling child who gave up the throne:still a child, but with the gravitas and demeanor of one much older}.
+{CHARACTER-1} looks you in the eye and speaks with a clear voice so that all may hear, "{CHARACTER-SHORT-3}, you know that the throne is rightfully mine. Step aside so that I might take the crown that I was born to."
+		</en-US>
+    <it-IT>{CHARACTER-2} è morto e tu sei stato nominato {TITLE-3}. Tuttavia, le cose non sono così chiare. I vostri cortigiani sussultano e gesticolano tra loro in modo significativo quando {CHARACTER-1} entra nella sala, {p.is_sub.S1=SUBJECT_ADULT:no longer the sniffling child who gave up the throne:still a child, but with the gravitas and demeanor of one much older}.
+{CHARACTER-1} vi guarda negli occhi e parla con voce chiara in modo che tutti possano sentire: "{CHARACTER-SHORT-3}, sapete che il trono è mio di diritto. Fatti da parte perché io possa prendere la corona per cui sono nato".
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RIGHTFUL_HEIR_REGENT_DEAD_LEADER</zType>
+    <en-US>{CHARACTER-1} is dead. With {G1:his:her} stewardship ended, the crown has been returned so that you may become the {TITLE-0} that you were always destined to be.
+May you serve {PLAYER-0} well!
+		</en-US>
+    <it-IT>{CHARACTER-1} è morto. Con la fine dell'amministrazione di {G1:his:her}, la corona è stata restituita affinché tu possa diventare il {TITLE-0} che sei sempre stato destinato a essere.
+Che tu possa servire bene {PLAYER-0}!
+</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RIGHTFUL_HEIR_OPTION_1</zType>
+    <en-US>Welcome back! The throne is yours my {G1:King:Queen}.</en-US>
+    <it-IT>Bentornato! Il trono è tuo, mio {G1:King:Queen}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_CHARACTER_BIRTHRIGHT</zType>
+    <en-US>Years of bitterness and envy come to fruition, as your {G1:brother:sister} {CHARACTER-1} confronts you over the rules of succession. {G1:He:She} believes that it is a mistake that you ever became {TITLE-2} and that the throne is {G1:his:hers} by birthright.
+{CHARACTER-1} claims that your rule has been a failure and threatens that {G1:his:her} followers will rise up unless you step down.</en-US>
+    <it-IT>Anni di rancore e invidia giungono a compimento, quando il vostro {G1:brother:sister} {CHARACTER-1} si confronta con voi sulle regole della successione. {G1:Lui:Lei} ritiene che sia stato un errore che tu sia diventato {TITLE-2} e che il trono spetti a {G1:his:hers} per diritto di nascita.
+{CHARACTER-1} sostiene che il suo governo è stato un fallimento e minaccia i seguaci di {G1:his:her} di insorgere se non si dimette.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ELDER_WISDOM_TITLE</zType>
+    <en-US>The Wisdom of {CHARACTER-SHORT-0}</en-US>
+    <it-IT>La saggezza di {CHARACTER-SHORT-0}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TO_BE_KING_YES</zType>
+    <en-US>I will remain {G2:king:queen}, no matter what it takes.</en-US>
+    <it-IT>Rimarrò {G2:king:queen}, costi quel che costi.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TO_BE_KING_COMPLETE</zType>
+    <en-US>I am the one true {TITLE-2}!</en-US>
+    <it-IT>Io sono l'unico vero {TITLE-2}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RIGHTFUL_HEIR_DEAD</zType>
+    <en-US>{CHARACTER-1} is dead before getting a chance to sit on the throne for which {G1:he:she} was destined. With the rightful heir gone, the crown seamlessly transitions to yourself as the nobles and generals put their full support behind the one person with experience of leading {PLAYER-0}.
+May you continue to lead us to glory!</en-US>
+    <it-IT>{CHARACTER-1} muore prima di avere la possibilità di sedere sul trono a cui {G1:he:she} era destinato. Con la scomparsa dell'erede legittimo, la corona passa senza problemi a te, poiché i nobili e i generali danno il loro pieno appoggio all'unica persona che ha esperienza nella guida di {PLAYER-0}.
+Che tu possa continuare a condurci alla gloria!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TO_BE_KING</zType>
+    <en-US>When you were regent you were the ruler in every meaningful way, but being {TITLE-2} still feels different. The decisions, the worries, the power, the benefits are all yours.
+There is so much to be accomplished and there are still rumors that {CHARACTER-1} will one day return to the throne. An unbidden thought stirs, that perhaps {PLAYER-0} would be better off if the link(TRAIT_RIGHTFUL_HEIR) was to depart this world...</en-US>
+    <it-IT>Quando eravate reggente eravate il sovrano in tutti i sensi, ma essere {TITLE-2} è ancora diverso. Le decisioni, le preoccupazioni, il potere, i benefici sono tutti vostri.
+C'è così tanto da realizzare e ci sono ancora voci che dicono che {CHARACTER-1} un giorno tornerà sul trono. Un pensiero insopprimibile si agita: forse {PLAYER-0} starebbe meglio se link(TRAIT_RIGHTFUL_HEIR) lasciasse questo mondo...</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILYCLASS_CHAMPIONS_ADVICE_FOUND</zType>
+    <en-US>link(FAMILYCLASS_CHAMPIONS) excel at military matters. Their Cities have strong defense and train military Units quickly. Any Unit trained at a link(FAMILYCLASS_CHAMPIONS) City will be link(EFFECTUNIT_STEADFAST). The first City founded by a link(FAMILYCLASS_CHAMPIONS) Family, their link(CONCEPT_FAMILY_SEAT), will be granted a link(UNIT_MILITIA).</en-US>
+    <it-IT>link(FAMILYCLASS_CHAMPIONS) eccellono nelle questioni militari. Le loro città hanno una forte difesa e addestrano rapidamente le unità militari. Qualsiasi unità addestrata in una città link(FAMILYCLASS_CHAMPIONS) sarà link(EFFECTUNIT_STEADFAST). La prima Città fondata da una Famiglia link(FAMILYCLASS_CHAMPIONS) link(FAMILYCLASS_CHAMPIONS), la loro link(CONCEPT_FAMILY_SEAT), riceverà un link(UNIT_MILITIA).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILYCLASS_STATESMEN_ADVICE_FOUND</zType>
+    <en-US>link(FAMILYCLASS_STATESMEN) Cities boost your link(YIELD_ORDERS,1) and link(YIELD_CIVICS,1) yields. Their Cities produce more link(YIELD_CIVICS,1) as the Family's link(CONCEPT_OPINION_FAMILY,3) of you improves. As a result of these bonuses to link(YIELD_CIVICS,1) yields, link(FAMILYCLASS_STATESMEN) Cities are effective at training link(CONCEPT_SPECIALIST,2), which also cost them less link(YIELD_FOOD). link(FAMILYCLASS_STATESMEN) Cities also start with a link(PROJECT_TREASURY_1) to help boost your economy.</en-US>
+    <it-IT>link(FAMILYCLASS_STATESMEN) Le città aumentano i vostri rendimenti link(YIELD_ORDERS,1) e link(YIELD_CIVICS,1). Le loro città producono più link(YIELD_CIVICS,1) quando il link(CONCEPT_OPINION_FAMILY,3) della famiglia migliora. Grazie a questi bonus alla produzione di link(YIELD_CIVICS,1), le città link(FAMILYCLASS_STATESMEN) sono efficaci nel formare link(CONCEPT_SPECIALIST,2), che costano anche meno link(YIELD_FOOD). link(FAMILYCLASS_STATESMEN) Le città iniziano anche con un link(PROJECT_TREASURY_1) per contribuire a incrementare l'economia.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILYCLASS_PATRONS_ADVICE_FOUND</zType>
+    <en-US>The Cities of link(FAMILYCLASS_PATRONS) produce extra link(YIELD_CIVICS,1), which allows them to train link(CONCEPT_SPECIALIST,2) more quickly. Further, each link(EFFECTCITY_RESOURCE_PRECIOUS) increases the City's link(YIELD_CULTURE,1) yield. The link(FAMILYCLASS_PATRONS,1) link(CONCEPT_FAMILY_SEAT) also grants a free link(COURTIER_MINISTER). Each link(FAMILYCLASS_PATRONS,1) City starts with a link(RESOURCE_LITERATURE,1) link(CONCEPT_LUXURY,1), which can be used to boost culture or gain favor.</en-US>
+    <it-IT>Le città di link(FAMILYCLASS_PATRONS) producono link(YIELD_CIVICS,1) in più, il che consente loro di formare link(CONCEPT_SPECIALIST,2) più rapidamente. Inoltre, ogni link(EFFECTCITY_RESOURCE_PRECIOUS) aumenta la produzione di link(YIELD_CULTURE,1) della città. Il link(FAMILYCLASS_PATRONS,1) link(CONCEPT_FAMILY_SEAT) garantisce anche un link(COURTIER_MINISTER) gratuito. Ogni città link(FAMILYCLASS_PATRONS,1) inizia con un link(RESOURCE_LITERATURE,1) link(CONCEPT_LUXURY,1), che può essere usato per aumentare la cultura o ottenere favori.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILYCLASS_CLERICS_ADVICE_FOUND</zType>
+    <en-US>link(FAMILYCLASS_CLERICS) are primarily focused on link(CONCEPT_RELIGION). Their Cities can produce a one-time link(CONCEPT_PROJECT) that founds a link(CONCEPT_WORLD_RELIGION). link(FAMILYCLASS_CLERICS,1) Cities gain increased yields from religious link(CONCEPT_IMPROVEMENT,2) and gain extra link(YIELD_HAPPINESS,1). Only link(FAMILYCLASS_CLERICS,1) link(UNIT_WORKER,2) are able to build link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2) on link(TERRAIN_SAND).</en-US>
+    <it-IT>I link(FAMILYCLASS_CLERICS) si concentrano principalmente sui link(CONCEPT_RELIGION). Le loro città possono produrre un link(CONCEPT_PROJECT) unico che fonda un link(CONCEPT_WORLD_RELIGION). link(FAMILYCLASS_CLERICS,1) Le città ottengono un aumento dei rendimenti dalle link(CONCEPT_IMPROVEMENT,2) religiose e guadagnano link(YIELD_HAPPINESS,1) extra. Solo le link(FAMILYCLASS_CLERICS,1) link(UNIT_WORKER,2) sono in grado di costruire link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2) su link(TERRAIN_SAND).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILYCLASS_SAGES_ADVICE_FOUND</zType>
+    <en-US>link(FAMILYCLASS_SAGES,1) Cities are focused on link(YIELD_SCIENCE,1) and link(CONCEPT_SPECIALIST,2). Their Cities produce extra link(YIELD_CIVICS,1), which helps them build link(CONCEPT_SPECIALIST,2) more quickly, and each link(CONCEPT_SPECIALIST) in turn increases the link(FAMILYCLASS_SAGES,1) City's link(YIELD_SCIENCE,1) yield. The link(FAMILYCLASS_SAGES,1) link(CONCEPT_FAMILY_SEAT) acquires a random technology upon being founded, granting an additional head start on research.</en-US>
+    <it-IT>link(FAMILYCLASS_SAGES,1) Le città si concentrano su link(YIELD_SCIENCE,1) e link(CONCEPT_SPECIALIST,2). Le loro città producono link(YIELD_CIVICS,1) in più, il che le aiuta a costruire link(CONCEPT_SPECIALIST,2) più rapidamente, e ogni link(CONCEPT_SPECIALIST) a sua volta aumenta la resa link(FAMILYCLASS_SAGES,1) della città link(YIELD_SCIENCE,1). della città link(YIELD_SCIENCE,1). La link(FAMILYCLASS_SAGES,1) link(CONCEPT_FAMILY_SEAT) acquisisce una tecnologia casuale al momento della fondazione, garantendo un ulteriore vantaggio nella ricerca.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILYCLASS_TRADERS_ADVICE_FOUND</zType>
+    <en-US>In Cities belonging to link(FAMILYCLASS_TRADERS), each link(CONCEPT_SPECIALIST) produces link(YIELD_MONEY,1). The link(FAMILYCLASS_TRADERS,1) link(CONCEPT_FAMILY_SEAT) is able to produce link(UNIT_CARAVAN,2) and also grants you with a link(COURTIER_MERCHANT) as well as a link(IMPROVEMENT_MARKET_3), both of which boost link(YIELD_MONEY,1) considerably. link(FAMILYCLASS_TRADERS,1) link(UNIT_WORKER,2) can build several Roads per turn, which makes them especially good at extending your link(CONCEPT_TRADE_NETWORK).</en-US>
+    <it-IT>Nelle città appartenenti a link(FAMILYCLASS_TRADERS), ogni link(CONCEPT_SPECIALIST) produce link(YIELD_MONEY,1). La link(FAMILYCLASS_TRADERS,1) link(CONCEPT_FAMILY_SEAT) è in grado di produrre link(UNIT_CARAVAN,2) e vi garantisce anche un link(COURTIER_MERCHANT) e un link(IMPROVEMENT_MARKET_3), che aumentano notevolmente il link(YIELD_MONEY,1). link(FAMILYCLASS_TRADERS,1) link(UNIT_WORKER,2) possono costruire diverse Strade per turno, il che li rende particolarmente adatti a prolungare il vostro link(CONCEPT_TRADE_NETWORK).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GUIDE_TECH_NAVIGATION</zType>
+    <en-US>The first step in naval research, Navigation encourages exploration of the seas by allowing the automation of your link(UNIT_SCOUT,2) and by unlocking link(UNIT_BIREME,2). The link(LAW_COLONIES) Law can help you expand your link(CONCEPT_CITY,2) through buying surrounding tiles, while link(LAW_SERFDOM) grants additional link(YIELD_ORDERS) to your nation each turn.</en-US>
+    <it-IT>Primo passo nella ricerca navale, la Navigazione incoraggia l'esplorazione dei mari consentendo l'automazione dei link(UNIT_SCOUT,2) e sbloccando i link(UNIT_BIREME,2). La legge link(LAW_COLONIES) può aiutarvi a espandere la vostra link(CONCEPT_CITY,2) acquistando le tessere circostanti, mentre la link(LAW_SERFDOM) concede ulteriori link(YIELD_ORDERS) alla vostra nazione ogni turno.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_AMBITION_THREE_LIBRARY_3</zType>
+    <en-US>We will build three link(IMPROVEMENT_LIBRARY_3,2), where great minds will gather to share ideas.</en-US>
+    <it-IT>Costruiremo tre link(IMPROVEMENT_LIBRARY_3,2), dove grandi menti si riuniranno per condividere idee.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_AMBITION_THREE_GARRISON_3</zType>
+    <en-US>Our sovereignty will be exemplified with three grand link(IMPROVEMENT_GARRISON_3,2).</en-US>
+    <it-IT>La nostra sovranità sarà esemplificata con tre grandi link(IMPROVEMENT_GARRISON_3,2).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_NATION</zType>
+    <en-US>Nation~a Nation~Nations~National</en-US>
+    <it-IT>Nazione~una Nazione~Nazioni~Nazionale</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_PRODUCES_GENERIC_TRIBE_UNITS</zType>
+    <en-US>Produces link(CONCEPT_TRIBE,3) Units</en-US>
+    <it-IT>Produce link(CONCEPT_TRIBE,3) Unità</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_TRIBE_WATER_LUXURIES</zType>
+    <en-US>Send link(RESOURCE_DYE) and link(RESOURCE_PEARL) to any Tribes</en-US>
+    <it-IT>Inviare link(RESOURCE_DYE) e link(RESOURCE_PEARL) a qualsiasi Tribù</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_COMPETITIVE_MODE_HELP</zType>
+    <en-US>A collection of options intended to improve multiplayer balance:</en-US>
+    <it-IT>Una raccolta di opzioni volte a migliorare il bilanciamento multigiocatore:</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SCENARIO_BARBARIAN_DESC</zType>
+    <en-US>Fight to survive as the only civilized Nation in a world filled with envious and distrustful Tribes.
+SETUP (click "Show Options" above)
+icon(bullet) Choose your Nation and Map.
+icon(bullet) Choose Tribal Organization and Uprising Time.
+icon(bullet) Higher game difficulty and tribal aggression levels increase the size of the Horde.
+SCENARIO RULES
+icon(bullet) When the game starts, a countdown and a Horde size estimate will be displayed.
+icon(bullet) When the Horde arrives, a unit count will be displayed.
+icon(bullet) The Horde will be made up of link(TRIBE_RAIDERS,1) units.
+icon(bullet) When the uprising occurs, any link(TRIBE_RAIDERS) present will be added to the Horde.
+icon(bullet) Non-link(TRIBE_RAIDERS,1) Tribal units will -not- be added to the Horde.
+icon(bullet) During the uprising, link(TRIBE_RAIDERS) gain an extra level of link(CONCEPT_FATIGUE).
+CHANGES FROM DEFAULT GAME
+icon(bullet) link(CONCEPT_TRIBE,2) grow increasingly hostile as the game progresses.
+icon(bullet) Tribal units can attack from water tiles that are adjacent to their target.
+icon(bullet) The link(COUNCIL_AMBASSADOR) role has been removed, and link(DIPLOMACY_TRUCE), link(DIPLOMACY_PEACE), and link(CONCEPT_ALLIANCE_TRIBE) cannot be negotiated with link(CONCEPT_TRIBE,2). Related events have been disabled.
+icon(bullet) Some family bonuses have been adjusted:
+   icon(bullet) Instead of link(UNIT_CARAVAN,2), the link(FAMILYCLASS_TRADERS,1) seat gets extra link(YIELD_ORDERS); similarly, link(FAMILYCLASS_TRADERS) get extra link(YIELD_ORDERS) from link(IMPROVEMENTCLASS_HAMLET,2).
+   icon(bullet) Instead of link(EFFECTUNIT_STEADFAST), link(FAMILYCLASS_CHAMPIONS,1) link(UNITTRAIT_INFANTRY) units gain link(EFFECTUNIT_GUARD1).
+VICTORY
+icon(bullet) To win, eliminate the Barbarian Horde.</en-US>
+    <it-IT>Lotta per sopravvivere come unica nazione civilizzata in un mondo pieno di tribù invidiose e diffidenti.
+SETUP (click "Show Options" above)
+icona(bullet) Scegliere la Nazione e la Mappa.
+icon(bullet) Scegliere l'Organizzazione Tribale e il Tempo della Rivolta.
+icon(bullet) I livelli di difficoltà e di aggressività tribale più elevati aumentano le dimensioni dell'orda.
+REGOLE DELLO SCENARIO
+icon(bullet) Quando la partita inizia, viene visualizzato un conto alla rovescia e una stima delle dimensioni dell'Orda.
+icon(bullet) Quando l'Orda arriva, viene visualizzato il conteggio delle unità.
+icon(bullet) L'Orda sarà composta da link(TRIBE_RAIDERS,1) unità.
+icon(bullet) Quando si verifica la rivolta, ogni link(TRIBE_RAIDERS) presente sarà aggiunto all'Orda.
+icon(bullet) Le unità non link(TRIBE_RAIDERS,1) Le unità tribali non vengono aggiunte all'Orda.
+icon(bullet) Durante la rivolta, i link(TRIBE_RAIDERS) guadagnano un livello extra di link(CONCEPT_FATIGUE).
+CAMBIAMENTI RISPETTO AL GIOCO PREDEFINITO
+icon(bullet) I link(CONCEPT_TRIBE,2) diventano sempre più ostili con l'avanzare del gioco.
+icona(bullet) Le unità tribali possono attaccare dalle tessere acqua adiacenti al loro bersaglio.
+icon(bullet) Il ruolo di link(COUNCIL_AMBASSADOR) è stato rimosso e link(DIPLOMACY_TRUCE), link(DIPLOMACY_PEACE) e link(CONCEPT_ALLIANCE_TRIBE) non possono essere negoziati con link(CONCEPT_TRIBE,2). Gli eventi correlati sono stati disabilitati.
+icon(bullet) Alcuni bonus famiglia sono stati modificati:
+   icon(bullet) Invece di link(UNIT_CARAVAN,2), il seggio link(FAMILYCLASS_TRADERS,1) riceve link(YIELD_ORDERS) in più; allo stesso modo, link(FAMILYCLASS_TRADERS) riceve link(YIELD_ORDERS) in più da link(IMPROVEMENTCLASS_HAMLET,2).
+   icon(bullet) Invece di link(EFFECTUNIT_STEADFAST), le unità link(FAMILYCLASS_CHAMPIONS,1) link(UNITTRAIT_INFANTRY) guadagnano link(EFFECTUNIT_GUARD1).
+VITTORIA
+icon(bullet) Per vincere, eliminare l'Orda dei Barbari.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SUBJECTRELATION_MIN_CONFLICT_TURNS</zType>
+    <en-US>Shorter than int(MIN_TREATY_TURNS) Turns since their last link(DIPLOMACY_WAR)</en-US>
+    <it-IT>Più breve di int(MIN_TREATY_TURNS) Giri dall'ultimo link(DIPLOMACY_WAR)</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_BUILD_CHANGE</zType>
+    <en-US>{0_buildTurns} Build link(CONCEPT_IMPROVEMENT) {1_turnScale}</en-US>
+    <it-IT>{0_buildTurns} Costruire link(CONCEPT_IMPROVEMENT) {1_turnScale}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYFAMILY_GEM_SEEKERS_GIFT</zType>
+    <en-US>Gave us a luxury</en-US>
+    <it-IT>Ci ha dato un lusso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_EXOTIC_PETS_MONKEY_GRUDGE_TRAIN</zType>
+    <en-US>Train him to assassinate {CHARACTER-SHORT-1}.</en-US>
+    <it-IT>Addestrarlo ad assassinare {CHARACTER-SHORT-1}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HAPPINESS</zType>
+    <en-US>{true_1:link(YIELD_HAPPINESS):link(YIELD_DISCONTENT)} Level {0_level}</en-US>
+    <it-IT>{true_1:link(YIELD_HAPPINESS):link(YIELD_DISCONTENT)} Livello {0_level}</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_CITY_YIELD_PROGRESS_HAPPINESS</zType>
+    <en-US> ({true_3:link(YIELD_HAPPINESS):link(YIELD_DISCONTENT)} Level {0_happiness}: {1_value}/{2_value})</en-US>
+    <it-IT> ({true_3:link(YIELD_HAPPINESS):link(YIELD_DISCONTENT)} Livello {0_happiness}: {1_value}/{2_value})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_UNIT_EFFECT_INVALID_PROMOTION</zType>
+    <en-US>Invalid for this type of Unit ({0_unit})</en-US>
+    <it-IT>Non valido per questo tipo di unità ({0_unit})</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_PACK_RELIGION_NAME</zType>
+    <en-US>The Sacred and the Profane</en-US>
+    <it-IT>Il sacro e il profano</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_PACK_RELIGION_DESC</zType>
+    <en-US>Adds new events, traits, projects and missions about religion in the ancient world.</en-US>
+    <it-IT>Aggiunge nuovi eventi, tratti, progetti e missioni sulla religione nel mondo antico.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EP_RELIGION_HINT_3</zType>
+    <en-US>A link(CONCEPT_GOVERNOR) can remove link(CONCEPT_RELIGIOUS_DISSENT) from their city with the link(PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM) Project.</en-US>
+    <it-IT>Un link(CONCEPT_GOVERNOR) può rimuovere il link(CONCEPT_RELIGIOUS_DISSENT) dalla propria città con il link(PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM) Progetto.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_YIELD_DISCONTENT_HELP</zType>
+    <en-US>When a City's {YIELD_HAPPINESS}Happiness bar empties, its overall {YIELD_DISCONTENT}Discontent Level goes up by one, which reduces link(YIELD_SCIENCE,1) and also increases link(YIELD_MAINTENANCE,1). Higher {YIELD_DISCONTENT}Discontent Levels also reduce the link(CONCEPT_OPINION_FAMILY,3) of the City's ruling link(CONCEPT_FAMILY). Some ways to slow {YIELD_DISCONTENT}Discontent include connecting your City with the link(CONCEPT_TRADE_NETWORK), holding a link(PROJECT_FESTIVAL), adopting Laws such as link(LAW_TOLERANCE), keeping a City's link(CONCEPT_RELIGION,2) happy, and building link(IMPROVEMENTCLASS_BATHS,2).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TUTORIAL_URBAN_YIELDS</zType>
+    <en-US>Cities produce the following Yields: link(YIELD_GROWTH,1), link(YIELD_TRAINING,1), link(YIELD_CIVICS,1), link(YIELD_MONEY,1), link(YIELD_SCIENCE,1), link(YIELD_CULTURE,1), and link(YIELD_HAPPINESS,1).
+link(YIELD_GROWTH,1), link(YIELD_TRAINING,1), and link(YIELD_CIVICS,1) are all used for City production. link(YIELD_GROWTH) for Civilian Units, link(YIELD_TRAINING) for Military Units, and link(YIELD_CIVICS) for link(CONCEPT_PROJECT,2) and link(CONCEPT_SPECIALIST,2). When not being used for City production, link(YIELD_TRAINING) and link(YIELD_CIVICS) go to the Global stockpile and link(YIELD_GROWTH) goes into the production of new link(CONCEPT_CITIZEN,2).
+link(YIELD_CULTURE,1) and link(YIELD_HAPPINESS,1) both go into their respective progress bars. When the link(YIELD_CULTURE) bar fills, a positive Event occurs and new link(CONCEPT_IMPROVEMENT,2) and link(CONCEPT_WONDER,2) are unlocked. When the link(YIELD_HAPPINESS) bar fills, link(YIELD_GROWTH) goes up and link(YIELD_MAINTENANCE) goes down.
+link(YIELD_MONEY,1) and link(YIELD_SCIENCE,1) both go directly into the Global stockpile.</en-US>
+    <it-IT>Le città producono i seguenti rendimenti: link(YIELD_GROWTH,1), link(YIELD_TRAINING,1), link(YIELD_CIVICS,1), link(YIELD_MONEY,1), link(YIELD_SCIENCE,1), link(YIELD_CULTURE,1) e link(YIELD_HAPPINESS,1).
+link(YIELD_GROWTH,1), link(YIELD_TRAINING,1) e link(YIELD_CIVICS,1) sono tutti utilizzati per la produzione di città. link(YIELD_GROWTH) per le unità civili, link(YIELD_TRAINING) per le unità militari e link(YIELD_CIVICS) per link(CONCEPT_PROJECT,2) e link(CONCEPT_SPECIALIST,2). Quando non vengono utilizzati per la produzione di città, link(YIELD_TRAINING) e link(YIELD_CIVICS) vanno nella scorta globale e link(YIELD_GROWTH) va nella produzione di nuovi link(CONCEPT_CITIZEN,2).
+link(YIELD_CULTURE,1) e link(YIELD_HAPPINESS,1) vanno entrambi nelle rispettive barre di avanzamento. Quando la barra link(YIELD_CULTURE) si riempie, si verifica un Evento positivo e vengono sbloccati nuovi link(CONCEPT_IMPROVEMENT,2) e link(CONCEPT_WONDER,2). Quando la barra link(YIELD_HAPPINESS) si riempie, link(YIELD_GROWTH) sale e link(YIELD_MAINTENANCE) scende.
+link(YIELD_MONEY,1) e link(YIELD_SCIENCE,1) finiscono entrambi direttamente nella scorta globale.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TUTORIAL_TRADE_NETWORK</zType>
+    <en-US>You've built your first link(IMPROVEMENT_HAMLET)! A link(IMPROVEMENT_HAMLET) and its upgrades, link(IMPROVEMENT_VILLAGE) and link(IMPROVEMENT_TOWN), will produce extra link(YIELD_MONEY,1) if brought into your link(CONCEPT_TRADE_NETWORK)! Bringing a city into your link(CONCEPT_TRADE_NETWORK) will increase link(YIELD_HAPPINESS,1) there.
+The link(CONCEPT_TRADE_NETWORK) consists of all Tiles connected to your link(CONCEPT_CAPITAL) City. Cities and link(IMPROVEMENT_HAMLET,2) can be connected with one another via link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) Tiles, and even open water. You can connect a City to its link(IMPROVEMENT_HARBOR) with a link(CONCEPT_ROAD). You can check the link(CONCEPT_TRADE_NETWORK) overlay with the icon(MAP_OVERLAY_NETWORK) button on the left edge of the mini-map, or the hotkey(HOTKEY_SHOW_TRADE_NETWORK) key, and verify that a City is link(EFFECTCITY_CONNECTED) to the link(CONCEPT_TRADE_NETWORK) by checking that the  icon(CONNECTED) icon is displayed under its City Banner.</en-US>
+    <it-IT>Hai costruito il tuo primo link(IMPROVEMENT_HAMLET)! Un link(IMPROVEMENT_HAMLET) e i suoi potenziamenti, link(IMPROVEMENT_VILLAGE) e link(IMPROVEMENT_TOWN), produrranno link(YIELD_MONEY,1) extra se portati nel tuo link(CONCEPT_TRADE_NETWORK)! Portare una città nella propria link(CONCEPT_TRADE_NETWORK) aumenterà le link(YIELD_HAPPINESS,1) presenti.
+La link(CONCEPT_TRADE_NETWORK) è costituita da tutte le tessere collegate alla vostra link(CONCEPT_CAPITAL) città. Città. Le città e le link(IMPROVEMENT_HAMLET,2) possono essere collegate tra loro tramite le tessere link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) e persino le acque libere. e persino le acque libere. È possibile collegare una città alla sua link(IMPROVEMENT_HARBOR) con una link(CONCEPT_ROAD). È possibile controllare la sovrapposizione del link(CONCEPT_TRADE_NETWORK) con il pulsante icona(MAP_OVERLAY_NETWORK) sul bordo sinistro della mini-mappa o con il tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK) e verificare che una città sia link(EFFECTCITY_CONNECTED) al link(CONCEPT_TRADE_NETWORK) controllando che l'icona(CONNECTED) sia visualizzata sotto lo striscione della città.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TUTORIAL_PAGAN_SHRINE</zType>
+    <en-US>link(CONCEPT_PAGAN_RELIGION,2) are founded by building your first link(CONCEPT_SHRINE), and they spread by building more link(CONCEPT_SHRINE,2). They have no link(CONCEPT_DISCIPLE,2), link(CONCEPT_THEOLOGY,2), or access to special Religious link(CONCEPT_IMPROVEMENT,2), but improving the Religion's link(CONCEPT_OPINION_RELIGION,3) will increase link(YIELD_HAPPINESS,1) in Cities with the link(CONCEPT_RELIGION).
+Paganism can be adopted as a link(CONCEPT_STATE_RELIGION) if you enact link(LAW_DIVINE_RULE).</en-US>
+    <it-IT>Le link(CONCEPT_PAGAN_RELIGION,2) vengono fondate costruendo la prima link(CONCEPT_SHRINE) e si diffondono costruendo altre link(CONCEPT_SHRINE,2). Non hanno link(CONCEPT_DISCIPLE,2), link(CONCEPT_THEOLOGY,2) o accesso a link(CONCEPT_IMPROVEMENT,2) religiosi speciali, ma migliorando il link(CONCEPT_OPINION_RELIGION,3) della religione aumenteranno il link(YIELD_HAPPINESS,1) nelle città con il link(CONCEPT_RELIGION).
+Il Paganesimo può essere adottato come link(CONCEPT_STATE_RELIGION) se si applica il link(LAW_DIVINE_RULE).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TUTORIAL_WORKER_SELECTED</zType>
+    <en-US>link(UNIT_WORKER,2) build Improvements for your City. Rural Improvements, such as link(IMPROVEMENT_FARM,2) and link(IMPROVEMENT_MINE,2), gather raw materials. link(CONCEPT_URBAN) Improvements, such as link(IMPROVEMENT_BARRACKS,2) or link(IMPROVEMENTCLASS_SHRINE,2), provide link(YIELD_TRAINING,1) or link(YIELD_CULTURE,1).
+With some exceptions, link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2) must be built on or adjacent to other link(CONCEPT_URBAN) Tiles. A lack of link(CONCEPT_URBAN) Improvements will lead to link(YIELD_DISCONTENT,1), so plan carefully, and leave some room for them near your cities. link(CONCEPT_IMPROVEMENT) output can be augmented with link(CONCEPT_SPECIALIST,2) from the City Screen.</en-US>
+    <it-IT>I link(UNIT_WORKER,2) costruiscono miglioramenti per la città. I miglioramenti rurali, come link(IMPROVEMENT_FARM,2) e link(IMPROVEMENT_MINE,2), raccolgono materie prime. link(CONCEPT_URBAN) Le Migliorie, come link(IMPROVEMENT_BARRACKS,2) o link(IMPROVEMENTCLASS_SHRINE,2), forniscono link(YIELD_TRAINING,1) o link(YIELD_CULTURE,1).
+Con alcune eccezioni, le link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2) devono essere costruite su o adiacenti ad altre tessere link(CONCEPT_URBAN). link(CONCEPT_URBAN). La mancanza di link(CONCEPT_URBAN) porterà a link(YIELD_DISCONTENT,1), quindi pianificate con attenzione e lasciate un po' di spazio per loro vicino alle vostre città. La produzione di link(CONCEPT_IMPROVEMENT) può essere aumentata con link(CONCEPT_SPECIALIST,2) dalla schermata della città.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TUTORIAL_RELIGION</zType>
+    <en-US>{RELIGION-1} has spread to one of your Cities! Religions provide link(YIELD_CULTURE,1) and affect link(YIELD_HAPPINESS,1) in Cities with them. (For example, a City with a link(OPINIONRELIGION_FRIENDLY) link(CONCEPT_RELIGION) will increase its link(YIELD_HAPPINESS) by 2.)
+You can choose to adopt a link(CONCEPT_STATE_RELIGION) for your link(CONCEPT_NATION), allowing you to guide the impact that link(CONCEPT_RELIGION) has on your Cities via link(CONCEPT_THEOLOGY,2).</en-US>
+    <it-IT>{RELIGION-1} si è diffuso in una delle tue Città! Le religioni forniscono link(YIELD_CULTURE,1) e influenzano link(YIELD_HAPPINESS,1) le città che le ospitano. (For example, a City with a link(OPINIONRELIGION_FRIENDLY) link(CONCEPT_RELIGION) aumenterà il suo link(YIELD_HAPPINESS) di 2).
+Potete scegliere di adottare un link(CONCEPT_STATE_RELIGION) per il vostro link(CONCEPT_NATION), permettendovi di guidare l'impatto che il link(CONCEPT_RELIGION) ha sulle vostre Città tramite il link(CONCEPT_THEOLOGY,2).</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ADOPT_RELIGION</zType>
+    <en-US>Worshippers from all over the nation arrive at court, seeking direction. Is it time to adopt {RELIGION-0} as our link(CONCEPT_STATE_RELIGION)? Doing so will increase link(YIELD_HAPPINESS,1) in {RELIGION-0,1} Cities and improve relations with families who follow {RELIGION-0}.</en-US>
+    <it-IT>A corte arrivano fedeli da tutta la nazione, in cerca di indicazioni. È giunto il momento di adottare {RELIGION-0} come nostro link(CONCEPT_STATE_RELIGION)? Così facendo, aumenterà la link(YIELD_HAPPINESS,1) nelle {RELIGION-0,1} e migliorerà i rapporti con le famiglie che seguono {RELIGION-0}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_ADOPT_RELIGION_PAGAN</zType>
+    <en-US>Followers of {RELIGION-0} arrives at court, asking you to become a divine ruler by adopting their link(CONCEPT_PAGAN_RELIGION). Should we take {RELIGION-0} as our link(CONCEPT_STATE_RELIGION)? Doing so will increase link(YIELD_HAPPINESS,1) in {RELIGION-0,1} Cities and improve relations with families who follow {RELIGION-0}.</en-US>
+    <it-IT>I seguaci di {RELIGION-0} arrivano a corte, chiedendovi di diventare un sovrano divino adottando il loro link(CONCEPT_PAGAN_RELIGION). Dovremmo adottare {RELIGION-0} come nostro link(CONCEPT_STATE_RELIGION)? Così facendo, aumenterà il link(YIELD_HAPPINESS,1) nelle {RELIGION-0,1} Città e migliorerà i rapporti con le famiglie che seguono {RELIGION-0}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TUTORIAL_TRADE_NETWORK</zType>
+    <en-US>I will extend my link(CONCEPT_TRADE_NETWORK) to gain more link(YIELD_MONEY,1) and increase link(YIELD_HAPPINESS,1)!</en-US>
+    <it-IT>Estenderò il mio link(CONCEPT_TRADE_NETWORK) per guadagnare più link(YIELD_MONEY,1) e aumentare link(YIELD_HAPPINESS,1)!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_FAMILY</zType>
+    <en-US>link(CONCEPT_OPINION_FAMILY,1) is influenced by the {YIELD_DISCONTENT}link(YIELD_DISCONTENT) in their Cities and by Event choices. You can reduce {YIELD_DISCONTENT}link(YIELD_DISCONTENT) by connecting your cities with the link(CONCEPT_TRADE_NETWORK), adopting a link(CONCEPT_STATE_RELIGION), building certain link(CONCEPT_IMPROVEMENT,2) like link(IMPROVEMENTCLASS_BATHS,2), and enacting certain Laws such as link(LAW_DIVINE_RULE) and link(LAW_TOLERANCE).
+If a link(CONCEPT_FAMILY) is link(OPINIONFAMILY_ANGRY) with you, then Rebel Units may begin spawning in their Cities!
+link(CONCEPT_FAMILY,2) have link(CONCEPT_FAMILY_CLASS,2) that determine what Laws, link(CONCEPT_LUXURY), and other conditions keep them happy.
+link(FAMILYCLASS_LANDOWNERS) need land of course, so they want to have the most Cities of any of your link(CONCEPT_FAMILY,2), and they are especially displeased by having the fewest. Their opinion of you will improve with access to link(CONCEPT_LUXURY) like link(RESOURCE_OLIVE) and link(RESOURCE_HONEY). Always in need of labor for their fields, link(FAMILYCLASS_LANDOWNERS) are pleased by the link(LAW_SERFDOM) Law.
+link(FAMILYCLASS_CHAMPIONS) like to fight, and their opinion of you will improve if they have the largest military of all your link(CONCEPT_FAMILY,2). Likewise, they will feel insulted if given the fewest military units. Their opinion of you will also increase with access to link(CONCEPT_LUXURY) like link(RESOURCE_WINE) and link(RESOURCE_DYE). link(FAMILYCLASS_CHAMPIONS) are pleased by the link(LAW_VOLUNTEERS) Law.
+link(FAMILYCLASS_STATESMEN) are of course concerned with matters of state and public opinion, and cast a wary eye on unmarried Leaders. They also seek advancement for themselves, and are dismayed by a Leader who does not share power by appointing Council Members. Their opinion of you will improve with access to link(CONCEPT_LUXURY) like link(RESOURCE_PEARL) and link(RESOURCE_WINE). link(FAMILYCLASS_STATESMEN) are pleased by the adoption of a link(LAW_CONSTITUTION).
+link(FAMILYCLASS_PATRONS) are especially impressed by building Wonders, but they don't have much tolerance for child Leaders. Their opinion of you will improve with access to link(CONCEPT_LUXURY) like link(RESOURCE_GEM) and link(RESOURCE_INCENSE). link(FAMILYCLASS_PATRONS) are also pleased by the link(LAW_CALLIGRAPHY) Law.
+link(FAMILYCLASS_CLERICS) want nothing more than to spread their faith, and so they are especially pleased when ruling over the most subjects of all your link(CONCEPT_FAMILY,2). Likewise, they will be displeased when ruling over a City without a Religion. Their opinion of you will improve with access to link(CONCEPT_LUXURY) like link(RESOURCE_INCENSE) and link(RESOURCE_LAVENDER). Enacting link(LAW_DIVINE_RULE) will also improve their opinion of you.
+link(FAMILYCLASS_SAGES) look down on leaders with Tribal spouses, and they especially like their Cities to be protected. Their opinion of you will improve with access to link(CONCEPT_LUXURY) like link(RESOURCE_SALT) and link(RESOURCE_LAVENDER). link(FAMILYCLASS_SAGES) are also pleased by the link(LAW_FREEDOM) Law.
+link(FAMILYCLASS_TRADERS) will like you more if you keep their Cities connected, but are displeased by damaged Cities. It's bad for business. Their opinion of you will improve with access to link(CONCEPT_LUXURY) like link(RESOURCE_OLIVE) and link(RESOURCE_PEARL). link(FAMILYCLASS_TRADERS) are naturally pleased by the link(LAW_TRADE_LEAGUE) and link(LAW_MONETARY_REFORM) Laws.
+link(FAMILYCLASS_ARTISANS) can't stand interruptions in production, and so they are particularly distressed by pillaged link(CONCEPT_IMPROVEMENT,2) in their territories. Their opinion of you will improve with access to link(CONCEPT_LUXURY), especially link(RESOURCE_GEM) and link(RESOURCE_DYE). link(FAMILYCLASS_ARTISANS) are also pleased by the link(LAW_GUILDS) Law.
+link(FAMILYCLASS_RIDERS) won't suffer the indignity of hostile Units inside their territory, but their opinion of you will improve with access to link(CONCEPT_LUXURY) like link(RESOURCE_FUR) and link(RESOURCE_SALT). link(FAMILYCLASS_RIDERS) are also pleased by the link(LAW_VASSALAGE) Law.
+link(FAMILYCLASS_HUNTERS) want to keep their Units close to home, and their opinion of you will improve with access to link(CONCEPT_LUXURY) like link(RESOURCE_FUR) and link(RESOURCE_HONEY). link(FAMILYCLASS_HUNTERS) are also pleased by the link(LAW_EXPLORATION) Law.</en-US>
+    <it-IT>Welcome to DeepL Write!
+This tool allows you to correct mistakes, rephrase sentences and improve your writing. The green highlight on the right indicates a change.
+Click on a word to see suggestions or rewrite the whole sentence.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_RELIGION</zType>
+    <en-US>link(CONCEPT_RELIGION,2) provide link(YIELD_CULTURE,1) and affect link(YIELD_HAPPINESS,1) in Cities with them. (For example, a City with a link(OPINIONRELIGION_FRIENDLY) link(CONCEPT_RELIGION) will increase its link(YIELD_HAPPINESS) by 2.)
+You can choose to adopt a link(CONCEPT_STATE_RELIGION) for your link(CONCEPT_NATION), allowing you to guide the impact that link(CONCEPT_RELIGION) has on your Cities via link(CONCEPT_THEOLOGY,2).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_PAGAN_SHRINE</zType>
+    <en-US>link(CONCEPT_PAGAN_RELIGION,2) are founded by building your first link(CONCEPT_SHRINE), and they spread by building more link(CONCEPT_SHRINE,2). They have no link(CONCEPT_DISCIPLE,2), link(CONCEPT_THEOLOGY,2), or access to special Religious link(CONCEPT_IMPROVEMENT,2), but improving the Religion's link(CONCEPT_OPINION_RELIGION,3) will increase link(YIELD_HAPPINESS) in Cities with the link(CONCEPT_RELIGION).
+Paganism can be adopted as a link(CONCEPT_STATE_RELIGION) if you enact link(LAW_DIVINE_RULE).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_URBAN_DISCONTENT</zType>
+    <en-US>Having fewer link(CONCEPT_URBAN) Tiles than link(CONCEPT_POPULATION) will increase link(YIELD_DISCONTENT), and so do certain laws like link(LAW_SLAVERY). When a City's link(YIELD_HAPPINESS) bar empties, its overall link(YIELD_DISCONTENT) Level goes up, which increases link(YIELD_MAINTENANCE,1) and reduces link(YIELD_SCIENCE,1). High link(YIELD_DISCONTENT,1) Levels reduce the link(CONCEPT_OPINION_FAMILY,3) of the ruling link(CONCEPT_FAMILY) of that City. 
+You can reduce link(YIELD_DISCONTENT) by connecting your Cities with the link(CONCEPT_TRADE_NETWORK), adopting Laws such as link(LAW_DIVINE_RULE), link(LAW_TOLERANCE), and link(LAW_MONETARY_REFORM), and building link(IMPROVEMENTCLASS_BATHS,2) and link(IMPROVEMENT_THEATER_3,2). link(CONCEPT_LUXURY) can be traded to a City to reduce link(YIELD_DISCONTENT), and Religious Opinion affects the link(YIELD_DISCONTENT) of your Cities with that link(CONCEPT_RELIGION). The link(MISSION_PACIFY_CITY) Mission of the link(COUNCIL_CHANCELLOR) can also reduce link(YIELD_DISCONTENT) in targeted Cities.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_TRADE_NETWORK</zType>
+    <en-US>A link(IMPROVEMENT_HAMLET) and its upgrades, link(IMPROVEMENT_VILLAGE) and link(IMPROVEMENT_TOWN), will produce extra {YIELD_MONEY}link(YIELD_MONEY) if brought into your link(CONCEPT_TRADE_NETWORK)! Bringing a City into your link(CONCEPT_TRADE_NETWORK) will increase {YIELD_HAPPINESS}link(YIELD_HAPPINESS) there.
+The link(CONCEPT_TRADE_NETWORK) consists of all Tiles connected to your link(CONCEPT_CAPITAL) City. Cities and link(IMPROVEMENT_HAMLET,2) can be connected with one another via link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) Tiles, and even open water. You can connect a City to its link(IMPROVEMENT_HARBOR) with a link(CONCEPT_ROAD). You can check the link(CONCEPT_TRADE_NETWORK) overlay with the icon(MAP_OVERLAY_NETWORK) button below the mini-map, or the hotkey(HOTKEY_SHOW_TRADE_NETWORK) key, and verify that a City is link(EFFECTCITY_CONNECTED) to the link(CONCEPT_TRADE_NETWORK) by checking that the  icon(CONNECTED) icon is displayed under its City banner.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_CITY</zType>
+    <en-US>Cities are founded on link(CONCEPT_CITY_SITE,2) by link(UNIT_SETTLER,2). Your link(CONCEPT_NATION) is made up of its Cities, each of which gains yields and other benefits from link(CONCEPT_PROJECT,2) and from link(CONCEPT_IMPROVEMENT,2) built by your link(UNIT_WORKER,2). When founded or captured, a City is assigned to a link(CONCEPT_FAMILY), which will affect what type of bonuses apply to that City. Cities are also affected in various ways by such things as their controlling link(CONCEPT_NATION)'s active Laws, the link(CONCEPT_RELIGION,2) practiced in the City, the link(YIELD_HAPPINESS,1) level of the City, and the Traits and Attributes of the City's link(CONCEPT_GOVERNOR), if present.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_LUXURY</zType>
+    <en-US>Luxuries can be traded to a City increase link(YIELD_HAPPINESS). They can also be traded to other link(CONCEPT_NATION,2), link(CONCEPT_TRIBE,2), and link(CONCEPT_FAMILY,2) to improve their Opinion of you.
+link(CONCEPT_FAMILY_CLASS,2) all have two specific Luxuries which give them a higher link(CONCEPT_OPINION_FAMILY,3) boost. (For example, link(FAMILYCLASS_CLERICS,2) prefer link(RESOURCE_INCENSE) and link(RESOURCE_LAVENDER).)
+Luxuries come from the following Resources:
+{bullet}link(RESOURCE_SALT)
+{bullet}link(RESOURCE_GEM)
+{bullet}link(RESOURCE_FUR)
+{bullet}link(RESOURCE_HONEY)
+{bullet}link(RESOURCE_INCENSE)
+{bullet}link(RESOURCE_LAVENDER)
+{bullet}link(RESOURCE_OLIVE)
+{bullet}link(RESOURCE_WINE)
+{bullet}link(RESOURCE_DYE)
+{bullet}link(RESOURCE_PEARL)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_OPINION_RELIGION</zType>
+    <en-US>Religious Opinion affects the {YIELD_HAPPINESS}link(YIELD_HAPPINESS) of your Cities with that link(CONCEPT_RELIGION).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_RELIGION</zType>
+    <en-US>There are two types of Religions: World and Pagan. link(CONCEPT_WORLD_RELIGION,2), such as link(RELIGION_JUDAISM), are founded by the first link(CONCEPT_NATION) to fulfill its specific requirements. link(CONCEPT_PAGAN_RELIGION,2) are founded by building the first of your Nation's link(CONCEPT_SHRINE,2).
+All Religions give {YIELD_CULTURE}link(YIELD_CULTURE) to their Cities, and a link(OPINIONRELIGION_PLEASED) or link(OPINIONRELIGION_FRIENDLY) Religion will increase {YIELD_HAPPINESS}link(YIELD_HAPPINESS) while an link(OPINIONRELIGION_UPSET), link(OPINIONRELIGION_ANGRY), or link(OPINIONRELIGION_FURIOUS) Religion will create {YIELD_DISCONTENT}link(YIELD_DISCONTENT).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_STATE_RELIGION</zType>
+    <en-US>Adopting a link(CONCEPT_STATE_RELIGION) improves that Religion's link(CONCEPT_OPINION_RELIGION,3), increases {YIELD_HAPPINESS}link(YIELD_HAPPINESS) in Cities of that link(CONCEPT_RELIGION), and also enables the recruitment of link(CONCEPT_DISCIPLE,2) in those Cities (for link(CONCEPT_WORLD_RELIGION,2)).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_62</zType>
+    <en-US>When a City's link(YIELD_HAPPINESS) meter is filled, its overall link(YIELD_HAPPINESS) Level goes up, which increases link(YIELD_GROWTH,1) and reduces link(YIELD_MAINTENANCE,1).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_64</zType>
+    <en-US>You can increase link(YIELD_HAPPINESS,1) by connecting your Cities with link(CONCEPT_ROAD,2), recruiting link(SPECIALISTCLASS_PRIEST,1), and building link(IMPROVEMENTCLASS_BATHS,2). Certain other combinations of link(CONCEPT_IMPROVEMENT,2), link(CONCEPT_SPECIALIST,2), and laws reduce link(YIELD_DISCONTENT,1) as well.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_73</zType>
+    <en-US>Adopting a link(CONCEPT_STATE_RELIGION) improves that Religion's link(CONCEPT_OPINION_RELIGION,3) of your Nation and also both increases link(YIELD_HAPPINESS) and enables the recruitment of link(CONCEPT_DISCIPLE,2) in your Cities of that Religion.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_74</zType>
+    <en-US>link(CONCEPT_LUXURY) can be traded to a City to increase link(YIELD_HAPPINESS,1). They can also be traded to other link(CONCEPT_NATION,2), link(CONCEPT_TRIBE,2), and link(CONCEPT_FAMILY,2) to improve their Opinion of your Nation.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TECH_VAULTING_BONUS_HAPPINESS</zType>
+    <en-US>link(YIELD_HAPPINESS) Boost</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GUIDE_TECH_POLIS</zType>
+    <en-US>Polis is useful for both defending and expanding your Cities. Building link(PROJECT_WALLS) increases the link(CONCEPT_HP) of a link(CONCEPT_CITY) and can increase link(YIELD_HAPPINESS,1) if you keep a Unit from the same link(CONCEPT_FAMILY) stationed in the walled City. link(IMPROVEMENT_HAMLET,2) are link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2) that can be built anywhere within your link(CONCEPT_TERRITORY). Over time they will develop into link(IMPROVEMENT_VILLAGE,2) and then link(IMPROVEMENT_TOWN,2), consuming link(YIELD_FOOD,1) but providing increased yields of link(YIELD_MONEY,1), especially when built on your link(CONCEPT_TRADE_NETWORK).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GUIDE_TECH_ARCHITECTURE</zType>
+    <en-US>The study of Architecture allows the construction of link(IMPROVEMENT_BATHS_1), link(IMPROVEMENT_BATHS_2), and link(IMPROVEMENT_BATHS_3) for increasing link(YIELD_HAPPINESS,1) in your Cities. It also opens Laws that help construction: link(LAW_PHILOSOPHY) speeds up the recruitment of link(CONCEPT_SPECIALIST,2), while link(LAW_ENGINEERING) aids in building link(CONCEPT_WONDER,2) and link(CONCEPT_IMPROVEMENT,2).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GUIDE_TECH_DOCTRINE</zType>
+    <en-US>Further developing your Nation’s Religions, Doctrine opens the decision between link(LAW_TOLERANCE), which increases link(YIELD_HAPPINESS,1) for each Religion practiced in your Cities, and link(LAW_ORTHODOXY), which lets you purge unwanted Religions to reduce the threat of religious division. It also unlocks link(IMPROVEMENTCLASS_TEMPLE,2), which provide link(YIELD_CULTURE,1) for developing your Cities.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GUIDE_TECH_VAULTING_BONUS_HAPPINESS</zType>
+    <en-US>This bonus gives a one-off boost to increase link(YIELD_HAPPINESS,1) in all of your Cities, lowering their link(YIELD_MAINTENANCE,1) penalty and increasing their owning Family's link(CONCEPT_OPINION_FAMILY,3). If a bonus card is not researched when it appears, it is permanently trashed once discarded and will not appear again.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GUIDE_TECH_FISCAL_POLICY</zType>
+    <en-US>This late tech opens two economic Laws. link(LAW_COIN_DEBASEMENT) allows you to buy or sell link(YIELD_ORDERS,1), giving great flexibility in your Nation’s actions and finances. link(LAW_MONETARY_REFORM) helps to reduce link(YIELD_DISCONTENT,1) in your Cities, especially from hurrying production.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_TOOLTIP_LUXURIES_HELP</zType>
+    <en-US>link(CONCEPT_LUXURY) can be given to link(CONCEPT_NATION,2), link(CONCEPT_TRIBE,2), and link(CONCEPT_FAMILY,2) to improve Opinion. They also can be given to Cities to increase link(YIELD_HAPPINESS). Luxuries are unlocked by constructing Specialists on Improvements. For example, the link(RESOURCE_HONEY) Luxury comes from link(SPECIALIST_GARDENER,1) on link(IMPROVEMENT_GROVE,1).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_RELIGIOUS_DISSENT</zType>
+    <en-US>Religious dissent has a chance of appearing in cities with an link(OPINIONRELIGION_UPSET) religion. It can be removed peacefully with the Quell Dissent mission of a link(CONCEPT_CLERGY) character of the same religion, or violently with the Suppress Dissent project if the City has a link(CONCEPT_GOVERNOR).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_LOCAL_CULT</zType>
+    <en-US>Cults are Improvements built via certain events. Each has a powerful effect, however having too many in your nation may start to cause problems...</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DEATH_GOD_AND_TAXES</zType>
+    <en-US>Inspired by the religion's {p.is_sub.S0=SUBJECT_RELIGION_MAX_CAUTIOUS:perceived mistreatment:favorable view of your rule} within {PLAYER-2}, the {RELIGION-0,1} leader {CHARACTER-1} has come before you to {p.is_sub.S1=SUBJECT_CHARACTER_MAX_CAUTIOUS:demand:request} a favor. The noble {TITLE-1} asks that the {RELIGION-0} temples are given a tax exemption, to better serve {S0.GOD}.
+A grant like this will certainly make friends with the {S0.PRIEST,2}, but are you willing to make an exception?</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE</zType>
+    <en-US>Our adorable court monkey appears to harbor a grudge against the foreign leader {CHARACTER-1}. Visiting the palace for a diplomatic visit, the {TITLE-1} swears that {G1:he:she} has caught the monkey shooting murderous glances at {G1:him:her}.
+Perhaps we could capitalize on this?</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_SUCCESS</zType>
+    <en-US>It is done.
+Our adorable court monkey, now assassin, has successfully murdered {CHARACTER-1}. Luckily, nobody knows that you are responsible.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_WAR</zType>
+    <en-US>Patronage of the War Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_FIRE</zType>
+    <en-US>Patronage of the Fire Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_WISDOM</zType>
+    <en-US>Patronage of the Wisdom Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_SUN</zType>
+    <en-US>Patronage of the Sun Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_WATER</zType>
+    <en-US>Patronage of the Sea Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_LOVE</zType>
+    <en-US>Patronage of the Love Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_UNDERWORLD</zType>
+    <en-US>Patronage of the Death Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_HEALING</zType>
+    <en-US>Patronage of the Healing Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_KINGSHIP</zType>
+    <en-US>Patronage of the Royalty Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_HEARTH</zType>
+    <en-US>Patronage of the Hearth Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_PAGAN_CULT_HUNTING</zType>
+    <en-US>Patronage of the Hunting Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_LOCAL_CULT</zType>
+    <en-US>Cult Shrines</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_PROJECT_GODS_CONSORT_CULT</zType>
+    <en-US>Priests of God's Consort</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE</zType>
+    <en-US>God's Consort Cult Shrine~a God's Consort Cult Shrine~God's Consort Cult Shrines</en-US>
+    <it-IT>~~</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE_F</zType>
+    <en-US>God's Consort Cult Shrine~a God's Consort Cult Shrine~God's Consort Cult Shrines</en-US>
+    <it-IT>~~</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_FAMILY_EFFECT_CITY</zType>
+    <en-US>{0_value}: From {1,1_effect}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELD_RATE_IF_DEFENDING</zType>
+    <en-US>{0_yield}/{1_turnScale} if military unit in City Territory</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELD_RATE_IF_DEFENDING_FAMILY</zType>
+    <en-US>{0_yield}/{1_turnScale} if link(CONCEPT_FAMILY) military unit in City Territory</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CITIZEN</zType>
+    <en-US>Citizen~Citizens</en-US>
+    <it-IT>~</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTCITY_CITIZEN_F</zType>
+    <en-US>Citizen~Citizens</en-US>
+    <it-IT>~</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UR_GREAT_ZIGGURAT</zType>
+    <en-US>Build the Ziggurat in Ur</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+    <en-US>Build the Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_UR_GREAT_ZIGGURAT_TITLE</zType>
+    <en-US>Ziggurat in Ur</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT_TITLE</zType>
+    <en-US>Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_ZIGGURAT_CRUMBLES_OPTION_IMPROVE_PLAYER</zType>
+    <en-US>Improved The Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_ZIGGURAT_CRUMBLES_OPTION_STUDY_PLAYER</zType>
+    <en-US>Restored and studied The Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_ZIGGURAT_CRUMBLES_OPTION_SHRINE_PLAYER</zType>
+    <en-US>Improved The Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_BONUS_EVENTOPTION_THE_ZIGGURAT_CRUMBLES_OPTION_RESTORE_PLAYER</zType>
+    <en-US>Saved The Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_GRADUATE_TAKING_THE_MANTLE</zType>
+    <en-US>Years of study have matured {CHARACTER-SHORT-1}, and now {G1:he:she} returns home eager to make a difference. Brimming with ideas, {G1:he:she} has {G1:his:her} gaze set on the city of {CITY-0}.
+{CHARACTER-SHORT-1} believes that {G1:he:she} is uniquely suited to solve the city's growing discontent, yet the {FAMILY-0,1} are pressuring you against the appointment.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TRAIT_WONDERS_AWAIT_ZIGGURAT</zType>
+    <en-US>Visiting {PLAYER-1}, you marvel at their engineering feats, including the incomparable Ziggurat. You and your caravan are not the only tourists viewing this architectural marvel. People from all over the world have come to see with their own eyes what they had only heard about in stories.
+You are inspired to bring such spectacle back home to {PLAYER-0}.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_WONDER_GREAT_ZIGGURAT_TITLE</zType>
+    <en-US>The Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+    <en-US>The Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_CRUMBLING_ZIGGURAT</zType>
+    <en-US>Failed to restore The Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IMPROVED_ZIGGURAT</zType>
+    <en-US>Restored and Improved The Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_MEMORYRELIGION_IMPROVED_ZIGGURAT_SHRINE</zType>
+    <en-US>Restored and Improved The Ziggurat</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAMEOPTION_ALLOW_OBSERVE</zType>
+    <en-US>Allow Observers</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TEMPORARY</zType>
+    <en-US>Newcomer</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_URBAN_GROWTH</zType>
+    <en-US>link(YIELD_GROWTH,1) is essential for expanding your Population and increasing the Yields of your Cities. Cities produce a new link(CONCEPT_CITIZEN) each time their link(YIELD_GROWTH) bar fills up. Each link(EFFECTCITY_CITIZEN) provides a small amount of link(YIELD_ORDERS,1) and can be converted into link(CONCEPT_SPECIALIST,1).  
+Cities with high link(YIELD_GROWTH) train new Civilian Units like link(UNIT_SETTLER,2), link(UNIT_WORKER,2), and link(UNIT_SCOUT,2) more rapidly. While a City produces a Civilian Unit, its link(YIELD_GROWTH) bar no longer fills. link(UNIT_MILITIA) and link(UNIT_CONSCRIPT) Units are also produced with link(YIELD_GROWTH) instead of link(YIELD_TRAINING,1) like other Military Units.
+You can increase a City's link(YIELD_GROWTH) by training link(SPECIALIST_FARMER,2) and building link(IMPROVEMENT_GRANARY,2) and link(IMPROVEMENT_TOWN,2). link(IMPROVEMENT_FARM,2) will also augment link(YIELD_GROWTH) even further if built on resources like link(RESOURCE_WHEAT) or link(RESOURCE_BARLEY). It is worth noting that although many link(CONCEPT_IMPROVEMENT,2) and link(CONCEPT_SPECIALIST,2) provide both link(YIELD_GROWTH) and link(YIELD_FOOD), they are not the same Resource (link(YIELD_FOOD) is used to start producing link(UNIT_SETTLER,2) and feed your link(CONCEPT_POPULATION)).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENT_FARM_HINT</zType>
+    <en-US>Boosts link(YIELD_FOOD), which units consume every turn. If built over resources like link(RESOURCE_WHEAT) or link(RESOURCE_BARLEY) or next to a link(IMPROVEMENT_GRANARY), also increases link(YIELD_GROWTH), which makes cities produce link(UNIT_SETTLER,2) or link(UNIT_WORKER,2) faster.
+Can be further improved by developing a link(SPECIALISTCLASS_FARMER).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILYCLASS_LANDOWNERS_ADVICE_FOUND</zType>
+    <en-US>link(FAMILYCLASS_LANDOWNERS) excel at expanding your link(CONCEPT_TERRITORY). Their link(YIELD_GROWTH,1) bonus allows them to produce link(UNIT_SETTLER,2) and link(UNIT_WORKER,2) more quickly, and link(FAMILYCLASS_LANDOWNERS,1) Cities train link(EFFECTCITY_SPECIALIST_RURAL,2) in half the time. link(FAMILYCLASS_LANDOWNERS) are an ideal choice when near fertile territory good for link(IMPROVEMENT_FARM,2).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SUCCESSION_THEM_ABDICATED</zType>
+    <en-US><![CDATA[News reaches you from abroad; in a surprising move, {CHARACTER-1} has stepped down as the leader of {PLAYER-0}.
+{CHARACTER-0} has ascended to rule {PLAYER-0} in {G1:his:her} place. <p.is_sub.S0=SUBJECT_PLAYER_ASSYRIA>{CHARACTER-SHORT-0} has been named {G0:King:Queen} in accordance with the succession contract made by {CHARACTER-SHORT-1} and {G1:his:her} vassals. Inscriptions of {CHARACTER-SHORT-0}’s might and power are soon being commissioned across {PLAYER-0}.
+<p=SUBJECT_PLAYER_BABYLONIA>{G0:He:She} has been appointed {G0:King:Queen} above all others, consecrated for rule by the priests of {CITY-0}. Inscriptions of {CHARACTER-SHORT-0}’s protection and piety are soon being raised across {PLAYER-0}.
+<p=SUBJECT_PLAYER_CARTHAGE>{G0:He:She} has been elected by the noble houses to serve as {G0:King:Queen} in {CHARACTER-SHORT-1}’s footsteps, leading the people and senate of {PLAYER-0} into a new age.
+<p=SUBJECT_PLAYER_EGYPT>{G0:He:She} immediately held the traditional feast appearing as Pharaoh for the first time, starting the year-long chain of rites and events that confirm {G0:his:her} role as the new Pharaoh of {PLAYER-0}.
+<p=SUBJECT_PLAYER_GREECE>{G0:He:She} was immediately proclaimed {G0:King:Queen} by the nobles and generals upon {CHARACTER-SHORT-1}’s abdication. With the throne secure, {CHARACTER-SHORT-0} is ready to lead the people of {PLAYER-0}.
+<p=SUBJECT_PLAYER_PERSIA>{G0:He:She} entered the temple of {CITY-0} and changed into the robes previously worn by {CHARACTER-SHORT-1}. After a ritual meal of figs and sour milk, {CHARACTER-SHORT-0} has assumed {G0:his:her} new title of {G0:King:Queen} of {PLAYER-0}.
+<p=SUBJECT_PLAYER_ROME>{G0:He:She} has been empowered to lead the mighty {PLAYER-0} and invested with the traditional retinue of twelve lictor bodyguards. They clear the way as {CHARACTER-SHORT-0} takes {G0:his:her} seat as the new leader.
+<p=SUBJECT_PLAYER_HITTITE>{G0:He:She} has been named {TITLE-0}, proclaiming {G0:his:her} rights to the ancestral lands of the {PLAYER-0,1}. Renowned as a child of their storm god, this new ruler could be a force to be wary of.
+<else>{G0:He:She} has been empowered to lead the mighty {PLAYER-0} into the new age.
+<end>]]></en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_SUCCESSION_THEM_ABDICATED_WAR</zType>
+    <en-US><![CDATA[News reaches you from abroad; The cowardly {CHARACTER-1} has stepped down as the leader of {PLAYER-0}. {G1:He:She} was evidently unable to withstand the strain of link(DIPLOMACY_WAR) with us!
+{G1:His:Her} equally contemptible heir {CHARACTER-SHORT-0} has ascended to rule {PLAYER-0} in {G1:his:her} place. <p.is_sub.S0=SUBJECT_PLAYER_ASSYRIA>{CHARACTER-SHORT-0} has been named {G0:King:Queen} in accordance with the succession contract made by {CHARACTER-SHORT-1} and {G1:his:her} vassals. Inscriptions of {CHARACTER-SHORT-0}’s alleged might and power are soon commissioned across {PLAYER-0}.
+<p=SUBJECT_PLAYER_BABYLONIA>{G0:He:She} has been appointed {G0:King:Queen} above all others, consecrated for rule by the priests of {CITY-0}. Dubious inscriptions of {CHARACTER-SHORT-0}’s protection and piety are raised across {PLAYER-0}.
+<p=SUBJECT_PLAYER_CARTHAGE>{G0:He:She} has been elected by the noble houses to serve as {G0:King:Queen} in {CHARACTER-SHORT-1}’s footsteps, leading the people and senate of {PLAYER-0} in their futile contest against {PLAYER-2}.
+<p=SUBJECT_PLAYER_EGYPT>{CHARACTER-SHORT-0} immediately held the traditional feast appearing as Pharaoh for the first time, starting the year-long chain of rites and events that confirm {G0:his:her} role as the new Pharaoh of {PLAYER-0}. May {G0:his:her} reign be cut short by our glorious armies!
+<p=SUBJECT_PLAYER_GREECE>{G0:He:She} was immediately proclaimed {G0:King:Queen} by the nobles and generals upon {CHARACTER-SHORT-1}’s abdication. With the throne secure, {CHARACTER-SHORT-0} is ready to lead the people of {PLAYER-0} in arms against {PLAYER-2}.
+<p=SUBJECT_PLAYER_PERSIA>{CHARACTER-SHORT-0} entered the temple of {CITY-0} and changed into the robes previously worn by {CHARACTER-SHORT-1}. After a ritual meal of figs and sour milk, {CHARACTER-SHORT-0} has assumed {G0:his:her} new title of {G0:King:Queen} of {PLAYER-0}. A worthy foe, or the lesser {G0:son:daughter} of greater sires?
+<p=SUBJECT_PLAYER_ROME>{CHARACTER-SHORT-0} has been empowered to lead {PLAYER-0} and is invested with the traditional retinue of twelve lictor bodyguards. They clear the way as {G0:he:she} takes {G0:his:her} seat as the new leader. Undoubtedly, this maniac will be as bloodthirsty as the last one.
+<p=SUBJECT_PLAYER_HITTITE>{G0:He:She} has been named {TITLE-0}, proclaiming {G0:his:her} rights to the ancestral lands of the {PLAYER-0,1}. Renowned as a child of their storm god, this new ruler could be a force to be wary of.
+<else>{G0:He:She} has been empowered to lead the mighty {PLAYER-0} into the new age.
+<end>]]></en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RELATIONSHIP_THE_PROTEGE</zType>
+    <en-US>Certain members of the court are concerned about the behavior of {CHARACTER-0}, who has taken the {p.is_sub.S2=SUBJECT_CHILD_OR_TEENAGER:young :}heir under {G0:his:her} wing. The impressionable {CHARACTER-2} views you favorably, but we worry that {G2:his:her} mind is being poisoned against us.
+Shall we step in and prevent {CHARACTER-0} from exerting influence?</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THOSE_BEFORE</zType>
+    <en-US>Ancient carvings have been discovered in a cave near {LANDMARK-0}. After careful study, the learned members of the {FAMILY-1} family claim that it is a work by our distant ancestors, who once inhabited this region.
+It is said that they followed a practice where the eldest was the leader of the tribe. The {FAMILY-1} family encourage you to resurrect the practice in {PLAYER-2}, to pay respects to those who came before.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_CLERGY</zType>
+    <en-US>Clergy can be sent to Quell Dissent in Cities with link(CONCEPT_RELIGIOUS_DISSENT) of their religion. Having Clergy in your court also gives an opinion bonus to their religion.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TURN</zType>
+    <en-US>{singular_0:Turn:Turns}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EP_RELIGION_HINT_4</zType>
+    <en-US>Characters can be given link(CONCEPT_CLERGY) traits by the Religion Head's link(MISSION_MAKE_CLERGY) Mission.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_RIVERS_AND_SPRINGS</zType>
+    <en-US>The practices of {RELIGION-3} often take place outside at natural features of special significance. The scouts who discovered the {LANDMARK-1} showed it to some of your {UNIT-2,2}, who say that they saw an omen of the gods there: A figure covered in red-ocher like the priests of {PLAYER-0}.
+Will you claim this site for {S3.PAGANGOD}?</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_SIMULTANEOUS_HELP</zType>
+    <en-US>All Turns start and end at the same time.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TURNSTYLE_LOOSE_HELP</zType>
+    <en-US>Team Turns are offset within a normal Game Turn.
+Recommended setting for high-speed play.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_BABY_IN_THE_BASKET</zType>
+    <en-US><![CDATA[<sentencecase>{RELATIVE-1}</sentencecase> {CHARACTER-1} was down by the river when she heard a cry from the reeds. A basket had washed up onto the bank, with a baby bundled up inside. No one seems to know where the child came from or why they were there.
+{CHARACTER-SHORT-1} has brought the baby to you and is begging to be allowed to raise it as her own. 
+The story mirrors that of the {RELIGION-0,1} prophet Moses. Perhaps it is a sign?]]></en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_WATER_VS_LAND</zType>
+    <en-US>Water-vs-Land (Melee)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_LAND_VS_WATER</zType>
+    <en-US>Land-vs-Water (Melee)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_EVENT_STORY_MISSION_FINISHED</zType>
+    <en-US>[Mission Result: {0}]</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SWORD_OF_THE_GODS</zType>
+    <en-US>Sword of the Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SWORD_OF_THE_GODS_F</zType>
+    <en-US>Sword of the Gods</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MONKEY_PAW</zType>
+    <en-US>Monkey Paw</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MONKEY_PAW_F</zType>
+    <en-US>Monkey Paw</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMULET_OWNER_POSITIVE</zType>
+    <en-US>Open Fertility Amulet</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMULET_OWNER_POSITIVE_F</zType>
+    <en-US>Open Fertility Amulet</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMULET_OWNER_NEGATIVE</zType>
+    <en-US>Locked Fertility Amulet</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_AMULET_OWNER_NEGATIVE_F</zType>
+    <en-US>Locked Fertility Amulet</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RATINGS</zType>
+    <en-US>Attributes</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_WIKI_NAV_UI_SECTION_RATINGS_LABEL</zType>
+    <en-US>(Attributes)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_TRAIT_TITLE</zType>
+    <en-US>{true_0:{0_icon} }{1_trait} ({true_2:link(CONCEPT_ARCHETYPE):{true_3:link(CONCEPT_ITEM):link(CONCEPT_TRAIT)}})</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GUIDE_TECH_ARISTOCRACY</zType>
+    <en-US>Aristocracy is vital as it enables the appointment of an link(COUNCIL_AMBASSADOR), who can partake in diplomatic missions to arrange a link(DIPLOMACY_PEACE) or link(DIPLOMACY_TRUCE), a link(MISSION_TRADE_MISSION), or even to link(MISSION_DEMAND_TRIBUTE) from another link(CONCEPT_NATION). Aristocracy also unlocks the link(LAW_CENTRALIZATION) Law, which increases your production of link(YIELD_SCIENCE,1) and allows the improvement of link(TERRAIN_MARSH) tiles, and the link(LAW_VASSALAGE) Law, which reduces the burden of your army's upkeep if you are aiming to field a large force.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_ACHIEVEMENT_ROMAN_PAPACY</zType>
+    <en-US>As Rome, build Christianity Holy Site in Roma</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_DIFF</zType>
+    <en-US>{0_value}: We are {true_3:similar:different} ({1_trait} vs. {2_trait})</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_CITY_HAPPINESS_CHANGE_LOG_DATA</zType>
+    <en-US>{0_level} link(YIELD_HAPPINESS) {singular_0:Level:Levels} in {1_city}</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_FAMILYCLASS_HUNTERS_ADVICE_FOUND</zType>
+    <en-US>link(FAMILYCLASS_HUNTERS) are a military and link(YIELD_GROWTH,1)-focused Family. Their link(UNITTRAIT_RANGED) Units fight best in your Nation's link(CONCEPT_TERRITORY), and all link(IMPROVEMENT_CAMP,2) have double output in link(FAMILYCLASS_HUNTERS,1) link(CONCEPT_TERRITORY). This makes link(FAMILYCLASS_HUNTERS,2) very effective near resources like link(RESOURCE_GAME), link(RESOURCE_FUR), link(RESOURCE_ELEPHANT) and link(RESOURCE_CAMEL).</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_AGENT</zType>
+    <en-US>Agents can be sent to Cities with an link(CONCEPT_AGENT_NETWORK) to gain visiblity of the City's territory and to conduct link(MISSION_TREACHERY) and link(MISSION_INSURRECTION) Missions. They also siphon off a percentage of its base Yields (before modifiers), depending on the Ratings of the Character. (For example, a Character's link(RATING_WISDOM) will determine how much {YIELD_SCIENCE}link(YIELD_SCIENCE) they will gather.)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UNIT_TRAIT_XP</zType>
+    <en-US>{0_value} XP/{1_turnScale} for {LIST} Units</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_YIELD_SCIENCE_HELP</zType>
+    <en-US>{YIELD_SCIENCE}Science increases the rate at which your link(CONCEPT_NATION) discovers new Technologies. {YIELD_SCIENCE}Science yields can be increased by building link(PROJECT_ARCHIVE_1,2) and by training link(CONCEPT_SPECIALIST,2) in your Cities. Laws such as link(LAW_CENTRALIZATION) and some religious link(CONCEPT_THEOLOGY,2) can also help you generate more {YIELD_SCIENCE}Science. Members of your link(CONCEPT_COURT) with high link(RATING_WISDOM) also contribute to {YIELD_SCIENCE}Science yields.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TUTORIAL_TOOLTIPS</zType>
+    <en-US>The nested tooltip system in Old World allows windows to persist as you link from one to another. Simply hold hotkey(HOTKEY_FREEZE_TOOLTIP) while hovering over a link and move the mouse cursor into the tooltip and click, or click the link with the Middle Mouse Button, to lock the new window in place. This lets you continue to view a window while opening more links, even if you move the cursor off of the window altogether.
+Try it out on this Unit link: link(UNIT_SPEARMAN). Press the ESC key, or click away from all tooltip windows, to make them disappear after they are locked.</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_SPECIALIST_COST</zType>
+    <en-US>{0_value} link(CONCEPT_SPECIALIST) Resource Costs</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_SPECIALIST_COST</zType>
+    <en-US>{0_value} {1_specialist} Resource Costs</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_BONUS_FOUND_RELIGION</zType>
+    <en-US>Found a link(CONCEPT_WORLD_RELIGION)</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TAUGHT_OF_GOD</zType>
+    <en-US>One of {CHARACTER-SHORT-POSS-0} teachers has been especially influential on the young mind. The teacher is a self-taught philosopher, raised to follow {RELIGION-2} before converting to {RELIGION-1} later in life. 
+{CHARACTER-SHORT-0} writes to you with a moral dilemma. The young student is enraptured by the teachings and wants to share them with the world, but the elder tutor has made all of his students swear to secrecy.
+What will you advise?</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RELIGION_NOT_FOUNDED</zType>
+    <en-US>Founds automatically when {0_requirementsLink} are met</en-US>
+    <it-IT>None</it-IT>
+  </Entry>
+</Root>

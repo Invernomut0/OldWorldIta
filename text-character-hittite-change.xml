@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_MALE_GAL_MESEDI</zType>
+    <en-US>Gal Mesedi</en-US>
+    <it-IT>Gal Mesedi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_FEMALE_GAL_MESEDI</zType>
+    <en-US>Gal Mesedi</en-US>
+    <it-IT>Gal Mesedi</it-IT>
+  </Entry>
+</Root>

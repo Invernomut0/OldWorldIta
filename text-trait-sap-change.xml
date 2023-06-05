@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_TRAIT_IMPIOUS</zType>
+    <en-US>Impious</en-US>
+    <it-IT>Impietoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_IMPIOUS_F</zType>
+    <en-US>Impious</en-US>
+    <it-IT>Impietoso</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_IMPIOUS_GAIN_1</zType>
+    <en-US>Spurning the gods and their blessings, {0_character} is {1_trait}.</en-US>
+    <it-IT>Rifiutando gli dei e le loro benedizioni, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_IMPIOUS_GAIN_2</zType>
+    <en-US>{0_character} is known to hold a willful disregard for the gods. How {1_trait}!</en-US>
+    <it-IT>{0_character} è noto per il suo ostinato disprezzo per gli dei. Come {1_trait}!</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CHASTE</zType>
+    <en-US>Chaste</en-US>
+    <it-IT>Casto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CHASTE_F</zType>
+    <en-US>Chaste</en-US>
+    <it-IT>Casto</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CHASTE_GAIN_1</zType>
+    <en-US>{0_character} has gained a reputation of purity, a figurehead of {1_trait} virtue.</en-US>
+    <it-IT>{0_character} si è guadagnato la reputazione di purezza, di figura della virtù di {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CHASTE_GAIN_2</zType>
+    <en-US>Deciding to avoid all advances, {0_character} is {1_trait}.</en-US>
+    <it-IT>Decidendo di evitare tutti gli anticipi, {0_character} è {1_trait}.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POET</zType>
+    <en-US>Poet</en-US>
+    <it-IT>Poeta</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_POET_F</zType>
+    <en-US>Poetess</en-US>
+    <it-IT>Poetessa</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_PAGAN</zType>
+    <en-US>Priest~a Priest~Priests</en-US>
+    <it-IT>Sacerdote~un Sacerdote~Sacerdoti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_PAGAN_F</zType>
+    <en-US>Priestess~a Priestess~Priestesses</en-US>
+    <it-IT>Sacerdotessa~una Sacerdotessa~Sacerdotesse</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_ZOROASTRIAN</zType>
+    <en-US>Magus~a Magus~Magi</en-US>
+    <it-IT>Magus~un Mago~Magi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_ZOROASTRIAN_F</zType>
+    <en-US>Magus~a Magus~Magi</en-US>
+    <it-IT>Magus~un Mago~Magi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_ZOROASTRIAN_DESC</zType>
+    <en-US>A Magus, priests of the Zoroastrian clergy.</en-US>
+    <it-IT>Un Magus, sacerdote del clero zoroastriano.</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_JEWISH</zType>
+    <en-US>Kohen~a Kohen~Kohanim</en-US>
+    <it-IT>Kohen~un Kohen~Kohanim</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_JEWISH_F</zType>
+    <en-US>Kohen~a Kohen~Kohanim</en-US>
+    <it-IT>Kohen~un Kohen~Kohanim</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_CHRISTIAN</zType>
+    <en-US>Bishop~a Bishop~Bishops</en-US>
+    <it-IT>Vescovo~un Vescovo~Vescovi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_CHRISTIAN_F</zType>
+    <en-US>Bishop~a Bishop~Bishops</en-US>
+    <it-IT>Vescovo~un Vescovo~Vescovi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_MANICHAEAN</zType>
+    <en-US>Elect~one of the Elect~the Elects</en-US>
+    <it-IT>Eletto~uno degli Eletti~gli Eletti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_CLERGY_MANICHAEAN_F</zType>
+    <en-US>Elect~one of the Elect~the Elects</en-US>
+    <it-IT>Eletto~uno degli Eletti~gli Eletti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MANICHAEAN_FOUNDER</zType>
+    <en-US>Religion Founder</en-US>
+    <it-IT>Fondatore della religione</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MARTYR</zType>
+    <en-US>Martyr~a Martyr~Martyrs</en-US>
+    <it-IT>Martire~un martire~Martiri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MARTYR_F</zType>
+    <en-US>Martyr~a Martyr~Martyrs</en-US>
+    <it-IT>Martire~un martire~Martiri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SAINT</zType>
+    <en-US>Saint~a Saint~Saints</en-US>
+    <it-IT>Santo~un Santo~Santi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_SAINT_F</zType>
+    <en-US>Saint~a Saint~Saints</en-US>
+    <it-IT>Santo~un Santo~Santi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ON_PILGRIMAGE</zType>
+    <en-US>On Pilgrimage</en-US>
+    <it-IT>In pellegrinaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_ON_PILGRIMAGE_F</zType>
+    <en-US>On Pilgrimage</en-US>
+    <it-IT>In pellegrinaggio</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PILGRIM</zType>
+    <en-US>Pilgrim</en-US>
+    <it-IT>Pellegrino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_PILGRIM_F</zType>
+    <en-US>Pilgrim</en-US>
+    <it-IT>Pellegrino</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MAGIC_PRACTITIONER</zType>
+    <en-US>Magic Practitioner</en-US>
+    <it-IT>Praticante di magia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MAGIC_PRACTITIONER_F</zType>
+    <en-US>Magic Practitioner</en-US>
+    <it-IT>Praticante di magia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_NEOPLATONIST</zType>
+    <en-US>Neoplatonist</en-US>
+    <it-IT>Neoplatonico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_NEOPLATONIST_F</zType>
+    <en-US>Neoplatonist</en-US>
+    <it-IT>Neoplatonico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BETROTHED</zType>
+    <en-US>Betrothed</en-US>
+    <it-IT>Promessi sposi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_BETROTHED_F</zType>
+    <en-US>Betrothed</en-US>
+    <it-IT>Promessi sposi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_HERO_ARMOUR</zType>
+    <en-US>Armor of the Hero</en-US>
+    <it-IT>Armatura dell'eroe</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_OSTANES</zType>
+    <en-US>Ostanes</en-US>
+    <it-IT>Ostanes</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MYSTERY_INITIATE</zType>
+    <en-US>Mysteries Initiate</en-US>
+    <it-IT>Misteri iniziatici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MYSTERY_INITIATE_F</zType>
+    <en-US>Mysteries Initiate</en-US>
+    <it-IT>Misteri iniziatici</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MYSTERY_SENIOR</zType>
+    <en-US>Mysteries Leader</en-US>
+    <it-IT>Misteri Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MYSTERY_SENIOR_F</zType>
+    <en-US>Mysteries Leader</en-US>
+    <it-IT>Misteri Leader</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MITHRAS_INITIATE</zType>
+    <en-US>Mithraic Initiate</en-US>
+    <it-IT>Iniziato mitraico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MITHRAS_INITIATE_F</zType>
+    <en-US>Mithraic Initiate</en-US>
+    <it-IT>Iniziato mitraico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MITHRAS_SENIOR</zType>
+    <en-US>Mithraic Leader</en-US>
+    <it-IT>Leader mitraico</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_TRAIT_MITHRAS_SENIOR_F</zType>
+    <en-US>Mithraic Leader</en-US>
+    <it-IT>Leader mitraico</it-IT>
+  </Entry>
+</Root>

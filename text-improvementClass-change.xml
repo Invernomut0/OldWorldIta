@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<Root>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_FORT</zType>
+    <en-US>Fort~a Fort~Forts</en-US>
+    <it-IT>Forte~un Forte~Forti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_FARM</zType>
+    <en-US>Farm~a Farm~Farms</en-US>
+    <it-IT>Fattoria~una Fattoria~Fattorie</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_MINE</zType>
+    <en-US>Mine~a Mine~Mines</en-US>
+    <it-IT>La mia~una Miniera~Miniere</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_QUARRY</zType>
+    <en-US>Quarry~a Quarry~Quarries</en-US>
+    <it-IT>Cava~una cava~Cave</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_LUMBERMILL</zType>
+    <en-US>Lumbermill~a Lumbermill~Lumbermills</en-US>
+    <it-IT>Segheria~una Segheria~Segherie di legname</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_PASTURE</zType>
+    <en-US>Pasture~a Pasture~Pastures</en-US>
+    <it-IT>Pascolo~un Pascolo~Pascoli</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_CAMP</zType>
+    <en-US>Camp~a Camp~Camps</en-US>
+    <it-IT>Campo~un Camp~Campi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_GROVE</zType>
+    <en-US>Grove~a Grove~Groves</en-US>
+    <it-IT>Boschetto~un Boschetto~Boschi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_NETS</zType>
+    <en-US>Nets</en-US>
+    <it-IT>Reti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_HARBOR</zType>
+    <en-US>Harbor~a Harbor~Harbors</en-US>
+    <it-IT>Porto~un Porto~Porti</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_GRANARY</zType>
+    <en-US>Granary~a Granary~Granaries</en-US>
+    <it-IT>Granaio~un Granaio~Granai</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_MILL</zType>
+    <en-US>Mill~a Mill~Mills</en-US>
+    <it-IT>Mulino~un Mulino~Mulini</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_HAMLET</zType>
+    <en-US>Hamlet~a Hamlet~Hamlets</en-US>
+    <it-IT>Amleto~un Amleto~Borghi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_BARRACKS</zType>
+    <en-US>Barracks~a Barracks~Barracks</en-US>
+    <it-IT>Caserma~una Caserma~Caserma</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_RANGE</zType>
+    <en-US>Range~a Range~Ranges</en-US>
+    <it-IT>Gamma~una Gamma~Gamme</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_ODEON</zType>
+    <en-US>Odeon~an Odeon~Odeons</en-US>
+    <it-IT>Odeon~un Odeon~Odeon</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_BATHS</zType>
+    <en-US>Bath~a Bath~Baths</en-US>
+    <it-IT>Bagno~un Bagno~Bagni</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_MARKET</zType>
+    <en-US>Market~a Market~Markets</en-US>
+    <it-IT>Il mercato~un Mercato~Mercati</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_LIBRARY</zType>
+    <en-US>Library~a Library~Libraries</en-US>
+    <it-IT>Biblioteca~una Biblioteca~Biblioteche</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_COURTHOUSE</zType>
+    <en-US>Courthouse~a Courthouse~Courthouses</en-US>
+    <it-IT>Palazzo di Giustizia~un Palazzo di Giustizia~Palazzi di Giustizia</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_GARRISON</zType>
+    <en-US>Garrison~a Garrison~Garrisons</en-US>
+    <it-IT>Presidio~un Presidio~Presidi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_SHRINE</zType>
+    <en-US>Shrine~a Shrine~Shrines</en-US>
+    <it-IT>Santuario~un Santuario~Santuari</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_MONASTERY</zType>
+    <en-US>Monastery~a Monastery~Monasteries</en-US>
+    <it-IT>Monastero~un Monastero~Monasteri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_MONASTERY_CUSTOM</zType>
+    <en-US>{0_customName} Monastery~a {0_customName} Monastery~{0_customName} Monasteries</en-US>
+    <it-IT>{0_customName} Monastero~un {0_customName} Monastero~{0_customName} Monasteri</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_TEMPLE</zType>
+    <en-US>Temple~a Temple~Temples</en-US>
+    <it-IT>Tempio~un Tempio~Templi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_TEMPLE_CUSTOM</zType>
+    <en-US>{0_customName} Temple~a {0_customName} Temple~{0_customName} Temples</en-US>
+    <it-IT>{0_customName} Tempio~un {0_customName} Tempio~{0_customName} Templi</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_CATHEDRAL</zType>
+    <en-US>Cathedral~a Cathedral~Cathedrals</en-US>
+    <it-IT>Cattedrale~una Cattedrale~Cattedrali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_CATHEDRAL_CUSTOM</zType>
+    <en-US>{0_customName} Cathedral~a {0_customName} Cathedral~{0_customName} Cathedrals</en-US>
+    <it-IT>{0_customName} Cattedrale~una {0_customName} Cattedrale~{0_customName} Cattedrali</it-IT>
+  </Entry>
+  <Entry>
+    <zType>TEXT_IMPROVEMENTCLASS_HOLY_SITE</zType>
+    <en-US>Holy Site~a Holy Site~Holy Sites</en-US>
+    <it-IT>Sito sacro~un Sito Sacro~Siti sacri</it-IT>
+  </Entry>
+</Root>
