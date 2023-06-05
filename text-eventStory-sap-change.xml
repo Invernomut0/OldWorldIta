@@ -33,7 +33,7 @@ Il fervore e la lunghezza dei sermoni iniziano a frustrare gli altri membri dell
     <en-US>In contrast to your own {RELIGION-3,1} faith, {CHARACTER-0} is a follower of {RELIGION-2}. One evening you come across {G0:him:her} performing a ritual of cleansing with water before prostrating {G0:himself:herself} in prayer.
 Noticing your stare, {CHARACTER-SHORT-0} beckons you over. “Why not join me? The way of Mani can bring peace to a troubled soul.” </en-US>
     <it-IT>In contrasto con la propria fede {RELIGION-3,1}, {CHARACTER-0} è un seguace di {RELIGION-2}. Una sera vi imbattete in {G0:him:her} che esegue un rituale di pulizia con l'acqua prima di prostrarsi in preghiera con {G0:himself:herself}.
-Notando il tuo sguardo, {CHARACTER-SHORT-0} ti fa cenno di avvicinarti. "Perché non ti unisci a me? La via di Mani può portare pace a un'anima turbata". </it-IT>
+Notando il tuo sguardo, {CHARACTER-SHORT-0} ti fa cenno di avvicinarti. &quot;Perché non ti unisci a me? La via di Mani può portare pace a un'anima turbata&quot;. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_FAITH_WITHOUT_BORDERS</zType>
@@ -68,10 +68,10 @@ In {CITY-0}, i <p.is_sub.S1=SOGGETTO_ZOROASTRIANISMO>Magi<p=SOGGETTO_CRISTIANESI
   <Entry>
     <zType>TEXT_EVENTSTORY_ABLANAQANALBA</zType>
     <en-US>{CHARACTER-SHORT-POSS-0} shout of frustration echoes down the corridors. Upon entering the room that your scholar has turned into a makeshift workshop, a crystal sphere slams into the wall a hair-breadth from your royal head.
-"My {TITLE-1}!" {G0:he:she} exclaims, "I did not think anyone else was here!" After profuse apologies, {CHARACTER-SHORT-0} explains that {G0:he:she} was trying to inscribe a crystal globe with the old word of power ABLANAQANALBA, a palindrome spell. Picking up and inspecting the ball makes it clear what is wrong, the word has an extra letter, spelled wrong just before completion.
+&quot;My {TITLE-1}!&quot; {G0:he:she} exclaims, &quot;I did not think anyone else was here!&quot; After profuse apologies, {CHARACTER-SHORT-0} explains that {G0:he:she} was trying to inscribe a crystal globe with the old word of power ABLANAQANALBA, a palindrome spell. Picking up and inspecting the ball makes it clear what is wrong, the word has an extra letter, spelled wrong just before completion.
 {CHARACTER-SHORT-0} seems convinced that the mistake has brought some kind of curse upon {G0:him:her}.</en-US>
     <it-IT>{Un grido di frustrazione riecheggia nei corridoi. Entrando nella stanza che il vostro studioso ha trasformato in un laboratorio improvvisato, una sfera di cristallo sbatte contro il muro a un soffio dalla vostra testa reale.
-"Mio {TITLE-1}!" esclama {G0:he:she}, "non pensavo ci fosse qualcun altro qui!". Dopo essersi profusamente scusato, {CHARACTER-SHORT-0} spiega che {G0:he:she} stava cercando di incidere un globo di cristallo con l'antica parola del potere ABLANAQANALBA, un incantesimo palindromo. Raccogliendo e ispezionando la sfera si capisce cosa c'è che non va: la parola ha una lettera in più, scritta male appena prima del completamento.
+&quot;Mio {TITLE-1}!&quot; esclama {G0:he:she}, &quot;non pensavo ci fosse qualcun altro qui!&quot;. Dopo essersi profusamente scusato, {CHARACTER-SHORT-0} spiega che {G0:he:she} stava cercando di incidere un globo di cristallo con l'antica parola del potere ABLANAQANALBA, un incantesimo palindromo. Raccogliendo e ispezionando la sfera si capisce cosa c'è che non va: la parola ha una lettera in più, scritta male appena prima del completamento.
 {CHARACTER-SHORT-0} sembra convinto che l'errore abbia portato una sorta di maledizione a {G0:him:her}.</it-IT>
   </Entry>
   <Entry>
@@ -152,9 +152,9 @@ Le implicazioni di questa nuova teologia di {THEOLOGY-3} potrebbero plasmare la 
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_FREE_OF_SIN</zType>
-    <en-US>{CHARACTER-0} and {CHARACTER-1} stride into the hall. "My {TITLE-3}," {CHARACTER-SHORT-1} solemnly intones, "{CHARACTER-SHORT-0} returns to you, a faithful servant of the crown and of {S2.GOD}." 
+    <en-US>{CHARACTER-0} and {CHARACTER-1} stride into the hall. &quot;My {TITLE-3},&quot; {CHARACTER-SHORT-1} solemnly intones, &quot;{CHARACTER-SHORT-0} returns to you, a faithful servant of the crown and of {S2.GOD}.&quot; 
 The court mutter in approval, many commenting that something seems different about your subject's disposition. </en-US>
-    <it-IT>{CHARACTER-0} e {CHARACTER-1} entrano nella sala. "Mio {TITLE-3}", intona solennemente {CHARACTER-SHORT-1}, "{CHARACTER-SHORT-0} torna da te, fedele servitore della corona e di {S2.GOD}". 
+    <it-IT>{CHARACTER-0} e {CHARACTER-1} entrano nella sala. &quot;Mio {TITLE-3}&quot;, intona solennemente {CHARACTER-SHORT-1}, &quot;{CHARACTER-SHORT-0} torna da te, fedele servitore della corona e di {S2.GOD}&quot;. 
 La corte mormora di approvazione, molti commentano che qualcosa sembra diverso nell'atteggiamento del soggetto. </it-IT>
   </Entry>
   <Entry>
@@ -279,10 +279,10 @@ Questo si rifletterà senza dubbio positivamente sul vostro governo.</it-IT>
   <Entry>
     <zType>TEXT_EVENTSTORY_FINAL_INHERITANCE</zType>
     <en-US>As you lie unmoving on your bed your unhappy heir {CHARACTER-3} stands to one side, completely uninterested in the litany of prayers, hopes for health and premature mourning taking place around you.
-{CHARACTER-2} leans in to whisper so that only you may hear, "{p.is_sub.S0=SUBJECT_CHARACTER_MAX_CAUTIOUS:Despite my own reservations, t:T}he followers of {RELIGION-1} trust in you enough that if you wished to amend the issue of your succession, the {S1.PRIEST,2} stand ready to ensure that all believe that your chosen heir is also the chosen of {S1.GOD}."
+{CHARACTER-2} leans in to whisper so that only you may hear, &quot;{p.is_sub.S0=SUBJECT_CHARACTER_MAX_CAUTIOUS:Despite my own reservations, t:T}he followers of {RELIGION-1} trust in you enough that if you wished to amend the issue of your succession, the {S1.PRIEST,2} stand ready to ensure that all believe that your chosen heir is also the chosen of {S1.GOD}.&quot;
 Such actions will anger {CHARACTER-SHORT-3}, but it is rare to get such a chance without people questioning the legitimacy of your dynasty. Will {CHARACTER-SHORT-3} remain the heir? </en-US>
     <it-IT>Mentre giaci immobile sul letto, il tuo infelice erede {CHARACTER-3} se ne sta in disparte, completamente disinteressato alla litania di preghiere, speranze di salute e lutti prematuri che ti circondano.
-{CHARACTER-2} si china per sussurrare in modo che solo voi possiate sentire: "{p.is_sub.S0=SUBJECT_CHARACTER_MAX_CAUTIOUS:Despite my own reservations, t:T}i seguaci di {RELIGION-1} hanno abbastanza fiducia in voi che, se voleste modificare la questione della vostra successione, i {S1.PRIEST,2} sono pronti a garantire che tutti credano che il vostro erede prescelto sia anche il prescelto di {S1.GOD}".
+{CHARACTER-2} si china per sussurrare in modo che solo voi possiate sentire: &quot;{p.is_sub.S0=SUBJECT_CHARACTER_MAX_CAUTIOUS:Despite my own reservations, t:T}i seguaci di {RELIGION-1} hanno abbastanza fiducia in voi che, se voleste modificare la questione della vostra successione, i {S1.PRIEST,2} sono pronti a garantire che tutti credano che il vostro erede prescelto sia anche il prescelto di {S1.GOD}&quot;.
 Queste azioni faranno arrabbiare {CHARACTER-SHORT-3}, ma è raro avere un'occasione simile senza che la gente metta in dubbio la legittimità della vostra dinastia. {CHARACTER-SHORT-3} rimarrà l'erede? </it-IT>
   </Entry>
   <Entry>
@@ -462,7 +462,7 @@ Come sfrutterete questa improbabile opportunità? </it-IT>
     <zType>TEXT_EVENTSTORY_RUMORS_OF_OSTANES</zType>
     <en-US>It is rumored that in the court of {PLAYER-1} there is a {RELIGION-0,1} capable of harnessing the elements and speaking with the dead. These practices of 'magic' are unusual for even the magi. Perhaps for this reason, although many alchemical treatises have been attributed to this practitioner, no one seems to have met the fabled Ostanes.
 Now a new treatise bearing his name is being passed around by members of the court, an account of the practices of magic which is gripping the imagination of your subjects. </en-US>
-    <it-IT>Si dice che alla corte di {PLAYER-1} ci sia un {RELIGION-0,1} capace di imbrigliare gli elementi e di parlare con i morti. Queste pratiche di "magia" sono insolite persino per i magi. Forse per questo motivo, sebbene molti trattati alchemici siano stati attribuiti a questo praticante, nessuno sembra aver incontrato il favoloso Ostanes.
+    <it-IT>Si dice che alla corte di {PLAYER-1} ci sia un {RELIGION-0,1} capace di imbrigliare gli elementi e di parlare con i morti. Queste pratiche di &quot;magia&quot; sono insolite persino per i magi. Forse per questo motivo, sebbene molti trattati alchemici siano stati attribuiti a questo praticante, nessuno sembra aver incontrato il favoloso Ostanes.
 Ora un nuovo trattato che porta il suo nome viene fatto circolare dai membri della corte, un resoconto delle pratiche magiche che sta catturando l'immaginazione dei vostri sudditi. </it-IT>
   </Entry>
   <Entry>
@@ -474,10 +474,10 @@ Anche se non c'è traccia di Ostanes, {CHARACTER-2} chiede di unirsi alla vostra
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_LEGENDARY_MAGE</zType>
-    <en-US>Returning to your chambers one day, you find {CHARACTER-0} reading one of the texts by Ostanes, left behind after the fruitless search. The scholar looks up as you enter, "I hope you excuse my deception, my {TITLE-1}, but I had to be sure of your intentions. Not all take kindly to practitioners of magic.” 
+    <en-US>Returning to your chambers one day, you find {CHARACTER-0} reading one of the texts by Ostanes, left behind after the fruitless search. The scholar looks up as you enter, &quot;I hope you excuse my deception, my {TITLE-1}, but I had to be sure of your intentions. Not all take kindly to practitioners of magic.” 
 She goes on to explain that Ostanes is a name used by many anonymous writers, but the recent texts on magic were written by her hand. After spending time observing you and ensuring that you meant no ill will, she is ready to serve however necessary. 
 It appears you have found your mage after all.</en-US>
-    <it-IT>Un giorno, tornando nelle vostre stanze, trovate {CHARACTER-0} che legge uno dei testi di Ostanes, lasciati dopo l'infruttuosa ricerca. Lo studioso alza lo sguardo quando entri: "Spero che tu voglia scusare il mio inganno, mio {TITLE-1}, ma dovevo essere sicuro delle tue intenzioni. Non tutti vedono di buon occhio i praticanti della magia". 
+    <it-IT>Un giorno, tornando nelle vostre stanze, trovate {CHARACTER-0} che legge uno dei testi di Ostanes, lasciati dopo l'infruttuosa ricerca. Lo studioso alza lo sguardo quando entri: &quot;Spero che tu voglia scusare il mio inganno, mio {TITLE-1}, ma dovevo essere sicuro delle tue intenzioni. Non tutti vedono di buon occhio i praticanti della magia&quot;. 
 Continua spiegando che Ostanes è un nome usato da molti scrittori anonimi, ma i testi recenti sulla magia sono stati scritti dalla sua mano. Dopo aver passato del tempo a osservarvi e ad assicurarsi che non aveste cattive intenzioni, è pronta a servirvi per quanto necessario. 
 Sembra che alla fine abbiate trovato il vostro mago.</it-IT>
   </Entry>
@@ -519,7 +519,7 @@ I tutori temono che questo interesse per l'arcano conduca la giovane carica su u
     <en-US>{CHARACTER-3} and {CHARACTER-4} may often disagree when it comes to faith, but against {CHARACTER-0} they stand united. The unlikely friends are often found discussing the unwanted influence of the mage in court, putting the differences of {RELIGION-1} and {RELIGION-2} aside to imagine what devious practices {G0:he:she} may be up to next.
 You have become aware of a plot brewing, planning for {CHARACTER-0} to be attacked by 'bandits' on the way home one evening. Will you intercede to protect the mage? </en-US>
     <it-IT>{CHARACTER-3} e {CHARACTER-4} possono spesso essere in disaccordo quando si tratta di fede, ma contro {CHARACTER-0} sono uniti. Gli improbabili amici si trovano spesso a discutere dell'influenza indesiderata del mago a corte, mettendo da parte le divergenze di {RELIGION-1} e {RELIGION-2} per immaginare quali pratiche subdole {G0:he:she} possa avere in mente.
-Siete venuti a conoscenza di un complotto in atto, che prevede che {CHARACTER-0} venga attaccato da "banditi" mentre torna a casa una sera. Interverrete per proteggere il mago? </it-IT>
+Siete venuti a conoscenza di un complotto in atto, che prevede che {CHARACTER-0} venga attaccato da &quot;banditi&quot; mentre torna a casa una sera. Interverrete per proteggere il mago? </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_PREDICTION_OF_JOSEPHUS</zType>
@@ -537,10 +537,10 @@ Il sentimento è reciproco e la loro replica è che lui è solo un traditore del
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_MADNESS_OF_MAGIC</zType>
-    <en-US>{CHARACTER-1} has locked horns with {CHARACTER-0}, writing a speech on the dangers of magic and the corrupting influence that the pursuit of such a "monstrous craft" has. 
+    <en-US>{CHARACTER-1} has locked horns with {CHARACTER-0}, writing a speech on the dangers of magic and the corrupting influence that the pursuit of such a &quot;monstrous craft&quot; has. 
 The link(COURTIER_SCIENTIST) is especially strict on the philosophers of the nation, saying that it is the place of the wise to avoid such knowledge, rather than attempting to learn it as many philosophers have.
 </en-US>
-    <it-IT>Il {CHARACTER-1} si è scontrato con il {CHARACTER-0}, scrivendo un discorso sui pericoli della magia e sull'influenza corruttrice che ha il perseguimento di tale "mostruoso mestiere". 
+    <it-IT>Il {CHARACTER-1} si è scontrato con il {CHARACTER-0}, scrivendo un discorso sui pericoli della magia e sull'influenza corruttrice che ha il perseguimento di tale &quot;mostruoso mestiere&quot;. 
 Il link(COURTIER_SCIENTIST) è particolarmente severo nei confronti dei filosofi della nazione, affermando che è compito dei saggi evitare tale conoscenza, piuttosto che tentare di apprenderla come hanno fatto molti filosofi.
 </it-IT>
   </Entry>
@@ -623,7 +623,7 @@ Sebbene non sia la destinazione prevista da {G0:his:her}, nel corso delle settim
     <zType>TEXT_EVENTSTORY_PILGRIMAGE_3</zType>
     <en-US>{CHARACTER-0} stops at a city on the road to {CITY-2}, pleased to find that the inn where {G0:he:she} is staying is a common haven for people treading the same pilgrim path. {CHARACTER-SHORT-0} is enjoying drinks with the other pilgrims that night, until the realization that {G0:he:she} and three others have all been sold the same 'Holy Hand', supposedly owned by the founder of {RELIGION-1}. 
 The relic used the last of {CHARACTER-SHORT-POSS-0} money and the dejected pilgrim reluctantly sends a message asking for more. </en-US>
-    <it-IT>{CHARACTER-0} si ferma in una città lungo la strada per {CITY-2}, felice di scoprire che la locanda in cui alloggia {G0:he:she} è un rifugio comune per chi percorre lo stesso cammino di pellegrinaggio. {CHARACTER-SHORT-0} si diverte a bere con gli altri pellegrini quella sera, fino a quando si rende conto che a {G0:he:she} e ad altri tre è stata venduta la stessa "mano santa", che si suppone appartenga al fondatore di {RELIGION-1}. 
+    <it-IT>{CHARACTER-0} si ferma in una città lungo la strada per {CITY-2}, felice di scoprire che la locanda in cui alloggia {G0:he:she} è un rifugio comune per chi percorre lo stesso cammino di pellegrinaggio. {CHARACTER-SHORT-0} si diverte a bere con gli altri pellegrini quella sera, fino a quando si rende conto che a {G0:he:she} e ad altri tre è stata venduta la stessa &quot;mano santa&quot;, che si suppone appartenga al fondatore di {RELIGION-1}. 
 La reliquia ha utilizzato l'ultimo denaro di {CHARACTER-SHORT-POSS-0} e il pellegrino, sconsolato, invia a malincuore un messaggio per chiederne altri. </it-IT>
   </Entry>
   <Entry>
@@ -827,9 +827,9 @@ I magistrati locali hanno ignorato la richiesta, ma alcuni {RELIGION-3,1} {S3.PR
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_TRAIL_OF_HEROES</zType>
-    <en-US>You track the creature for a number of days, assisted by the {UNIT-0,2} who reported the sighting. At last the cry goes out, "There it is!" 
+    <en-US>You track the creature for a number of days, assisted by the {UNIT-0,2} who reported the sighting. At last the cry goes out, &quot;There it is!&quot; 
 All you see is a blurred shadow as the creature flees back into the woods. It's getting away!</en-US>
-    <it-IT>Seguite la creatura per alcuni giorni, assistiti dal {UNIT-0,2} che ha segnalato l'avvistamento. Alla fine si grida: "Eccolo!". 
+    <it-IT>Seguite la creatura per alcuni giorni, assistiti dal {UNIT-0,2} che ha segnalato l'avvistamento. Alla fine si grida: &quot;Eccolo!&quot;. 
 Si vede solo un'ombra sfocata mentre la creatura fugge nel bosco. Sta scappando!</it-IT>
   </Entry>
   <Entry>
@@ -891,7 +891,7 @@ Alla fine della giornata, è chiaro che il servo non si sveglierà e che le cond
     <zType>TEXT_EVENTSTORY_ALEXANDER_OR_THE_FALSE_PROPHET</zType>
     <en-US>{CHARACTER-0} has become embroiled in a conflict with a growing cult in {CITY-2}, run by a Greek prophet Alexander. {CHARACTER-SHORT-0} says that the 'false prophet' carries around a snake with a head of golden hair, which he claims is the god Glycon - an incarnation of Asclepius.
 While {CHARACTER-SHORT-0} makes every effort to show that this sacred snake is but a hand puppet in a wig, the popularity of the cult continues to grow. You are informed that there has even been a petition to build a cult shrine in {CITY-2} as a center of healing and fertility.</en-US>
-    <it-IT>{CHARACTER-0} è rimasto invischiato in un conflitto con un culto in crescita a {CITY-2}, gestito da un profeta greco, Alessandro. {CHARACTER-SHORT-0} afferma che il "falso profeta" porta con sé un serpente con una testa di capelli d'oro, che sostiene essere il dio Glicone, un'incarnazione di Asclepio.
+    <it-IT>{CHARACTER-0} è rimasto invischiato in un conflitto con un culto in crescita a {CITY-2}, gestito da un profeta greco, Alessandro. {CHARACTER-SHORT-0} afferma che il &quot;falso profeta&quot; porta con sé un serpente con una testa di capelli d'oro, che sostiene essere il dio Glicone, un'incarnazione di Asclepio.
 Sebbene {CHARACTER-SHORT-0} faccia ogni sforzo per dimostrare che questo serpente sacro non è altro che un pupazzo con una parrucca, la popolarità del culto continua a crescere. Siete stati informati che c'è stata persino una petizione per costruire un santuario del culto a {CITY-2} come centro di guarigione e fertilità.</it-IT>
   </Entry>
   <Entry>
@@ -906,8 +906,8 @@ Sebbene {CHARACTER-SHORT-0} faccia ogni sforzo per dimostrare che questo serpent
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_DIVINE_HARMONY</zType>
-    <en-US>You find {CHARACTER-0} at work, surrounded by piles of parchments of mathematical treatises and various astrolabes. She gives a great sigh and starts to talk without looking up, "{CHARACTER-3} has been asking about my lack of theurgy and ritual in my teaching, claiming a lack of piety. But such rituals will alienate my {RELIGION-2,1} students. All I want is to seek harmony together, is that really too much to ask?" </en-US>
-    <it-IT>Trovate {CHARACTER-0} al lavoro, circondato da pile di pergamene di trattati di matematica e vari astrolabi. Fa un grande sospiro e inizia a parlare senza alzare lo sguardo: "{CHARACTER-3} mi ha chiesto della mancanza di teurgia e di rituali nel mio insegnamento, adducendo una mancanza di pietà. Ma tali rituali allontanerebbero i miei studenti di {RELIGION-2,1}. Tutto ciò che voglio è cercare l'armonia insieme, è davvero chiedere troppo?". </it-IT>
+    <en-US>You find {CHARACTER-0} at work, surrounded by piles of parchments of mathematical treatises and various astrolabes. She gives a great sigh and starts to talk without looking up, &quot;{CHARACTER-3} has been asking about my lack of theurgy and ritual in my teaching, claiming a lack of piety. But such rituals will alienate my {RELIGION-2,1} students. All I want is to seek harmony together, is that really too much to ask?&quot; </en-US>
+    <it-IT>Trovate {CHARACTER-0} al lavoro, circondato da pile di pergamene di trattati di matematica e vari astrolabi. Fa un grande sospiro e inizia a parlare senza alzare lo sguardo: &quot;{CHARACTER-3} mi ha chiesto della mancanza di teurgia e di rituali nel mio insegnamento, adducendo una mancanza di pietà. Ma tali rituali allontanerebbero i miei studenti di {RELIGION-2,1}. Tutto ciò che voglio è cercare l'armonia insieme, è davvero chiedere troppo?&quot;. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_CONFLICT_IN_HYPATIAS_CITY</zType>
@@ -949,9 +949,9 @@ Si può sopportare una tale odiosa empietà?</it-IT>
   <Entry>
     <zType>TEXT_EVENTSTORY_SHIELDS_UNDER_THE_STARS</zType>
     <en-US>Your {UNIT-0,2} slowly approach the ruins under the cover of darkness, made wary by the fires flickering from within. As they get closer the glint of whirling metal catches in the firelight and shrill shouts fill the air, but these are no battlecries. Within the ruins the crouched troops see a group of women locked in a circular dance beneath the stars, each bearing a spear and shield which they spin and wield with ease.
-The tempo rises as the weapons swirl, until finally the music stops. As your people turn to leave they are interrupted by the women's leader, {CHARACTER-SHORT-1}, "I thank you for not interrupting the rites. This is the tomb of one of the Amazons of old, sacred to Artemis." </en-US>
+The tempo rises as the weapons swirl, until finally the music stops. As your people turn to leave they are interrupted by the women's leader, {CHARACTER-SHORT-1}, &quot;I thank you for not interrupting the rites. This is the tomb of one of the Amazons of old, sacred to Artemis.&quot; </en-US>
     <it-IT>Il vostro {UNIT-0,2} si avvicina lentamente alle rovine sotto la copertura dell'oscurità, reso cauto dai fuochi che tremolano all'interno. Man mano che si avvicinano, il luccichio di un metallo vorticoso si intravede nella luce del fuoco e grida stridenti riempiono l'aria, ma non si tratta di grida di battaglia. All'interno delle rovine, le truppe accovacciate vedono un gruppo di donne impegnate in una danza circolare sotto le stelle, ognuna delle quali porta una lancia e uno scudo che fa ruotare e brandisce con facilità.
-Il ritmo sale mentre le armi volteggiano, finché alla fine la musica si ferma. Mentre la tua gente si volta per andarsene, viene interrotta dalla leader delle donne, {CHARACTER-SHORT-1}: "Vi ringrazio per non aver interrotto i riti. Questa è la tomba di una delle Amazzoni di un tempo, sacra ad Artemide". </it-IT>
+Il ritmo sale mentre le armi volteggiano, finché alla fine la musica si ferma. Mentre la tua gente si volta per andarsene, viene interrotta dalla leader delle donne, {CHARACTER-SHORT-1}: &quot;Vi ringrazio per non aver interrotto i riti. Questa è la tomba di una delle Amazzoni di un tempo, sacra ad Artemide&quot;. </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_SACRED_CHASTITY</zType>
@@ -983,14 +983,14 @@ Quali immagini saranno utilizzate sulle monete riformate? </it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_AMULETS_AND_CHARMS</zType>
-    <en-US>{CHARACTER-1} has crafted an amulet which {G1:he:she} claims is imbued with {S0.PAGANGOD}'s protection. "You may be able to afford the best doctors and healers, but the help of the gods is always valuable."</en-US>
-    <it-IT>{CHARACTER-1} ha realizzato un amuleto che {G1:he:she} sostiene essere impregnato della protezione di {S0.PAGANGOD}. "Potete anche permettervi i migliori medici e guaritori, ma l'aiuto degli dei è sempre prezioso".</it-IT>
+    <en-US>{CHARACTER-1} has crafted an amulet which {G1:he:she} claims is imbued with {S0.PAGANGOD}'s protection. &quot;You may be able to afford the best doctors and healers, but the help of the gods is always valuable.&quot;</en-US>
+    <it-IT>{CHARACTER-1} ha realizzato un amuleto che {G1:he:she} sostiene essere impregnato della protezione di {S0.PAGANGOD}. &quot;Potete anche permettervi i migliori medici e guaritori, ma l'aiuto degli dei è sempre prezioso&quot;.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_HUMILITY_OF_THE_WISE</zType>
-    <en-US>You are approached by a {TRIBE-1,1} traveler, {CHARACTER-2}, a {G2:prince:princess} of {G2:his:her} people renown for journeying to different lands to gain wisdom. Bowing before you, the noble speaks, "I have traveled here from afar to make you my friend. Allow me into your court and I will stay for a few years before returning to my people." 
+    <en-US>You are approached by a {TRIBE-1,1} traveler, {CHARACTER-2}, a {G2:prince:princess} of {G2:his:her} people renown for journeying to different lands to gain wisdom. Bowing before you, the noble speaks, &quot;I have traveled here from afar to make you my friend. Allow me into your court and I will stay for a few years before returning to my people.&quot; 
 Will you accept this visitor from another land?</en-US>
-    <it-IT>Sei stato avvicinato da un {TRIBE-1,1} viaggiatore, {CHARACTER-2}, un {G2:prince:princess} di {G2:his:her} popolo noto per aver viaggiato in terre diverse per acquisire saggezza. Inchinandosi davanti a voi, il nobile dice: "Ho viaggiato qui da lontano per farvi diventare mio amico. Permettetemi di entrare nella vostra corte e resterò per qualche anno prima di tornare al mio popolo". 
+    <it-IT>Sei stato avvicinato da un {TRIBE-1,1} viaggiatore, {CHARACTER-2}, un {G2:prince:princess} di {G2:his:her} popolo noto per aver viaggiato in terre diverse per acquisire saggezza. Inchinandosi davanti a voi, il nobile dice: &quot;Ho viaggiato qui da lontano per farvi diventare mio amico. Permettetemi di entrare nella vostra corte e resterò per qualche anno prima di tornare al mio popolo&quot;. 
 Accetterete questo visitatore proveniente da un'altra terra?</it-IT>
   </Entry>
   <Entry>
@@ -1011,7 +1011,7 @@ Il filosofo è accusato di empietà, ma ha chiesto il vostro intervento in tribu
 A possible solution has appeared. The theologians are now re-categorizing the immortals, inspired by the demons of {RELIGION-1}, beings that are immortal, but not true divinity. Not all agree with this relegation. The cult of these 'angelic' beings has spread to {CITY-2}, further dividing opinions on the structure of the divine order and the role of these former gods.
 At a loss, the {S0.PRIEST,2} look to you for guidance.</en-US>
     <it-IT>La diffusione di {RELIGION-0} ha gettato nel caos l'equilibrio divino, poiché l'implicazione di un unico Dio sostituisce il ruolo delle moltitudini di esseri divini.
-È apparsa una possibile soluzione. I teologi stanno ora ricategorizzando gli immortali, ispirati ai demoni di {RELIGION-1}, esseri immortali, ma non vere divinità. Non tutti sono d'accordo con questa retrocessione. Il culto di questi esseri "angelici" si è diffuso in {CITY-2}, dividendo ulteriormente le opinioni sulla struttura dell'ordine divino e sul ruolo di questi ex-dei.
+È apparsa una possibile soluzione. I teologi stanno ora ricategorizzando gli immortali, ispirati ai demoni di {RELIGION-1}, esseri immortali, ma non vere divinità. Non tutti sono d'accordo con questa retrocessione. Il culto di questi esseri &quot;angelici&quot; si è diffuso in {CITY-2}, dividendo ulteriormente le opinioni sulla struttura dell'ordine divino e sul ruolo di questi ex-dei.
 Non sapendo cosa fare, i {S0.PRIEST,2} si rivolgono a voi per avere una guida.</it-IT>
   </Entry>
   <Entry>
@@ -1040,9 +1040,9 @@ I tutor pensano che questa struttura possa aiutare il conteggio e la memoria di 
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_CHRISTIAN_APOLOGISTS</zType>
-    <en-US>The {FAMILY-2,1} are furious that the foreign religion of {RELIGION-1} has spread to {CITY-0}. {CHARACTER-3} makes {G3:his:her} case before your court asking for the converts to be banished from the city, "These cannibals eat the body of their god at gatherings and partake in incest, they are all brothers and sisters!"
+    <en-US>The {FAMILY-2,1} are furious that the foreign religion of {RELIGION-1} has spread to {CITY-0}. {CHARACTER-3} makes {G3:his:her} case before your court asking for the converts to be banished from the city, &quot;These cannibals eat the body of their god at gatherings and partake in incest, they are all brothers and sisters!&quot;
 The {RELIGION-1,1} writers have replied with essays on the nature of their religion, arguing that they are greatly misunderstood. Will you give the faith a chance?</en-US>
-    <it-IT>I {FAMILY-2,1} sono furiosi perché la religione straniera di {RELIGION-1} si è diffusa a {CITY-0}. {CHARACTER-3} presenta il caso {G3:his:her} davanti al vostro tribunale chiedendo che i convertiti siano banditi dalla città: "Questi cannibali mangiano il corpo del loro dio durante le riunioni e partecipano all'incesto, sono tutti fratelli e sorelle!".
+    <it-IT>I {FAMILY-2,1} sono furiosi perché la religione straniera di {RELIGION-1} si è diffusa a {CITY-0}. {CHARACTER-3} presenta il caso {G3:his:her} davanti al vostro tribunale chiedendo che i convertiti siano banditi dalla città: &quot;Questi cannibali mangiano il corpo del loro dio durante le riunioni e partecipano all'incesto, sono tutti fratelli e sorelle!&quot;.
 Gli scrittori di {RELIGION-1,1} hanno risposto con saggi sulla natura della loro religione, sostenendo che sono molto fraintesi. Darete una possibilità a questa fede?</it-IT>
   </Entry>
   <Entry>
@@ -1075,9 +1075,9 @@ Confuterai questa affermazione?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_A_WORLD_MADE_SMALL</zType>
-    <en-US>{p.is_sub.S0=SUBJECT_ARTIST:"An uncanny likeness!":"Is this supposed to be me?"} You lean in to take a closer look at the {p.is_sub.S0=SUBJECT_ARTIST:expertly crafted:crude} figure. Luckily, as an engineer {CHARACTER-0} is {p.is_sub.S0=SUBJECT_ARTIST:even:much} more skilled at designing buildings, various models of which are scattered around the room. In the center is the one that {G0:he:she} brought you here to show. It is a grand structure of stone curving in ways you have never seen. 
+    <en-US>{p.is_sub.S0=SUBJECT_ARTIST:&quot;An uncanny likeness!&quot;:&quot;Is this supposed to be me?&quot;} You lean in to take a closer look at the {p.is_sub.S0=SUBJECT_ARTIST:expertly crafted:crude} figure. Luckily, as an engineer {CHARACTER-0} is {p.is_sub.S0=SUBJECT_ARTIST:even:much} more skilled at designing buildings, various models of which are scattered around the room. In the center is the one that {G0:he:she} brought you here to show. It is a grand structure of stone curving in ways you have never seen. 
 Even this miniature version takes your breath away. {CHARACTER-SHORT-0} says that {G0:his:her} vision is for a grand palace to {S1.GOD}. Will you support the vision?</en-US>
-    <it-IT>{p.is_sub.S0=SUBJECT_ARTIST:"An uncanny likeness!":"Is this supposed to be me?"} Ci si china per dare un'occhiata più da vicino alla figura di {p.is_sub.S0=SUBJECT_ARTIST:expertly crafted:crude}. Fortunatamente, come ingegnere {CHARACTER-0} è {p.is_sub.S0=SUBJECT_ARTIST:even:much} più abile nel progettare edifici, i cui vari modelli sono sparsi per la stanza. Al centro c'è quello che {G0:he:she} vi ha portato qui per mostrarvi. È una grandiosa struttura di pietra che si incurva in modi che non avete mai visto. 
+    <it-IT>{p.is_sub.S0=SUBJECT_ARTIST:&quot;An uncanny likeness!&quot;:&quot;Is this supposed to be me?&quot;} Ci si china per dare un'occhiata più da vicino alla figura di {p.is_sub.S0=SUBJECT_ARTIST:expertly crafted:crude}. Fortunatamente, come ingegnere {CHARACTER-0} è {p.is_sub.S0=SUBJECT_ARTIST:even:much} più abile nel progettare edifici, i cui vari modelli sono sparsi per la stanza. Al centro c'è quello che {G0:he:she} vi ha portato qui per mostrarvi. È una grandiosa struttura di pietra che si incurva in modi che non avete mai visto. 
 Anche questa versione in miniatura lascia senza fiato. {CHARACTER-SHORT-0} dice che la visione di {G0:his:her} è quella di un grande palazzo per {S1.GOD}. Sosterrete la visione?</it-IT>
   </Entry>
   <Entry>
@@ -1151,17 +1151,17 @@ Leggendo le viscere degli uccelli, alla fine dichiarano che il tuo governo vedr�
   <Entry>
     <zType>TEXT_EVENTSTORY_DELAYED_BY_THE_DIVINE</zType>
     <en-US>The reply from {CHARACTER-0} is swift, carried by an entourage of diplomats. 
-"We regret that {PLAYER-0} is unable to go to war with {PLAYER-1}, we have been instructed by {S2.GOD} to wait. If the war is still ongoing, we will join you then."
+&quot;We regret that {PLAYER-0} is unable to go to war with {PLAYER-1}, we have been instructed by {S2.GOD} to wait. If the war is still ongoing, we will join you then.&quot;
 What is your response?</en-US>
     <it-IT>La risposta di {CHARACTER-0} è rapida, portata da un entourage di diplomatici. 
-"Ci dispiace che {PLAYER-0} non sia in grado di entrare in guerra con {PLAYER-1}, abbiamo ricevuto istruzioni da {S2.GOD} di aspettare. Se la guerra sarà ancora in corso, ci uniremo a voi".
+&quot;Ci dispiace che {PLAYER-0} non sia in grado di entrare in guerra con {PLAYER-1}, abbiamo ricevuto istruzioni da {S2.GOD} di aspettare. Se la guerra sarà ancora in corso, ci uniremo a voi&quot;.
 Qual è la vostra risposta?</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_FOR_YOUR_FAITH</zType>
-    <en-US>The messengers from {CHARACTER-0} thunder into the hall. "{PLAYER-0} stands ready and able if you will still accept our weapons. As an apology for the delay, {TITLE-0} {CHARACTER-SHORT-0} has sent two of our forces of chariots for you to command."
+    <en-US>The messengers from {CHARACTER-0} thunder into the hall. &quot;{PLAYER-0} stands ready and able if you will still accept our weapons. As an apology for the delay, {TITLE-0} {CHARACTER-SHORT-0} has sent two of our forces of chariots for you to command.&quot;
 Their religious practices over, shall {PLAYER-0} join the fight against {PLAYER-1}?</en-US>
-    <it-IT>I messaggeri di {CHARACTER-0} entrano nella sala. "Il {PLAYER-0} è pronto e in grado di accettare le nostre armi. Per scusarsi del ritardo, {TITLE-0} {CHARACTER-SHORT-0} ha inviato due delle nostre forze di carri perché tu le comandi".
+    <it-IT>I messaggeri di {CHARACTER-0} entrano nella sala. &quot;Il {PLAYER-0} è pronto e in grado di accettare le nostre armi. Per scusarsi del ritardo, {TITLE-0} {CHARACTER-SHORT-0} ha inviato due delle nostre forze di carri perché tu le comandi&quot;.
 Le loro pratiche religiose sono terminate, {PLAYER-0} si unirà alla lotta contro {PLAYER-1}?</it-IT>
   </Entry>
   <Entry>
@@ -1278,9 +1278,9 @@ Il vostro solerte ambasciatore ha fatto ciò che {G1:he:she} poteva, ma ci sono 
   <Entry>
     <zType>TEXT_EVENTSTORY_WHERE_AN_OAR_HAS_NO_NAME</zType>
     <en-US>Sitting by the side of the road is a traveler, only a few straps remaining on his well-worn sandals. But the attention of your {UNIT-0,2} is on the wooden pole resting beside the threadbare man. Thicker than a spear and twice as long, the wood flattens out at one end rather than carrying the usual metal point.
-"Friends, can you tell me what this is?" he asks. When they say they cannot, the weary traveler lets out a deep sigh of relief and pain. "Then I can finally rest. The gods have decreed that this is where I must settle!"</en-US>
+&quot;Friends, can you tell me what this is?&quot; he asks. When they say they cannot, the weary traveler lets out a deep sigh of relief and pain. &quot;Then I can finally rest. The gods have decreed that this is where I must settle!&quot;</en-US>
     <it-IT>Seduto sul ciglio della strada c'è un viaggiatore, a cui sono rimasti solo pochi lacci dei suoi sandali ben consumati. Ma l'attenzione del vostro {UNIT-0,2} si concentra sul palo di legno che riposa accanto all'uomo malandato. Più spesso di una lancia e lungo il doppio, il legno si appiattisce a un'estremità invece di portare la solita punta metallica.
-"Amici, sapete dirmi cos'è questo?", chiede. Quando gli rispondono di no, il viaggiatore stanco emette un profondo sospiro di sollievo e di dolore. "Allora potrò finalmente riposare. Gli dei hanno decretato che è qui che devo stabilirmi!".</it-IT>
+&quot;Amici, sapete dirmi cos'è questo?&quot;, chiede. Quando gli rispondono di no, il viaggiatore stanco emette un profondo sospiro di sollievo e di dolore. &quot;Allora potrò finalmente riposare. Gli dei hanno decretato che è qui che devo stabilirmi!&quot;.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THE_SEER_AND_THE_ARMY</zType>
@@ -1320,7 +1320,7 @@ Come farete a placare queste anime disturbate?</it-IT>
   <Entry>
     <zType>TEXT_EVENTSTORY_OTHER_WORLD</zType>
     <en-US>{CHARACTER-1} has arrived at your court with a cohort of {TRIBE-0,1} vates, bards and druids. Your court are wary of the influence of these strange people but there could be much to learn from their ways and tales of the 'other world'.</en-US>
-    <it-IT>{CHARACTER-1} è arrivato alla vostra corte con una schiera di {TRIBE-0,1} vate, bardi e druidi. La vostra corte è diffidente nei confronti dell'influenza di queste strane persone, ma potrebbe esserci molto da imparare dai loro modi e dai loro racconti dell'"altro mondo".</it-IT>
+    <it-IT>{CHARACTER-1} è arrivato alla vostra corte con una schiera di {TRIBE-0,1} vate, bardi e druidi. La vostra corte è diffidente nei confronti dell'influenza di queste strane persone, ma potrebbe esserci molto da imparare dai loro modi e dai loro racconti dell'&quot;altro mondo&quot;.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_DISTURBED_REST</zType>
@@ -1427,9 +1427,9 @@ Sebbene siano incentrati sulla religione, questi collegi sono un importante punt
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_BE_VICTORIOUS_IN_THIS</zType>
-    <en-US>{CHARACTER-0} has led {G0:his:her} troops to a resounding victory over the {PLAYER-1,1} forces. The General claims to have been granted a vision on the way to the fight, in which a flaming cross appeared in the sky, with the words "Through this sign will you conquer."
+    <en-US>{CHARACTER-0} has led {G0:his:her} troops to a resounding victory over the {PLAYER-1,1} forces. The General claims to have been granted a vision on the way to the fight, in which a flaming cross appeared in the sky, with the words &quot;Through this sign will you conquer.&quot;
 Under {CHARACTER-POSS-0} instructions, {G0:his:her} {UNIT-2,2} daubed the symbol on their shields and armor before the battle. News of this divine victory is quickly spreading through {PLAYER-0}.</en-US>
-    <it-IT>{CHARACTER-0} ha condotto le truppe di {G0:his:her} a una clamorosa vittoria sulle forze di {PLAYER-1,1}. Il Generale afferma di aver avuto una visione mentre si recava a combattere, in cui una croce fiammeggiante è apparsa nel cielo, con le parole "Con questo segno conquisterai".
+    <it-IT>{CHARACTER-0} ha condotto le truppe di {G0:his:her} a una clamorosa vittoria sulle forze di {PLAYER-1,1}. Il Generale afferma di aver avuto una visione mentre si recava a combattere, in cui una croce fiammeggiante è apparsa nel cielo, con le parole &quot;Con questo segno conquisterai&quot;.
 Su istruzioni di {CHARACTER-POSS-0}, {G0:his:her} {UNIT-2,2} hanno imbrattato il simbolo sui loro scudi e sulle loro armature prima della battaglia. La notizia di questa vittoria divina si sta rapidamente diffondendo in {PLAYER-0}.</it-IT>
   </Entry>
   <Entry>
@@ -1682,9 +1682,9 @@ Sarebbe facile accusare {CHARACTER-SHORT-0} dello stesso crimine, usando la loro
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_OPEN_DISSENT</zType>
-    <en-US>You, along with the rest of {CITY-2}, have been made aware of {CHARACTER-POSS-0} radical ideas after {G0:he:she} took to the steps of the palace to give a speech on the "true" meaning of the {S1.HOLYTEXT}. 
+    <en-US>You, along with the rest of {CITY-2}, have been made aware of {CHARACTER-POSS-0} radical ideas after {G0:he:she} took to the steps of the palace to give a speech on the &quot;true&quot; meaning of the {S1.HOLYTEXT}. 
 After the sermon, {CHARACTER-SHORT-0} reveals that {G0:he:she} has joined a small radical sect of {RELIGION-1}. Your advisors warn that the sect has some rather extreme beliefs about the use of violence to bring about the will of {S1.GOD}.</en-US>
-    <it-IT>Voi, insieme al resto di {CITY-2}, siete venuti a conoscenza delle idee radicali di {CHARACTER-POSS-0} dopo che {G0:he:she} è salito sui gradini del palazzo per tenere un discorso sul "vero" significato del {S1.HOLYTEXT}. 
+    <it-IT>Voi, insieme al resto di {CITY-2}, siete venuti a conoscenza delle idee radicali di {CHARACTER-POSS-0} dopo che {G0:he:she} è salito sui gradini del palazzo per tenere un discorso sul &quot;vero&quot; significato del {S1.HOLYTEXT}. 
 Dopo il sermone, {CHARACTER-SHORT-0} rivela che {G0:he:she} si è unito a una piccola setta radicale di {RELIGION-1}. I vostri consiglieri avvertono che la setta ha delle convinzioni piuttosto estreme sull'uso della violenza per realizzare la volontà di {S1.GOD}.</it-IT>
   </Entry>
   <Entry>
@@ -1711,9 +1711,9 @@ Ma {CHARACTER-3} ha notato che per un giorno alla settimana non ci sono attacchi
   <Entry>
     <zType>TEXT_EVENTSTORY_MIRACLE_WORKER</zType>
     <en-US>The gathered crowd fall into a reverent hush as {CHARACTER-0} steps into the hall. There have been rumors of the {TITLE-0} performing miracles through the power of {S2.GOD} such as levitation and changing elements. 
-Although {CHARACTER-SHORT-0} refuses to perform such acts on demand, {CHARACTER-1} is utterly convinced and promises to follow {RELIGION-2}. {G1:He:She} turns to you, "Are {CHARACTER-POSS-0} acts not a sign of {S2.GOD}'s unending power?"</en-US>
+Although {CHARACTER-SHORT-0} refuses to perform such acts on demand, {CHARACTER-1} is utterly convinced and promises to follow {RELIGION-2}. {G1:He:She} turns to you, &quot;Are {CHARACTER-POSS-0} acts not a sign of {S2.GOD}'s unending power?&quot;</en-US>
     <it-IT>La folla riunita cade in un silenzio riverente quando {CHARACTER-0} entra nella sala. Si dice che {TITLE-0} compia miracoli grazie al potere di {S2.GOD}, come la levitazione e il cambiamento degli elementi. 
-Sebbene {CHARACTER-SHORT-0} si rifiuti di compiere tali atti su richiesta, {CHARACTER-1} è assolutamente convinto e promette di seguire {RELIGION-2}. {G1:Lui:Lei} si rivolge a te: "Gli atti di {CHARACTER-POSS-0} non sono forse un segno del potere infinito di {S2.GOD}?".</it-IT>
+Sebbene {CHARACTER-SHORT-0} si rifiuti di compiere tali atti su richiesta, {CHARACTER-1} è assolutamente convinto e promette di seguire {RELIGION-2}. {G1:Lui:Lei} si rivolge a te: &quot;Gli atti di {CHARACTER-POSS-0} non sono forse un segno del potere infinito di {S2.GOD}?&quot;.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_ENDEARED_TO_THE_FAITH</zType>
@@ -1847,9 +1847,9 @@ Le storie della Statua di {S0.PAGANGOD} si diffondono presto in tutta {PLAYER-3}
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_THEIR_DEATHLESS_GAZE</zType>
-    <en-US>The evening passes by in amiable conversation before the topic of the {FAMILY-1} dinner turns to the nature of law. {CHARACTER-1} gives a long and impassioned speech on how the gods are the judges of us all and so the ultimate source of law. “But then we are all lost causes!" {CHARACTER-SHORT-0} quips, "The gods judge that it is evil to die, or else they would do so themselves.”
+    <en-US>The evening passes by in amiable conversation before the topic of the {FAMILY-1} dinner turns to the nature of law. {CHARACTER-1} gives a long and impassioned speech on how the gods are the judges of us all and so the ultimate source of law. “But then we are all lost causes!&quot; {CHARACTER-SHORT-0} quips, &quot;The gods judge that it is evil to die, or else they would do so themselves.”
 {CHARACTER-SHORT-1} opens {G1:his:her} mouth to retort, before rethinking and retreating to stare contemplatively into {G1:his:her} wine, silent in the way that only those whose world-view has just been irrevocably shaken are. </en-US>
-    <it-IT>La serata trascorre in un'amabile conversazione prima che l'argomento della cena di {FAMILY-1} passi alla natura della legge. {CHARACTER-1} fa un lungo e appassionato discorso su come gli dei siano i giudici di tutti noi e quindi la fonte ultima della legge. "Ma allora siamo tutti cause perse!". {CHARACTER-SHORT-0} ribatte: "Gli dei giudicano che è male morire, altrimenti lo farebbero loro stessi".
+    <it-IT>La serata trascorre in un'amabile conversazione prima che l'argomento della cena di {FAMILY-1} passi alla natura della legge. {CHARACTER-1} fa un lungo e appassionato discorso su come gli dei siano i giudici di tutti noi e quindi la fonte ultima della legge. &quot;Ma allora siamo tutti cause perse!&quot;. {CHARACTER-SHORT-0} ribatte: &quot;Gli dei giudicano che è male morire, altrimenti lo farebbero loro stessi&quot;.
 {CHARACTER-SHORT-1} apre la bocca di {G1:his:her} per replicare, prima di ripensarci e ritirarsi a fissare contemplativamente il vino di {G1:his:her}, in silenzio come solo coloro la cui visione del mondo è appena stata irrimediabilmente scossa. </it-IT>
   </Entry>
   <Entry>
@@ -2106,7 +2106,7 @@ Poiché le scorte sono limitate, la famiglia {FAMILY-0} vi chiede di usare la vo
   <Entry>
     <zType>TEXT_EVENTSTORY_FRAGMENTS_OF_HER</zType>
     <en-US>You are shocked to hear that a vast collection of {CHARACTER-POSS-0} earlier poems have been destroyed under the careless mismanagement of your scribes. However, when presented with the burned remains the poet seems unaffected by the loss, instead marveling at the beauty in the fragments. “Each alone, adrift. But drawn to each other.” She speaks, to no one but herself.</en-US>
-    <it-IT>Siete sconvolti dalla notizia che una vasta collezione di poesie precedenti {CHARACTER-POSS-0} è andata distrutta a causa della cattiva gestione dei vostri scrivani. Tuttavia, quando gli vengono presentati i resti bruciati, il poeta non sembra colpito dalla perdita, ma si meraviglia della bellezza dei frammenti. "Ognuno è solo, alla deriva. Ma attratti l'uno dall'altro". Parla, a nessun altro che a se stessa.</it-IT>
+    <it-IT>Siete sconvolti dalla notizia che una vasta collezione di poesie precedenti {CHARACTER-POSS-0} è andata distrutta a causa della cattiva gestione dei vostri scrivani. Tuttavia, quando gli vengono presentati i resti bruciati, il poeta non sembra colpito dalla perdita, ma si meraviglia della bellezza dei frammenti. &quot;Ognuno è solo, alla deriva. Ma attratti l'uno dall'altro&quot;. Parla, a nessun altro che a se stessa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_STEALING_TALENT</zType>
@@ -2281,10 +2281,10 @@ Sebbene i piani di {CHARACTER-SHORT-POSS-0} non siano stati portati a termine, i
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_KING_FOR_A_DAY</zType>
-    <en-US>"The omens are dire, my {TITLE-0}." {CHARACTER-2} stands before you with an entourage of scholars and scribes. The {TITLE-1} has been paying close attention to the signs sent by the gods and is particularly worried about a recent eclipse that darkened the kingdom, indicating that a powerful {TITLE-0} would soon die. 
+    <en-US>&quot;The omens are dire, my {TITLE-0}.&quot; {CHARACTER-2} stands before you with an entourage of scholars and scribes. The {TITLE-1} has been paying close attention to the signs sent by the gods and is particularly worried about a recent eclipse that darkened the kingdom, indicating that a powerful {TITLE-0} would soon die. 
 {CHARACTER-SHORT-2} recommends that the ritual of substitution be performed to protect your life. A substitute will be found to nominally rule for one hundred days, after which {G0:he:she} will be killed. 
 To ensure the omens fully transfer onto this scapegoat, it is necessary that you enter hiding for the time. Will you hide away to save your life? </en-US>
-    <it-IT>"I presagi sono funesti, mio {TITLE-0}". Il {CHARACTER-2} è davanti a voi con un seguito di studiosi e scribi. Il {TITLE-1} ha prestato molta attenzione ai segni inviati dagli dei ed è particolarmente preoccupato per una recente eclissi che ha oscurato il regno, indicando che un potente {TITLE-0} sarebbe morto presto. 
+    <it-IT>&quot;I presagi sono funesti, mio {TITLE-0}&quot;. Il {CHARACTER-2} è davanti a voi con un seguito di studiosi e scribi. Il {TITLE-1} ha prestato molta attenzione ai segni inviati dagli dei ed è particolarmente preoccupato per una recente eclissi che ha oscurato il regno, indicando che un potente {TITLE-0} sarebbe morto presto. 
 {CHARACTER-SHORT-2} raccomanda di eseguire il rituale di sostituzione per proteggere la vostra vita. Verrà trovato un sostituto che regnerà nominalmente per cento giorni, dopodiché {G0:he:she} verrà ucciso. 
 Per garantire che i presagi si trasferiscano completamente su questo capro espiatorio, è necessario che vi nascondiate per il tempo necessario. Vi nasconderete per salvarvi la vita? </it-IT>
   </Entry>
@@ -2344,9 +2344,9 @@ I responsabili sono stati catturati e attendono il vostro giudizio.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_COUNTING_OF_THE_OMER</zType>
-    <en-US>"Blessed are You, Lord our God, King of the Universe, Who has sanctified us with His commandments and commanded us to count the Omer."
+    <en-US>&quot;Blessed are You, Lord our God, King of the Universe, Who has sanctified us with His commandments and commanded us to count the Omer.&quot;
 The blessing drifts through the night air as the omer, sheafs of grains, are brought into {CITY-1}. The time between festivals is counted each day in preparation of the festival of receiving the Torah.  </en-US>
-    <it-IT>"Benedetto sei tu, Signore nostro Dio, Re dell'Universo, che ci hai santificato con i suoi comandamenti e ci hai ordinato di contare l'Omer".
+    <it-IT>&quot;Benedetto sei tu, Signore nostro Dio, Re dell'Universo, che ci hai santificato con i suoi comandamenti e ci hai ordinato di contare l'Omer&quot;.
 La benedizione si diffonde nell'aria notturna mentre gli omer, i covoni di cereali, vengono portati in {CITY-1}. Il tempo che intercorre tra una festa e l'altra viene contato ogni giorno in preparazione della festa della ricezione della Torah.  </it-IT>
   </Entry>
   <Entry>
@@ -2452,9 +2452,9 @@ Il {CHARACTER-SHORT-0} si rivolge a voi chiedendo sostegno contro la minaccia. <
   </Entry>
   <Entry>
     <zType>TEXT_EVENTSTORY_CALLED_BY_THE_GODS</zType>
-    <en-US>The ruins are home to a god, long forgotten to any but the lone priest who tends to the fading shrine. "You have abandoned your birthright: the gift of perception." The priest croaks when brought before you, "The gods know the divine order of the world and it is theirs to judge. Would you argue with the earth? With the heavens?"
+    <en-US>The ruins are home to a god, long forgotten to any but the lone priest who tends to the fading shrine. &quot;You have abandoned your birthright: the gift of perception.&quot; The priest croaks when brought before you, &quot;The gods know the divine order of the world and it is theirs to judge. Would you argue with the earth? With the heavens?&quot;
 {CHARACTER-1} is taken with the words of the priest and asks the court to find wise men and women to divine the wills of the gods of your ancestors.</en-US>
-    <it-IT>Le rovine ospitano un dio, da tempo dimenticato da tutti tranne che dal solitario sacerdote che si occupa del santuario in rovina. "Hai abbandonato il tuo diritto di nascita: il dono della percezione". Il sacerdote gracchia quando viene portato al vostro cospetto: "Gli dei conoscono l'ordine divino del mondo e sono loro a giudicare. Vuoi discutere con la terra? Con i cieli?".
+    <it-IT>Le rovine ospitano un dio, da tempo dimenticato da tutti tranne che dal solitario sacerdote che si occupa del santuario in rovina. &quot;Hai abbandonato il tuo diritto di nascita: il dono della percezione&quot;. Il sacerdote gracchia quando viene portato al vostro cospetto: &quot;Gli dei conoscono l'ordine divino del mondo e sono loro a giudicare. Vuoi discutere con la terra? Con i cieli?&quot;.
 {CHARACTER-1} è colpito dalle parole del sacerdote e chiede alla corte di trovare uomini e donne saggi per divinare le volontà degli dei dei vostri antenati.</it-IT>
   </Entry>
   <Entry>

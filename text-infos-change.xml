@@ -2523,7 +2523,7 @@
     <it-IT>    Io sono Ciro il Grande, secondo del mio nome, Re dei Re e figlio del Re Cambise.
     Mio nonno, il re Astyages, dell'Impero di Medea, voleva farmi uccidere alla nascita. Invece, sono vissuto per conquistare il suo regno e farlo mio.
     Ho fondato il primo impero persiano. Sotto il mio governo, tutti gli Stati civilizzati sono liberi di adorare i propri dei. Ho sottomesso ogni nazione, senza eccezioni.
-    Il profeta Isaia si riferisce a me come Messia, chiamandomi "il Suo Unto". Sono l'unica figura non ebraica nella Bibbia a essere chiamata così.</it-IT>
+    Il profeta Isaia si riferisce a me come Messia, chiamandomi &quot;il Suo Unto&quot;. Sono l'unica figura non ebraica nella Bibbia a essere chiamata così.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_NATION_ROME_STORY</zType>
@@ -8299,7 +8299,7 @@ Per i Generali, la Disciplina aumenta la XP dell'Unità ogni anno.</it-IT>
   <Entry>
     <zType>TEXT_GOD_PAGAN</zType>
     <en-US>the Gods~the Gods~the Gods~the Gods'</en-US>
-    <it-IT>gli dei~gli Dei~gli dei~gli dei".</it-IT>
+    <it-IT>gli dei~gli Dei~gli dei~gli dei&quot;.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_LANGUAGE_DEFAULT</zType>
@@ -8868,7 +8868,7 @@ Fare clic sul pulsante verde INIZIA GIOCO per procedere.</it-IT>
   <Entry>
     <zType>TEXT_SCENARIO_BARBARIAN_DESC</zType>
     <en-US>Fight to survive as the only civilized Nation in a world filled with envious and distrustful Tribes.
-SETUP (click "Show Options" above)
+SETUP (click &quot;Show Options&quot; above)
 icon(bullet) Choose your Nation and Map.
 icon(bullet) Choose Tribal Organization and Uprising Time.
 icon(bullet) Higher game difficulty and tribal aggression levels increase the size of the Horde.
@@ -8889,7 +8889,7 @@ icon(bullet) Some family bonuses have been adjusted:
 VICTORY
 icon(bullet) To win, eliminate the Barbarian Horde.</en-US>
     <it-IT>Lotta per sopravvivere come unica nazione civilizzata in un mondo pieno di tribù invidiose e diffidenti.
-SETUP (click "Show Options" above)
+SETUP (click &quot;Show Options&quot; above)
 icon(bullet) Scegliere la Nazione e la Mappa.
 icon(bullet) Scegliere l'Organizzazione Tribale e il Tempo della Rivolta.
 icon(bullet) I livelli di difficoltà e di aggressività tribale più elevati aumentano le dimensioni dell'orda.

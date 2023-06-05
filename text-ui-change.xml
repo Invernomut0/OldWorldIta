@@ -32,8 +32,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_FAILED_LOAD_LOCKED_SAVE</zType>
-    <en-US>Failed to load save. Specified file is either invalid or was started with the "Locked Save" option enabled and the file has subsequently been modified</en-US>
-    <it-IT>Non è riuscito a caricare il salvataggio. Il file specificato non è valido oppure è stato avviato con l'opzione "Salvataggio bloccato" attivata e il file è stato successivamente modificato.</it-IT>
+    <en-US>Failed to load save. Specified file is either invalid or was started with the &quot;Locked Save&quot; option enabled and the file has subsequently been modified</en-US>
+    <it-IT>Non è riuscito a caricare il salvataggio. Il file specificato non è valido oppure è stato avviato con l'opzione &quot;Salvataggio bloccato&quot; attivata e il file è stato successivamente modificato.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_UI_REDRAW_TECH</zType>
@@ -3163,8 +3163,8 @@ Dimensioni valide: {2_min}x{2_min}-{3_max}x{3_max}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_MP_SETUP_INVALID_START_MAP</zType>
-    <en-US>"Premade Map" is selected, but no map file has been specified</en-US>
-    <it-IT>È stato selezionato "Mappa preconfezionata", ma non è stato specificato alcun file di mappa.</it-IT>
+    <en-US>&quot;Premade Map&quot; is selected, but no map file has been specified</en-US>
+    <it-IT>È stato selezionato &quot;Mappa preconfezionata&quot;, ma non è stato specificato alcun file di mappa.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_MP_SETUP_NO_HUMANS</zType>
@@ -5129,7 +5129,7 @@ Dimensioni valide: {2_min}x{2_min}-{3_max}x{3_max}</it-IT>
   <Entry>
     <zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_VERSION_NOTIFICATION2</zType>
     <en-US>icon(bullet) {0_modName} ({1}){br}</en-US>
-    <it-IT>icona(bullet) {0_modName} ({1}){br}</it-IT>
+    <it-IT>icon(bullet) {0_modName} ({1}){br}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_UI_MODS_PANEL_MOD_UPDATE_MODS_POPUP_TITLE</zType>
@@ -5178,8 +5178,8 @@ Dimensioni valide: {2_min}x{2_min}-{3_max}x{3_max}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_UI_MODS_PANEL_ERROR_RESERVED_MOD_NAME_POPUP_BODY</zType>
-    <en-US>The mod name "{0_modName}" is reserved for internal use only</en-US>
-    <it-IT>Il nome del mod "{0_modName}" è riservato all'uso interno.</it-IT>
+    <en-US>The mod name &quot;{0_modName}&quot; is reserved for internal use only</en-US>
+    <it-IT>Il nome del mod &quot;{0_modName}&quot; è riservato all'uso interno.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_UI_MODS_PANEL_UPDATING_MOD_PROFILE</zType>
@@ -5666,7 +5666,7 @@ Questa mod è stata creata in una versione diversa di Old World. L'uso di questa
   <Entry>
     <zType>TEXT_UI_LAPTOP_BATTERY_PERFORMANCE_WARNING</zType>
     <en-US>You are playing on a laptop that is running on battery. Depending on your computer's settings, it may limit performance to ensure longer battery life.
-On some laptops, these power saving features may result in very long waiting times between turns. If you encounter such issues, consider switching your laptop's power plan to a "Maximum Performance" setting or similar.</en-US>
+On some laptops, these power saving features may result in very long waiting times between turns. If you encounter such issues, consider switching your laptop's power plan to a &quot;Maximum Performance&quot; setting or similar.</en-US>
     <it-IT>Si sta giocando su un computer portatile che funziona a batteria. A seconda delle impostazioni del computer, le prestazioni potrebbero essere limitate per garantire una maggiore durata della batteria.
 </it-IT>
   </Entry>

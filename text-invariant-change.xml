@@ -3,71 +3,71 @@
   <Entry>
     <zType>TEXT_HELPTEXT_COMMA_DATA_TWO</zType>
     <en-US>{0},{1}</en-US>
-    <it-IT>None</it-IT>
+    <it-IT>{0},{1}</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK</zType>
     <en-US><![CDATA[<lt>link="{1_data}"<gt>{0_value}<lt>/link<gt>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<lt>link="{1_data}"<gt>{0_value}<lt>/link<gt>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_COLOR</zType>
     <en-US><![CDATA[<lt>color={1_hexcode}<gt>{0_value}<lt>/color<gt>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<lt>color={1_hexcode}<gt>{0_value}<lt>/color<gt>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_SIZE</zType>
     <en-US><![CDATA[<lt>size={0_size}%<gt>{1_value}<lt>/size<gt>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<lt>size={0_size}%<gt>{1_value}<lt>/size<gt>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_SIZE_AND_COLOR</zType>
     <en-US><![CDATA[<lt>size={0_size}%<gt><lt>color={1_hexcode}<gt>{2_value}<lt>/color<gt><lt>/size<gt>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<lt>size={0_size}%<gt><lt>color={1_hexcode}<gt>{2_value}<lt>/color<gt><lt>/size<gt>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_INLINE_ICON</zType>
     <en-US><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}"/<gt>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}"/<gt>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_INLINE_ICON_TINT</zType>
     <en-US><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}" tint<gt>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<lt>sprite="{0_sheetName}" name="{1_spriteName}" tint<gt>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_DEFAULT_INLINE_ICON</zType>
     <en-US><![CDATA[<lt>sprite name="{1_spriteName}"/<gt>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<lt>sprite name="{1_spriteName}"/<gt>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_DEFAULT_INLINE_ICON_TINT</zType>
     <en-US><![CDATA[<lt>sprite name="{1_spriteName}" tint<gt>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<lt>sprite name="{1_spriteName}" tint<gt>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TITLE</zType>
     <en-US><![CDATA[<style=H1>{0}</style>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<style=H1>{0}</style>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_SUBTITLE</zType>
     <en-US><![CDATA[<style=H2>{LIST}</style>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<style=H2>{LIST}</style>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_PARAGRAPH</zType>
     <en-US><![CDATA[<style=P>{0}</style>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<style=P>{0}</style>]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINE_TWO</zType>
     <en-US><![CDATA[{0}<size=200%>|</size>{1}]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[{0}<size=200%>|</size>{1}]]></it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_DIVIDER_LINE</zType>
     <en-US><![CDATA[<style=Line></style>]]></en-US>
-    <it-IT>None</it-IT>
+    <it-IT><![CDATA[<style=Line></style>]]></it-IT>
   </Entry>
 </Root>

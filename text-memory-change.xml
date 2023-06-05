@@ -3828,7 +3828,7 @@
   <Entry>
     <zType>TEXT_MEMORYFAMILY_IMPRESSED_BY_CHEF</zType>
     <en-US>Impressed by 'your' chef</en-US>
-    <it-IT>Impressionati dal "vostro" chef</it-IT>
+    <it-IT>Impressionati dal &quot;vostro&quot; chef</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_MEMORYFAMILY_PRAISED_CHEF</zType>
@@ -4943,7 +4943,7 @@
   <Entry>
     <zType>TEXT_MEMORYFAMILY_FAVORED_VASSAL_CEREMONY_COMPROMISE_FAMILY_OTHER</zType>
     <en-US>Favored other vassals</en-US>
-    <it-IT>None</it-IT>
+    <it-IT>Favored other vassals</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_MEMORFAMILYY_FAVORED_VASSAL_CEREMONY_NO</zType>

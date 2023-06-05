@@ -1012,8 +1012,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_BONUS_EVENTOPTION_TRAIT_FORBIDDEN_KNOWLEDGE_OPTION_3_CHARACTER</zType>
-    <en-US>"Disregarded" Tribal knowledge</en-US>
-    <it-IT>"Conoscenze tribali "ignorate</it-IT>
+    <en-US>&quot;Disregarded&quot; Tribal knowledge</en-US>
+    <it-IT>&quot;Conoscenze tribali &quot;ignorate</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_BONUS_EVENTOPTION_RUINS_PROPHECY_OPTION_3_CHARACTER</zType>

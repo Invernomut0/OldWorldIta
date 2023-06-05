@@ -408,7 +408,7 @@
   <Entry>
     <zType>TEXT_HINT_82</zType>
     <en-US>You can verify that a City is connected to your link(CONCEPT_TRADE_NETWORK) by checking that the icon(CONNECTED) icon is displayed under its City banner.</en-US>
-    <it-IT>Si può verificare che una città sia collegata al proprio link(CONCEPT_TRADE_NETWORK) controllando che icon(CONNECTED) sia visualizzata sotto il banner della città.</it-IT>
+    <it-IT>Si può verificare che una città sia collegata al proprio link(CONCEPT_TRADE_NETWORK) controllando che l'icon(CONNECTED) sia visualizzata sotto il banner della città.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_83</zType>

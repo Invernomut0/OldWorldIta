@@ -998,12 +998,12 @@
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MIN_CULTURE</zType>
     <en-US>{0_city} has icon(GreaterThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</en-US>
-    <it-IT>{0_city} ha icon(GreaterThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</it-IT>
+    <it-IT>{0_city} ha l'icon(GreaterThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MAX_CULTURE</zType>
     <en-US>{0_city} has icon(LessThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</en-US>
-    <it-IT>{0_city} ha icon(LessThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</it-IT>
+    <it-IT>{0_city} ha l'icon(LessThan) {1_culture} link(CONCEPT_CULTURE_LEVEL)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_PROJECT</zType>
@@ -2149,8 +2149,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_STORY_DISABLE_TUTORIAL</zType>
-    <en-US>(You can disable tutorial events by unchecking "Tutorial" in Options.)</en-US>
-    <it-IT>(You can disable tutorial events by unchecking "Tutorial" in Options.)</it-IT>
+    <en-US>(You can disable tutorial events by unchecking &quot;Tutorial&quot; in Options.)</en-US>
+    <it-IT>(You can disable tutorial events by unchecking &quot;Tutorial&quot; in Options.)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_HEAL</zType>
@@ -2706,12 +2706,12 @@
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE</zType>
     <en-US>Removes the  icon(COOLDOWN_ATTACK)Attack Cooldown of Adjacent Units and gives {0_yield} for each one</en-US>
-    <it-IT>Rimuove icon(COOLDOWN_ATTACK)Attacco Cooldown delle Unità adiacenti e dà {0_yield} per ciascuna di esse.</it-IT>
+    <it-IT>Rimuove l'icon(COOLDOWN_ATTACK)Attacco Cooldown delle Unità adiacenti e dà {0_yield} per ciascuna di esse.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE_CONCEPT</zType>
     <en-US>Removes the  icon(COOLDOWN_ATTACK)Attack Cooldown of Adjacent Units and gives link(YIELD_ORDERS,1) for each</en-US>
-    <it-IT>Rimuove icon(COOLDOWN_ATTACK)Attacco Cooldown delle unità adiacenti e dà link(YIELD_ORDERS,1) per ogni unità che si trova in una zona di conflitto.</it-IT>
+    <it-IT>Rimuove l'icon(COOLDOWN_ATTACK)Attacco Cooldown delle unità adiacenti e dà link(YIELD_ORDERS,1) per ogni unità che si trova in una zona di conflitto.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE_NOT_YOUR_TURN</zType>
@@ -3093,7 +3093,7 @@ link(FAMILYCLASS_HUNTERS) want to keep their Units close to home, and their opin
     <it-IT>Welcome to DeepL Write! 
 Easily correct mistakes, rephrase sentences and improve your writing. Changes are highlighted in green on the right.
 See how it works:
-"This is a sentence full of grammar, spelling and punctuation mistakes."</it-IT>
+&quot;This is a sentence full of grammar, spelling and punctuation mistakes.&quot;</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_ONAGER</zType>
@@ -3128,8 +3128,8 @@ Se si muore senza un erede, la partita finisce!</it-IT>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_LEGITIMACY</zType>
     <en-US>Higher  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) grants you additional link(YIELD_ORDERS,1) and improves your standing with your link(CONCEPT_FAMILY,2). Keeping your  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) high is important for controlling a large Nation!
 icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) comes from achieving link(CONCEPT_AMBITION,2) and acquiring better link(CONCEPT_COGNOMEN,2) (such as link(COGNOMEN_GREAT)). There are also Events that can raise your  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</en-US>
-    <it-IT>Un'icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) più alta vi garantisce ulteriori link(YIELD_ORDERS,1) e migliora la vostra posizione con i vostri link(CONCEPT_FAMILY,2). Mantenere alta icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) è importante per controllare una grande Nazione!
-icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) deriva dal raggiungimento di link(CONCEPT_AMBITION,2) e dall'acquisizione di link(CONCEPT_COGNOMEN,2) migliori. (such as link(COGNOMEN_GREAT)). Ci sono anche eventi che possono aumentare la vostra icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</it-IT>
+    <it-IT>Un'icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) più alta vi garantisce ulteriori link(YIELD_ORDERS,1) e migliora la vostra posizione con i vostri link(CONCEPT_FAMILY,2). Mantenere alta l'icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) è importante per controllare una grande Nazione!
+L'icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) deriva dal raggiungimento di link(CONCEPT_AMBITION,2) e dall'acquisizione di link(CONCEPT_COGNOMEN,2) migliori. (such as link(COGNOMEN_GREAT)). Ci sono anche eventi che possono aumentare la vostra icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_INHERITANCE_LAWS</zType>
@@ -3151,7 +3151,7 @@ I primi quattro Eredi nella link(CONCEPT_SUCCESSION) sono membri della vostra li
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_AMBITION</zType>
     <en-US>link(CONCEPT_AMBITION,2) are goals that your link(CONCEPT_FAMILY,2) would like for you to pursue, and completing them will grant you, and all of your descendants, a permanent boost to  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).
 Completing an link(CONCEPT_AMBITION) unlocks a new one and completing ten is one way to win via link(VICTORY_AMBITION,1), so always do your best to fulfill your current link(CONCEPT_AMBITION,2).</en-US>
-    <it-IT>I link(CONCEPT_AMBITION,2) sono obiettivi che il vostro link(CONCEPT_FAMILY,2) vorrebbe che perseguiste, e completarli garantirà a voi, e a tutti i vostri discendenti, una spinta permanente alicon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).
+    <it-IT>I link(CONCEPT_AMBITION,2) sono obiettivi che il vostro link(CONCEPT_FAMILY,2) vorrebbe che perseguiste, e completarli garantirà a voi, e a tutti i vostri discendenti, una spinta permanente all'icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).
 Completare un link(CONCEPT_AMBITION) ne sblocca uno nuovo e completarne dieci è un modo per vincere un link(VICTORY_AMBITION,1), quindi fate sempre del vostro meglio per portare a termine il vostro link(CONCEPT_AMBITION,2) attuale.</it-IT>
   </Entry>
   <Entry>
@@ -3250,7 +3250,7 @@ Le carte Unità gratuite e Bonus non vengono mai riciclate e vengono invece scar
 Once cut down, link(VEGETATION_TREES) take some time to regrow. If you build an link(CONCEPT_IMPROVEMENT) on a link(VEGETATION_TREES) Tile, the link(YIELD_WOOD) is automatically harvested as the land is Cleared, all at the cost of three link(YIELD_ORDERS).
 Eventually, you can research the link(TECH_FORESTRY) Tech to enable the construction of link(IMPROVEMENT_LUMBERMILL,2), which are a more regular and sustainable source of link(YIELD_WOOD). However, they must be built on a link(VEGETATION_TREES) Tile, so don't Cut down all of your forests!
 You can also spend link(YIELD_MONEY,1) to purchase link(YIELD_WOOD,1) directly from the top bar where it shows your current stockpile totals.</en-US>
-    <it-IT>link(UNIT_WORKER,2) può spendere un link(YIELD_ORDERS,3) per abbattere link(VEGETATION_TREES) con il pulsante icon(REMOVE_TREES) nel pannello Azioni a sinistra, e altri due link(YIELD_ORDERS) per ripulire ulteriormente il terreno. Queste azioni raccolgono link(YIELD_WOOD,1) e lo aggiungono alla propria scorta. Non è necessario che la tessera in questione si trovi nel vostro territorio per poter tagliare il link(VEGETATION_TREES) con icon(REMOVE_TREES).
+    <it-IT>link(UNIT_WORKER,2) può spendere un link(YIELD_ORDERS,3) per abbattere link(VEGETATION_TREES) con il pulsante icon(REMOVE_TREES) nel pannello Azioni a sinistra, e altri due link(YIELD_ORDERS) per ripulire ulteriormente il terreno. Queste azioni raccolgono link(YIELD_WOOD,1) e lo aggiungono alla propria scorta. Non è necessario che la tessera in questione si trovi nel vostro territorio per poter tagliare il link(VEGETATION_TREES) con l'icon(REMOVE_TREES).
 Una volta abbattuti, i link(VEGETATION_TREES) impiegano un po' di tempo per ricrescere. Se si costruisce un link(CONCEPT_IMPROVEMENT) su una tessera link(VEGETATION_TREES) il link(YIELD_WOOD) viene automaticamente raccolto quando il terreno viene ripulito, il tutto al costo di tre link(YIELD_ORDERS).
 Alla fine, si può ricercare la link(TECH_FORESTRY) per consentire la costruzione di link(IMPROVEMENT_LUMBERMILL,2), che sono una fonte più regolare e sostenibile di link(YIELD_WOOD). Tuttavia, devono essere costruiti su una tessera link(VEGETATION_TREES) quindi non abbattete tutte le vostre foreste!
 È anche possibile spendere link(YIELD_MONEY,1) per acquistare link(YIELD_WOOD,1) direttamente dalla barra in alto che mostra il totale delle scorte attuali.</it-IT>
@@ -3283,7 +3283,7 @@ Il Paganesimo può essere adottato come link(CONCEPT_STATE_RELIGION) se si appli
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_RALLY_TROOPS</zType>
     <en-US>You can conduct a link(MISSION_RALLY_TROOPS) Mission by clicking the  icon(MISSION_RALLY_TROOPS)  button in the action panel on the left while your Leader is selected. link(MISSION_RALLY_TROOPS) Missions give you the chance to gain some link(YIELD_TRAINING,1), at the cost of a few link(YIELD_ORDERS,1) and some link(YIELD_CIVICS,1). They may also lead to follow up events.</en-US>
-    <it-IT>È possibile condurre una link(MISSION_RALLY_TROOPS) Cliccando sul pulsante con icon(MISSION_RALLY_TROOPS) nel pannello delle azioni a sinistra, mentre il Leader è selezionato. link(MISSION_RALLY_TROOPS) Le missioni danno la possibilità di guadagnare qualche link(YIELD_TRAINING,1), al costo di qualche link(YIELD_ORDERS,1) e qualche link(YIELD_CIVICS,1). Possono anche portare a eventi successivi.</it-IT>
+    <it-IT>È possibile condurre una link(MISSION_RALLY_TROOPS) Cliccando sul pulsante con l'icon(MISSION_RALLY_TROOPS) nel pannello delle azioni a sinistra, mentre il Leader è selezionato. link(MISSION_RALLY_TROOPS) Le missioni danno la possibilità di guadagnare qualche link(YIELD_TRAINING,1), al costo di qualche link(YIELD_ORDERS,1) e qualche link(YIELD_CIVICS,1). Possono anche portare a eventi successivi.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_HOLD_COURT</zType>
@@ -3352,7 +3352,7 @@ The link(TECH_FORESTRY) Tech enables the construction of link(IMPROVEMENT_LUMBER
 La fonte principale di link(YIELD_FOOD) è costituita dalle link(IMPROVEMENT_FARM,2), che sono più fruttuose accanto alle link(CONCEPT_FRESH_WATER) e sui link(TERRAIN_LUSH) terreni. Terreno. Il link(YIELD_FOOD) è necessario per alimentare il link(CONCEPT_POPULATION) e per produrre nuovo link(UNIT_SETTLER,2).
 La fonte primaria di link(YIELD_IRON) è costituita dai link(IMPROVEMENT_MINE,2), che sono più produttivi su link(RESOURCE_ORE) e link(HEIGHT_HILL,2). Il link(YIELD_IRON) è necessario per produrre molti tipi di Unità militari, tra cui il link(UNIT_WARRIOR,2) e il link(UNIT_AXEMAN,2).
 La fonte primaria di link(YIELD_STONE) è link(IMPROVEMENT_QUARRY,2), che sono più produttivi su link(RESOURCE_MARBLE), su link(TERRAIN_ARID) e quando sono adiacenti a link(HEIGHT_MOUNTAIN,2). Il link(YIELD_STONE) è necessario principalmente per costruire link(CONCEPT_IMPROVEMENT,2) come link(IMPROVEMENTCLASS_SHRINE,2) e Città link(CONCEPT_PROJECT,2) come link(PROJECT_WALLS).
-La tecnologia link(TECH_FORESTRY) permette di costruire link(IMPROVEMENT_LUMBERMILL,2) su link(VEGETATION_TREES) per produrre link(YIELD_WOOD). Il link(UNIT_WORKER,2) può anche ridurre il link(VEGETATION_TREES) con icon(REMOVE_TREES) nel pannello Azioni. link(YIELD_WOOD) è necessario per costruire Città link(CONCEPT_IMPROVEMENT,2) come link(IMPROVEMENT_BARRACKS), Unità militari come link(UNIT_ARCHER,2) e Unità link(UNITTRAIT_SHIP) come link(UNIT_BIREME,2). Unità come link(UNIT_BIREME,2).</it-IT>
+La tecnologia link(TECH_FORESTRY) permette di costruire link(IMPROVEMENT_LUMBERMILL,2) su link(VEGETATION_TREES) per produrre link(YIELD_WOOD). Il link(UNIT_WORKER,2) può anche ridurre il link(VEGETATION_TREES) con l'icon(REMOVE_TREES) nel pannello Azioni. link(YIELD_WOOD) è necessario per costruire Città link(CONCEPT_IMPROVEMENT,2) come link(IMPROVEMENT_BARRACKS), Unità militari come link(UNIT_ARCHER,2) e Unità link(UNITTRAIT_SHIP) come link(UNIT_BIREME,2). Unità come link(UNIT_BIREME,2).</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_URBAN_YIELDS</zType>
@@ -3444,7 +3444,7 @@ You can conduct an link(MISSION_IMPRISON) Mission by clicking the prison bars  i
     <en-US>A link(IMPROVEMENT_HAMLET) and its upgrades, link(IMPROVEMENT_VILLAGE) and link(IMPROVEMENT_TOWN), will produce extra {YIELD_MONEY}link(YIELD_MONEY) if brought into your link(CONCEPT_TRADE_NETWORK)! Bringing a City into your link(CONCEPT_TRADE_NETWORK) will reduce {YIELD_DISCONTENT}link(YIELD_DISCONTENT) there.
 The link(CONCEPT_TRADE_NETWORK) consists of all Tiles connected to your link(CONCEPT_CAPITAL) City. Cities and link(IMPROVEMENT_HAMLET,2) can be connected with one another via link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) Tiles, and even open water. You can connect a City to its link(IMPROVEMENT_HARBOR) with a link(CONCEPT_ROAD). You can check the link(CONCEPT_TRADE_NETWORK) overlay with the icon(MAP_OVERLAY_NETWORK) button below the mini-map, or the hotkey(HOTKEY_SHOW_TRADE_NETWORK) key, and verify that a City is link(EFFECTCITY_CONNECTED) to the link(CONCEPT_TRADE_NETWORK) by checking that the  icon(CONNECTED) icon is displayed under its City banner.</en-US>
     <it-IT>Un link(IMPROVEMENT_HAMLET) e i suoi potenziamenti, link(IMPROVEMENT_VILLAGE) e link(IMPROVEMENT_TOWN), produrranno {YIELD_MONEY}link(YIELD_MONEY) extra se portati nel vostro link(CONCEPT_TRADE_NETWORK)! Portare una Città nella propria link(CONCEPT_TRADE_NETWORK) ridurrà i {YIELD_DISCONTENT}link(YIELD_DISCONTENT) presenti.
-La link(CONCEPT_TRADE_NETWORK) consiste in tutte le tessere collegate alla vostra link(CONCEPT_CAPITAL) Città. Le città e le link(IMPROVEMENT_HAMLET,2) possono essere collegate tra loro tramite le Tessere link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) e persino le acque libere. È possibile collegare una città al suo link(IMPROVEMENT_HARBOR) con un link(CONCEPT_ROAD). È possibile controllare la sovrapposizione del link(CONCEPT_TRADE_NETWORK) con il pulsante icon(MAP_OVERLAY_NETWORK) sotto la mini-mappa o con il tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK) e verificare che una città sia link(EFFECTCITY_CONNECTED) al link(CONCEPT_TRADE_NETWORK) controllando che icon(CONNECTED) sia visualizzata sotto il banner della città.</it-IT>
+La link(CONCEPT_TRADE_NETWORK) consiste in tutte le tessere collegate alla vostra link(CONCEPT_CAPITAL) Città. Le città e le link(IMPROVEMENT_HAMLET,2) possono essere collegate tra loro tramite le Tessere link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), link(TERRAIN_URBAN) e persino le acque libere. È possibile collegare una città al suo link(IMPROVEMENT_HARBOR) con un link(CONCEPT_ROAD). È possibile controllare la sovrapposizione del link(CONCEPT_TRADE_NETWORK) con il pulsante icon(MAP_OVERLAY_NETWORK) sotto la mini-mappa o con il tasto di scelta rapida(HOTKEY_SHOW_TRADE_NETWORK) e verificare che una città sia link(EFFECTCITY_CONNECTED) al link(CONCEPT_TRADE_NETWORK) controllando che l'icon(CONNECTED) sia visualizzata sotto il banner della città.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TUTORIAL_HARVEST_RESOURCE</zType>
@@ -4056,7 +4056,7 @@ Higher Legitimacy improves link(CONCEPT_OPINION_FAMILY,1) and produces more link
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_COGNOMEN</zType>
     <en-US>A Cognomen is an acquired title that increases the  icon(YIELD_LEGITIMACY)Legitimacy of the Leader, such as link(COGNOMEN_INVINCIBLE), link(COGNOMEN_WISE), and link(COGNOMEN_GREAT). New Cognomens are acquired when the specific stats associated with that Cognomen cross the necessary threshold. For example, one becomes link(COGNOMEN_WISE) by discovering a great number of Technologies. (The threshold increases for each subsequent Leader of a link(CONCEPT_NATION).)</en-US>
-    <it-IT>Un Cognomen è un titolo acquisito che aumenta icon(YIELD_LEGITIMACY)Legittimità del Leader, come link(COGNOMEN_INVINCIBLE), link(COGNOMEN_WISE) e link(COGNOMEN_GREAT). I nuovi Cognomen vengono acquisiti quando le statistiche specifiche associate a quel Cognomen superano la soglia necessaria. Ad esempio, si diventa link(COGNOMEN_WISE) scoprendo un gran numero di Tecnologie. (The threshold increases for each subsequent Leader of a link(CONCEPT_NATION).)</it-IT>
+    <it-IT>Un Cognomen è un titolo acquisito che aumenta l'icon(YIELD_LEGITIMACY)Legittimità del Leader, come link(COGNOMEN_INVINCIBLE), link(COGNOMEN_WISE) e link(COGNOMEN_GREAT). I nuovi Cognomen vengono acquisiti quando le statistiche specifiche associate a quel Cognomen superano la soglia necessaria. Ad esempio, si diventa link(COGNOMEN_WISE) scoprendo un gran numero di Tecnologie. (The threshold increases for each subsequent Leader of a link(CONCEPT_NATION).)</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_COMMUNITY_SHORTHAND</zType>
@@ -4232,13 +4232,13 @@ Mercenaries have int(CONSUMPTION_MERCENARY_MODIFIER)% higher consumption costs a
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_ONE_CITY_CHALLENGE</zType>
-    <en-US>The One City Challenge (OCC for short) is a game mode in which Human players are limited to one City, their link(CONCEPT_CAPITAL). Human players are not able to build link(UNIT_SETTLER,2), found more than one City, or capture Cities from other link(CONCEPT_NATION,2) (Cities captured by Human players remain in anarchy). To play an OCC game, enable the "One City Challenge" toggle from the Advanced Setup menu when creating a new game.</en-US>
-    <it-IT>La Sfida di una città (OCC for short) è una modalità di gioco in cui i giocatori umani sono limitati a una sola città, la loro link(CONCEPT_CAPITAL). I giocatori umani non possono costruire link(UNIT_SETTLER,2), fondare più di una Città o catturare Città da altri link(CONCEPT_NATION,2). (Cities captured by Human players remain in anarchy). Per giocare una partita OCC, attivare la levetta "Sfida di una città" dal menu Impostazione avanzata quando si crea una nuova partita.</it-IT>
+    <en-US>The One City Challenge (OCC for short) is a game mode in which Human players are limited to one City, their link(CONCEPT_CAPITAL). Human players are not able to build link(UNIT_SETTLER,2), found more than one City, or capture Cities from other link(CONCEPT_NATION,2) (Cities captured by Human players remain in anarchy). To play an OCC game, enable the &quot;One City Challenge&quot; toggle from the Advanced Setup menu when creating a new game.</en-US>
+    <it-IT>La Sfida di una città (OCC for short) è una modalità di gioco in cui i giocatori umani sono limitati a una sola città, la loro link(CONCEPT_CAPITAL). I giocatori umani non possono costruire link(UNIT_SETTLER,2), fondare più di una Città o catturare Città da altri link(CONCEPT_NATION,2). (Cities captured by Human players remain in anarchy). Per giocare una partita OCC, attivare la levetta &quot;Sfida di una città&quot; dal menu Impostazione avanzata quando si crea una nuova partita.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_OPINION_FAMILY</zType>
     <en-US>link(CONCEPT_FAMILY) Opinion modifies the icon(ATTACKDEFENSE)Strength of their Units and the link(YIELD_CIVICS,1), link(YIELD_TRAINING,1), and link(YIELD_MAINTENANCE,1) of their Cities. Further, a negative Opinion can lead to link(TRIBE_REBELS) spawning near the link(CONCEPT_FAMILY) Cities.</en-US>
-    <it-IT>link(CONCEPT_FAMILY) L'Opinione modifica icon(ATTACKDEFENSE)Forza delle loro Unità e le link(YIELD_CIVICS,1), link(YIELD_TRAINING,1) e link(YIELD_MAINTENANCE,1) delle loro Città. Inoltre, un'opinione negativa può portare alla deposizione di link(TRIBE_REBELS) vicino alle città di link(CONCEPT_FAMILY). Città.</it-IT>
+    <it-IT>link(CONCEPT_FAMILY) L'Opinione modifica l'icon(ATTACKDEFENSE)Forza delle loro Unità e le link(YIELD_CIVICS,1), link(YIELD_TRAINING,1) e link(YIELD_MAINTENANCE,1) delle loro Città. Inoltre, un'opinione negativa può portare alla deposizione di link(TRIBE_REBELS) vicino alle città di link(CONCEPT_FAMILY). Città.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_OPINION_CHARACTER</zType>
@@ -9514,8 +9514,8 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CLOUD_AWAY_MESSAGE</zType>
-    <en-US>{0_player}: "{1_message}"</en-US>
-    <it-IT>{0_player}: "{1_message}"</it-IT>
+    <en-US>{0_player}: &quot;{1_message}&quot;</en-US>
+    <it-IT>{0_player}: &quot;{1_message}&quot;</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CLOUD_GAME_AWAY_MESSAGE</zType>
@@ -9529,8 +9529,8 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CLOUD_TO_NETWORK</zType>
-    <en-US>Host as a network game for quicker online play. After the network session is over and you still want to continue on the cloud, select the in-game option to "Play by Cloud" so that the state of this game is updated.</en-US>
-    <it-IT>Ospitare come gioco di rete per velocizzare il gioco online. Una volta terminata la sessione di rete e se si desidera continuare sulla nuvola, selezionare l'opzione di gioco "Gioca su nuvola" per aggiornare lo stato della partita.</it-IT>
+    <en-US>Host as a network game for quicker online play. After the network session is over and you still want to continue on the cloud, select the in-game option to &quot;Play by Cloud&quot; so that the state of this game is updated.</en-US>
+    <it-IT>Ospitare come gioco di rete per velocizzare il gioco online. Una volta terminata la sessione di rete e se si desidera continuare sulla nuvola, selezionare l'opzione di gioco &quot;Gioca su nuvola&quot; per aggiornare lo stato della partita.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_OBSERVER_SWITCH</zType>
@@ -9819,8 +9819,8 @@ Tenere premuto [{0_key}] per vedere le ZOC delle unità.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_OPTIONS_LOCKED_OPTION</zType>
-    <en-US>Cannot be toggled because "Lock Player Options" settings was enabled at game creation</en-US>
-    <it-IT>Non è possibile attivarlo perché l'impostazione "Blocca opzioni giocatore" è stata attivata alla creazione del gioco.</it-IT>
+    <en-US>Cannot be toggled because &quot;Lock Player Options&quot; settings was enabled at game creation</en-US>
+    <it-IT>Non è possibile attivarlo perché l'impostazione &quot;Blocca opzioni giocatore&quot; è stata attivata alla creazione del gioco.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_OPTIONS_BETA_TRANSLATIONS</zType>

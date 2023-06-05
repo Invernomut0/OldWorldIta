@@ -712,8 +712,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_PATH_TO_REDEMPTION_PLOT_ORATOR_HELP</zType>
-    <en-US>"{CHARACTER-3} has shown an unrepentant disregard for the tenets of {RELIGION-1}!"</en-US>
-    <it-IT>"{CHARACTER-3} ha mostrato un impenitente disprezzo per i principi di {RELIGION-1}!".</it-IT>
+    <en-US>&quot;{CHARACTER-3} has shown an unrepentant disregard for the tenets of {RELIGION-1}!&quot;</en-US>
+    <it-IT>&quot;{CHARACTER-3} ha mostrato un impenitente disprezzo per i principi di {RELIGION-1}!&quot;.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FINAL_INHERITANCE_YES</zType>
@@ -1663,7 +1663,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_CURSED_OPTION_1</zType>
     <en-US>Ignore the ‘curse’.</en-US>
-    <it-IT>Ignorare la "maledizione".</it-IT>
+    <it-IT>Ignorare la &quot;maledizione&quot;.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CURSED_OPTION_2</zType>
@@ -2953,7 +2953,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_PRAYING_FOR_SAFETY_OPTION_0</zType>
     <en-US>“May {S2.GOD} bring {CHARACTER-SHORT-0} home safely.”</en-US>
-    <it-IT>"Che {S2.GOD} porti {CHARACTER-SHORT-0} a casa sano e salvo".</it-IT>
+    <it-IT>&quot;Che {S2.GOD} porti {CHARACTER-SHORT-0} a casa sano e salvo&quot;.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PRAYING_FOR_SAFETY_OPTION_1</zType>
@@ -2983,7 +2983,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_WHERE_AN_OAR_HAS_NO_NAME_OPTION_1</zType>
     <en-US>Ask to learn more of this 'oar' and its uses.</en-US>
-    <it-IT>Chiedete di saperne di più su questo "remo" e sui suoi usi.</it-IT>
+    <it-IT>Chiedete di saperne di più su questo &quot;remo&quot; e sui suoi usi.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WHERE_AN_OAR_HAS_NO_NAME_OPTION_2</zType>
@@ -3178,7 +3178,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_CONFESSIONS_OPTION_1</zType>
     <en-US>You find yourself intrigued by the idea of a 'just war'.</en-US>
-    <it-IT>Vi trovate incuriositi dall'idea di una "guerra giusta".</it-IT>
+    <it-IT>Vi trovate incuriositi dall'idea di una &quot;guerra giusta&quot;.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_CONFESSIONS_OPTION_2</zType>
@@ -4298,7 +4298,7 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_DIVINE_INSPIRATION_OPTION_2_HELP</zType>
     <en-US>Maybe I shouldn't call my own work masterful.</en-US>
-    <it-IT>Forse non dovrei chiamare il mio lavoro "magistrale".</it-IT>
+    <it-IT>Forse non dovrei chiamare il mio lavoro &quot;magistrale&quot;.</it-IT>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DIVINE_INSPIRATION_OPTION_3</zType>
